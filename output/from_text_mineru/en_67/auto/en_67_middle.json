@@ -1,0 +1,1632 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        15,
+                        879,
+                        743
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                20,
+                                872,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        20,
+                                        872,
+                                        46
+                                    ],
+                                    "score": 0.975,
+                                    "content": "Israel:Mr.YoramDinstein;Japan:Mr.Masao Ito.COMMISSIONONTHESTATUSOFWOMENMrs.Marie-Hélene",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                853,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        853,
+                                        66
+                                    ],
+                                    "score": 0.982,
+                                    "content": "Lefaucheux(France).SPECIALIZEDAGENCIES InternationalLabourOrganisation(ILO):Mr.JoseL.Bustamante.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                64,
+                                810,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        64,
+                                        810,
+                                        84
+                                    ],
+                                    "score": 0.988,
+                                    "content": "UnitedNationsEducational,ScientificandCulturalOrganization(UNESCO):Mr.TorGjesdal,Mr.Ar-thur",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                83,
+                                801,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        83,
+                                        801,
+                                        104
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Gagliott,Mr.AsdrubalSalsamendi.NON-GOVERNMENTALORGANIZATIONSCATEGORYAInternational",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                104,
+                                836,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        104,
+                                        836,
+                                        124
+                                    ],
+                                    "score": 0.983,
+                                    "content": "ConfederationofFreeTradeUnions:Mr.MarvinA.Schlaf.WorldFederationofTradeUnions:Mr.PhilipM.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                121,
+                                830,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        121,
+                                        830,
+                                        147
+                                    ],
+                                    "score": 0.982,
+                                    "content": "Connelly.WorldFederationofUnitedNationsAssociations:Mr.H.Barrett-Brown,MrsOliverWeerasinghe.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                777,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        777,
+                                        165
+                                    ],
+                                    "score": 0.992,
+                                    "content": "WorldVeteransFederation:MissEmilyNichols,Mr.GisbertFlanz.CATEGORYBAgudasIsraelWorld",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                878,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        878,
+                                        186
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Organization:Mr.IsaacLewin.CatholicInternationalUnionforSocialService:Mrs.AlysD.Vergara.Commission",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                182,
+                                879,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        182,
+                                        879,
+                                        208
+                                    ],
+                                    "score": 0.98,
+                                    "content": "oftheChurcheson InternationalAffairs:Mr.A.DominiqueMicheli.ConsultativeCouncilofJewishOrganizations:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                805,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        805,
+                                        226
+                                    ],
+                                    "score": 0.988,
+                                    "content": "Mr.MosesMoskowitz.Co-ordinating BoardofJewishOrganizations:Mr.Wil-liamKorey.FriendsWorld",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                224,
+                                807,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        224,
+                                        807,
+                                        245
+                                    ],
+                                    "score": 0.99,
+                                    "content": "CommitteeforConsultation:Mr.CecilR.Evans.InternationalAlianceofWomen:Mrs.FrancesA.Doyle.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                242,
+                                862,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        242,
+                                        862,
+                                        265
+                                    ],
+                                    "score": 0.989,
+                                    "content": "internationalCatholicChildBureau:TheRev.JulesGagnon,MissMargaretBedard.InternationalCatholicPress",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                263,
+                                859,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        263,
+                                        859,
+                                        286
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Union:Mr.GaryMacEoin.InternationalConferenceofCatholicCharities:Mr.LouisC.Longarzo.International",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                282,
+                                815,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        282,
+                                        815,
+                                        306
+                                    ],
+                                    "score": 0.967,
+                                    "content": "Council ofWomen:Mrs.EuniceH.Car-ter,Mrs.DewittStetten.InternationalFederationofBusinessand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                299,
+                                859,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        299,
+                                        859,
+                                        324
+                                    ],
+                                    "score": 0.987,
+                                    "content": "ProfessionalWomen:MissSofiaCorradi,MissRuthTomlinson.InternationalFederationofUniversityWomen:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                318,
+                                861,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        318,
+                                        861,
+                                        346
+                                    ],
+                                    "score": 0.972,
+                                    "content": "MissElminaR.Lucke.InternaliomilFederationofWomenLawyers:Mrs.RoseKornHirschman,MissBessieRay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                339,
+                                815,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        339,
+                                        815,
+                                        364
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Geffner,MissRoseRothenburg.InternationalLeaguefortheRightsofMan:Mrs.DoraD.Roitburd,Miss",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                361,
+                                818,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        361,
+                                        818,
+                                        384
+                                    ],
+                                    "score": 0.985,
+                                    "content": "FlorenceKandel,Mr.RogerBaldwin.International UnionofChristianDemocrats:Mr.Ja-nuszSleszynski.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                380,
+                                856,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        380,
+                                        856,
+                                        404
+                                    ],
+                                    "score": 0.987,
+                                    "content": "InternationalUnionofFamilyOrganizations:Mrs.PeterL.Colins.InternationalUnionofSocialistYouth:Miss",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                400,
+                                856,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        400,
+                                        856,
+                                        424
+                                    ],
+                                    "score": 0.982,
+                                    "content": "SusanGyarmati.PanPacificSouth-EastAsia Women'sAssociation:MrsE.Forrest Beadman.PaxRomana:The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                822,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        822,
+                                        444
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Rev.EugeneBurke,Mr.PeterJ.Cass,Mr.WsevolodW.Isajiv.Women'sInternationalLeagueforPeaceand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                441,
+                                799,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        441,
+                                        799,
+                                        464
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Freedom:MrsAdelaideN.Baker.WorldAlianceofYoungMen'sChristianAssocia-tions:Mr.DaltonF.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                460,
+                                841,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        460,
+                                        841,
+                                        484
+                                    ],
+                                    "score": 0.992,
+                                    "content": "McClelland.WorldAssemblyofYouth:Mr.RobertCambria.WorldFederationofCatholicYoungWomenand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                479,
+                                875,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        479,
+                                        875,
+                                        505
+                                    ],
+                                    "score": 0.949,
+                                    "content": "Girls:Mrs.PeterCass,Mrs.ErnestP.Tibbits.WorldJewishCongress:Mr.HenryH.Grossman,Mr.RalphZacklin.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                501,
+                                879,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        501,
+                                        879,
+                                        524
+                                    ],
+                                    "score": 0.976,
+                                    "content": "WorldUnionforProgressiveJudaism:Mrs.EleanorS.Polstein.WorldUnionofCatholicWomen'sOrganizations：",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                516,
+                                876,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        516,
+                                        876,
+                                        548
+                                    ],
+                                    "score": 0.966,
+                                    "content": "MissCatherineSchaefer.WorldYoungWomen'sChristianAssociation:Mrs.RolandBeattie,MissElsieD.Harper.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                539,
+                                795,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        539,
+                                        795,
+                                        564
+                                    ],
+                                    "score": 0.988,
+                                    "content": "REGISTERInternationalAssociationforLiberalChristianityandReligiousFreedom:Mrs.ElviraFradkin.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                559,
+                                814,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        559,
+                                        814,
+                                        585
+                                    ],
+                                    "score": 0.966,
+                                    "content": "InternationalCatholicYouthFederation:Mr.JamesJ.O'Neill,Mr.RichardJ.O'Neill,MissMaryL.DiFonzo.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                581,
+                                825,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        581,
+                                        825,
+                                        604
+                                    ],
+                                    "score": 0.994,
+                                    "content": "InternationalHumanistandEthicalUnion:Mrs.WalterM.Weis.St.Joan'sInternationalSocialandPolitical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                598,
+                                858,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        598,
+                                        858,
+                                        626
+                                    ],
+                                    "score": 0.954,
+                                    "content": "Aliance:MissFrancesMcGillcuddyWorldAssociationsfGirlGuidesandGirlScouts:Mrs.JohnJ.CarneyMrs.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                618,
+                                860,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        618,
+                                        860,
+                                        646
+                                    ],
+                                    "score": 0.912,
+                                    "content": "EdwardF.Johnson,MrsortimerB.KellMissIsobelCrowe.4.Mr.JohnHumphrey，DirectoroftheDivisionof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                638,
+                                816,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        638,
+                                        816,
+                                        666
+                                    ],
+                                    "score": 0.978,
+                                    "content": "HumanRights,andMr.EgonSchwelb,DeputyDirectoroftheDivisionof HumanRights,representedthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                661,
+                                826,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        661,
+                                        826,
+                                        684
+                                    ],
+                                    "score": 0.996,
+                                    "content": "Secretary-GeneralatvariousmeetingsoftheCom-mission.Mr.KamleshwarDasactedasSecretaryofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                879,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        879,
+                                        704
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Commission.RepresentationofChina5.Atthe702ndmeting,heldon19March1962,therepresentativesofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                700,
+                                839,
+                                724
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        700,
+                                        839,
+                                        724
+                                    ],
+                                    "score": 0.991,
+                                    "content": "UnionofSovietSocialistRepublics,China,PolandandtheUnitedStatesofAmericamadestatementsonthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                721,
+                                368,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        721,
+                                        368,
+                                        744
+                                    ],
+                                    "score": 0.975,
+                                    "content": "representation ofChinainthe Commission.2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                755
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        15,
+                        879,
+                        743
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                20,
+                                872,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        20,
+                                        872,
+                                        46
+                                    ],
+                                    "score": 0.975,
+                                    "content": "Israel:Mr.YoramDinstein;Japan:Mr.Masao Ito.COMMISSIONONTHESTATUSOFWOMENMrs.Marie-Hélene",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                853,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        853,
+                                        66
+                                    ],
+                                    "score": 0.982,
+                                    "content": "Lefaucheux(France).SPECIALIZEDAGENCIES InternationalLabourOrganisation(ILO):Mr.JoseL.Bustamante.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                64,
+                                810,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        64,
+                                        810,
+                                        84
+                                    ],
+                                    "score": 0.988,
+                                    "content": "UnitedNationsEducational,ScientificandCulturalOrganization(UNESCO):Mr.TorGjesdal,Mr.Ar-thur",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                83,
+                                801,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        83,
+                                        801,
+                                        104
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Gagliott,Mr.AsdrubalSalsamendi.NON-GOVERNMENTALORGANIZATIONSCATEGORYAInternational",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                104,
+                                836,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        104,
+                                        836,
+                                        124
+                                    ],
+                                    "score": 0.983,
+                                    "content": "ConfederationofFreeTradeUnions:Mr.MarvinA.Schlaf.WorldFederationofTradeUnions:Mr.PhilipM.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                121,
+                                830,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        121,
+                                        830,
+                                        147
+                                    ],
+                                    "score": 0.982,
+                                    "content": "Connelly.WorldFederationofUnitedNationsAssociations:Mr.H.Barrett-Brown,MrsOliverWeerasinghe.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                777,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        777,
+                                        165
+                                    ],
+                                    "score": 0.992,
+                                    "content": "WorldVeteransFederation:MissEmilyNichols,Mr.GisbertFlanz.CATEGORYBAgudasIsraelWorld",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                878,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        878,
+                                        186
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Organization:Mr.IsaacLewin.CatholicInternationalUnionforSocialService:Mrs.AlysD.Vergara.Commission",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                182,
+                                879,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        182,
+                                        879,
+                                        208
+                                    ],
+                                    "score": 0.98,
+                                    "content": "oftheChurcheson InternationalAffairs:Mr.A.DominiqueMicheli.ConsultativeCouncilofJewishOrganizations:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                805,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        805,
+                                        226
+                                    ],
+                                    "score": 0.988,
+                                    "content": "Mr.MosesMoskowitz.Co-ordinating BoardofJewishOrganizations:Mr.Wil-liamKorey.FriendsWorld",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                224,
+                                807,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        224,
+                                        807,
+                                        245
+                                    ],
+                                    "score": 0.99,
+                                    "content": "CommitteeforConsultation:Mr.CecilR.Evans.InternationalAlianceofWomen:Mrs.FrancesA.Doyle.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                242,
+                                862,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        242,
+                                        862,
+                                        265
+                                    ],
+                                    "score": 0.989,
+                                    "content": "internationalCatholicChildBureau:TheRev.JulesGagnon,MissMargaretBedard.InternationalCatholicPress",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                263,
+                                859,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        263,
+                                        859,
+                                        286
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Union:Mr.GaryMacEoin.InternationalConferenceofCatholicCharities:Mr.LouisC.Longarzo.International",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                282,
+                                815,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        282,
+                                        815,
+                                        306
+                                    ],
+                                    "score": 0.967,
+                                    "content": "Council ofWomen:Mrs.EuniceH.Car-ter,Mrs.DewittStetten.InternationalFederationofBusinessand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                299,
+                                859,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        299,
+                                        859,
+                                        324
+                                    ],
+                                    "score": 0.987,
+                                    "content": "ProfessionalWomen:MissSofiaCorradi,MissRuthTomlinson.InternationalFederationofUniversityWomen:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                318,
+                                861,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        318,
+                                        861,
+                                        346
+                                    ],
+                                    "score": 0.972,
+                                    "content": "MissElminaR.Lucke.InternaliomilFederationofWomenLawyers:Mrs.RoseKornHirschman,MissBessieRay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                339,
+                                815,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        339,
+                                        815,
+                                        364
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Geffner,MissRoseRothenburg.InternationalLeaguefortheRightsofMan:Mrs.DoraD.Roitburd,Miss",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                361,
+                                818,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        361,
+                                        818,
+                                        384
+                                    ],
+                                    "score": 0.985,
+                                    "content": "FlorenceKandel,Mr.RogerBaldwin.International UnionofChristianDemocrats:Mr.Ja-nuszSleszynski.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                380,
+                                856,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        380,
+                                        856,
+                                        404
+                                    ],
+                                    "score": 0.987,
+                                    "content": "InternationalUnionofFamilyOrganizations:Mrs.PeterL.Colins.InternationalUnionofSocialistYouth:Miss",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                400,
+                                856,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        400,
+                                        856,
+                                        424
+                                    ],
+                                    "score": 0.982,
+                                    "content": "SusanGyarmati.PanPacificSouth-EastAsia Women'sAssociation:MrsE.Forrest Beadman.PaxRomana:The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                822,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        822,
+                                        444
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Rev.EugeneBurke,Mr.PeterJ.Cass,Mr.WsevolodW.Isajiv.Women'sInternationalLeagueforPeaceand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                441,
+                                799,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        441,
+                                        799,
+                                        464
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Freedom:MrsAdelaideN.Baker.WorldAlianceofYoungMen'sChristianAssocia-tions:Mr.DaltonF.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                460,
+                                841,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        460,
+                                        841,
+                                        484
+                                    ],
+                                    "score": 0.992,
+                                    "content": "McClelland.WorldAssemblyofYouth:Mr.RobertCambria.WorldFederationofCatholicYoungWomenand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                479,
+                                875,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        479,
+                                        875,
+                                        505
+                                    ],
+                                    "score": 0.949,
+                                    "content": "Girls:Mrs.PeterCass,Mrs.ErnestP.Tibbits.WorldJewishCongress:Mr.HenryH.Grossman,Mr.RalphZacklin.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                501,
+                                879,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        501,
+                                        879,
+                                        524
+                                    ],
+                                    "score": 0.976,
+                                    "content": "WorldUnionforProgressiveJudaism:Mrs.EleanorS.Polstein.WorldUnionofCatholicWomen'sOrganizations：",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                516,
+                                876,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        516,
+                                        876,
+                                        548
+                                    ],
+                                    "score": 0.966,
+                                    "content": "MissCatherineSchaefer.WorldYoungWomen'sChristianAssociation:Mrs.RolandBeattie,MissElsieD.Harper.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                539,
+                                795,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        539,
+                                        795,
+                                        564
+                                    ],
+                                    "score": 0.988,
+                                    "content": "REGISTERInternationalAssociationforLiberalChristianityandReligiousFreedom:Mrs.ElviraFradkin.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                559,
+                                814,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        559,
+                                        814,
+                                        585
+                                    ],
+                                    "score": 0.966,
+                                    "content": "InternationalCatholicYouthFederation:Mr.JamesJ.O'Neill,Mr.RichardJ.O'Neill,MissMaryL.DiFonzo.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                581,
+                                825,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        581,
+                                        825,
+                                        604
+                                    ],
+                                    "score": 0.994,
+                                    "content": "InternationalHumanistandEthicalUnion:Mrs.WalterM.Weis.St.Joan'sInternationalSocialandPolitical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                598,
+                                858,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        598,
+                                        858,
+                                        626
+                                    ],
+                                    "score": 0.954,
+                                    "content": "Aliance:MissFrancesMcGillcuddyWorldAssociationsfGirlGuidesandGirlScouts:Mrs.JohnJ.CarneyMrs.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                618,
+                                860,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        618,
+                                        860,
+                                        646
+                                    ],
+                                    "score": 0.912,
+                                    "content": "EdwardF.Johnson,MrsortimerB.KellMissIsobelCrowe.4.Mr.JohnHumphrey，DirectoroftheDivisionof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                638,
+                                816,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        638,
+                                        816,
+                                        666
+                                    ],
+                                    "score": 0.978,
+                                    "content": "HumanRights,andMr.EgonSchwelb,DeputyDirectoroftheDivisionof HumanRights,representedthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                661,
+                                826,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        661,
+                                        826,
+                                        684
+                                    ],
+                                    "score": 0.996,
+                                    "content": "Secretary-GeneralatvariousmeetingsoftheCom-mission.Mr.KamleshwarDasactedasSecretaryofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                879,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        879,
+                                        704
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Commission.RepresentationofChina5.Atthe702ndmeting,heldon19March1962,therepresentativesofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                700,
+                                839,
+                                724
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        700,
+                                        839,
+                                        724
+                                    ],
+                                    "score": 0.991,
+                                    "content": "UnionofSovietSocialistRepublics,China,PolandandtheUnitedStatesofAmericamadestatementsonthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                721,
+                                368,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        721,
+                                        368,
+                                        744
+                                    ],
+                                    "score": 0.975,
+                                    "content": "representation ofChinainthe Commission.2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5,
+                    "bbox_fs": [
+                        14,
+                        20,
+                        879,
+                        744
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

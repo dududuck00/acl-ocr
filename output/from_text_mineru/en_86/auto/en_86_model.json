@@ -1,0 +1,730 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    56,
+                    47,
+                    2444,
+                    47,
+                    2444,
+                    1902,
+                    56,
+                    1902
+                ],
+                "score": 0.935
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    984,
+                    1619,
+                    1093,
+                    1619,
+                    1093,
+                    1672,
+                    984,
+                    1672
+                ],
+                "score": 0.89,
+                "latex": "\\$ 100"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    220,
+                    1563,
+                    329,
+                    1563,
+                    329,
+                    1616,
+                    220,
+                    1616
+                ],
+                "score": 0.88,
+                "latex": "\\$ 100"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    2103,
+                    673,
+                    2213,
+                    673,
+                    2213,
+                    727,
+                    2103,
+                    727
+                ],
+                "score": 0.87,
+                "latex": "\\$ 100"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    50,
+                    1563,
+                    135,
+                    1563,
+                    135,
+                    1617,
+                    50,
+                    1617
+                ],
+                "score": 0.86,
+                "latex": "\\$ 10"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    778,
+                    1618,
+                    899,
+                    1618,
+                    899,
+                    1672,
+                    778,
+                    1672
+                ],
+                "score": 0.86,
+                "latex": "\\$ 3.90"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1159,
+                    1563,
+                    1304,
+                    1563,
+                    1304,
+                    1617,
+                    1159,
+                    1617
+                ],
+                "score": 0.85,
+                "latex": "\\$ 1230"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1961,
+                    675,
+                    2020,
+                    675,
+                    2020,
+                    727,
+                    1961,
+                    727
+                ],
+                "score": 0.79,
+                "latex": "\\$ \\times"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    56.0,
+                    2385.0,
+                    56.0,
+                    2385.0,
+                    129.0,
+                    42.0,
+                    129.0
+                ],
+                "score": 0.986,
+                "text": "atsomepointintimeImadeitapolicytointervieweveryperson hiredthatwasnotatradesperson.If theydid"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    113.0,
+                    2424.0,
+                    113.0,
+                    2424.0,
+                    188.0,
+                    40.0,
+                    188.0
+                ],
+                "score": 0.988,
+                "text": "notmeetmyculturetest,theywerenothired.BythetimeIwasrunning thecompanyIhadbeeninvolved hiring"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    167.0,
+                    2432.0,
+                    167.0,
+                    2432.0,
+                    242.0,
+                    40.0,
+                    242.0
+                ],
+                "score": 0.988,
+                "text": "mostofthenon-fieldpersonnel.OneotherthingIamproudofdoingatRaymond,fornumerousreasons,wasa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    229.0,
+                    2424.0,
+                    229.0,
+                    2424.0,
+                    294.0,
+                    45.0,
+                    294.0
+                ],
+                "score": 0.994,
+                "text": "safetyprogram.Ididnotknowmuchaboutinsuranceotherthanitwassomethingacompanyhadtohave.One"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    281.0,
+                    2403.0,
+                    281.0,
+                    2403.0,
+                    351.0,
+                    42.0,
+                    351.0
+                ],
+                "score": 0.995,
+                "text": "dayshortlyafterIstartedworkingatRaymondtheinsuranceagentcametomeetwithCarlandJimPecoraand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    335.0,
+                    2382.0,
+                    335.0,
+                    2382.0,
+                    408.0,
+                    40.0,
+                    408.0
+                ],
+                "score": 0.991,
+                "text": "theyaskedmetocomemeettheagent.Theagentsaidhehadrenewedtheinsuranceandneededacheck for"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    392.0,
+                    2403.0,
+                    392.0,
+                    2403.0,
+                    465.0,
+                    45.0,
+                    465.0
+                ],
+                "score": 0.924,
+                "text": "$xxxxx.Myjawdropped,butIkeptquiet.Aftertheagentleft,Iaskedhowtheprocessworked.Forthedollars"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    452.0,
+                    2245.0,
+                    452.0,
+                    2245.0,
+                    516.0,
+                    45.0,
+                    516.0
+                ],
+                "score": 0.999,
+                "text": "involvedIthoughtweshouldhavegottencompetitivebids.FromthatdayonIusedariskmanagement"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    503.0,
+                    2388.0,
+                    503.0,
+                    2388.0,
+                    576.0,
+                    42.0,
+                    576.0
+                ],
+                "score": 0.988,
+                "text": "consultanttorenewinsuranceeveryyear.Threebrokerswerechosentogivequotes.Wechosethebrokerwe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    558.0,
+                    2336.0,
+                    558.0,
+                    2336.0,
+                    627.0,
+                    42.0,
+                    627.0
+                ],
+                "score": 0.983,
+                "text": "thoughtwould giveusthemostforourdolarthroughout thepolicyperiod.Thatwas not alwaysthelowest"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    614.0,
+                    2429.0,
+                    614.0,
+                    2429.0,
+                    682.0,
+                    40.0,
+                    682.0
+                ],
+                "score": 0.985,
+                "text": "quoteatrenewaltime.Result:Bettercoverage,betterserviceandlowercost.Ididsomeresearchandfoundthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    671.0,
+                    1960.0,
+                    671.0,
+                    1960.0,
+                    741.0,
+                    40.0,
+                    741.0
+                ],
+                "score": 0.954,
+                "text": "workmen'scompensation (WC)was the bigdollar insurance.Ifound outWC premiumwas"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2021.0,
+                    671.0,
+                    2102.0,
+                    671.0,
+                    2102.0,
+                    741.0,
+                    2021.0,
+                    741.0
+                ],
+                "score": 0.998,
+                "text": "per"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2214.0,
+                    671.0,
+                    2432.0,
+                    671.0,
+                    2432.0,
+                    741.0,
+                    2214.0,
+                    741.0
+                ],
+                "score": 0.999,
+                "text": "ofpayroll"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    723.0,
+                    2367.0,
+                    723.0,
+                    2367.0,
+                    798.0,
+                    40.0,
+                    798.0
+                ],
+                "score": 0.974,
+                "text": "modifiedbyanexperiencemodification(Xmod)basedonacident losses.Wow,thiscanbeaforevergrowing"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    782.0,
+                    2419.0,
+                    782.0,
+                    2419.0,
+                    847.0,
+                    42.0,
+                    847.0
+                ],
+                "score": 0.976,
+                "text": "costasunionwages wentup,thecompanygrew,andespeciallyifyoudidnotcontrolaccidentlosses.ItoldCarl"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    837.0,
+                    2359.0,
+                    837.0,
+                    2359.0,
+                    904.0,
+                    42.0,
+                    904.0
+                ],
+                "score": 0.987,
+                "text": "andJimIwasgoingtostartasafetyprogram.Theychuckledandsaid,“Goaheadbutitwon'twork.\"Istarted"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    888.0,
+                    2390.0,
+                    888.0,
+                    2390.0,
+                    963.0,
+                    40.0,
+                    963.0
+                ],
+                "score": 0.99,
+                "text": "holdingsafetymeetingsinMontebellin1978andledalmosteverysafetymeeting,eventhoughIhadtodrive"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    945.0,
+                    2408.0,
+                    945.0,
+                    2408.0,
+                    1020.0,
+                    40.0,
+                    1020.0
+                ],
+                "score": 0.973,
+                "text": "orflytotheremoteoficestodoso,untilIretiredin2004.Irantheforemansafetymeetings,thentheforemen"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    999.0,
+                    2356.0,
+                    999.0,
+                    2356.0,
+                    1074.0,
+                    40.0,
+                    1074.0
+                ],
+                "score": 0.984,
+                "text": "heldasafetymeetingattheir jobsite.BecauseRaymond'sprojectswerealloverthegreaterLAbasin,Ihada"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    37.0,
+                    1056.0,
+                    2406.0,
+                    1056.0,
+                    2406.0,
+                    1131.0,
+                    37.0,
+                    1131.0
+                ],
+                "score": 0.986,
+                "text": "youngwomanthatkeptrackofinsurance,safetyetc.setupforemenmeetingplacesindiferentareassothe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1113.0,
+                    2419.0,
+                    1113.0,
+                    2419.0,
+                    1185.0,
+                    42.0,
+                    1185.0
+                ],
+                "score": 0.991,
+                "text": "foremendidnothavetoalwaysdrivetoourofice.Wehadfoodandsoftdrinks,wealwayshadasafetytopicto"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1172.0,
+                    2429.0,
+                    1172.0,
+                    2429.0,
+                    1245.0,
+                    42.0,
+                    1245.0
+                ],
+                "score": 0.991,
+                "text": "talkabout,andweacknowledgedsafetyachievementswithpersonalrecognitionandasmallnon-monetarygift,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1224.0,
+                    2419.0,
+                    1224.0,
+                    2419.0,
+                    1299.0,
+                    40.0,
+                    1299.0
+                ],
+                "score": 0.985,
+                "text": "usuallyapersonalizedcofeecup.Thegreatestrewardformeinthisprocesswasgettingtoknowtheforemen."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1281.0,
+                    2382.0,
+                    1281.0,
+                    2382.0,
+                    1353.0,
+                    45.0,
+                    1353.0
+                ],
+                "score": 0.992,
+                "text": "Everyoneinthecompanyisimportant,butifyoudon'thaveforemenwhocanorganizeacrewtoexecutethat"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1338.0,
+                    2364.0,
+                    1338.0,
+                    2364.0,
+                    1408.0,
+                    42.0,
+                    1408.0
+                ],
+                "score": 0.986,
+                "text": "setofplanswithinthe“estimate\"theofficeturnedout,youareintrouble.Theseguys(notenough gals)were"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1397.0,
+                    2325.0,
+                    1397.0,
+                    2325.0,
+                    1462.0,
+                    45.0,
+                    1462.0
+                ],
+                "score": 0.975,
+                "text": "smart,creative,talented,greatsupervisorsandmanagers.Ihavethegreatestrespectforthem,andIreally"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1449.0,
+                    2445.0,
+                    1449.0,
+                    2445.0,
+                    1519.0,
+                    45.0,
+                    1519.0
+                ],
+                "score": 0.979,
+                "text": "enjoyedbeingamong thematthesemetingsandonthejobsites.Itwas,andis,amazingwhattheycanachieve."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1501.0,
+                    2414.0,
+                    1501.0,
+                    2414.0,
+                    1573.0,
+                    45.0,
+                    1573.0
+                ],
+                "score": 0.988,
+                "text": "WhenIbeganthesafetyprogramRaymond'sXmodwassay1.15foranexample.Thatmeansif theWCratewas"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1557.0,
+                    49.0,
+                    1557.0,
+                    49.0,
+                    1627.0,
+                    42.0,
+                    1627.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    136.0,
+                    1557.0,
+                    219.0,
+                    1557.0,
+                    219.0,
+                    1627.0,
+                    136.0,
+                    1627.0
+                ],
+                "score": 0.997,
+                "text": "per"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    330.0,
+                    1557.0,
+                    1158.0,
+                    1557.0,
+                    1158.0,
+                    1627.0,
+                    330.0,
+                    1627.0
+                ],
+                "score": 0.965,
+                "text": "of payroll,Raymondwould have topay"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1305.0,
+                    1557.0,
+                    2445.0,
+                    1557.0,
+                    2445.0,
+                    1627.0,
+                    1305.0,
+                    1627.0
+                ],
+                "score": 0.975,
+                "text": "because ofaccident losses.Inacoupleofyears,Ihad"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    1617.0,
+                    777.0,
+                    1617.0,
+                    777.0,
+                    1681.0,
+                    48.0,
+                    1681.0
+                ],
+                "score": 0.981,
+                "text": "Raymond'sXmoddownto0.39,or"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    900.0,
+                    1617.0,
+                    983.0,
+                    1617.0,
+                    983.0,
+                    1681.0,
+                    900.0,
+                    1681.0
+                ],
+                "score": 0.992,
+                "text": "per"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1094.0,
+                    1617.0,
+                    2429.0,
+                    1617.0,
+                    2429.0,
+                    1681.0,
+                    1094.0,
+                    1681.0
+                ],
+                "score": 0.994,
+                "text": "ofpayroll.ItwasimpossibletoholdtheXmodthatlow,butthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1674.0,
+                    2372.0,
+                    1674.0,
+                    2372.0,
+                    1738.0,
+                    45.0,
+                    1738.0
+                ],
+                "score": 0.986,
+                "text": "safetyprogrammadeitpossibletokeepRaymond'sXmodbelow1.00mostof thetimeafterthat.Itwasgood"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1725.0,
+                    2367.0,
+                    1725.0,
+                    2367.0,
+                    1795.0,
+                    42.0,
+                    1795.0
+                ],
+                "score": 0.997,
+                "text": "forthemenbecausetherewerefewerinjuries.ItwasgoodforthecompanybecauseitmadeRaymondmore"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1782.0,
+                    2429.0,
+                    1782.0,
+                    2429.0,
+                    1854.0,
+                    42.0,
+                    1854.0
+                ],
+                "score": 0.975,
+                "text": "competitive,ormoreprofitable,howeveryouplayedthecostadvantage.DuringmytimeatRaymond,thesafety"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1836.0,
+                    1997.0,
+                    1836.0,
+                    1997.0,
+                    1906.0,
+                    42.0,
+                    1906.0
+                ],
+                "score": 0.989,
+                "text": "programsavedseveralmilliondollarsof insurancepremiums.Isuspectthatisstillthecase."
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 1934
+        }
+    }
+]

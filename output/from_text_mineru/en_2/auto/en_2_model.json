@@ -1,0 +1,805 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    41,
+                    394,
+                    2431,
+                    394,
+                    2431,
+                    3182,
+                    41,
+                    3182
+                ],
+                "score": 0.924
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    231,
+                    3128,
+                    261,
+                    3128,
+                    261,
+                    3161,
+                    231,
+                    3161
+                ],
+                "score": 0.28,
+                "latex": "\\cdot"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    393.0,
+                    2306.0,
+                    393.0,
+                    2306.0,
+                    461.0,
+                    41.0,
+                    461.0
+                ],
+                "score": 0.988,
+                "text": "tomaintaintheopticalsystemataconstantheightabovethesurfaceoftherecord.There-flectionoff the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    31.0,
+                    442.0,
+                    2375.0,
+                    442.0,
+                    2375.0,
+                    522.0,
+                    31.0,
+                    522.0
+                ],
+                "score": 0.995,
+                "text": "groovewallisdetectedandformstheanalogaudiosignal.Thekeytothesystemisthe\"position-sensitivede-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    35.0,
+                    497.0,
+                    2406.0,
+                    497.0,
+                    2406.0,
+                    577.0,
+                    35.0,
+                    577.0
+                ],
+                "score": 0.987,
+                "text": "tectors,orPSDs.EachisalongnarrowrowofCCDel-ementssimilartothoseinavideocamera.Thescanning"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    562.0,
+                    2418.0,
+                    562.0,
+                    2418.0,
+                    629.0,
+                    41.0,
+                    629.0
+                ],
+                "score": 0.983,
+                "text": "circuitsassociatedwiththeCCDarrayproducetwovoltages,oneproportionaltothepositionofacellalong the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    617.0,
+                    2337.0,
+                    617.0,
+                    2337.0,
+                    684.0,
+                    41.0,
+                    684.0
+                ],
+                "score": 0.993,
+                "text": "row(X)andanotherproportionaltotheintensityofthelightstrikingthatcell(I).BymultiplyingXtimesIand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    672.0,
+                    2425.0,
+                    672.0,
+                    2425.0,
+                    740.0,
+                    41.0,
+                    740.0
+                ],
+                "score": 0.984,
+                "text": "adding,thecircuitcalculatestheintensity-weightedaveragepositionofthereflectedimage,withanaccuracyof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    727.0,
+                    2312.0,
+                    727.0,
+                    2312.0,
+                    795.0,
+                    41.0,
+                    795.0
+                ],
+                "score": 0.996,
+                "text": "aboutone-tenththewidthofthespot.Fromthege-ometryofthesituation,itiseasytoshowthatXispro-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    35.0,
+                    780.0,
+                    2322.0,
+                    780.0,
+                    2322.0,
+                    853.0,
+                    35.0,
+                    853.0
+                ],
+                "score": 0.988,
+                "text": "portionaltothetangentof2A(whereAisthegroove-modulationangle),andfornormallysmallanglesitis"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    838.0,
+                    2368.0,
+                    838.0,
+                    2368.0,
+                    905.0,
+                    41.0,
+                    905.0
+                ],
+                "score": 0.997,
+                "text": "linearlyproportionaltothegroove-modulationvelocity(whichiswhatthemechanicalstylusinaconventional"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    893.0,
+                    2409.0,
+                    893.0,
+                    2409.0,
+                    960.0,
+                    41.0,
+                    960.0
+                ],
+                "score": 0.993,
+                "text": "magneticpickupdetects).Thismethod hasoneobviouslimitation.Theanglebetweentheprojectedlaserbeam"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    945.0,
+                    2406.0,
+                    945.0,
+                    2406.0,
+                    1022.0,
+                    38.0,
+                    1022.0
+                ],
+                "score": 0.986,
+                "text": "anditsreflectionistwicethegroovemodulationangle.Withnormalmodu-lationsthisisfine,butifthegroove"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1006.0,
+                    2406.0,
+                    1006.0,
+                    2406.0,
+                    1074.0,
+                    41.0,
+                    1074.0
+                ],
+                "score": 0.993,
+                "text": "angleexceeds45de-greesthereflectionangleexceeds90degrees,meaningthatthereflectionnevermakesit"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1062.0,
+                    2400.0,
+                    1062.0,
+                    2400.0,
+                    1129.0,
+                    41.0,
+                    1129.0
+                ],
+                "score": 0.975,
+                "text": "backacrossthegroovetothedetector.Infact,asFinialadmitted,thePSDac-commodatesgrooveanglesonly"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1117.0,
+                    2434.0,
+                    1117.0,
+                    2434.0,
+                    1184.0,
+                    41.0,
+                    1184.0
+                ],
+                "score": 0.992,
+                "text": "upto38degrees;largermodulationsarehandledbyadifferenttechnique.(Theydidn'texplainit;thispartofthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1172.0,
+                    2334.0,
+                    1172.0,
+                    2334.0,
+                    1239.0,
+                    41.0,
+                    1239.0
+                ],
+                "score": 0.992,
+                "text": "turntable'soperationremainsamystery.)TheFinialturntablehasafullcomplementofCD-likecontrolsthat"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    35.0,
+                    1224.0,
+                    2234.0,
+                    1224.0,
+                    2234.0,
+                    1298.0,
+                    35.0,
+                    1298.0
+                ],
+                "score": 0.982,
+                "text": "provideautomaticcueing tothestartofanyband,elapsed-andremaining-timedisplay,pro-grammed"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    1282.0,
+                    2403.0,
+                    1282.0,
+                    2403.0,
+                    1350.0,
+                    38.0,
+                    1350.0
+                ],
+                "score": 0.977,
+                "text": "random-accessplayback,automaticrepeat,andotherconveniences.Anditcontainsatick-and-popsuppressor"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    1335.0,
+                    2403.0,
+                    1335.0,
+                    2403.0,
+                    1411.0,
+                    38.0,
+                    1411.0
+                ],
+                "score": 0.985,
+                "text": "thatworksverywell.Theplaybackspeediscontinuouslyadjustablefrom33to50rpm.Itwon'thandle78sbut"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1396.0,
+                    2431.0,
+                    1396.0,
+                    2431.0,
+                    1463.0,
+                    41.0,
+                    1463.0
+                ],
+                "score": 0.987,
+                "text": "thereisstrongdemandforafuturever-sionthatwould—iftheplayereverseesthelightofday.Wouldthelaser"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1451.0,
+                    2412.0,
+                    1451.0,
+                    2412.0,
+                    1519.0,
+                    41.0,
+                    1519.0
+                ],
+                "score": 0.993,
+                "text": "turntablebepopularamongaudio-philes?MitchellandMoranguessedthatitmightgetthesamereceptionas"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    35.0,
+                    1497.0,
+                    2431.0,
+                    1497.0,
+                    2431.0,
+                    1577.0,
+                    35.0,
+                    1577.0
+                ],
+                "score": 0.991,
+                "text": "theShureV-15cartridge,respectedforitsaccuracybutlackingtheeuphoniousqualitiesofthebestMCpickups."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    1552.0,
+                    2368.0,
+                    1552.0,
+                    2368.0,
+                    1632.0,
+                    38.0,
+                    1632.0
+                ],
+                "score": 0.987,
+                "text": "(Thisprompted MichaShattner toob-servethatincomparingtwopickupsthatareidenticalexceptforstylus"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1617.0,
+                    2225.0,
+                    1617.0,
+                    2225.0,
+                    1684.0,
+                    41.0,
+                    1684.0
+                ],
+                "score": 0.982,
+                "text": "shape-conicalvs.vandenHul-themaindifference,surprisingly,seemednottobeinthehighsbutin"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1672.0,
+                    2409.0,
+                    1672.0,
+                    2409.0,
+                    1739.0,
+                    41.0,
+                    1739.0
+                ],
+                "score": 0.979,
+                "text": "low/midrangedefinition,perhapsbecauseofadifferenceinthewaythestylussinksintothegroovewall,Blind"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1727.0,
+                    2359.0,
+                    1727.0,
+                    2359.0,
+                    1795.0,
+                    41.0,
+                    1795.0
+                ],
+                "score": 0.995,
+                "text": "listeningtestsDavidClarkorganizedblindlisteningtestsattheAESconvention.Inone,threeamplifierswere"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    1779.0,
+                    2347.0,
+                    1779.0,
+                    2347.0,
+                    1856.0,
+                    38.0,
+                    1856.0
+                ],
+                "score": 0.93,
+                "text": "compared(aCrownpromodel,aVLtubeamp,andaTresholdFETamp),drivinglargeInfinityspeakers.In"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1841.0,
+                    2431.0,
+                    1841.0,
+                    2431.0,
+                    1908.0,
+                    41.0,
+                    1908.0
+                ],
+                "score": 0.955,
+                "text": "another,Belden10-gaugeandMonsterM10o0speakercablewerecompared.Inathird,PeterSutheimswitched"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    35.0,
+                    1893.0,
+                    2400.0,
+                    1893.0,
+                    2400.0,
+                    1963.0,
+                    35.0,
+                    1963.0
+                ],
+                "score": 0.996,
+                "text": "varyingamountsofphaseshiftandnonlineardistortionintothesignalpath.Abouthalfofthetotalpopulation"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1951.0,
+                    2409.0,
+                    1951.0,
+                    2409.0,
+                    2018.0,
+                    41.0,
+                    2018.0
+                ],
+                "score": 0.988,
+                "text": "ofengi-neersguessedcorrectlyintheampandcablecompar-isons,aresultconsistentwithrandomguessing."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    35.0,
+                    1997.0,
+                    2393.0,
+                    1997.0,
+                    2393.0,
+                    2077.0,
+                    35.0,
+                    2077.0
+                ],
+                "score": 0.986,
+                "text": "Butasmallsubsetoflistenersscoredveryhigh,supportingtheirownclaimtohearcableandampdiferences"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    2061.0,
+                    2409.0,
+                    2061.0,
+                    2409.0,
+                    2129.0,
+                    38.0,
+                    2129.0
+                ],
+                "score": 0.983,
+                "text": "reli-ably.Attheendoftheconventiontheseresultsweredis-cussedbypanelistsseatedlefttorightasfollows:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    2113.0,
+                    2356.0,
+                    2113.0,
+                    2356.0,
+                    2184.0,
+                    38.0,
+                    2184.0
+                ],
+                "score": 0.973,
+                "text": "NoelLee(Monster),MichaelFremer(TheAbsoluteSound),IanEales(acablebeliever),PeterSutheim,Eugene"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    2172.0,
+                    2362.0,
+                    2172.0,
+                    2362.0,
+                    2239.0,
+                    41.0,
+                    2239.0
+                ],
+                "score": 0.984,
+                "text": "Pits,RichardGreiner,andFloydToole.Clarksaidthisseatingorderwasaccidental,butnobodybelievedhim."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    2224.0,
+                    2393.0,
+                    2224.0,
+                    2393.0,
+                    2301.0,
+                    41.0,
+                    2301.0
+                ],
+                "score": 0.986,
+                "text": "Thetwo-hourdiscussionwasargumentative,unrevealing,andinconclusive.Audience\"questions\"weremostly"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    2285.0,
+                    2297.0,
+                    2285.0,
+                    2297.0,
+                    2353.0,
+                    41.0,
+                    2353.0
+                ],
+                "score": 0.997,
+                "text": "speechesdefendingproorantiideologies.Theonlyagreementthatemergedwasthatpeoplewhoreport"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    32.0,
+                    2328.0,
+                    2378.0,
+                    2328.0,
+                    2378.0,
+                    2417.0,
+                    32.0,
+                    2417.0
+                ],
+                "score": 0.985,
+                "text": "hearingcableandampdiferencesshould becomepartofacontrolledtestingprogramtofindoutwhatthey"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    2389.0,
+                    2418.0,
+                    2389.0,
+                    2418.0,
+                    2466.0,
+                    38.0,
+                    2466.0
+                ],
+                "score": 0.984,
+                "text": "arehearing.Oneinterestingpointemergedfromthepaneldiscus-sion:Monsterdoesn'tdesigncables,it'sjust"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    2451.0,
+                    2418.0,
+                    2451.0,
+                    2418.0,
+                    2518.0,
+                    38.0,
+                    2518.0
+                ],
+                "score": 0.992,
+                "text": "amarketingcompany.MonsterhiresoutsideconsultantslikeBruceBrissontodesigncables;NoelLeelistensto"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    2506.0,
+                    2340.0,
+                    2506.0,
+                    2340.0,
+                    2573.0,
+                    41.0,
+                    2573.0
+                ],
+                "score": 0.995,
+                "text": "prototypedesignsandmakesdecisionspurelybysubjectivelis-tening.Apparentlyheisoneof thosepeople"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    2561.0,
+                    2412.0,
+                    2561.0,
+                    2412.0,
+                    2629.0,
+                    41.0,
+                    2629.0
+                ],
+                "score": 0.991,
+                "text": "acutelysen-sitivetocablediferences.Whenhehearsadesignthathelikes,Monsterfarmsouttheproduction"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    2613.0,
+                    2440.0,
+                    2613.0,
+                    2440.0,
+                    2690.0,
+                    38.0,
+                    2690.0
+                ],
+                "score": 0.994,
+                "text": "toawire-manufacturingcompany.Soit'snotsurprisingthatMonsterhasnevertriedtodocumentanyscientific"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    2669.0,
+                    2403.0,
+                    2669.0,
+                    2403.0,
+                    2745.0,
+                    38.0,
+                    2745.0
+                ],
+                "score": 0.984,
+                "text": "basisforitsperformanceclaims;thecompanyhasnoengi-neering stafformeasuring labs.NoelLeeknowsof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    2727.0,
+                    2384.0,
+                    2727.0,
+                    2384.0,
+                    2794.0,
+                    41.0,
+                    2794.0
+                ],
+                "score": 0.99,
+                "text": "nomeasurementthatcorrelateswiththedifferencesthathehears;hereferredquestionsonthatsubjecttoa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    2788.0,
+                    2325.0,
+                    2788.0,
+                    2325.0,
+                    2846.0,
+                    44.0,
+                    2846.0
+                ],
+                "score": 0.997,
+                "text": "consul-tant,ayoungishOrientalwhoclaimedthataudibledif-ferencesamongcablesareduetomeasured"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    2837.0,
+                    2431.0,
+                    2837.0,
+                    2431.0,
+                    2905.0,
+                    44.0,
+                    2905.0
+                ],
+                "score": 0.99,
+                "text": "diferencesintimedispersionontheorderof0.1microsecond.Bris-son'sadsforhisMITcablesmakethesame"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    35.0,
+                    2886.0,
+                    2446.0,
+                    2886.0,
+                    2446.0,
+                    2966.0,
+                    35.0,
+                    2966.0
+                ],
+                "score": 0.974,
+                "text": "claim,butthattime-scalecorrespondstofrequenciesaround10MHz,nottoaudio.Monster'scurrentmarketing"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    2951.0,
+                    2400.0,
+                    2951.0,
+                    2400.0,
+                    3015.0,
+                    38.0,
+                    3015.0
+                ],
+                "score": 0.998,
+                "text": "cam-paignformicrophonecableisbasedontestimonialsfromrecognizedengineerswhohavetriedthecable"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    3006.0,
+                    2337.0,
+                    3006.0,
+                    2337.0,
+                    3073.0,
+                    41.0,
+                    3073.0
+                ],
+                "score": 0.988,
+                "text": "andlikedit.JackMullnHistoricalExhibitEnteringGermanyattheendofWorldWarII,Sgt.JackMullinofthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    3061.0,
+                    2378.0,
+                    3061.0,
+                    2378.0,
+                    3129.0,
+                    41.0,
+                    3129.0
+                ],
+                "score": 0.995,
+                "text": "ArmySignalCorpsdiscoveredMag-netophontapedecks,thefirstrecordersthatusedacbiaspage6TheBAS"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    3116.0,
+                    230.0,
+                    3116.0,
+                    230.0,
+                    3184.0,
+                    44.0,
+                    3184.0
+                ],
+                "score": 0.997,
+                "text": "Speaker"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    262.0,
+                    3116.0,
+                    712.0,
+                    3116.0,
+                    712.0,
+                    3184.0,
+                    262.0,
+                    3184.0
+                ],
+                "score": 0.996,
+                "text": "volume17number2"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 3212
+        }
+    }
+]

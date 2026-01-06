@@ -1,0 +1,1838 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        26,
+                        21,
+                        870,
+                        244
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                21,
+                                872,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        21,
+                                        872,
+                                        45
+                                    ],
+                                    "score": 0.977,
+                                    "content": "36C.D.RandazzoandH.P.L.LunaandP.Maheywilfollowthenotationgivenin[BMM94b]andwilldenotethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                41,
+                                856,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        41,
+                                        856,
+                                        65
+                                    ],
+                                    "score": 0.982,
+                                    "content": "wokindsoflinksby\"primarylinks\"(opticalfiber)and\"secondarylinks\"(copper).Thecoppercablehasafixed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                61,
+                                838,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        61,
+                                        838,
+                                        85
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ostsmalerthanthatoftheopticalfiber,butitsvariablecostisgreaterthanthevariablecostoftheoptical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                82,
+                                844,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        82,
+                                        844,
+                                        105
+                                    ],
+                                    "score": 0.995,
+                                    "content": "iber.Wealsoworkwithprimaryconnectivityconstraintsthatrequirethatprimarylinksbeconnectedtothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                100,
+                                858,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        100,
+                                        858,
+                                        128
+                                    ],
+                                    "score": 0.992,
+                                    "content": "originnodebyapathconsistingofprimarylinksonly.Thereasonforusingsuchconstraintsisthatamessage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                120,
+                                775,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        120,
+                                        775,
+                                        146
+                                    ],
+                                    "score": 0.993,
+                                    "content": "vhichflowsfromonetechnologylinktoanothertechnologylink hastoundergosomekindofdata",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                819,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        819,
+                                        165
+                                    ],
+                                    "score": 0.994,
+                                    "content": "transformationwhichimpliesthataswitchingdevicehastobeinstaledateverynodewhereachangeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                159,
+                                849,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        20,
+                                        159,
+                                        849,
+                                        186
+                                    ],
+                                    "score": 0.992,
+                                    "content": "echnologytakesplace.Inourproblem,theprimaryconnectivityconstraintsensurethatthenumberof such",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                865,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        865,
+                                        205
+                                    ],
+                                    "score": 0.996,
+                                    "content": "deviceswillbesmallandthecostofinstallingthesedevicesisnotconsidered.Anotherreasonforrequiringthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                200,
+                                847,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        20,
+                                        200,
+                                        847,
+                                        227
+                                    ],
+                                    "score": 0.981,
+                                    "content": "srimaryconnectivityconstraintsisthattheyimplythatmorepathscanbenefitfromthehigherqualityof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                801,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        801,
+                                        245
+                                    ],
+                                    "score": 0.998,
+                                    "content": "primarylinks.TherearemanypossiblevariationsoftheLAND-2Tproblemthatresultinnewproblems.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        76,
+                        878,
+                        828
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                242,
+                                816,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        242,
+                                        816,
+                                        265
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Balakrishnanetal.[BMM94a]haveworkedwithaproblemsimilartotheLAND-2Twhereaminimumcost",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                839,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        839,
+                                        286
+                                    ],
+                                    "score": 0.99,
+                                    "content": "spanningtreethatcontainsanembeddedprimarysubtreeconnectingalltheprimarynodes(andoptionally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                825,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        825,
+                                        305
+                                    ],
+                                    "score": 0.994,
+                                    "content": "includ-ingsecondarynodes)hastobefound.AsintheLAND-2T,onecaninstalloneoftwoavailablecable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                299,
+                                875,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        299,
+                                        875,
+                                        327
+                                    ],
+                                    "score": 0.992,
+                                    "content": "technologiesforeacharc.Notethattheydividethesetof nodesintoprimaryandsecondarynodes.Theprimary",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                873,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        873,
+                                        347
+                                    ],
+                                    "score": 0.999,
+                                    "content": "nodeshavetobeconnectedtotheoriginnodebyprimaryarcs.Thesecondarynodescanbelinkedtotheorigin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                341,
+                                813,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        341,
+                                        813,
+                                        366
+                                    ],
+                                    "score": 0.992,
+                                    "content": "nodebyprimaryorsecondaryarcs.Theyhaveproposedadual-ascentalgorithmtofindanapproximate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                840,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        840,
+                                        384
+                                    ],
+                                    "score": 0.982,
+                                    "content": "solution.GouveiaandJanssen[GJ98]haveworkedwithasimilar problemthatisanextensionoftheminimal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                381,
+                                858,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        381,
+                                        858,
+                                        406
+                                    ],
+                                    "score": 0.987,
+                                    "content": "spanningtreeproblem,butwithtwocabletechnologiestoo.Themodelthattheyexplorehasgeneralizedhop",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                862,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        862,
+                                        425
+                                    ],
+                                    "score": 0.991,
+                                    "content": "constraintsand primaryconnectivityconstraints.Hopconstraintslimitthenumberoflinks(hops)betweenthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                420,
+                                812,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        420,
+                                        812,
+                                        447
+                                    ],
+                                    "score": 0.997,
+                                    "content": "rootnodeandanyterminalandmeasureinacertainwaythereliabilityofthetreenetwork.Theprimary",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                816,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        816,
+                                        465
+                                    ],
+                                    "score": 0.981,
+                                    "content": "connectivityconstraintsarethesame thatwedescribed above.TheproblemisshowntobeNP-hard and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                810,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        810,
+                                        485
+                                    ],
+                                    "score": 0.997,
+                                    "content": "procedurestoobtainlowerandupperboundsarepresented.Theyformulatetheproblemasadirected",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                802,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        802,
+                                        507
+                                    ],
+                                    "score": 0.993,
+                                    "content": "multicommodityflowmodel.Toderivelowerbounds theyuseLagrangeanrelaxationwithsubgradient",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                880,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        880,
+                                        525
+                                    ],
+                                    "score": 0.985,
+                                    "content": "optimization.ALagrangeanheuristicisdevelopedtoconstructfeasiblesolutions.Moreover,theydiscusseveral",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                522,
+                                838,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        522,
+                                        838,
+                                        545
+                                    ],
+                                    "score": 0.986,
+                                    "content": "diferentwaysofmodeling theprimaryconnectivityconstraints.Oneoutcomeof theirdiscussionisthatan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                878,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        878,
+                                        565
+                                    ],
+                                    "score": 0.992,
+                                    "content": "extendedandcompactrepresentationoftheconvexhullofdirectedrootedsubtreeswhentheunderlyinggraph",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                562,
+                                879,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        562,
+                                        879,
+                                        585
+                                    ],
+                                    "score": 0.993,
+                                    "content": "isseries-parallelcanbederived.DeJonghetal.[dJGL99]havealsoworkedwithacloselyrelatedprobleminwhich",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                872,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        872,
+                                        606
+                                    ],
+                                    "score": 0.997,
+                                    "content": "apairofnodeshastobelinkedbytwonodedisjointpathswithminimumtotalcostandtwocabletechnologies.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                603,
+                                855,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        603,
+                                        855,
+                                        623
+                                    ],
+                                    "score": 0.988,
+                                    "content": "ThisproblemisalitledifferentfromtheLAND-2Tsinceforeacharcofthenetworkthereisonlyoneavailable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                621,
+                                845,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        621,
+                                        845,
+                                        647
+                                    ],
+                                    "score": 0.987,
+                                    "content": "technology,thatis,eacharchasaspecifiedtechnologyandtherearearcsoftype1andarcsoftype2.Inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                641,
+                                855,
+                                664
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        641,
+                                        855,
+                                        664
+                                    ],
+                                    "score": 0.996,
+                                    "content": "LAND-2Tproblem,foreacharcwehavetwoavailabletechnologies.Theyalsoconsideratransitioncostthatis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                662,
+                                866,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        662,
+                                        866,
+                                        685
+                                    ],
+                                    "score": 0.986,
+                                    "content": "associatedwitheachnode.Thiscostisincurredonlywhenaflowentersandleavesthecorresponding nodeon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                682,
+                                841,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        682,
+                                        841,
+                                        705
+                                    ],
+                                    "score": 0.984,
+                                    "content": "arcsofdiferenttypes.Two heuristicswereproposedin[dJGL99]andalowerbounding procedurebasedon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                701,
+                                839,
+                                726
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        701,
+                                        839,
+                                        726
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Lagrangeanrelaxationisprovided.Theseproceduresareusedinabranch-and-boundstrategytosolvethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                721,
+                                861,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        721,
+                                        861,
+                                        747
+                                    ],
+                                    "score": 0.971,
+                                    "content": "problem.Inapreviouspaper,weworkedwiththelocalaccessnetworkdesignproblem[RM98].Inthisarticle,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                742,
+                                806,
+                                765
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        742,
+                                        806,
+                                        765
+                                    ],
+                                    "score": 0.997,
+                                    "content": "westudiedtwoformulationsoftheproblem:singlecommodityflowformulation;multicommodityflow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                761,
+                                836,
+                                784
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        761,
+                                        836,
+                                        784
+                                    ],
+                                    "score": 0.994,
+                                    "content": "formulation.TheproblemwassolvedexactlybyCPLEX(withthetwoformulations),byabranch-and-bound",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                782,
+                                850,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        782,
+                                        850,
+                                        806
+                                    ],
+                                    "score": 0.993,
+                                    "content": "algorithm,byabranch-and-cutalgorithmandbyaBendersdecomposition.ThesuccessobtainedbyBenders",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                802,
+                                735,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        802,
+                                        735,
+                                        825
+                                    ],
+                                    "score": 0.973,
+                                    "content": "decomposition tosolve thisproblem has inducedus toextend thealgorithmdeveloped tothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 25
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                836
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        26,
+                        21,
+                        870,
+                        244
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                22,
+                                21,
+                                872,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        22,
+                                        21,
+                                        872,
+                                        45
+                                    ],
+                                    "score": 0.977,
+                                    "content": "36C.D.RandazzoandH.P.L.LunaandP.Maheywilfollowthenotationgivenin[BMM94b]andwilldenotethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                41,
+                                856,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        41,
+                                        856,
+                                        65
+                                    ],
+                                    "score": 0.982,
+                                    "content": "wokindsoflinksby\"primarylinks\"(opticalfiber)and\"secondarylinks\"(copper).Thecoppercablehasafixed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                61,
+                                838,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        61,
+                                        838,
+                                        85
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ostsmalerthanthatoftheopticalfiber,butitsvariablecostisgreaterthanthevariablecostoftheoptical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                82,
+                                844,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        82,
+                                        844,
+                                        105
+                                    ],
+                                    "score": 0.995,
+                                    "content": "iber.Wealsoworkwithprimaryconnectivityconstraintsthatrequirethatprimarylinksbeconnectedtothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                100,
+                                858,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        100,
+                                        858,
+                                        128
+                                    ],
+                                    "score": 0.992,
+                                    "content": "originnodebyapathconsistingofprimarylinksonly.Thereasonforusingsuchconstraintsisthatamessage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                21,
+                                120,
+                                775,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        21,
+                                        120,
+                                        775,
+                                        146
+                                    ],
+                                    "score": 0.993,
+                                    "content": "vhichflowsfromonetechnologylinktoanothertechnologylink hastoundergosomekindofdata",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                819,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        819,
+                                        165
+                                    ],
+                                    "score": 0.994,
+                                    "content": "transformationwhichimpliesthataswitchingdevicehastobeinstaledateverynodewhereachangeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                159,
+                                849,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        20,
+                                        159,
+                                        849,
+                                        186
+                                    ],
+                                    "score": 0.992,
+                                    "content": "echnologytakesplace.Inourproblem,theprimaryconnectivityconstraintsensurethatthenumberof such",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                865,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        865,
+                                        205
+                                    ],
+                                    "score": 0.996,
+                                    "content": "deviceswillbesmallandthecostofinstallingthesedevicesisnotconsidered.Anotherreasonforrequiringthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                20,
+                                200,
+                                847,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        20,
+                                        200,
+                                        847,
+                                        227
+                                    ],
+                                    "score": 0.981,
+                                    "content": "srimaryconnectivityconstraintsisthattheyimplythatmorepathscanbenefitfromthehigherqualityof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                801,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        801,
+                                        245
+                                    ],
+                                    "score": 0.998,
+                                    "content": "primarylinks.TherearemanypossiblevariationsoftheLAND-2Tproblemthatresultinnewproblems.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 5,
+                    "bbox_fs": [
+                        14,
+                        21,
+                        872,
+                        245
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        76,
+                        878,
+                        828
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                242,
+                                816,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        242,
+                                        816,
+                                        265
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Balakrishnanetal.[BMM94a]haveworkedwithaproblemsimilartotheLAND-2Twhereaminimumcost",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                839,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        839,
+                                        286
+                                    ],
+                                    "score": 0.99,
+                                    "content": "spanningtreethatcontainsanembeddedprimarysubtreeconnectingalltheprimarynodes(andoptionally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                825,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        825,
+                                        305
+                                    ],
+                                    "score": 0.994,
+                                    "content": "includ-ingsecondarynodes)hastobefound.AsintheLAND-2T,onecaninstalloneoftwoavailablecable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                299,
+                                875,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        299,
+                                        875,
+                                        327
+                                    ],
+                                    "score": 0.992,
+                                    "content": "technologiesforeacharc.Notethattheydividethesetof nodesintoprimaryandsecondarynodes.Theprimary",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                873,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        873,
+                                        347
+                                    ],
+                                    "score": 0.999,
+                                    "content": "nodeshavetobeconnectedtotheoriginnodebyprimaryarcs.Thesecondarynodescanbelinkedtotheorigin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                341,
+                                813,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        341,
+                                        813,
+                                        366
+                                    ],
+                                    "score": 0.992,
+                                    "content": "nodebyprimaryorsecondaryarcs.Theyhaveproposedadual-ascentalgorithmtofindanapproximate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                840,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        840,
+                                        384
+                                    ],
+                                    "score": 0.982,
+                                    "content": "solution.GouveiaandJanssen[GJ98]haveworkedwithasimilar problemthatisanextensionoftheminimal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                381,
+                                858,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        381,
+                                        858,
+                                        406
+                                    ],
+                                    "score": 0.987,
+                                    "content": "spanningtreeproblem,butwithtwocabletechnologiestoo.Themodelthattheyexplorehasgeneralizedhop",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                862,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        862,
+                                        425
+                                    ],
+                                    "score": 0.991,
+                                    "content": "constraintsand primaryconnectivityconstraints.Hopconstraintslimitthenumberoflinks(hops)betweenthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                420,
+                                812,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        420,
+                                        812,
+                                        447
+                                    ],
+                                    "score": 0.997,
+                                    "content": "rootnodeandanyterminalandmeasureinacertainwaythereliabilityofthetreenetwork.Theprimary",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                816,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        816,
+                                        465
+                                    ],
+                                    "score": 0.981,
+                                    "content": "connectivityconstraintsarethesame thatwedescribed above.TheproblemisshowntobeNP-hard and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                810,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        810,
+                                        485
+                                    ],
+                                    "score": 0.997,
+                                    "content": "procedurestoobtainlowerandupperboundsarepresented.Theyformulatetheproblemasadirected",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                802,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        802,
+                                        507
+                                    ],
+                                    "score": 0.993,
+                                    "content": "multicommodityflowmodel.Toderivelowerbounds theyuseLagrangeanrelaxationwithsubgradient",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                880,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        880,
+                                        525
+                                    ],
+                                    "score": 0.985,
+                                    "content": "optimization.ALagrangeanheuristicisdevelopedtoconstructfeasiblesolutions.Moreover,theydiscusseveral",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                522,
+                                838,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        522,
+                                        838,
+                                        545
+                                    ],
+                                    "score": 0.986,
+                                    "content": "diferentwaysofmodeling theprimaryconnectivityconstraints.Oneoutcomeof theirdiscussionisthatan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                878,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        878,
+                                        565
+                                    ],
+                                    "score": 0.992,
+                                    "content": "extendedandcompactrepresentationoftheconvexhullofdirectedrootedsubtreeswhentheunderlyinggraph",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                562,
+                                879,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        562,
+                                        879,
+                                        585
+                                    ],
+                                    "score": 0.993,
+                                    "content": "isseries-parallelcanbederived.DeJonghetal.[dJGL99]havealsoworkedwithacloselyrelatedprobleminwhich",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                872,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        872,
+                                        606
+                                    ],
+                                    "score": 0.997,
+                                    "content": "apairofnodeshastobelinkedbytwonodedisjointpathswithminimumtotalcostandtwocabletechnologies.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                603,
+                                855,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        603,
+                                        855,
+                                        623
+                                    ],
+                                    "score": 0.988,
+                                    "content": "ThisproblemisalitledifferentfromtheLAND-2Tsinceforeacharcofthenetworkthereisonlyoneavailable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                621,
+                                845,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        621,
+                                        845,
+                                        647
+                                    ],
+                                    "score": 0.987,
+                                    "content": "technology,thatis,eacharchasaspecifiedtechnologyandtherearearcsoftype1andarcsoftype2.Inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                641,
+                                855,
+                                664
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        641,
+                                        855,
+                                        664
+                                    ],
+                                    "score": 0.996,
+                                    "content": "LAND-2Tproblem,foreacharcwehavetwoavailabletechnologies.Theyalsoconsideratransitioncostthatis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                662,
+                                866,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        662,
+                                        866,
+                                        685
+                                    ],
+                                    "score": 0.986,
+                                    "content": "associatedwitheachnode.Thiscostisincurredonlywhenaflowentersandleavesthecorresponding nodeon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                682,
+                                841,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        682,
+                                        841,
+                                        705
+                                    ],
+                                    "score": 0.984,
+                                    "content": "arcsofdiferenttypes.Two heuristicswereproposedin[dJGL99]andalowerbounding procedurebasedon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                701,
+                                839,
+                                726
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        701,
+                                        839,
+                                        726
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Lagrangeanrelaxationisprovided.Theseproceduresareusedinabranch-and-boundstrategytosolvethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                721,
+                                861,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        721,
+                                        861,
+                                        747
+                                    ],
+                                    "score": 0.971,
+                                    "content": "problem.Inapreviouspaper,weworkedwiththelocalaccessnetworkdesignproblem[RM98].Inthisarticle,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                742,
+                                806,
+                                765
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        742,
+                                        806,
+                                        765
+                                    ],
+                                    "score": 0.997,
+                                    "content": "westudiedtwoformulationsoftheproblem:singlecommodityflowformulation;multicommodityflow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                761,
+                                836,
+                                784
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        761,
+                                        836,
+                                        784
+                                    ],
+                                    "score": 0.994,
+                                    "content": "formulation.TheproblemwassolvedexactlybyCPLEX(withthetwoformulations),byabranch-and-bound",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                782,
+                                850,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        782,
+                                        850,
+                                        806
+                                    ],
+                                    "score": 0.993,
+                                    "content": "algorithm,byabranch-and-cutalgorithmandbyaBendersdecomposition.ThesuccessobtainedbyBenders",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                802,
+                                735,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        802,
+                                        735,
+                                        825
+                                    ],
+                                    "score": 0.973,
+                                    "content": "decomposition tosolve thisproblem has inducedus toextend thealgorithmdeveloped tothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 25,
+                    "bbox_fs": [
+                        14,
+                        242,
+                        880,
+                        825
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

@@ -1,0 +1,96 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        11,
+                        19,
+                        654,
+                        853
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                11,
+                                19,
+                                654,
+                                853
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        11,
+                                        19,
+                                        654,
+                                        853
+                                    ],
+                                    "score": 1.0,
+                                    "content": "has already been published in other issues of the Speaker, it won't all be repeated here. One of the mysteries about the turntable was how it used a beam of light to trace the groove—especially since LPs contain musically significant groove modula-tions whose amplitude is smaller than the wavelength of light. The Finial system is not the interferometer that Mitchell had suspected; it simply detects the angle of re-flection. A slit-like beam of light is projected across the groove so that the upper part of the beam falls on the \"land\" at the top of the groove, while the lower half falls on the groove wall. The reflection off the land is detected and used by a servo to maintain the optical system at a constant height above the surface of the record. The re-flection off the groove wall is detected and forms the analog audio signal. The key to the system is the \"position-sensitive detectors,\" or PSDs. Each is a long narrow row of CCD elements similar to those in a video camera. The scanning circuits associated with the CCD array produce two voltages, one proportional to the position of a cell along the row (X) and another proportional to the intensity of the light striking that cell (I). By multiplying X times I and adding, the circuit calculates the intensity-weighted average position of the reflected image, with an accuracy of about one-tenth the width of the spot. From the ge- ometry of the situation, it is easy to show that X is proportional to the tangent of 2A (where A is the groove- modulation angle), and for normally small angles it is linearly proportional to the groove-modulation velocity (which is what the mechanical stylus in a conventional magnetic pickup detects). This method has one obvious limitation. The angle between the projected laser beam and its reflection is twice the groove modulation angle. With normal modu- lations this is fine, but if the groove angle exceeds 45 de- grees the reflection angle exceeds 90 degrees, meaning that the reflection never makes it back across the groove to the detector. In fact, as Finial admitted, the PSD ac- commodates groove angles only up to 38 degrees; larger modulations are handled by a different technique. (They didn't explain it; this part of the turntable's operation remains a mystery.) The Finial turntable has a full complement of CD-like controls that provide automatic cueing to the start of any band, elapsed- and remaining-time display, pro- grammed random-access playback, automatic repeat, and other conveniences. And it contains a tick-and-pop suppressor that works very well. The playback speed is continuously adjustable from 33 to 50 rpm. It won't handle 78s, but there is strong demand for a future ver- sion that would—if the player ever sees the light of day. Would the laser turntable be popular among audio- philes? Mitchell and Moran guessed that it might get the same reception as the Shure V-15 cartridge, respected for its accuracy but lacking the euphonious qualities of the best MC pickups. (This prompted Micha Shattner to observe-serve that in comparing two pickups that are identical except for stylus shape—conical vs. van den Hul—the main difference, surprisingly, seemed not to be in the highs but in low/ midrange definition, perhaps because of a difference in the way the stylus sinks into the groove wall.) Blind listening tests David Clark organized blind listening tests at the AES convention. In one, three amplifiers were compared (a Crown pro model, a VTL tube amp, and a Threshold FET amp), driving large Infinity speakers. In another, Belden 10-gauge and Monster M1000 speaker cable were compared. In a third, Peter Sutheim switched varying amounts of phase shift and nonlinear distortion into the signal path. About half of the total population of engi-neers guessed correctly in the amp and cable compar- isons, a result consistent with random guessing. But a small subset of listeners scored very high, supporting their own claim to hear cable and amp differences reliably. At the end of the convention these results were dis- cussed by panelists seated left to right as follows: Noel Lee (Motor), Michael Fremer (The Absolute Sound), Ian Eales (a cable believer), Peter Sutheim, Eugene Pitts, Richard Greiner, and Floyd Toole. Clark said this seating order was accidental, but nobody believed him. The two-hour discussion was argumentative, unrevealing, and inconclusive. Audience \"questions\" were mostly speeches defending pro or anti ideologies. The only agreement that emerged was that people who report hearing cable and amp differences should become part of a controlled testing program to find out what they are hearing. One interesting point emerged from the panel discuss- sion: Monster doesn't design cables, it's just a marketing company. Monster hires outside consultants like Bruce Brisson to design cables; Noel Lee listens to prototype designs and makes decisions purely by subjective lis- tening. Apparently he is one of those people acutely sen- sitive to cable differences. When he hears a design that he likes, Monster farms out the production to a wire- manufacturing company. So it's not surprising that Monster has never tried to document any scientific basis for its performance claims; the company has no engi- neering staff or measuring labs. Noel Lee knows of no measurement that correlates with the differences that he hears; he referred questions on that subject to a consul- tant, a youngish Oriental who claimed that audible dif- ferences among cables are due to measured differences in time dispersion on the order of 0.1 microsecond. Bris- son's ads for his MIT cables make the same claim, but that time-scale corresponds to frequencies around 10 MHz, not to audio. Monster's current marketing cam- paign for microphone cable is based on testimonials from recognized engineers who have tried the cable and liked it. Jack Mullin Historical Exhibit Entering Germany at the end of World War II, Sgt. Jack Mullin of the Army Signal Corps discovered Mag- netophon tape decks, the first recorders that used ac bias page 6 The BAS Speaker • volume 17 number 2",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                675.0,
+                867.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        11,
+                        19,
+                        654,
+                        853
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                11,
+                                19,
+                                654,
+                                853
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        11,
+                                        19,
+                                        654,
+                                        853
+                                    ],
+                                    "score": 1.0,
+                                    "content": "has already been published in other issues of the Speaker, it won't all be repeated here. One of the mysteries about the turntable was how it used a beam of light to trace the groove—especially since LPs contain musically significant groove modula-tions whose amplitude is smaller than the wavelength of light. The Finial system is not the interferometer that Mitchell had suspected; it simply detects the angle of re-flection. A slit-like beam of light is projected across the groove so that the upper part of the beam falls on the \"land\" at the top of the groove, while the lower half falls on the groove wall. The reflection off the land is detected and used by a servo to maintain the optical system at a constant height above the surface of the record. The re-flection off the groove wall is detected and forms the analog audio signal. The key to the system is the \"position-sensitive detectors,\" or PSDs. Each is a long narrow row of CCD elements similar to those in a video camera. The scanning circuits associated with the CCD array produce two voltages, one proportional to the position of a cell along the row (X) and another proportional to the intensity of the light striking that cell (I). By multiplying X times I and adding, the circuit calculates the intensity-weighted average position of the reflected image, with an accuracy of about one-tenth the width of the spot. From the ge- ometry of the situation, it is easy to show that X is proportional to the tangent of 2A (where A is the groove- modulation angle), and for normally small angles it is linearly proportional to the groove-modulation velocity (which is what the mechanical stylus in a conventional magnetic pickup detects). This method has one obvious limitation. The angle between the projected laser beam and its reflection is twice the groove modulation angle. With normal modu- lations this is fine, but if the groove angle exceeds 45 de- grees the reflection angle exceeds 90 degrees, meaning that the reflection never makes it back across the groove to the detector. In fact, as Finial admitted, the PSD ac- commodates groove angles only up to 38 degrees; larger modulations are handled by a different technique. (They didn't explain it; this part of the turntable's operation remains a mystery.) The Finial turntable has a full complement of CD-like controls that provide automatic cueing to the start of any band, elapsed- and remaining-time display, pro- grammed random-access playback, automatic repeat, and other conveniences. And it contains a tick-and-pop suppressor that works very well. The playback speed is continuously adjustable from 33 to 50 rpm. It won't handle 78s, but there is strong demand for a future ver- sion that would—if the player ever sees the light of day. Would the laser turntable be popular among audio- philes? Mitchell and Moran guessed that it might get the same reception as the Shure V-15 cartridge, respected for its accuracy but lacking the euphonious qualities of the best MC pickups. (This prompted Micha Shattner to observe-serve that in comparing two pickups that are identical except for stylus shape—conical vs. van den Hul—the main difference, surprisingly, seemed not to be in the highs but in low/ midrange definition, perhaps because of a difference in the way the stylus sinks into the groove wall.) Blind listening tests David Clark organized blind listening tests at the AES convention. In one, three amplifiers were compared (a Crown pro model, a VTL tube amp, and a Threshold FET amp), driving large Infinity speakers. In another, Belden 10-gauge and Monster M1000 speaker cable were compared. In a third, Peter Sutheim switched varying amounts of phase shift and nonlinear distortion into the signal path. About half of the total population of engi-neers guessed correctly in the amp and cable compar- isons, a result consistent with random guessing. But a small subset of listeners scored very high, supporting their own claim to hear cable and amp differences reliably. At the end of the convention these results were dis- cussed by panelists seated left to right as follows: Noel Lee (Motor), Michael Fremer (The Absolute Sound), Ian Eales (a cable believer), Peter Sutheim, Eugene Pitts, Richard Greiner, and Floyd Toole. Clark said this seating order was accidental, but nobody believed him. The two-hour discussion was argumentative, unrevealing, and inconclusive. Audience \"questions\" were mostly speeches defending pro or anti ideologies. The only agreement that emerged was that people who report hearing cable and amp differences should become part of a controlled testing program to find out what they are hearing. One interesting point emerged from the panel discuss- sion: Monster doesn't design cables, it's just a marketing company. Monster hires outside consultants like Bruce Brisson to design cables; Noel Lee listens to prototype designs and makes decisions purely by subjective lis- tening. Apparently he is one of those people acutely sen- sitive to cable differences. When he hears a design that he likes, Monster farms out the production to a wire- manufacturing company. So it's not surprising that Monster has never tried to document any scientific basis for its performance claims; the company has no engi- neering staff or measuring labs. Noel Lee knows of no measurement that correlates with the differences that he hears; he referred questions on that subject to a consul- tant, a youngish Oriental who claimed that audible dif- ferences among cables are due to measured differences in time dispersion on the order of 0.1 microsecond. Bris- son's ads for his MIT cables make the same claim, but that time-scale corresponds to frequencies around 10 MHz, not to audio. Monster's current marketing cam- paign for microphone cable is based on testimonials from recognized engineers who have tried the cable and liked it. Jack Mullin Historical Exhibit Entering Germany at the end of World War II, Sgt. Jack Mullin of the Army Signal Corps discovered Mag- netophon tape decks, the first recorders that used ac bias page 6 The BAS Speaker • volume 17 number 2",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        675.0,
+                        867.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.1.0"
+}

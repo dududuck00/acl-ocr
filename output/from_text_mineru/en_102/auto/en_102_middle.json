@@ -1,0 +1,1368 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        875,
+                        631
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                21,
+                                853,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        21,
+                                        853,
+                                        45
+                                    ],
+                                    "score": 0.993,
+                                    "content": "37normativeproperty.Thestorycannotbethatwewereexposedtoverbalexhortationsinpreviouslivesand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                822,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        822,
+                                        65
+                                    ],
+                                    "score": 0.991,
+                                    "content": "thusbecameawareofto-be-done-ness.Forthatstorydoesnot explainwhyweonlyselectivelyremember",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                63,
+                                850,
+                                83
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        63,
+                                        850,
+                                        83
+                                    ],
+                                    "score": 0.993,
+                                    "content": "to-be-donenessbutnotthelinguisticexpressionsthatrefertoitortherelevantsemanticrelations.And,ifwe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                80,
+                                810,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        80,
+                                        810,
+                                        105
+                                    ],
+                                    "score": 0.977,
+                                    "content": "couldremember not onlyto-be-done-ness,butalso theseexpressionsand theirsemanticrelations with",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                102,
+                                878,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        102,
+                                        878,
+                                        125
+                                    ],
+                                    "score": 0.984,
+                                    "content": "to-be-done-ness,thenitwouldbehardtoexplainwhyweeverneedtolearnwhattheseexpressionsmean.Thus,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                122,
+                                860,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        122,
+                                        860,
+                                        145
+                                    ],
+                                    "score": 0.995,
+                                    "content": "theepistemologicalmysteryaroundto-be-done-nessremainsunsolved.58Giventhisproblem,Mandanacould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                141,
+                                862,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        141,
+                                        862,
+                                        166
+                                    ],
+                                    "score": 0.982,
+                                    "content": "insistthattheobjectofpratibha,i.e,to-be-done-ness,isnothingotherthanthepropertyofbeingameanstoa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                850,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        850,
+                                        187
+                                    ],
+                                    "score": 0.977,
+                                    "content": "desiredend.AsMandanahimselfnotes,hisowntheory-onwhichanawarenessofthislatterpropertygives",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                180,
+                                864,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        180,
+                                        864,
+                                        207
+                                    ],
+                                    "score": 0.99,
+                                    "content": "risetoactions-doesnoworsethanhisopponent'sinexplaininghowchildrenandotherlanguagelessanimals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                201,
+                                846,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        201,
+                                        846,
+                                        225
+                                    ],
+                                    "score": 0.985,
+                                    "content": "performvariousskiledactivitieswithoutanyinstructionorantecedent observation.Hesays:Justas[onyour",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                221,
+                                814,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        221,
+                                        814,
+                                        245
+                                    ],
+                                    "score": 0.988,
+                                    "content": "view]temporalyremotelanguageisthecauseofpratibhainchildren,birds,etc.duetothecontinuityof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                866,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        866,
+                                        266
+                                    ],
+                                    "score": 0.974,
+                                    "content": "impressions,whyshalitnotbeacceptedthatthesamekindofawarenesswithrespecttoameans is thecause",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                860,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        860,
+                                        286
+                                    ],
+                                    "score": 0.988,
+                                    "content": "ofundertakingorrefrainingfromactionduetothecontinuityofimpressions?Anddifferenceswithrespectto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                281,
+                                812,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        281,
+                                        812,
+                                        307
+                                    ],
+                                    "score": 0.978,
+                                    "content": "species,etc.awaken theimpressions leftbytheawarenessofameansjustastheyawakenthelinguistic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                301,
+                                782,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        301,
+                                        782,
+                                        326
+                                    ],
+                                    "score": 0.989,
+                                    "content": "impressions[onyourview].59Thepointisthatwedonotneedlinguisticimpressionstoexplainhow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                863,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        863,
+                                        345
+                                    ],
+                                    "score": 0.998,
+                                    "content": "languagelessanimalsandchildrenperformvariousactionswithoutanyinstructionorantecedentobservation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                339,
+                                852,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        339,
+                                        852,
+                                        366
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Wecansimplyassumethatsuchactionsareproducedbyanawareness ofthoseactionsasmeanstodesired",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                853,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        853,
+                                        385
+                                    ],
+                                    "score": 0.988,
+                                    "content": "ends.Howdoesthatarise?Justastheopponentappeals tolinguisticimpressionstoexplaintheawarenessof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                866,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        866,
+                                        405
+                                    ],
+                                    "score": 0.991,
+                                    "content": "to-be-done-nes,soalsocanweappealtoimpressionsormemorytracesleftinourpastlivesbytheawareness",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                866,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        866,
+                                        425
+                                    ],
+                                    "score": 0.997,
+                                    "content": "oftherelevantactionsasmeanstodesiredends.So,thereisnoneedforustothinkthattheobjectofpratibha",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                855,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        855,
+                                        445
+                                    ],
+                                    "score": 0.996,
+                                    "content": "isanythingotherthanthepropertyofbeingameanstoadesiredend.Letustakestock.Mandanahasshown",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                861,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        861,
+                                        467
+                                    ],
+                                    "score": 0.975,
+                                    "content": "twothingssofar.Ontheonehand,hehasnoted,using hisopponentasamouthpiece,thatwesometimesact",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                840,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        840,
+                                        487
+                                    ],
+                                    "score": 0.992,
+                                    "content": "justonthebasisofthejudgementthatsomethingistobedone,withoutconsideringexplicitlywhetherthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                878,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        878,
+                                        507
+                                    ],
+                                    "score": 0.989,
+                                    "content": "actionisameanstoanyendwedesire.Casesofskilledunreflectiveactivitiesperformedbychildrenandanimals,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                499,
+                                858,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        499,
+                                        858,
+                                        530
+                                    ],
+                                    "score": 0.821,
+                                    "content": "e.g.,suckling,dsong,etc.upporttisintutionOntheotherhndwevenogoodepistemologicaltory",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                866,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        866,
+                                        547
+                                    ],
+                                    "score": 0.982,
+                                    "content": "abouthowwebecomeawareofto-be-done-nessatleastif thepropertyisirreduciblynormative.Then,theonly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                540,
+                                861,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        540,
+                                        861,
+                                        566
+                                    ],
+                                    "score": 0.977,
+                                    "content": "wayofpreservingtheintuitionsaboutcasesofskilled58VVSs11.9,563.9-20andVVMG213.4-6and214.1-4.59",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                560,
+                                867,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        560,
+                                        867,
+                                        586
+                                    ],
+                                    "score": 0.981,
+                                    "content": "VVS11.6,540.24-25-541.1-2:sisusakuntadinamyathaviprakrstahsabdonimittambhavananugamatpratibhayah",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                580,
+                                773,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        580,
+                                        773,
+                                        608
+                                    ],
+                                    "score": 0.985,
+                                    "content": "tathatadrsamevopayajnanampravrttnivrtinibandhanambhavananugamamukhenakimnesyate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                604,
+                                850,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        604,
+                                        850,
+                                        627
+                                    ],
+                                    "score": 0.976,
+                                    "content": "jativisesadayascasabdabhavanayaivopayajnanabhavanayahprabodhakah|Foravariant,seeVMG202.4-6.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 14.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                639
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        875,
+                        631
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                21,
+                                853,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        21,
+                                        853,
+                                        45
+                                    ],
+                                    "score": 0.993,
+                                    "content": "37normativeproperty.Thestorycannotbethatwewereexposedtoverbalexhortationsinpreviouslivesand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                822,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        822,
+                                        65
+                                    ],
+                                    "score": 0.991,
+                                    "content": "thusbecameawareofto-be-done-ness.Forthatstorydoesnot explainwhyweonlyselectivelyremember",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                63,
+                                850,
+                                83
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        63,
+                                        850,
+                                        83
+                                    ],
+                                    "score": 0.993,
+                                    "content": "to-be-donenessbutnotthelinguisticexpressionsthatrefertoitortherelevantsemanticrelations.And,ifwe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                80,
+                                810,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        80,
+                                        810,
+                                        105
+                                    ],
+                                    "score": 0.977,
+                                    "content": "couldremember not onlyto-be-done-ness,butalso theseexpressionsand theirsemanticrelations with",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                102,
+                                878,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        102,
+                                        878,
+                                        125
+                                    ],
+                                    "score": 0.984,
+                                    "content": "to-be-done-ness,thenitwouldbehardtoexplainwhyweeverneedtolearnwhattheseexpressionsmean.Thus,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                122,
+                                860,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        122,
+                                        860,
+                                        145
+                                    ],
+                                    "score": 0.995,
+                                    "content": "theepistemologicalmysteryaroundto-be-done-nessremainsunsolved.58Giventhisproblem,Mandanacould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                141,
+                                862,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        141,
+                                        862,
+                                        166
+                                    ],
+                                    "score": 0.982,
+                                    "content": "insistthattheobjectofpratibha,i.e,to-be-done-ness,isnothingotherthanthepropertyofbeingameanstoa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                850,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        850,
+                                        187
+                                    ],
+                                    "score": 0.977,
+                                    "content": "desiredend.AsMandanahimselfnotes,hisowntheory-onwhichanawarenessofthislatterpropertygives",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                180,
+                                864,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        180,
+                                        864,
+                                        207
+                                    ],
+                                    "score": 0.99,
+                                    "content": "risetoactions-doesnoworsethanhisopponent'sinexplaininghowchildrenandotherlanguagelessanimals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                201,
+                                846,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        201,
+                                        846,
+                                        225
+                                    ],
+                                    "score": 0.985,
+                                    "content": "performvariousskiledactivitieswithoutanyinstructionorantecedent observation.Hesays:Justas[onyour",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                221,
+                                814,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        221,
+                                        814,
+                                        245
+                                    ],
+                                    "score": 0.988,
+                                    "content": "view]temporalyremotelanguageisthecauseofpratibhainchildren,birds,etc.duetothecontinuityof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                866,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        866,
+                                        266
+                                    ],
+                                    "score": 0.974,
+                                    "content": "impressions,whyshalitnotbeacceptedthatthesamekindofawarenesswithrespecttoameans is thecause",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                860,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        860,
+                                        286
+                                    ],
+                                    "score": 0.988,
+                                    "content": "ofundertakingorrefrainingfromactionduetothecontinuityofimpressions?Anddifferenceswithrespectto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                281,
+                                812,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        281,
+                                        812,
+                                        307
+                                    ],
+                                    "score": 0.978,
+                                    "content": "species,etc.awaken theimpressions leftbytheawarenessofameansjustastheyawakenthelinguistic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                301,
+                                782,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        301,
+                                        782,
+                                        326
+                                    ],
+                                    "score": 0.989,
+                                    "content": "impressions[onyourview].59Thepointisthatwedonotneedlinguisticimpressionstoexplainhow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                863,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        863,
+                                        345
+                                    ],
+                                    "score": 0.998,
+                                    "content": "languagelessanimalsandchildrenperformvariousactionswithoutanyinstructionorantecedentobservation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                339,
+                                852,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        339,
+                                        852,
+                                        366
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Wecansimplyassumethatsuchactionsareproducedbyanawareness ofthoseactionsasmeanstodesired",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                853,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        853,
+                                        385
+                                    ],
+                                    "score": 0.988,
+                                    "content": "ends.Howdoesthatarise?Justastheopponentappeals tolinguisticimpressionstoexplaintheawarenessof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                866,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        866,
+                                        405
+                                    ],
+                                    "score": 0.991,
+                                    "content": "to-be-done-nes,soalsocanweappealtoimpressionsormemorytracesleftinourpastlivesbytheawareness",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                866,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        866,
+                                        425
+                                    ],
+                                    "score": 0.997,
+                                    "content": "oftherelevantactionsasmeanstodesiredends.So,thereisnoneedforustothinkthattheobjectofpratibha",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                855,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        855,
+                                        445
+                                    ],
+                                    "score": 0.996,
+                                    "content": "isanythingotherthanthepropertyofbeingameanstoadesiredend.Letustakestock.Mandanahasshown",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                861,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        861,
+                                        467
+                                    ],
+                                    "score": 0.975,
+                                    "content": "twothingssofar.Ontheonehand,hehasnoted,using hisopponentasamouthpiece,thatwesometimesact",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                840,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        840,
+                                        487
+                                    ],
+                                    "score": 0.992,
+                                    "content": "justonthebasisofthejudgementthatsomethingistobedone,withoutconsideringexplicitlywhetherthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                878,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        878,
+                                        507
+                                    ],
+                                    "score": 0.989,
+                                    "content": "actionisameanstoanyendwedesire.Casesofskilledunreflectiveactivitiesperformedbychildrenandanimals,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                499,
+                                858,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        499,
+                                        858,
+                                        530
+                                    ],
+                                    "score": 0.821,
+                                    "content": "e.g.,suckling,dsong,etc.upporttisintutionOntheotherhndwevenogoodepistemologicaltory",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                866,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        866,
+                                        547
+                                    ],
+                                    "score": 0.982,
+                                    "content": "abouthowwebecomeawareofto-be-done-nessatleastif thepropertyisirreduciblynormative.Then,theonly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                540,
+                                861,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        540,
+                                        861,
+                                        566
+                                    ],
+                                    "score": 0.977,
+                                    "content": "wayofpreservingtheintuitionsaboutcasesofskilled58VVSs11.9,563.9-20andVVMG213.4-6and214.1-4.59",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                560,
+                                867,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        560,
+                                        867,
+                                        586
+                                    ],
+                                    "score": 0.981,
+                                    "content": "VVS11.6,540.24-25-541.1-2:sisusakuntadinamyathaviprakrstahsabdonimittambhavananugamatpratibhayah",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                580,
+                                773,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        580,
+                                        773,
+                                        608
+                                    ],
+                                    "score": 0.985,
+                                    "content": "tathatadrsamevopayajnanampravrttnivrtinibandhanambhavananugamamukhenakimnesyate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                604,
+                                850,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        604,
+                                        850,
+                                        627
+                                    ],
+                                    "score": 0.976,
+                                    "content": "jativisesadayascasabdabhavanayaivopayajnanabhavanayahprabodhakah|Foravariant,seeVMG202.4-6.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 14.5,
+                    "bbox_fs": [
+                        13,
+                        21,
+                        878,
+                        627
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

@@ -1,0 +1,1720 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        5,
+                        883,
+                        698
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                20,
+                                867,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        20,
+                                        867,
+                                        47
+                                    ],
+                                    "score": 0.976,
+                                    "content": "MotionforapprovalmadebyTrusteeGainoandsecondedbyTrusteeLowery.RollCallVote:TrusteeGaffino-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                40,
+                                861,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        40,
+                                        861,
+                                        66
+                                    ],
+                                    "score": 0.936,
+                                    "content": "yes,TrusteeLowery-yes,TrusteeCurtis-yes,TrusteeMartine-yes,TrusteeGuethle-yes.Motionapproved",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                870,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        870,
+                                        86
+                                    ],
+                                    "score": 0.987,
+                                    "content": "(5-0).NEWBUSINESS1.ApprovalofanOrdinanceamendingTitle6oftheNorthAuroraCodeRegardingAnimals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                855,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        855,
+                                        106
+                                    ],
+                                    "score": 0.989,
+                                    "content": "TheVillageBoarddiscussedthisatthelastVilageBoardmeetingonAugust19th.TheBoardwascomfortable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                99,
+                                853,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        99,
+                                        853,
+                                        127
+                                    ],
+                                    "score": 0.996,
+                                    "content": "withthealotmentoffouranimalswithnospecieregulationsinregardstothenumberofonespecificspecie.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                120,
+                                867,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        120,
+                                        867,
+                                        147
+                                    ],
+                                    "score": 0.976,
+                                    "content": "Therewasalotofdiscussionat thelastmeeting inregardtoemotionalsupportanimals.Mostrevolved around",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                850,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        850,
+                                        165
+                                    ],
+                                    "score": 0.99,
+                                    "content": "thehesitancyofallowingfarmanimalsasemotionalsupportanimals.Thedraftordinancehasbeenupdated.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                161,
+                                880,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        161,
+                                        880,
+                                        185
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Changesincluderemovalofthelanguageintermsoftheweightlimitationofanimalsnon-nativetotheAmerican",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                831,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        831,
+                                        205
+                                    ],
+                                    "score": 0.988,
+                                    "content": "continent.Limitingserviceofemotionalsupportanimals'exemptiontoducks,swineandminiaturehorses.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                858,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        858,
+                                        227
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Specificconditionsweremadefortheliving conditionforducks,swineandminiaturehorses.Addedlanguage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                221,
+                                829,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        221,
+                                        829,
+                                        246
+                                    ],
+                                    "score": 0.99,
+                                    "content": "regardingthe“atlarge\"provisionsaswellasthegrandfatheredclause.Tothnotedthatifagrandfathered",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                240,
+                                855,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        240,
+                                        855,
+                                        264
+                                    ],
+                                    "score": 0.984,
+                                    "content": "animalpasses,if thatnumberexceededfouranimals,theownercouldnotreplacethat grandfatheredanimal.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                260,
+                                858,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        260,
+                                        858,
+                                        287
+                                    ],
+                                    "score": 0.979,
+                                    "content": "MotionforapprovalmadebyTrusteeCurtisandsecondedbyTrusteeLowery.RollCallVote:TrusteeGaffino-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                280,
+                                861,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        280,
+                                        861,
+                                        307
+                                    ],
+                                    "score": 0.906,
+                                    "content": "yes,TrusteeLowery-yes,TrusteeCurtis-yes,TrusteeMartine-yes,TrusteeGuethle-yes.Motionapproved",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                302,
+                                876,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        302,
+                                        876,
+                                        325
+                                    ],
+                                    "score": 0.993,
+                                    "content": "(5-0).2.ApprovalofanOrdinanceAmendingTitle3oftheNorthAuroraCodebyAddingChapter3.18Imposinga",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                322,
+                                878,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        322,
+                                        878,
+                                        344
+                                    ],
+                                    "score": 0.985,
+                                    "content": "MunicipalCannabis Retailers'OccupationTaxFinanceDirectorBillHannahstatedthatthenewstatelawprovides",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                874,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        874,
+                                        366
+                                    ],
+                                    "score": 0.993,
+                                    "content": "recreationalcannabisbesubjectonormalstatetaxesplusanumberofotherstatetaxes.Amunicipalityhasthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                359,
+                                826,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        359,
+                                        366,
+                                        388
+                                    ],
+                                    "score": 0.963,
+                                    "content": "optionof implementingalocal sales taxupto",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        367,
+                                        362,
+                                        392,
+                                        381
+                                    ],
+                                    "score": 0.83,
+                                    "content": "3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        392,
+                                        359,
+                                        826,
+                                        388
+                                    ],
+                                    "score": 0.977,
+                                    "content": "inquarterpercent increments.Thisnewtaxing option is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                861,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        861,
+                                        405
+                                    ],
+                                    "score": 0.981,
+                                    "content": "currentlynotscheduledtobealoweduntilSeptember1,2020,buttherehasbeenmentionthatthereisfuture",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                399,
+                                867,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        399,
+                                        867,
+                                        427
+                                    ],
+                                    "score": 0.984,
+                                    "content": "considerationforlegislationwhichwouldallowforthistobeineffectonJanuary1,2020.Sincethereisa90day",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                878,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        878,
+                                        446
+                                    ],
+                                    "score": 0.995,
+                                    "content": "taxratechangethatcanbemade,theVillagewouldneedtoconsiderthistaxordinanceinSeptemberinorderto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                873,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        873,
+                                        466
+                                    ],
+                                    "score": 0.974,
+                                    "content": "filebySeptember3Oth.MotionforapprovalmadebyTrusteeGaffinoandsecondedbyTrusteeGuethle.Trustee",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                459,
+                                845,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        459,
+                                        845,
+                                        487
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Curtisaskedifthiswouldalsoapplytothesaleofmedicalmarijuana.Hannahsaidthisordinancewouldonly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                481,
+                                862,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        481,
+                                        862,
+                                        507
+                                    ],
+                                    "score": 0.953,
+                                    "content": "applytorecreationalcannabis.Roli CallVote:TrusteeGaffino-yes,Trustee-Lowery-yes,TrusteeCurtis-yes,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                501,
+                                875,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        501,
+                                        875,
+                                        525
+                                    ],
+                                    "score": 0.991,
+                                    "content": "TrusteeGuethle-yes,TrusteeMartinez-yes.Motionapproved(5-0).3.ApprovaltoAwardVilageWideNetwork",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                518,
+                                833,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        518,
+                                        520,
+                                        547
+                                    ],
+                                    "score": 0.977,
+                                    "content": "HardwareReplacement BidtoCCCTechnologiesinthe Amountof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        520,
+                                        522,
+                                        603,
+                                        542
+                                    ],
+                                    "score": 0.49,
+                                    "content": "\\$ 24,455,70",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        603,
+                                        518,
+                                        833,
+                                        547
+                                    ],
+                                    "score": 0.984,
+                                    "content": "Motion forapprovalmadeby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                541,
+                                878,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        541,
+                                        878,
+                                        565
+                                    ],
+                                    "score": 0.971,
+                                    "content": "TrusteeLoweryandsecondedbyTrusteeCurtis.RollCallVote:TrusteeLowery-yes,TrusteeCurtis-yes,Trustee",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                856,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        856,
+                                        586
+                                    ],
+                                    "score": 0.964,
+                                    "content": "Gaffino-yes,TrusteeMartinez-yes,TrusteeGuethle-yes.Motionapproved(5-0).4.ApprovaltoAwardaBid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                579,
+                                875,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        579,
+                                        585,
+                                        607
+                                    ],
+                                    "score": 0.99,
+                                    "content": "forRelocationofSullivanRoadWaterMaintoLUCGroupintheAmountof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        585,
+                                        582,
+                                        669,
+                                        601
+                                    ],
+                                    "score": 0.54,
+                                    "content": "\\$ 64,150.00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        669,
+                                        579,
+                                        875,
+                                        607
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Motionforapprovalmade",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                599,
+                                838,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        599,
+                                        838,
+                                        626
+                                    ],
+                                    "score": 0.988,
+                                    "content": "byTrusteeLoweryandsecondedbyTrusteeCurtis.RollCallVote:TrusteeLowery-yes,TrusteeCurtis-yes,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                621,
+                                873,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        621,
+                                        873,
+                                        645
+                                    ],
+                                    "score": 0.979,
+                                    "content": "TrusteeGaffino-yes,TrusteeMartinez-yes,TrusteeGuethle-yes.Motionapproved(5-0).5.ApprovaltoReject",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                639,
+                                861,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        639,
+                                        861,
+                                        665
+                                    ],
+                                    "score": 0.985,
+                                    "content": "allBidsforWellsNo.8and9ContractC-SiteWorkandElectricalFacilitiesPublicWorksDirectorjohnLaskowski",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                659,
+                                848,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        659,
+                                        525,
+                                        686
+                                    ],
+                                    "score": 0.991,
+                                    "content": "informedtheBoardthatonlyonebidcamebackanditwasalmost",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        526,
+                                        662,
+                                        596,
+                                        682
+                                    ],
+                                    "score": 0.63,
+                                    "content": "\\$ 275,000",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        596,
+                                        659,
+                                        848,
+                                        686
+                                    ],
+                                    "score": 0.97,
+                                    "content": "higherthanengineer'sestimate.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                311,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        311,
+                                        704
+                                    ],
+                                    "score": 0.955,
+                                    "content": "Staffdecided tosplit the twoactivities",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                716
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        5,
+                        883,
+                        698
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                20,
+                                867,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        20,
+                                        867,
+                                        47
+                                    ],
+                                    "score": 0.976,
+                                    "content": "MotionforapprovalmadebyTrusteeGainoandsecondedbyTrusteeLowery.RollCallVote:TrusteeGaffino-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                40,
+                                861,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        40,
+                                        861,
+                                        66
+                                    ],
+                                    "score": 0.936,
+                                    "content": "yes,TrusteeLowery-yes,TrusteeCurtis-yes,TrusteeMartine-yes,TrusteeGuethle-yes.Motionapproved",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                870,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        870,
+                                        86
+                                    ],
+                                    "score": 0.987,
+                                    "content": "(5-0).NEWBUSINESS1.ApprovalofanOrdinanceamendingTitle6oftheNorthAuroraCodeRegardingAnimals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                855,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        855,
+                                        106
+                                    ],
+                                    "score": 0.989,
+                                    "content": "TheVillageBoarddiscussedthisatthelastVilageBoardmeetingonAugust19th.TheBoardwascomfortable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                99,
+                                853,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        99,
+                                        853,
+                                        127
+                                    ],
+                                    "score": 0.996,
+                                    "content": "withthealotmentoffouranimalswithnospecieregulationsinregardstothenumberofonespecificspecie.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                120,
+                                867,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        120,
+                                        867,
+                                        147
+                                    ],
+                                    "score": 0.976,
+                                    "content": "Therewasalotofdiscussionat thelastmeeting inregardtoemotionalsupportanimals.Mostrevolved around",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                850,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        850,
+                                        165
+                                    ],
+                                    "score": 0.99,
+                                    "content": "thehesitancyofallowingfarmanimalsasemotionalsupportanimals.Thedraftordinancehasbeenupdated.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                161,
+                                880,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        161,
+                                        880,
+                                        185
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Changesincluderemovalofthelanguageintermsoftheweightlimitationofanimalsnon-nativetotheAmerican",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                831,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        831,
+                                        205
+                                    ],
+                                    "score": 0.988,
+                                    "content": "continent.Limitingserviceofemotionalsupportanimals'exemptiontoducks,swineandminiaturehorses.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                858,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        858,
+                                        227
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Specificconditionsweremadefortheliving conditionforducks,swineandminiaturehorses.Addedlanguage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                221,
+                                829,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        221,
+                                        829,
+                                        246
+                                    ],
+                                    "score": 0.99,
+                                    "content": "regardingthe“atlarge\"provisionsaswellasthegrandfatheredclause.Tothnotedthatifagrandfathered",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                240,
+                                855,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        240,
+                                        855,
+                                        264
+                                    ],
+                                    "score": 0.984,
+                                    "content": "animalpasses,if thatnumberexceededfouranimals,theownercouldnotreplacethat grandfatheredanimal.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                260,
+                                858,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        260,
+                                        858,
+                                        287
+                                    ],
+                                    "score": 0.979,
+                                    "content": "MotionforapprovalmadebyTrusteeCurtisandsecondedbyTrusteeLowery.RollCallVote:TrusteeGaffino-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                280,
+                                861,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        280,
+                                        861,
+                                        307
+                                    ],
+                                    "score": 0.906,
+                                    "content": "yes,TrusteeLowery-yes,TrusteeCurtis-yes,TrusteeMartine-yes,TrusteeGuethle-yes.Motionapproved",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                302,
+                                876,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        302,
+                                        876,
+                                        325
+                                    ],
+                                    "score": 0.993,
+                                    "content": "(5-0).2.ApprovalofanOrdinanceAmendingTitle3oftheNorthAuroraCodebyAddingChapter3.18Imposinga",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                322,
+                                878,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        322,
+                                        878,
+                                        344
+                                    ],
+                                    "score": 0.985,
+                                    "content": "MunicipalCannabis Retailers'OccupationTaxFinanceDirectorBillHannahstatedthatthenewstatelawprovides",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                874,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        874,
+                                        366
+                                    ],
+                                    "score": 0.993,
+                                    "content": "recreationalcannabisbesubjectonormalstatetaxesplusanumberofotherstatetaxes.Amunicipalityhasthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                359,
+                                826,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        359,
+                                        366,
+                                        388
+                                    ],
+                                    "score": 0.963,
+                                    "content": "optionof implementingalocal sales taxupto",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        367,
+                                        362,
+                                        392,
+                                        381
+                                    ],
+                                    "score": 0.83,
+                                    "content": "3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        392,
+                                        359,
+                                        826,
+                                        388
+                                    ],
+                                    "score": 0.977,
+                                    "content": "inquarterpercent increments.Thisnewtaxing option is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                861,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        861,
+                                        405
+                                    ],
+                                    "score": 0.981,
+                                    "content": "currentlynotscheduledtobealoweduntilSeptember1,2020,buttherehasbeenmentionthatthereisfuture",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                399,
+                                867,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        399,
+                                        867,
+                                        427
+                                    ],
+                                    "score": 0.984,
+                                    "content": "considerationforlegislationwhichwouldallowforthistobeineffectonJanuary1,2020.Sincethereisa90day",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                878,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        878,
+                                        446
+                                    ],
+                                    "score": 0.995,
+                                    "content": "taxratechangethatcanbemade,theVillagewouldneedtoconsiderthistaxordinanceinSeptemberinorderto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                873,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        873,
+                                        466
+                                    ],
+                                    "score": 0.974,
+                                    "content": "filebySeptember3Oth.MotionforapprovalmadebyTrusteeGaffinoandsecondedbyTrusteeGuethle.Trustee",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                459,
+                                845,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        459,
+                                        845,
+                                        487
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Curtisaskedifthiswouldalsoapplytothesaleofmedicalmarijuana.Hannahsaidthisordinancewouldonly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                481,
+                                862,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        481,
+                                        862,
+                                        507
+                                    ],
+                                    "score": 0.953,
+                                    "content": "applytorecreationalcannabis.Roli CallVote:TrusteeGaffino-yes,Trustee-Lowery-yes,TrusteeCurtis-yes,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                501,
+                                875,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        501,
+                                        875,
+                                        525
+                                    ],
+                                    "score": 0.991,
+                                    "content": "TrusteeGuethle-yes,TrusteeMartinez-yes.Motionapproved(5-0).3.ApprovaltoAwardVilageWideNetwork",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                518,
+                                833,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        518,
+                                        520,
+                                        547
+                                    ],
+                                    "score": 0.977,
+                                    "content": "HardwareReplacement BidtoCCCTechnologiesinthe Amountof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        520,
+                                        522,
+                                        603,
+                                        542
+                                    ],
+                                    "score": 0.49,
+                                    "content": "\\$ 24,455,70",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        603,
+                                        518,
+                                        833,
+                                        547
+                                    ],
+                                    "score": 0.984,
+                                    "content": "Motion forapprovalmadeby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                541,
+                                878,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        541,
+                                        878,
+                                        565
+                                    ],
+                                    "score": 0.971,
+                                    "content": "TrusteeLoweryandsecondedbyTrusteeCurtis.RollCallVote:TrusteeLowery-yes,TrusteeCurtis-yes,Trustee",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                856,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        856,
+                                        586
+                                    ],
+                                    "score": 0.964,
+                                    "content": "Gaffino-yes,TrusteeMartinez-yes,TrusteeGuethle-yes.Motionapproved(5-0).4.ApprovaltoAwardaBid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                579,
+                                875,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        579,
+                                        585,
+                                        607
+                                    ],
+                                    "score": 0.99,
+                                    "content": "forRelocationofSullivanRoadWaterMaintoLUCGroupintheAmountof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        585,
+                                        582,
+                                        669,
+                                        601
+                                    ],
+                                    "score": 0.54,
+                                    "content": "\\$ 64,150.00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        669,
+                                        579,
+                                        875,
+                                        607
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Motionforapprovalmade",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                599,
+                                838,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        599,
+                                        838,
+                                        626
+                                    ],
+                                    "score": 0.988,
+                                    "content": "byTrusteeLoweryandsecondedbyTrusteeCurtis.RollCallVote:TrusteeLowery-yes,TrusteeCurtis-yes,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                621,
+                                873,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        621,
+                                        873,
+                                        645
+                                    ],
+                                    "score": 0.979,
+                                    "content": "TrusteeGaffino-yes,TrusteeMartinez-yes,TrusteeGuethle-yes.Motionapproved(5-0).5.ApprovaltoReject",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                639,
+                                861,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        639,
+                                        861,
+                                        665
+                                    ],
+                                    "score": 0.985,
+                                    "content": "allBidsforWellsNo.8and9ContractC-SiteWorkandElectricalFacilitiesPublicWorksDirectorjohnLaskowski",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                659,
+                                848,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        659,
+                                        525,
+                                        686
+                                    ],
+                                    "score": 0.991,
+                                    "content": "informedtheBoardthatonlyonebidcamebackanditwasalmost",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        526,
+                                        662,
+                                        596,
+                                        682
+                                    ],
+                                    "score": 0.63,
+                                    "content": "\\$ 275,000",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        596,
+                                        659,
+                                        848,
+                                        686
+                                    ],
+                                    "score": 0.97,
+                                    "content": "higherthanengineer'sestimate.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                311,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        311,
+                                        704
+                                    ],
+                                    "score": 0.955,
+                                    "content": "Staffdecided tosplit the twoactivities",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5,
+                    "bbox_fs": [
+                        13,
+                        20,
+                        880,
+                        704
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

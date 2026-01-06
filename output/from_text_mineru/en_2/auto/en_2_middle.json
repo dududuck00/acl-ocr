@@ -1,0 +1,2292 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        14,
+                        141,
+                        875,
+                        1145
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                141,
+                                830,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        141,
+                                        830,
+                                        165
+                                    ],
+                                    "score": 0.988,
+                                    "content": "tomaintaintheopticalsystemataconstantheightabovethesurfaceoftherecord.There-flectionoff the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                11,
+                                159,
+                                855,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        11,
+                                        159,
+                                        855,
+                                        187
+                                    ],
+                                    "score": 0.995,
+                                    "content": "groovewallisdetectedandformstheanalogaudiosignal.Thekeytothesystemisthe\"position-sensitivede-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                178,
+                                866,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        178,
+                                        866,
+                                        207
+                                    ],
+                                    "score": 0.987,
+                                    "content": "tectors,orPSDs.EachisalongnarrowrowofCCDel-ementssimilartothoseinavideocamera.Thescanning",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                202,
+                                870,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        202,
+                                        870,
+                                        226
+                                    ],
+                                    "score": 0.983,
+                                    "content": "circuitsassociatedwiththeCCDarrayproducetwovoltages,oneproportionaltothepositionofacellalong the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                222,
+                                841,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        222,
+                                        841,
+                                        246
+                                    ],
+                                    "score": 0.993,
+                                    "content": "row(X)andanotherproportionaltotheintensityofthelightstrikingthatcell(I).BymultiplyingXtimesIand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                241,
+                                873,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        241,
+                                        873,
+                                        266
+                                    ],
+                                    "score": 0.984,
+                                    "content": "adding,thecircuitcalculatestheintensity-weightedaveragepositionofthereflectedimage,withanaccuracyof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                832,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        832,
+                                        286
+                                    ],
+                                    "score": 0.996,
+                                    "content": "aboutone-tenththewidthofthespot.Fromthege-ometryofthesituation,itiseasytoshowthatXispro-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                280,
+                                835,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        280,
+                                        835,
+                                        307
+                                    ],
+                                    "score": 0.988,
+                                    "content": "portionaltothetangentof2A(whereAisthegroove-modulationangle),andfornormallysmallanglesitis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                301,
+                                852,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        301,
+                                        852,
+                                        325
+                                    ],
+                                    "score": 0.997,
+                                    "content": "linearlyproportionaltothegroove-modulationvelocity(whichiswhatthemechanicalstylusinaconventional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                321,
+                                867,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        321,
+                                        867,
+                                        345
+                                    ],
+                                    "score": 0.993,
+                                    "content": "magneticpickupdetects).Thismethod hasoneobviouslimitation.Theanglebetweentheprojectedlaserbeam",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                340,
+                                866,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        340,
+                                        866,
+                                        367
+                                    ],
+                                    "score": 0.986,
+                                    "content": "anditsreflectionistwicethegroovemodulationangle.Withnormalmodu-lationsthisisfine,butifthegroove",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                362,
+                                866,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        362,
+                                        866,
+                                        386
+                                    ],
+                                    "score": 0.993,
+                                    "content": "angleexceeds45de-greesthereflectionangleexceeds90degrees,meaningthatthereflectionnevermakesit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                382,
+                                864,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        382,
+                                        864,
+                                        406
+                                    ],
+                                    "score": 0.975,
+                                    "content": "backacrossthegroovetothedetector.Infact,asFinialadmitted,thePSDac-commodatesgrooveanglesonly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                402,
+                                876,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        402,
+                                        876,
+                                        426
+                                    ],
+                                    "score": 0.992,
+                                    "content": "upto38degrees;largermodulationsarehandledbyadifferenttechnique.(Theydidn'texplainit;thispartofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                421,
+                                840,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        421,
+                                        840,
+                                        446
+                                    ],
+                                    "score": 0.992,
+                                    "content": "turntable'soperationremainsamystery.)TheFinialturntablehasafullcomplementofCD-likecontrolsthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                440,
+                                804,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        440,
+                                        804,
+                                        467
+                                    ],
+                                    "score": 0.982,
+                                    "content": "provideautomaticcueing tothestartofanyband,elapsed-andremaining-timedisplay,pro-grammed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                461,
+                                865,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        461,
+                                        865,
+                                        486
+                                    ],
+                                    "score": 0.977,
+                                    "content": "random-accessplayback,automaticrepeat,andotherconveniences.Anditcontainsatick-and-popsuppressor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                480,
+                                865,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        480,
+                                        865,
+                                        507
+                                    ],
+                                    "score": 0.985,
+                                    "content": "thatworksverywell.Theplaybackspeediscontinuouslyadjustablefrom33to50rpm.Itwon'thandle78sbut",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                502,
+                                875,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        502,
+                                        875,
+                                        526
+                                    ],
+                                    "score": 0.987,
+                                    "content": "thereisstrongdemandforafuturever-sionthatwould—iftheplayereverseesthelightofday.Wouldthelaser",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                522,
+                                868,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        522,
+                                        868,
+                                        546
+                                    ],
+                                    "score": 0.993,
+                                    "content": "turntablebepopularamongaudio-philes?MitchellandMoranguessedthatitmightgetthesamereceptionas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                538,
+                                875,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        538,
+                                        875,
+                                        567
+                                    ],
+                                    "score": 0.991,
+                                    "content": "theShureV-15cartridge,respectedforitsaccuracybutlackingtheeuphoniousqualitiesofthebestMCpickups.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                558,
+                                852,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        558,
+                                        852,
+                                        587
+                                    ],
+                                    "score": 0.987,
+                                    "content": "(Thisprompted MichaShattner toob-servethatincomparingtwopickupsthatareidenticalexceptforstylus",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                582,
+                                801,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        582,
+                                        801,
+                                        606
+                                    ],
+                                    "score": 0.982,
+                                    "content": "shape-conicalvs.vandenHul-themaindifference,surprisingly,seemednottobeinthehighsbutin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                601,
+                                867,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        601,
+                                        867,
+                                        626
+                                    ],
+                                    "score": 0.979,
+                                    "content": "low/midrangedefinition,perhapsbecauseofadifferenceinthewaythestylussinksintothegroovewall,Blind",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                621,
+                                849,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        621,
+                                        849,
+                                        646
+                                    ],
+                                    "score": 0.995,
+                                    "content": "listeningtestsDavidClarkorganizedblindlisteningtestsattheAESconvention.Inone,threeamplifierswere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                640,
+                                844,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        640,
+                                        844,
+                                        668
+                                    ],
+                                    "score": 0.93,
+                                    "content": "compared(aCrownpromodel,aVLtubeamp,andaTresholdFETamp),drivinglargeInfinityspeakers.In",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                662,
+                                875,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        662,
+                                        875,
+                                        686
+                                    ],
+                                    "score": 0.955,
+                                    "content": "another,Belden10-gaugeandMonsterM10o0speakercablewerecompared.Inathird,PeterSutheimswitched",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                681,
+                                864,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        681,
+                                        864,
+                                        706
+                                    ],
+                                    "score": 0.996,
+                                    "content": "varyingamountsofphaseshiftandnonlineardistortionintothesignalpath.Abouthalfofthetotalpopulation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                702,
+                                867,
+                                726
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        702,
+                                        867,
+                                        726
+                                    ],
+                                    "score": 0.988,
+                                    "content": "ofengi-neersguessedcorrectlyintheampandcablecompar-isons,aresultconsistentwithrandomguessing.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                718,
+                                861,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        718,
+                                        861,
+                                        747
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Butasmallsubsetoflistenersscoredveryhigh,supportingtheirownclaimtohearcableandampdiferences",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                741,
+                                867,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        741,
+                                        867,
+                                        766
+                                    ],
+                                    "score": 0.983,
+                                    "content": "reli-ably.Attheendoftheconventiontheseresultsweredis-cussedbypanelistsseatedlefttorightasfollows:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                760,
+                                848,
+                                786
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        760,
+                                        848,
+                                        786
+                                    ],
+                                    "score": 0.973,
+                                    "content": "NoelLee(Monster),MichaelFremer(TheAbsoluteSound),IanEales(acablebeliever),PeterSutheim,Eugene",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                781,
+                                850,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        781,
+                                        850,
+                                        806
+                                    ],
+                                    "score": 0.984,
+                                    "content": "Pits,RichardGreiner,andFloydToole.Clarksaidthisseatingorderwasaccidental,butnobodybelievedhim.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                800,
+                                861,
+                                828
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        800,
+                                        861,
+                                        828
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Thetwo-hourdiscussionwasargumentative,unrevealing,andinconclusive.Audience\"questions\"weremostly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                822,
+                                826,
+                                847
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        822,
+                                        826,
+                                        847
+                                    ],
+                                    "score": 0.997,
+                                    "content": "speechesdefendingproorantiideologies.Theonlyagreementthatemergedwasthatpeoplewhoreport",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                11,
+                                838,
+                                856,
+                                870
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        11,
+                                        838,
+                                        856,
+                                        870
+                                    ],
+                                    "score": 0.985,
+                                    "content": "hearingcableandampdiferencesshould becomepartofacontrolledtestingprogramtofindoutwhatthey",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                860,
+                                870,
+                                887
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        860,
+                                        870,
+                                        887
+                                    ],
+                                    "score": 0.984,
+                                    "content": "arehearing.Oneinterestingpointemergedfromthepaneldiscus-sion:Monsterdoesn'tdesigncables,it'sjust",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                882,
+                                870,
+                                906
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        882,
+                                        870,
+                                        906
+                                    ],
+                                    "score": 0.992,
+                                    "content": "amarketingcompany.MonsterhiresoutsideconsultantslikeBruceBrissontodesigncables;NoelLeelistensto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                902,
+                                842,
+                                926
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        902,
+                                        842,
+                                        926
+                                    ],
+                                    "score": 0.995,
+                                    "content": "prototypedesignsandmakesdecisionspurelybysubjectivelis-tening.Apparentlyheisoneof thosepeople",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                921,
+                                868,
+                                946
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        921,
+                                        868,
+                                        946
+                                    ],
+                                    "score": 0.991,
+                                    "content": "acutelysen-sitivetocablediferences.Whenhehearsadesignthathelikes,Monsterfarmsouttheproduction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                940,
+                                878,
+                                968
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        940,
+                                        878,
+                                        968
+                                    ],
+                                    "score": 0.994,
+                                    "content": "toawire-manufacturingcompany.Soit'snotsurprisingthatMonsterhasnevertriedtodocumentanyscientific",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                960,
+                                865,
+                                988
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        960,
+                                        865,
+                                        988
+                                    ],
+                                    "score": 0.984,
+                                    "content": "basisforitsperformanceclaims;thecompanyhasnoengi-neering stafformeasuring labs.NoelLeeknowsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                981,
+                                858,
+                                1005
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        981,
+                                        858,
+                                        1005
+                                    ],
+                                    "score": 0.99,
+                                    "content": "nomeasurementthatcorrelateswiththedifferencesthathehears;hereferredquestionsonthatsubjecttoa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1003,
+                                837,
+                                1024
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1003,
+                                        837,
+                                        1024
+                                    ],
+                                    "score": 0.997,
+                                    "content": "consul-tant,ayoungishOrientalwhoclaimedthataudibledif-ferencesamongcablesareduetomeasured",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1021,
+                                875,
+                                1045
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1021,
+                                        875,
+                                        1045
+                                    ],
+                                    "score": 0.99,
+                                    "content": "diferencesintimedispersionontheorderof0.1microsecond.Bris-son'sadsforhisMITcablesmakethesame",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1038,
+                                880,
+                                1067
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1038,
+                                        880,
+                                        1067
+                                    ],
+                                    "score": 0.974,
+                                    "content": "claim,butthattime-scalecorrespondstofrequenciesaround10MHz,nottoaudio.Monster'scurrentmarketing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                1062,
+                                864,
+                                1085
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        1062,
+                                        864,
+                                        1085
+                                    ],
+                                    "score": 0.998,
+                                    "content": "cam-paignformicrophonecableisbasedontestimonialsfromrecognizedengineerswhohavetriedthecable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1082,
+                                841,
+                                1106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1082,
+                                        841,
+                                        1106
+                                    ],
+                                    "score": 0.988,
+                                    "content": "andlikedit.JackMullnHistoricalExhibitEnteringGermanyattheendofWorldWarII,Sgt.JackMullinofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1101,
+                                856,
+                                1126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1101,
+                                        856,
+                                        1126
+                                    ],
+                                    "score": 0.995,
+                                    "content": "ArmySignalCorpsdiscoveredMag-netophontapedecks,thefirstrecordersthatusedacbiaspage6TheBAS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1121,
+                                256,
+                                1146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1121,
+                                        82,
+                                        1146
+                                    ],
+                                    "score": 0.997,
+                                    "content": "Speaker",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        1126,
+                                        93,
+                                        1137
+                                    ],
+                                    "score": 0.28,
+                                    "content": "\\cdot",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        94,
+                                        1121,
+                                        256,
+                                        1146
+                                    ],
+                                    "score": 0.996,
+                                    "content": "volume17number2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        }
+                    ],
+                    "index": 24.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                1156
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        14,
+                        141,
+                        875,
+                        1145
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                141,
+                                830,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        141,
+                                        830,
+                                        165
+                                    ],
+                                    "score": 0.988,
+                                    "content": "tomaintaintheopticalsystemataconstantheightabovethesurfaceoftherecord.There-flectionoff the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                11,
+                                159,
+                                855,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        11,
+                                        159,
+                                        855,
+                                        187
+                                    ],
+                                    "score": 0.995,
+                                    "content": "groovewallisdetectedandformstheanalogaudiosignal.Thekeytothesystemisthe\"position-sensitivede-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                178,
+                                866,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        178,
+                                        866,
+                                        207
+                                    ],
+                                    "score": 0.987,
+                                    "content": "tectors,orPSDs.EachisalongnarrowrowofCCDel-ementssimilartothoseinavideocamera.Thescanning",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                202,
+                                870,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        202,
+                                        870,
+                                        226
+                                    ],
+                                    "score": 0.983,
+                                    "content": "circuitsassociatedwiththeCCDarrayproducetwovoltages,oneproportionaltothepositionofacellalong the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                222,
+                                841,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        222,
+                                        841,
+                                        246
+                                    ],
+                                    "score": 0.993,
+                                    "content": "row(X)andanotherproportionaltotheintensityofthelightstrikingthatcell(I).BymultiplyingXtimesIand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                241,
+                                873,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        241,
+                                        873,
+                                        266
+                                    ],
+                                    "score": 0.984,
+                                    "content": "adding,thecircuitcalculatestheintensity-weightedaveragepositionofthereflectedimage,withanaccuracyof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                832,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        832,
+                                        286
+                                    ],
+                                    "score": 0.996,
+                                    "content": "aboutone-tenththewidthofthespot.Fromthege-ometryofthesituation,itiseasytoshowthatXispro-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                280,
+                                835,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        280,
+                                        835,
+                                        307
+                                    ],
+                                    "score": 0.988,
+                                    "content": "portionaltothetangentof2A(whereAisthegroove-modulationangle),andfornormallysmallanglesitis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                301,
+                                852,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        301,
+                                        852,
+                                        325
+                                    ],
+                                    "score": 0.997,
+                                    "content": "linearlyproportionaltothegroove-modulationvelocity(whichiswhatthemechanicalstylusinaconventional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                321,
+                                867,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        321,
+                                        867,
+                                        345
+                                    ],
+                                    "score": 0.993,
+                                    "content": "magneticpickupdetects).Thismethod hasoneobviouslimitation.Theanglebetweentheprojectedlaserbeam",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                340,
+                                866,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        340,
+                                        866,
+                                        367
+                                    ],
+                                    "score": 0.986,
+                                    "content": "anditsreflectionistwicethegroovemodulationangle.Withnormalmodu-lationsthisisfine,butifthegroove",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                362,
+                                866,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        362,
+                                        866,
+                                        386
+                                    ],
+                                    "score": 0.993,
+                                    "content": "angleexceeds45de-greesthereflectionangleexceeds90degrees,meaningthatthereflectionnevermakesit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                382,
+                                864,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        382,
+                                        864,
+                                        406
+                                    ],
+                                    "score": 0.975,
+                                    "content": "backacrossthegroovetothedetector.Infact,asFinialadmitted,thePSDac-commodatesgrooveanglesonly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                402,
+                                876,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        402,
+                                        876,
+                                        426
+                                    ],
+                                    "score": 0.992,
+                                    "content": "upto38degrees;largermodulationsarehandledbyadifferenttechnique.(Theydidn'texplainit;thispartofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                421,
+                                840,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        421,
+                                        840,
+                                        446
+                                    ],
+                                    "score": 0.992,
+                                    "content": "turntable'soperationremainsamystery.)TheFinialturntablehasafullcomplementofCD-likecontrolsthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                440,
+                                804,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        440,
+                                        804,
+                                        467
+                                    ],
+                                    "score": 0.982,
+                                    "content": "provideautomaticcueing tothestartofanyband,elapsed-andremaining-timedisplay,pro-grammed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                461,
+                                865,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        461,
+                                        865,
+                                        486
+                                    ],
+                                    "score": 0.977,
+                                    "content": "random-accessplayback,automaticrepeat,andotherconveniences.Anditcontainsatick-and-popsuppressor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                480,
+                                865,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        480,
+                                        865,
+                                        507
+                                    ],
+                                    "score": 0.985,
+                                    "content": "thatworksverywell.Theplaybackspeediscontinuouslyadjustablefrom33to50rpm.Itwon'thandle78sbut",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                502,
+                                875,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        502,
+                                        875,
+                                        526
+                                    ],
+                                    "score": 0.987,
+                                    "content": "thereisstrongdemandforafuturever-sionthatwould—iftheplayereverseesthelightofday.Wouldthelaser",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                522,
+                                868,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        522,
+                                        868,
+                                        546
+                                    ],
+                                    "score": 0.993,
+                                    "content": "turntablebepopularamongaudio-philes?MitchellandMoranguessedthatitmightgetthesamereceptionas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                538,
+                                875,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        538,
+                                        875,
+                                        567
+                                    ],
+                                    "score": 0.991,
+                                    "content": "theShureV-15cartridge,respectedforitsaccuracybutlackingtheeuphoniousqualitiesofthebestMCpickups.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                558,
+                                852,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        558,
+                                        852,
+                                        587
+                                    ],
+                                    "score": 0.987,
+                                    "content": "(Thisprompted MichaShattner toob-servethatincomparingtwopickupsthatareidenticalexceptforstylus",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                582,
+                                801,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        582,
+                                        801,
+                                        606
+                                    ],
+                                    "score": 0.982,
+                                    "content": "shape-conicalvs.vandenHul-themaindifference,surprisingly,seemednottobeinthehighsbutin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                601,
+                                867,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        601,
+                                        867,
+                                        626
+                                    ],
+                                    "score": 0.979,
+                                    "content": "low/midrangedefinition,perhapsbecauseofadifferenceinthewaythestylussinksintothegroovewall,Blind",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                621,
+                                849,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        621,
+                                        849,
+                                        646
+                                    ],
+                                    "score": 0.995,
+                                    "content": "listeningtestsDavidClarkorganizedblindlisteningtestsattheAESconvention.Inone,threeamplifierswere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                640,
+                                844,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        640,
+                                        844,
+                                        668
+                                    ],
+                                    "score": 0.93,
+                                    "content": "compared(aCrownpromodel,aVLtubeamp,andaTresholdFETamp),drivinglargeInfinityspeakers.In",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                662,
+                                875,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        662,
+                                        875,
+                                        686
+                                    ],
+                                    "score": 0.955,
+                                    "content": "another,Belden10-gaugeandMonsterM10o0speakercablewerecompared.Inathird,PeterSutheimswitched",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                681,
+                                864,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        681,
+                                        864,
+                                        706
+                                    ],
+                                    "score": 0.996,
+                                    "content": "varyingamountsofphaseshiftandnonlineardistortionintothesignalpath.Abouthalfofthetotalpopulation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                702,
+                                867,
+                                726
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        702,
+                                        867,
+                                        726
+                                    ],
+                                    "score": 0.988,
+                                    "content": "ofengi-neersguessedcorrectlyintheampandcablecompar-isons,aresultconsistentwithrandomguessing.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                718,
+                                861,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        718,
+                                        861,
+                                        747
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Butasmallsubsetoflistenersscoredveryhigh,supportingtheirownclaimtohearcableandampdiferences",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                741,
+                                867,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        741,
+                                        867,
+                                        766
+                                    ],
+                                    "score": 0.983,
+                                    "content": "reli-ably.Attheendoftheconventiontheseresultsweredis-cussedbypanelistsseatedlefttorightasfollows:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                760,
+                                848,
+                                786
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        760,
+                                        848,
+                                        786
+                                    ],
+                                    "score": 0.973,
+                                    "content": "NoelLee(Monster),MichaelFremer(TheAbsoluteSound),IanEales(acablebeliever),PeterSutheim,Eugene",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                781,
+                                850,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        781,
+                                        850,
+                                        806
+                                    ],
+                                    "score": 0.984,
+                                    "content": "Pits,RichardGreiner,andFloydToole.Clarksaidthisseatingorderwasaccidental,butnobodybelievedhim.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                800,
+                                861,
+                                828
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        800,
+                                        861,
+                                        828
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Thetwo-hourdiscussionwasargumentative,unrevealing,andinconclusive.Audience\"questions\"weremostly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                822,
+                                826,
+                                847
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        822,
+                                        826,
+                                        847
+                                    ],
+                                    "score": 0.997,
+                                    "content": "speechesdefendingproorantiideologies.Theonlyagreementthatemergedwasthatpeoplewhoreport",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                11,
+                                838,
+                                856,
+                                870
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        11,
+                                        838,
+                                        856,
+                                        870
+                                    ],
+                                    "score": 0.985,
+                                    "content": "hearingcableandampdiferencesshould becomepartofacontrolledtestingprogramtofindoutwhatthey",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                860,
+                                870,
+                                887
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        860,
+                                        870,
+                                        887
+                                    ],
+                                    "score": 0.984,
+                                    "content": "arehearing.Oneinterestingpointemergedfromthepaneldiscus-sion:Monsterdoesn'tdesigncables,it'sjust",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                882,
+                                870,
+                                906
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        882,
+                                        870,
+                                        906
+                                    ],
+                                    "score": 0.992,
+                                    "content": "amarketingcompany.MonsterhiresoutsideconsultantslikeBruceBrissontodesigncables;NoelLeelistensto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                902,
+                                842,
+                                926
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        902,
+                                        842,
+                                        926
+                                    ],
+                                    "score": 0.995,
+                                    "content": "prototypedesignsandmakesdecisionspurelybysubjectivelis-tening.Apparentlyheisoneof thosepeople",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                921,
+                                868,
+                                946
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        921,
+                                        868,
+                                        946
+                                    ],
+                                    "score": 0.991,
+                                    "content": "acutelysen-sitivetocablediferences.Whenhehearsadesignthathelikes,Monsterfarmsouttheproduction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                940,
+                                878,
+                                968
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        940,
+                                        878,
+                                        968
+                                    ],
+                                    "score": 0.994,
+                                    "content": "toawire-manufacturingcompany.Soit'snotsurprisingthatMonsterhasnevertriedtodocumentanyscientific",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                960,
+                                865,
+                                988
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        960,
+                                        865,
+                                        988
+                                    ],
+                                    "score": 0.984,
+                                    "content": "basisforitsperformanceclaims;thecompanyhasnoengi-neering stafformeasuring labs.NoelLeeknowsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                981,
+                                858,
+                                1005
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        981,
+                                        858,
+                                        1005
+                                    ],
+                                    "score": 0.99,
+                                    "content": "nomeasurementthatcorrelateswiththedifferencesthathehears;hereferredquestionsonthatsubjecttoa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1003,
+                                837,
+                                1024
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1003,
+                                        837,
+                                        1024
+                                    ],
+                                    "score": 0.997,
+                                    "content": "consul-tant,ayoungishOrientalwhoclaimedthataudibledif-ferencesamongcablesareduetomeasured",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1021,
+                                875,
+                                1045
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1021,
+                                        875,
+                                        1045
+                                    ],
+                                    "score": 0.99,
+                                    "content": "diferencesintimedispersionontheorderof0.1microsecond.Bris-son'sadsforhisMITcablesmakethesame",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1038,
+                                880,
+                                1067
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1038,
+                                        880,
+                                        1067
+                                    ],
+                                    "score": 0.974,
+                                    "content": "claim,butthattime-scalecorrespondstofrequenciesaround10MHz,nottoaudio.Monster'scurrentmarketing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                1062,
+                                864,
+                                1085
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        1062,
+                                        864,
+                                        1085
+                                    ],
+                                    "score": 0.998,
+                                    "content": "cam-paignformicrophonecableisbasedontestimonialsfromrecognizedengineerswhohavetriedthecable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1082,
+                                841,
+                                1106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1082,
+                                        841,
+                                        1106
+                                    ],
+                                    "score": 0.988,
+                                    "content": "andlikedit.JackMullnHistoricalExhibitEnteringGermanyattheendofWorldWarII,Sgt.JackMullinofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1101,
+                                856,
+                                1126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1101,
+                                        856,
+                                        1126
+                                    ],
+                                    "score": 0.995,
+                                    "content": "ArmySignalCorpsdiscoveredMag-netophontapedecks,thefirstrecordersthatusedacbiaspage6TheBAS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1121,
+                                256,
+                                1146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1121,
+                                        82,
+                                        1146
+                                    ],
+                                    "score": 0.997,
+                                    "content": "Speaker",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        1126,
+                                        93,
+                                        1137
+                                    ],
+                                    "score": 0.28,
+                                    "content": "\\cdot",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        94,
+                                        1121,
+                                        256,
+                                        1146
+                                    ],
+                                    "score": 0.996,
+                                    "content": "volume17number2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        }
+                    ],
+                    "index": 24.5,
+                    "bbox_fs": [
+                        11,
+                        141,
+                        880,
+                        1146
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

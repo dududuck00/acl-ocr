@@ -1,0 +1,565 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    51,
+                    43,
+                    2443,
+                    43,
+                    2443,
+                    2065,
+                    51,
+                    2065
+                ],
+                "score": 0.925
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    56.0,
+                    2424.0,
+                    56.0,
+                    2424.0,
+                    129.0,
+                    43.0,
+                    129.0
+                ],
+                "score": 0.975,
+                "text": "Israel:Mr.YoramDinstein;Japan:Mr.Masao Ito.COMMISSIONONTHESTATUSOFWOMENMrs.Marie-Hélene"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    119.0,
+                    2370.0,
+                    119.0,
+                    2370.0,
+                    184.0,
+                    45.0,
+                    184.0
+                ],
+                "score": 0.982,
+                "text": "Lefaucheux(France).SPECIALIZEDAGENCIES InternationalLabourOrganisation(ILO):Mr.JoseL.Bustamante."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    179.0,
+                    2250.0,
+                    179.0,
+                    2250.0,
+                    236.0,
+                    48.0,
+                    236.0
+                ],
+                "score": 0.988,
+                "text": "UnitedNationsEducational,ScientificandCulturalOrganization(UNESCO):Mr.TorGjesdal,Mr.Ar-thur"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    231.0,
+                    2227.0,
+                    231.0,
+                    2227.0,
+                    289.0,
+                    48.0,
+                    289.0
+                ],
+                "score": 0.99,
+                "text": "Gagliott,Mr.AsdrubalSalsamendi.NON-GOVERNMENTALORGANIZATIONSCATEGORYAInternational"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    50.0,
+                    289.0,
+                    2323.0,
+                    289.0,
+                    2323.0,
+                    346.0,
+                    50.0,
+                    346.0
+                ],
+                "score": 0.983,
+                "text": "ConfederationofFreeTradeUnions:Mr.MarvinA.Schlaf.WorldFederationofTradeUnions:Mr.PhilipM."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    338.0,
+                    2307.0,
+                    338.0,
+                    2307.0,
+                    409.0,
+                    45.0,
+                    409.0
+                ],
+                "score": 0.982,
+                "text": "Connelly.WorldFederationofUnitedNationsAssociations:Mr.H.Barrett-Brown,MrsOliverWeerasinghe."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    396.0,
+                    2159.0,
+                    396.0,
+                    2159.0,
+                    461.0,
+                    45.0,
+                    461.0
+                ],
+                "score": 0.992,
+                "text": "WorldVeteransFederation:MissEmilyNichols,Mr.GisbertFlanz.CATEGORYBAgudasIsraelWorld"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    451.0,
+                    2440.0,
+                    451.0,
+                    2440.0,
+                    519.0,
+                    45.0,
+                    519.0
+                ],
+                "score": 0.981,
+                "text": "Organization:Mr.IsaacLewin.CatholicInternationalUnionforSocialService:Mrs.AlysD.Vergara.Commission"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    506.0,
+                    2442.0,
+                    506.0,
+                    2442.0,
+                    579.0,
+                    43.0,
+                    579.0
+                ],
+                "score": 0.98,
+                "text": "oftheChurcheson InternationalAffairs:Mr.A.DominiqueMicheli.ConsultativeCouncilofJewishOrganizations:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    563.0,
+                    2237.0,
+                    563.0,
+                    2237.0,
+                    629.0,
+                    45.0,
+                    629.0
+                ],
+                "score": 0.988,
+                "text": "Mr.MosesMoskowitz.Co-ordinating BoardofJewishOrganizations:Mr.Wil-liamKorey.FriendsWorld"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    623.0,
+                    2242.0,
+                    623.0,
+                    2242.0,
+                    681.0,
+                    48.0,
+                    681.0
+                ],
+                "score": 0.99,
+                "text": "CommitteeforConsultation:Mr.CecilR.Evans.InternationalAlianceofWomen:Mrs.FrancesA.Doyle."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    673.0,
+                    2396.0,
+                    673.0,
+                    2396.0,
+                    738.0,
+                    45.0,
+                    738.0
+                ],
+                "score": 0.989,
+                "text": "internationalCatholicChildBureau:TheRev.JulesGagnon,MissMargaretBedard.InternationalCatholicPress"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    731.0,
+                    2388.0,
+                    731.0,
+                    2388.0,
+                    796.0,
+                    45.0,
+                    796.0
+                ],
+                "score": 0.989,
+                "text": "Union:Mr.GaryMacEoin.InternationalConferenceofCatholicCharities:Mr.LouisC.Longarzo.International"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    785.0,
+                    2266.0,
+                    785.0,
+                    2266.0,
+                    851.0,
+                    48.0,
+                    851.0
+                ],
+                "score": 0.967,
+                "text": "Council ofWomen:Mrs.EuniceH.Car-ter,Mrs.DewittStetten.InternationalFederationofBusinessand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    833.0,
+                    2388.0,
+                    833.0,
+                    2388.0,
+                    901.0,
+                    40.0,
+                    901.0
+                ],
+                "score": 0.987,
+                "text": "ProfessionalWomen:MissSofiaCorradi,MissRuthTomlinson.InternationalFederationofUniversityWomen:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    885.0,
+                    2393.0,
+                    885.0,
+                    2393.0,
+                    963.0,
+                    40.0,
+                    963.0
+                ],
+                "score": 0.972,
+                "text": "MissElminaR.Lucke.InternaliomilFederationofWomenLawyers:Mrs.RoseKornHirschman,MissBessieRay"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    942.0,
+                    2266.0,
+                    942.0,
+                    2266.0,
+                    1013.0,
+                    45.0,
+                    1013.0
+                ],
+                "score": 0.981,
+                "text": "Geffner,MissRoseRothenburg.InternationalLeaguefortheRightsofMan:Mrs.DoraD.Roitburd,Miss"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1003.0,
+                    2273.0,
+                    1003.0,
+                    2273.0,
+                    1068.0,
+                    45.0,
+                    1068.0
+                ],
+                "score": 0.985,
+                "text": "FlorenceKandel,Mr.RogerBaldwin.International UnionofChristianDemocrats:Mr.Ja-nuszSleszynski."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1057.0,
+                    2380.0,
+                    1057.0,
+                    2380.0,
+                    1123.0,
+                    45.0,
+                    1123.0
+                ],
+                "score": 0.987,
+                "text": "InternationalUnionofFamilyOrganizations:Mrs.PeterL.Colins.InternationalUnionofSocialistYouth:Miss"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1112.0,
+                    2380.0,
+                    1112.0,
+                    2380.0,
+                    1178.0,
+                    45.0,
+                    1178.0
+                ],
+                "score": 0.982,
+                "text": "SusanGyarmati.PanPacificSouth-EastAsia Women'sAssociation:MrsE.Forrest Beadman.PaxRomana:The"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1170.0,
+                    2284.0,
+                    1170.0,
+                    2284.0,
+                    1235.0,
+                    45.0,
+                    1235.0
+                ],
+                "score": 0.987,
+                "text": "Rev.EugeneBurke,Mr.PeterJ.Cass,Mr.WsevolodW.Isajiv.Women'sInternationalLeagueforPeaceand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1225.0,
+                    2221.0,
+                    1225.0,
+                    2221.0,
+                    1290.0,
+                    45.0,
+                    1290.0
+                ],
+                "score": 0.989,
+                "text": "Freedom:MrsAdelaideN.Baker.WorldAlianceofYoungMen'sChristianAssocia-tions:Mr.DaltonF."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1280.0,
+                    2338.0,
+                    1280.0,
+                    2338.0,
+                    1345.0,
+                    45.0,
+                    1345.0
+                ],
+                "score": 0.992,
+                "text": "McClelland.WorldAssemblyofYouth:Mr.RobertCambria.WorldFederationofCatholicYoungWomenand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1332.0,
+                    2432.0,
+                    1332.0,
+                    2432.0,
+                    1405.0,
+                    45.0,
+                    1405.0
+                ],
+                "score": 0.949,
+                "text": "Girls:Mrs.PeterCass,Mrs.ErnestP.Tibbits.WorldJewishCongress:Mr.HenryH.Grossman,Mr.RalphZacklin."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1392.0,
+                    2442.0,
+                    1392.0,
+                    2442.0,
+                    1458.0,
+                    45.0,
+                    1458.0
+                ],
+                "score": 0.976,
+                "text": "WorldUnionforProgressiveJudaism:Mrs.EleanorS.Polstein.WorldUnionofCatholicWomen'sOrganizations："
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1434.0,
+                    2435.0,
+                    1434.0,
+                    2435.0,
+                    1523.0,
+                    40.0,
+                    1523.0
+                ],
+                "score": 0.966,
+                "text": "MissCatherineSchaefer.WorldYoungWomen'sChristianAssociation:Mrs.RolandBeattie,MissElsieD.Harper."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1499.0,
+                    2211.0,
+                    1499.0,
+                    2211.0,
+                    1567.0,
+                    43.0,
+                    1567.0
+                ],
+                "score": 0.988,
+                "text": "REGISTERInternationalAssociationforLiberalChristianityandReligiousFreedom:Mrs.ElviraFradkin."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1554.0,
+                    2263.0,
+                    1554.0,
+                    2263.0,
+                    1625.0,
+                    43.0,
+                    1625.0
+                ],
+                "score": 0.966,
+                "text": "InternationalCatholicYouthFederation:Mr.JamesJ.O'Neill,Mr.RichardJ.O'Neill,MissMaryL.DiFonzo."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1615.0,
+                    2292.0,
+                    1615.0,
+                    2292.0,
+                    1680.0,
+                    45.0,
+                    1680.0
+                ],
+                "score": 0.994,
+                "text": "InternationalHumanistandEthicalUnion:Mrs.WalterM.Weis.St.Joan'sInternationalSocialandPolitical"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1662.0,
+                    2385.0,
+                    1662.0,
+                    2385.0,
+                    1740.0,
+                    40.0,
+                    1740.0
+                ],
+                "score": 0.954,
+                "text": "Aliance:MissFrancesMcGillcuddyWorldAssociationsfGirlGuidesandGirlScouts:Mrs.JohnJ.CarneyMrs."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1719.0,
+                    2390.0,
+                    1719.0,
+                    2390.0,
+                    1795.0,
+                    40.0,
+                    1795.0
+                ],
+                "score": 0.912,
+                "text": "EdwardF.Johnson,MrsortimerB.KellMissIsobelCrowe.4.Mr.JohnHumphrey，DirectoroftheDivisionof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1774.0,
+                    2268.0,
+                    1774.0,
+                    2268.0,
+                    1850.0,
+                    40.0,
+                    1850.0
+                ],
+                "score": 0.978,
+                "text": "HumanRights,andMr.EgonSchwelb,DeputyDirectoroftheDivisionof HumanRights,representedthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1837.0,
+                    2297.0,
+                    1837.0,
+                    2297.0,
+                    1902.0,
+                    45.0,
+                    1902.0
+                ],
+                "score": 0.996,
+                "text": "Secretary-GeneralatvariousmeetingsoftheCom-mission.Mr.KamleshwarDasactedasSecretaryofthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1892.0,
+                    2442.0,
+                    1892.0,
+                    2442.0,
+                    1957.0,
+                    45.0,
+                    1957.0
+                ],
+                "score": 0.987,
+                "text": "Commission.RepresentationofChina5.Atthe702ndmeting,heldon19March1962,therepresentativesofthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1947.0,
+                    2331.0,
+                    1947.0,
+                    2331.0,
+                    2012.0,
+                    45.0,
+                    2012.0
+                ],
+                "score": 0.991,
+                "text": "UnionofSovietSocialistRepublics,China,PolandandtheUnitedStatesofAmericamadestatementsonthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    2004.0,
+                    1023.0,
+                    2004.0,
+                    1023.0,
+                    2067.0,
+                    42.0,
+                    2067.0
+                ],
+                "score": 0.975,
+                "text": "representation ofChinainthe Commission.2"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 2098
+        }
+    }
+]

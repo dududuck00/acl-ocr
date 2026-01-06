@@ -1,0 +1,2512 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        15,
+                        145,
+                        878,
+                        1143
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                142,
+                                840,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        142,
+                                        840,
+                                        166
+                                    ],
+                                    "score": 0.951,
+                                    "content": "crossover,theallow-ableadditionaldelaysbecame9and22msrespectivelySo,saidPohSer,bychoosinga",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                160,
+                                868,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        160,
+                                        868,
+                                        187
+                                    ],
+                                    "score": 0.988,
+                                    "content": "lowercrossoverfre-quency,thedesignercanreducetheaudibilityofanygivenamountofdelay.Turningtohis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                180,
+                                850,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        180,
+                                        850,
+                                        206
+                                    ],
+                                    "score": 0.989,
+                                    "content": "currentsubwooferdesign,PohSerex-plainedthathisgoalwastoreducebothdistortionandenclosuresize",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                863,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        863,
+                                        225
+                                    ],
+                                    "score": 0.978,
+                                    "content": "whileretaining highacousticoutputatlowfrequencies.Thenewsubwoofer has half theinternalvolumeof his",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                221,
+                                837,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        221,
+                                        519,
+                                        247
+                                    ],
+                                    "score": 0.977,
+                                    "content": "previousdesign(4cu.ft.instead of8),yethas5dBmoreoutputat",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        520,
+                                        222,
+                                        545,
+                                        241
+                                    ],
+                                    "score": 0.81,
+                                    "content": "3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        546,
+                                        221,
+                                        837,
+                                        247
+                                    ],
+                                    "score": 0.994,
+                                    "content": "distortion.PohSer'sapproachwasto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                239,
+                                857,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        239,
+                                        106,
+                                        266
+                                    ],
+                                    "score": 0.999,
+                                    "content": "mounttwo",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        106,
+                                        243,
+                                        134,
+                                        261
+                                    ],
+                                    "score": 0.34,
+                                    "content": "1 2 \"",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        135,
+                                        239,
+                                        857,
+                                        266
+                                    ],
+                                    "score": 0.999,
+                                    "content": "driversfac-ingeachotheratthesameendofacylindricalenclosure.Thispresentseachdriver",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                848,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        848,
+                                        287
+                                    ],
+                                    "score": 0.983,
+                                    "content": "witha\"virtualenclosure\"whichistwicetheapparentvolumeoftherealone(eachdriver\"sees\"onlyhalfthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                280,
+                                852,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        280,
+                                        852,
+                                        307
+                                    ],
+                                    "score": 0.983,
+                                    "content": "pressureintheenclosure,henceeachdriver thinksthatitisoperating inanenclo-surewhichistwiceas big).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                299,
+                                853,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        299,
+                                        853,
+                                        328
+                                    ],
+                                    "score": 0.974,
+                                    "content": "Also,bymountingthemfacingeachother,even-orderdistortionproductsaremostlyeliminated.Bychoosing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                853,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        853,
+                                        347
+                                    ],
+                                    "score": 0.989,
+                                    "content": "driverswithverylitleoddorder-harmonicsintheoperatingrange,verylowdistortionisachieved.Ontheflip",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                342,
+                                852,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        342,
+                                        852,
+                                        366
+                                    ],
+                                    "score": 0.974,
+                                    "content": "sideofthecoin,effi-ciencyis3dBlower.Luckilypowerischeapthesedays,andthewoofersusedcanhandle",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                849,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        849,
+                                        387
+                                    ],
+                                    "score": 0.979,
+                                    "content": "veryhighpower.LikeallPohSer'sdesigns,thisisaventedsystem(forefficiencyandmoreimportant,higher",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                380,
+                                862,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        380,
+                                        862,
+                                        406
+                                    ],
+                                    "score": 0.982,
+                                    "content": "maximumoutputatthelowestfrequencies).Inadirectcomparison,itputoutmore16-2OHzthanaHartley24\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                400,
+                                865,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        400,
+                                        865,
+                                        427
+                                    ],
+                                    "score": 0.973,
+                                    "content": "woofer,thelatterde-velopingarubbing voicecoilduringthetest).Theportisalargediameter(6inches)tube,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                422,
+                                879,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        422,
+                                        879,
+                                        446
+                                    ],
+                                    "score": 0.993,
+                                    "content": "withtheopeningatthebottom.(Thedriversaremountedatthetop.)PohSercommentedthatmostcommercial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                440,
+                                866,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        440,
+                                        866,
+                                        467
+                                    ],
+                                    "score": 0.984,
+                                    "content": "systemsusetoosmallaport,resultingincompressionand\"chuffing\"noisesduetotheextremevelocityof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                462,
+                                878,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        462,
+                                        615,
+                                        486
+                                    ],
+                                    "score": 0.996,
+                                    "content": "airintheport.18-inchwoofersarefrequentlycoupledwitha4-inchport(inan",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        615,
+                                        462,
+                                        677,
+                                        482
+                                    ],
+                                    "score": 0.86,
+                                    "content": "\\$ 80,000",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        677,
+                                        462,
+                                        878,
+                                        486
+                                    ],
+                                    "score": 0.979,
+                                    "content": "system,forexample).Poh",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                480,
+                                849,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        480,
+                                        849,
+                                        507
+                                    ],
+                                    "score": 0.941,
+                                    "content": "Sertoldusthathissystemisusablefromanynormalsubwoofercrossoverfrequency-\"20Hz,10oHz,50Hz,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                500,
+                                856,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        500,
+                                        856,
+                                        525
+                                    ],
+                                    "score": 0.976,
+                                    "content": "30Hz\"-downtobe-low19Hz,whereitis\"1or2dBdown.\"Itstillhassub-stantialoutputat16Hz.Thereisless",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                521,
+                                850,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        521,
+                                        850,
+                                        545
+                                    ],
+                                    "score": 0.973,
+                                    "content": "bass boost appliedtoequalizethis sys-temthanwas usedinhisfirstdesign.Thepeak boostoc-cursaround",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                538,
+                                876,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        538,
+                                        876,
+                                        567
+                                    ],
+                                    "score": 0.962,
+                                    "content": "20Hz,andisonly3dBrelativetothe\"high\"bass(above30Hzorso),comparedwith6dBboostofthefirstdesign.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                561,
+                                850,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        561,
+                                        850,
+                                        585
+                                    ],
+                                    "score": 0.984,
+                                    "content": "Thereisalsoa12dB/octaveinfrasonicfilter,sothenetrolloffratebelowcutoffis36dB/octave.Themaximum",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                579,
+                                880,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        579,
+                                        724,
+                                        603
+                                    ],
+                                    "score": 0.999,
+                                    "content": "outputhehasmeasuredfromthisparticularpairofsubwoofersis116dBat16Hzwithunder",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        725,
+                                        581,
+                                        750,
+                                        599
+                                    ],
+                                    "score": 0.8,
+                                    "content": "3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        750,
+                                        579,
+                                        880,
+                                        603
+                                    ],
+                                    "score": 0.998,
+                                    "content": "dis-tortion.This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                597,
+                                860,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        597,
+                                        82,
+                                        625
+                                    ],
+                                    "score": 0.992,
+                                    "content": "wasina",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        600,
+                                        171,
+                                        620
+                                    ],
+                                    "score": 0.82,
+                                    "content": "3 3 ^ { \\prime } \\times 1 4 ^ { \\prime } \\times 7 . 5 ^ { \\prime }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        171,
+                                        597,
+                                        860,
+                                        625
+                                    ],
+                                    "score": 0.984,
+                                    "content": "basement,thesub-woofersagainstthemiddleofthefrontwali.e.about5feetfromthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                618,
+                                854,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        618,
+                                        854,
+                                        645
+                                    ],
+                                    "score": 0.968,
+                                    "content": "corners),measuredabout10feetfromthespeakers,atnormalearlevel.ItwasmeasuredbyIrausinghisIvie",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                637,
+                                832,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        637,
+                                        832,
+                                        665
+                                    ],
+                                    "score": 0.993,
+                                    "content": "andtheCBStestdisc.Hedidnotmeasurethecorrespondinginputpower,sowedidnothaveanefficiency",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                659,
+                                871,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        659,
+                                        871,
+                                        683
+                                    ],
+                                    "score": 0.988,
+                                    "content": "figure.PohSerdidsaythatthetheoreticalefi-ciencyofthesystemisabout87dB/wattat1meter(87db/wattat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                677,
+                                808,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        677,
+                                        808,
+                                        705
+                                    ],
+                                    "score": 0.985,
+                                    "content": "1meterinhalfspacecorrespondstoalit-tleunder2mWacousticoutput,i.e.,slightlyunderO.2percent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                699,
+                                846,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        699,
+                                        846,
+                                        723
+                                    ],
+                                    "score": 0.989,
+                                    "content": "efficiency).Thewoofershaveavoice-coilresistanceof5ohms(atdc).Sincetheyareparalleled,theminimum",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                719,
+                                842,
+                                746
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        719,
+                                        842,
+                                        746
+                                    ],
+                                    "score": 0.99,
+                                    "content": "impedancepresentedtoanamplifierisunder3ohms(attheportresonance,around18Hz)-quitelow.This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                740,
+                                878,
+                                764
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        740,
+                                        878,
+                                        764
+                                    ],
+                                    "score": 0.984,
+                                    "content": "resultsinafairlyhighsensitivity.However,ifyouareworredaboutthelowimpedancecombinedwithapossible",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                759,
+                                874,
+                                786
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        759,
+                                        874,
+                                        786
+                                    ],
+                                    "score": 0.987,
+                                    "content": "largephaseangleatIowfrequencies,PohSersuggestedthatthedriverscouldbewiredinseriesinsteadofpar-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                779,
+                                853,
+                                803
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        779,
+                                        853,
+                                        803
+                                    ],
+                                    "score": 0.979,
+                                    "content": "allel,raisingtheminimumimpedancetoover10ohms.\"Thesensitivitywouldofcoursebelowerby6dB.\"Effi-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                800,
+                                856,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        800,
+                                        856,
+                                        824
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ciencyisclearlyunaffected.PohSerusesCarveramplifiersathome,bytheway(severalM1.OtsandanM500t).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                819,
+                                865,
+                                843
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        819,
+                                        865,
+                                        843
+                                    ],
+                                    "score": 0.976,
+                                    "content": "HeusedhisCarverM5ootfordrivingthesubwoofersatthismeeting.(Ithasexcellentmeters,whichallowedus",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                837,
+                                857,
+                                866
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        837,
+                                        857,
+                                        866
+                                    ],
+                                    "score": 0.992,
+                                    "content": "toestimatethepowerfedtothewoofersduringthedemonstration.Themeterswerecalibratedbeforebeing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                858,
+                                835,
+                                884
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        858,
+                                        835,
+                                        884
+                                    ],
+                                    "score": 0.988,
+                                    "content": "broughtto themeeting.)Itappearedtodrivetheunder-3-ohmloadof thesubwooferswithoutanyaudible",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                879,
+                                844,
+                                902
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        879,
+                                        844,
+                                        902
+                                    ],
+                                    "score": 0.982,
+                                    "content": "distress,andre-mainedquitecool.Eachchannel-PohSerrecommendsdualsub-woofers-canhandle300",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                900,
+                                871,
+                                924
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        900,
+                                        871,
+                                        924
+                                    ],
+                                    "score": 0.96,
+                                    "content": "wattslong-termaveragepower.Hehasnotyetmeltedadriver.Demonstrationsfollowed,beginningwithaHin-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                920,
+                                867,
+                                943
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        920,
+                                        867,
+                                        943
+                                    ],
+                                    "score": 0.991,
+                                    "content": "demithorganselection(onArgo)inwhichPohSersaidthatthebasswaslouder(byabout6dB)thantherestof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                940,
+                                842,
+                                964
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        940,
+                                        842,
+                                        964
+                                    ],
+                                    "score": 0.982,
+                                    "content": "thespectrum(measured usingaspectrumanalyzerinpeak-hold modeand playing throughtheentiredisc).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                960,
+                                843,
+                                983
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        960,
+                                        843,
+                                        983
+                                    ],
+                                    "score": 0.982,
+                                    "content": "Withapproximately150watsin,IraLeonardreportedthatweweregetingabout110dBout.\"It'salmostall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                977,
+                                862,
+                                1005
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        977,
+                                        862,
+                                        1005
+                                    ],
+                                    "score": 0.923,
+                                    "content": "around19Hz,tooPohSertoldus.Whentheselectionwasfirstplayed,AlFosterwasheardtoexclaim,\"Wow!\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                994,
+                                849,
+                                1028
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        994,
+                                        849,
+                                        1028
+                                    ],
+                                    "score": 0.979,
+                                    "content": "Withoutthesubwoofersandcrossover,thedbx25oosdistortedbadlyonthistrack,becausetheywerebeing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                1020,
+                                847,
+                                1044
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        1020,
+                                        847,
+                                        1044
+                                    ],
+                                    "score": 0.983,
+                                    "content": "drivenwellbelowtheirportresonance,whichis1-1/2octaveshigher.Admittedlyanunusualcase,thisisnev-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1040,
+                                861,
+                                1063
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1040,
+                                        861,
+                                        1063
+                                    ],
+                                    "score": 0.997,
+                                    "content": "erthelessagoodexampleofwhathappenstoanunpro-tectedventedsystembelowresonance,asitbecomes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1060,
+                                843,
+                                1083
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1060,
+                                        843,
+                                        1083
+                                    ],
+                                    "score": 0.978,
+                                    "content": "un-controled(NotethatinthecaseofPohSer'ssub-woofers,thebuilt-inhigh-passfilterprevents such be-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1077,
+                                870,
+                                1103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1077,
+                                        870,
+                                        1103
+                                    ],
+                                    "score": 0.982,
+                                    "content": "haviorbyfilteringoutbelow-resonancesignals).[Alsonotethatsingle6\"sealed50Hz-resonancewooferswould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                1098,
+                                842,
+                                1125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        1098,
+                                        842,
+                                        1125
+                                    ],
+                                    "score": 0.976,
+                                    "content": "\"distortbadly\"whenoverdrivenat19Hz.-DRM]OfcourseweheardPohSer'sfavoritedemoCD,thePhilips",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1118,
+                                756,
+                                1145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1118,
+                                        581,
+                                        1145
+                                    ],
+                                    "score": 0.99,
+                                    "content": "recordingofSaint-Saens'OrganSymphony(Edopage10TheBASSpeaker",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        582,
+                                        1124,
+                                        593,
+                                        1135
+                                    ],
+                                    "score": 0.43,
+                                    "content": "\\cdot",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        593,
+                                        1118,
+                                        756,
+                                        1145
+                                    ],
+                                    "score": 0.998,
+                                    "content": "volume17number2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        }
+                    ],
+                    "index": 24.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                1154
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        15,
+                        145,
+                        878,
+                        1143
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                142,
+                                840,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        142,
+                                        840,
+                                        166
+                                    ],
+                                    "score": 0.951,
+                                    "content": "crossover,theallow-ableadditionaldelaysbecame9and22msrespectivelySo,saidPohSer,bychoosinga",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                160,
+                                868,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        160,
+                                        868,
+                                        187
+                                    ],
+                                    "score": 0.988,
+                                    "content": "lowercrossoverfre-quency,thedesignercanreducetheaudibilityofanygivenamountofdelay.Turningtohis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                180,
+                                850,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        180,
+                                        850,
+                                        206
+                                    ],
+                                    "score": 0.989,
+                                    "content": "currentsubwooferdesign,PohSerex-plainedthathisgoalwastoreducebothdistortionandenclosuresize",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                863,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        863,
+                                        225
+                                    ],
+                                    "score": 0.978,
+                                    "content": "whileretaining highacousticoutputatlowfrequencies.Thenewsubwoofer has half theinternalvolumeof his",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                221,
+                                837,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        221,
+                                        519,
+                                        247
+                                    ],
+                                    "score": 0.977,
+                                    "content": "previousdesign(4cu.ft.instead of8),yethas5dBmoreoutputat",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        520,
+                                        222,
+                                        545,
+                                        241
+                                    ],
+                                    "score": 0.81,
+                                    "content": "3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        546,
+                                        221,
+                                        837,
+                                        247
+                                    ],
+                                    "score": 0.994,
+                                    "content": "distortion.PohSer'sapproachwasto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                239,
+                                857,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        239,
+                                        106,
+                                        266
+                                    ],
+                                    "score": 0.999,
+                                    "content": "mounttwo",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        106,
+                                        243,
+                                        134,
+                                        261
+                                    ],
+                                    "score": 0.34,
+                                    "content": "1 2 \"",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        135,
+                                        239,
+                                        857,
+                                        266
+                                    ],
+                                    "score": 0.999,
+                                    "content": "driversfac-ingeachotheratthesameendofacylindricalenclosure.Thispresentseachdriver",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                848,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        848,
+                                        287
+                                    ],
+                                    "score": 0.983,
+                                    "content": "witha\"virtualenclosure\"whichistwicetheapparentvolumeoftherealone(eachdriver\"sees\"onlyhalfthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                280,
+                                852,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        280,
+                                        852,
+                                        307
+                                    ],
+                                    "score": 0.983,
+                                    "content": "pressureintheenclosure,henceeachdriver thinksthatitisoperating inanenclo-surewhichistwiceas big).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                299,
+                                853,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        299,
+                                        853,
+                                        328
+                                    ],
+                                    "score": 0.974,
+                                    "content": "Also,bymountingthemfacingeachother,even-orderdistortionproductsaremostlyeliminated.Bychoosing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                853,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        853,
+                                        347
+                                    ],
+                                    "score": 0.989,
+                                    "content": "driverswithverylitleoddorder-harmonicsintheoperatingrange,verylowdistortionisachieved.Ontheflip",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                342,
+                                852,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        342,
+                                        852,
+                                        366
+                                    ],
+                                    "score": 0.974,
+                                    "content": "sideofthecoin,effi-ciencyis3dBlower.Luckilypowerischeapthesedays,andthewoofersusedcanhandle",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                849,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        849,
+                                        387
+                                    ],
+                                    "score": 0.979,
+                                    "content": "veryhighpower.LikeallPohSer'sdesigns,thisisaventedsystem(forefficiencyandmoreimportant,higher",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                380,
+                                862,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        380,
+                                        862,
+                                        406
+                                    ],
+                                    "score": 0.982,
+                                    "content": "maximumoutputatthelowestfrequencies).Inadirectcomparison,itputoutmore16-2OHzthanaHartley24\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                400,
+                                865,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        400,
+                                        865,
+                                        427
+                                    ],
+                                    "score": 0.973,
+                                    "content": "woofer,thelatterde-velopingarubbing voicecoilduringthetest).Theportisalargediameter(6inches)tube,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                422,
+                                879,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        422,
+                                        879,
+                                        446
+                                    ],
+                                    "score": 0.993,
+                                    "content": "withtheopeningatthebottom.(Thedriversaremountedatthetop.)PohSercommentedthatmostcommercial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                440,
+                                866,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        440,
+                                        866,
+                                        467
+                                    ],
+                                    "score": 0.984,
+                                    "content": "systemsusetoosmallaport,resultingincompressionand\"chuffing\"noisesduetotheextremevelocityof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                462,
+                                878,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        462,
+                                        615,
+                                        486
+                                    ],
+                                    "score": 0.996,
+                                    "content": "airintheport.18-inchwoofersarefrequentlycoupledwitha4-inchport(inan",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        615,
+                                        462,
+                                        677,
+                                        482
+                                    ],
+                                    "score": 0.86,
+                                    "content": "\\$ 80,000",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        677,
+                                        462,
+                                        878,
+                                        486
+                                    ],
+                                    "score": 0.979,
+                                    "content": "system,forexample).Poh",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                480,
+                                849,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        480,
+                                        849,
+                                        507
+                                    ],
+                                    "score": 0.941,
+                                    "content": "Sertoldusthathissystemisusablefromanynormalsubwoofercrossoverfrequency-\"20Hz,10oHz,50Hz,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                500,
+                                856,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        500,
+                                        856,
+                                        525
+                                    ],
+                                    "score": 0.976,
+                                    "content": "30Hz\"-downtobe-low19Hz,whereitis\"1or2dBdown.\"Itstillhassub-stantialoutputat16Hz.Thereisless",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                521,
+                                850,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        521,
+                                        850,
+                                        545
+                                    ],
+                                    "score": 0.973,
+                                    "content": "bass boost appliedtoequalizethis sys-temthanwas usedinhisfirstdesign.Thepeak boostoc-cursaround",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                538,
+                                876,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        538,
+                                        876,
+                                        567
+                                    ],
+                                    "score": 0.962,
+                                    "content": "20Hz,andisonly3dBrelativetothe\"high\"bass(above30Hzorso),comparedwith6dBboostofthefirstdesign.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                561,
+                                850,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        561,
+                                        850,
+                                        585
+                                    ],
+                                    "score": 0.984,
+                                    "content": "Thereisalsoa12dB/octaveinfrasonicfilter,sothenetrolloffratebelowcutoffis36dB/octave.Themaximum",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                579,
+                                880,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        579,
+                                        724,
+                                        603
+                                    ],
+                                    "score": 0.999,
+                                    "content": "outputhehasmeasuredfromthisparticularpairofsubwoofersis116dBat16Hzwithunder",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        725,
+                                        581,
+                                        750,
+                                        599
+                                    ],
+                                    "score": 0.8,
+                                    "content": "3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        750,
+                                        579,
+                                        880,
+                                        603
+                                    ],
+                                    "score": 0.998,
+                                    "content": "dis-tortion.This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                597,
+                                860,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        597,
+                                        82,
+                                        625
+                                    ],
+                                    "score": 0.992,
+                                    "content": "wasina",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        600,
+                                        171,
+                                        620
+                                    ],
+                                    "score": 0.82,
+                                    "content": "3 3 ^ { \\prime } \\times 1 4 ^ { \\prime } \\times 7 . 5 ^ { \\prime }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        171,
+                                        597,
+                                        860,
+                                        625
+                                    ],
+                                    "score": 0.984,
+                                    "content": "basement,thesub-woofersagainstthemiddleofthefrontwali.e.about5feetfromthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                618,
+                                854,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        618,
+                                        854,
+                                        645
+                                    ],
+                                    "score": 0.968,
+                                    "content": "corners),measuredabout10feetfromthespeakers,atnormalearlevel.ItwasmeasuredbyIrausinghisIvie",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                637,
+                                832,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        637,
+                                        832,
+                                        665
+                                    ],
+                                    "score": 0.993,
+                                    "content": "andtheCBStestdisc.Hedidnotmeasurethecorrespondinginputpower,sowedidnothaveanefficiency",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                659,
+                                871,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        659,
+                                        871,
+                                        683
+                                    ],
+                                    "score": 0.988,
+                                    "content": "figure.PohSerdidsaythatthetheoreticalefi-ciencyofthesystemisabout87dB/wattat1meter(87db/wattat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                677,
+                                808,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        677,
+                                        808,
+                                        705
+                                    ],
+                                    "score": 0.985,
+                                    "content": "1meterinhalfspacecorrespondstoalit-tleunder2mWacousticoutput,i.e.,slightlyunderO.2percent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                699,
+                                846,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        699,
+                                        846,
+                                        723
+                                    ],
+                                    "score": 0.989,
+                                    "content": "efficiency).Thewoofershaveavoice-coilresistanceof5ohms(atdc).Sincetheyareparalleled,theminimum",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                719,
+                                842,
+                                746
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        719,
+                                        842,
+                                        746
+                                    ],
+                                    "score": 0.99,
+                                    "content": "impedancepresentedtoanamplifierisunder3ohms(attheportresonance,around18Hz)-quitelow.This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                740,
+                                878,
+                                764
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        740,
+                                        878,
+                                        764
+                                    ],
+                                    "score": 0.984,
+                                    "content": "resultsinafairlyhighsensitivity.However,ifyouareworredaboutthelowimpedancecombinedwithapossible",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                759,
+                                874,
+                                786
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        759,
+                                        874,
+                                        786
+                                    ],
+                                    "score": 0.987,
+                                    "content": "largephaseangleatIowfrequencies,PohSersuggestedthatthedriverscouldbewiredinseriesinsteadofpar-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                779,
+                                853,
+                                803
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        779,
+                                        853,
+                                        803
+                                    ],
+                                    "score": 0.979,
+                                    "content": "allel,raisingtheminimumimpedancetoover10ohms.\"Thesensitivitywouldofcoursebelowerby6dB.\"Effi-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                800,
+                                856,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        800,
+                                        856,
+                                        824
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ciencyisclearlyunaffected.PohSerusesCarveramplifiersathome,bytheway(severalM1.OtsandanM500t).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                819,
+                                865,
+                                843
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        819,
+                                        865,
+                                        843
+                                    ],
+                                    "score": 0.976,
+                                    "content": "HeusedhisCarverM5ootfordrivingthesubwoofersatthismeeting.(Ithasexcellentmeters,whichallowedus",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                837,
+                                857,
+                                866
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        837,
+                                        857,
+                                        866
+                                    ],
+                                    "score": 0.992,
+                                    "content": "toestimatethepowerfedtothewoofersduringthedemonstration.Themeterswerecalibratedbeforebeing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                858,
+                                835,
+                                884
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        858,
+                                        835,
+                                        884
+                                    ],
+                                    "score": 0.988,
+                                    "content": "broughtto themeeting.)Itappearedtodrivetheunder-3-ohmloadof thesubwooferswithoutanyaudible",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                879,
+                                844,
+                                902
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        879,
+                                        844,
+                                        902
+                                    ],
+                                    "score": 0.982,
+                                    "content": "distress,andre-mainedquitecool.Eachchannel-PohSerrecommendsdualsub-woofers-canhandle300",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                900,
+                                871,
+                                924
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        900,
+                                        871,
+                                        924
+                                    ],
+                                    "score": 0.96,
+                                    "content": "wattslong-termaveragepower.Hehasnotyetmeltedadriver.Demonstrationsfollowed,beginningwithaHin-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                920,
+                                867,
+                                943
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        920,
+                                        867,
+                                        943
+                                    ],
+                                    "score": 0.991,
+                                    "content": "demithorganselection(onArgo)inwhichPohSersaidthatthebasswaslouder(byabout6dB)thantherestof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                940,
+                                842,
+                                964
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        940,
+                                        842,
+                                        964
+                                    ],
+                                    "score": 0.982,
+                                    "content": "thespectrum(measured usingaspectrumanalyzerinpeak-hold modeand playing throughtheentiredisc).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                960,
+                                843,
+                                983
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        960,
+                                        843,
+                                        983
+                                    ],
+                                    "score": 0.982,
+                                    "content": "Withapproximately150watsin,IraLeonardreportedthatweweregetingabout110dBout.\"It'salmostall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                977,
+                                862,
+                                1005
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        977,
+                                        862,
+                                        1005
+                                    ],
+                                    "score": 0.923,
+                                    "content": "around19Hz,tooPohSertoldus.Whentheselectionwasfirstplayed,AlFosterwasheardtoexclaim,\"Wow!\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                994,
+                                849,
+                                1028
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        994,
+                                        849,
+                                        1028
+                                    ],
+                                    "score": 0.979,
+                                    "content": "Withoutthesubwoofersandcrossover,thedbx25oosdistortedbadlyonthistrack,becausetheywerebeing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                1020,
+                                847,
+                                1044
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        1020,
+                                        847,
+                                        1044
+                                    ],
+                                    "score": 0.983,
+                                    "content": "drivenwellbelowtheirportresonance,whichis1-1/2octaveshigher.Admittedlyanunusualcase,thisisnev-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1040,
+                                861,
+                                1063
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1040,
+                                        861,
+                                        1063
+                                    ],
+                                    "score": 0.997,
+                                    "content": "erthelessagoodexampleofwhathappenstoanunpro-tectedventedsystembelowresonance,asitbecomes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1060,
+                                843,
+                                1083
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1060,
+                                        843,
+                                        1083
+                                    ],
+                                    "score": 0.978,
+                                    "content": "un-controled(NotethatinthecaseofPohSer'ssub-woofers,thebuilt-inhigh-passfilterprevents such be-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1077,
+                                870,
+                                1103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1077,
+                                        870,
+                                        1103
+                                    ],
+                                    "score": 0.982,
+                                    "content": "haviorbyfilteringoutbelow-resonancesignals).[Alsonotethatsingle6\"sealed50Hz-resonancewooferswould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                1098,
+                                842,
+                                1125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        1098,
+                                        842,
+                                        1125
+                                    ],
+                                    "score": 0.976,
+                                    "content": "\"distortbadly\"whenoverdrivenat19Hz.-DRM]OfcourseweheardPohSer'sfavoritedemoCD,thePhilips",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1118,
+                                756,
+                                1145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1118,
+                                        581,
+                                        1145
+                                    ],
+                                    "score": 0.99,
+                                    "content": "recordingofSaint-Saens'OrganSymphony(Edopage10TheBASSpeaker",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        582,
+                                        1124,
+                                        593,
+                                        1135
+                                    ],
+                                    "score": 0.43,
+                                    "content": "\\cdot",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        593,
+                                        1118,
+                                        756,
+                                        1145
+                                    ],
+                                    "score": 0.998,
+                                    "content": "volume17number2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        }
+                    ],
+                    "index": 24.5,
+                    "bbox_fs": [
+                        12,
+                        142,
+                        880,
+                        1145
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

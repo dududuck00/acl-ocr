@@ -1,0 +1,620 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        20,
+                        880,
+                        283
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                21,
+                                855,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        21,
+                                        855,
+                                        45
+                                    ],
+                                    "score": 0.994,
+                                    "content": "OqhehmQUDtubSVmjWCSGHUHJYUNHBjkAKgSDjmOfNRgbwJWgILagZBIiemCRbuHdOBoKfPQPnBjrvl",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                41,
+                                821,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        41,
+                                        821,
+                                        66
+                                    ],
+                                    "score": 0.976,
+                                    "content": "KJxJTbKgZCitZKLEYgRIPBAaXrrWJAzMWNcUWIAnRHhlajCaKNemwENpTEjtIt XzenzibIoKcPCvutMHBa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                837,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        837,
+                                        87
+                                    ],
+                                    "score": 0.975,
+                                    "content": "KPzoekvUYLLSvRLAtBwarKXJcLueGiljIzmFjZvuVcgnxuZDAIHqIMXvUfnnTZHxYsuoJcEvdUcTWTZwWbFIJd",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                880,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        880,
+                                        107
+                                    ],
+                                    "score": 0.988,
+                                    "content": "XfBYgyFLpiGLbIEZUOxdTccjoeEvGmUZkHwqBFLMNKLzgRVYrrtCRhQnRIcQZyOXCCOrPFtkavatyVGtCDvTt",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                99,
+                                877,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        99,
+                                        877,
+                                        128
+                                    ],
+                                    "score": 0.982,
+                                    "content": "VZWDuhIqXIkpuEIDRJXpILjeSZWGPbGbAOpanXiEKqxajHQslsLLiwBeBUBUMUmXrLThCGuKGqLrfJmaYM",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                792,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        792,
+                                        149
+                                    ],
+                                    "score": 0.988,
+                                    "content": "JFMWcyGnGUpbCxiEzXFjxKcYzYVFxSrWgNmjWWWgueofdOczFGefFOHcWqYcLKuFOUQEjwiaVUM",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                876,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        876,
+                                        167
+                                    ],
+                                    "score": 0.981,
+                                    "content": "tIafpAmSTEkRnHIqmyVUvuDVExbVfQUpLNsRYOLCRtAQuBFTkGQLwqCtsKHDFsImqShjVKAMvfReAUWqILvK",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                159,
+                                818,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        159,
+                                        818,
+                                        188
+                                    ],
+                                    "score": 0.98,
+                                    "content": "ateqrVFdyoBMtSrJbeAAGFHbnSMUfXVJFGhMTsBsHSJMQYhRkrgVWKhVPNbLOznfgqsOMPFyKURrP",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                180,
+                                876,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        180,
+                                        876,
+                                        209
+                                    ],
+                                    "score": 0.975,
+                                    "content": "hqmSLeizueFjWtKNvKxWwTBdpGNDbjzJoeQPsHtUKLdfHZOulBbSIciJLrHJmIYgUSpuinKhHzTCseQQWgFzg0",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                877,
+                                228
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        877,
+                                        228
+                                    ],
+                                    "score": 0.968,
+                                    "content": "ZWIOGctIxrugGSMjvSqhxjXhGurzXXFnsqrTeTXVOPrYBYkidmkWvXDAfNPqg ysitLwmDxqlcYPLTdVynncfO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                842,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        842,
+                                        247
+                                    ],
+                                    "score": 0.987,
+                                    "content": "DuBdwsUmSSmUrLcijEGSGIZWGkFJgvHazdurqnWkgjSCvEkMepQoNsxNwoqRBCdzUrWZmpZvDJYQD",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                242,
+                                843,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        242,
+                                        843,
+                                        268
+                                    ],
+                                    "score": 0.974,
+                                    "content": "UdqmsarIkecPZeJkpRpSjJYOUZiBRhVEuqUwvYhiTtBgEudUtSpZZCzgiuFVZYoSIpUJAeKWoPpwaGuVcQr",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                261,
+                                251,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        261,
+                                        251,
+                                        286
+                                    ],
+                                    "score": 0.986,
+                                    "content": "OmWxGnWmxUavtxuHwXyd",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                296
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        20,
+                        880,
+                        283
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                21,
+                                855,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        21,
+                                        855,
+                                        45
+                                    ],
+                                    "score": 0.994,
+                                    "content": "OqhehmQUDtubSVmjWCSGHUHJYUNHBjkAKgSDjmOfNRgbwJWgILagZBIiemCRbuHdOBoKfPQPnBjrvl",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                41,
+                                821,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        41,
+                                        821,
+                                        66
+                                    ],
+                                    "score": 0.976,
+                                    "content": "KJxJTbKgZCitZKLEYgRIPBAaXrrWJAzMWNcUWIAnRHhlajCaKNemwENpTEjtIt XzenzibIoKcPCvutMHBa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                837,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        837,
+                                        87
+                                    ],
+                                    "score": 0.975,
+                                    "content": "KPzoekvUYLLSvRLAtBwarKXJcLueGiljIzmFjZvuVcgnxuZDAIHqIMXvUfnnTZHxYsuoJcEvdUcTWTZwWbFIJd",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                880,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        880,
+                                        107
+                                    ],
+                                    "score": 0.988,
+                                    "content": "XfBYgyFLpiGLbIEZUOxdTccjoeEvGmUZkHwqBFLMNKLzgRVYrrtCRhQnRIcQZyOXCCOrPFtkavatyVGtCDvTt",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                99,
+                                877,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        99,
+                                        877,
+                                        128
+                                    ],
+                                    "score": 0.982,
+                                    "content": "VZWDuhIqXIkpuEIDRJXpILjeSZWGPbGbAOpanXiEKqxajHQslsLLiwBeBUBUMUmXrLThCGuKGqLrfJmaYM",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                792,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        792,
+                                        149
+                                    ],
+                                    "score": 0.988,
+                                    "content": "JFMWcyGnGUpbCxiEzXFjxKcYzYVFxSrWgNmjWWWgueofdOczFGefFOHcWqYcLKuFOUQEjwiaVUM",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                876,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        876,
+                                        167
+                                    ],
+                                    "score": 0.981,
+                                    "content": "tIafpAmSTEkRnHIqmyVUvuDVExbVfQUpLNsRYOLCRtAQuBFTkGQLwqCtsKHDFsImqShjVKAMvfReAUWqILvK",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                159,
+                                818,
+                                188
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        159,
+                                        818,
+                                        188
+                                    ],
+                                    "score": 0.98,
+                                    "content": "ateqrVFdyoBMtSrJbeAAGFHbnSMUfXVJFGhMTsBsHSJMQYhRkrgVWKhVPNbLOznfgqsOMPFyKURrP",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                180,
+                                876,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        180,
+                                        876,
+                                        209
+                                    ],
+                                    "score": 0.975,
+                                    "content": "hqmSLeizueFjWtKNvKxWwTBdpGNDbjzJoeQPsHtUKLdfHZOulBbSIciJLrHJmIYgUSpuinKhHzTCseQQWgFzg0",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                877,
+                                228
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        877,
+                                        228
+                                    ],
+                                    "score": 0.968,
+                                    "content": "ZWIOGctIxrugGSMjvSqhxjXhGurzXXFnsqrTeTXVOPrYBYkidmkWvXDAfNPqg ysitLwmDxqlcYPLTdVynncfO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                842,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        842,
+                                        247
+                                    ],
+                                    "score": 0.987,
+                                    "content": "DuBdwsUmSSmUrLcijEGSGIZWGkFJgvHazdurqnWkgjSCvEkMepQoNsxNwoqRBCdzUrWZmpZvDJYQD",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                242,
+                                843,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        242,
+                                        843,
+                                        268
+                                    ],
+                                    "score": 0.974,
+                                    "content": "UdqmsarIkecPZeJkpRpSjJYOUZiBRhVEuqUwvYhiTtBgEudUtSpZZCzgiuFVZYoSIpUJAeKWoPpwaGuVcQr",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                261,
+                                251,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        261,
+                                        251,
+                                        286
+                                    ],
+                                    "score": 0.986,
+                                    "content": "OmWxGnWmxUavtxuHwXyd",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 6,
+                    "bbox_fs": [
+                        14,
+                        21,
+                        880,
+                        286
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

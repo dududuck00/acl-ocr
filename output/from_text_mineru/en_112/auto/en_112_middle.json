@@ -1,0 +1,1280 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        7,
+                        876,
+                        583
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                22,
+                                870,
+                                42
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        22,
+                                        870,
+                                        42
+                                    ],
+                                    "score": 0.981,
+                                    "content": "633GovernmentGazette29December2005No.3566ActNo.15，2005ESTATESANDSUCCESSIONAMENDMENT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                39,
+                                842,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        39,
+                                        842,
+                                        63
+                                    ],
+                                    "score": 0.987,
+                                    "content": "ACT,2005orafterthedateofcommencementofthisAct,aregovernedbytheAdministrationofEstatesAct,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                60,
+                                835,
+                                83
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        60,
+                                        835,
+                                        83
+                                    ],
+                                    "score": 0.981,
+                                    "content": "1965(ActNo.66of1965).(2)Theestateofapersonwhodiedbeforethedateof commencementofthisAct",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                79,
+                                875,
+                                102
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        79,
+                                        875,
+                                        102
+                                    ],
+                                    "score": 0.983,
+                                    "content": "whichwasadministered,immediatelybeforethatdate,intermsoftheNativeAdministrationProclamation,1928",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                100,
+                                862,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        100,
+                                        862,
+                                        122
+                                    ],
+                                    "score": 0.984,
+                                    "content": "ortheAdministrationofEstates (RehobothGebiet)Proclamation,1941,mustbeliquidatedanddistributedand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                119,
+                                845,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        119,
+                                        845,
+                                        143
+                                    ],
+                                    "score": 0.997,
+                                    "content": "anymatterrelatingtotheliquidationanddistributionofsuchestatemustbedealtwithasifthisActhadnot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                140,
+                                862,
+                                163
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        140,
+                                        862,
+                                        163
+                                    ],
+                                    "score": 0.976,
+                                    "content": "beenpassed.(3)Despitesubsection(2),if,inthecaseofanestatereferredtointhatsubsectiontheliquidation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                160,
+                                876,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        160,
+                                        876,
+                                        183
+                                    ],
+                                    "score": 0.999,
+                                    "content": "anddistributionofwhichimmediatelybeforethecommencementofthisActwasbeingadministeredintermsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                176,
+                                866,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        176,
+                                        866,
+                                        205
+                                    ],
+                                    "score": 0.971,
+                                    "content": "theNativeAdministrationProclamation,928ortheAdministrationof Estates(Rehoboth Gebiet)Proclamation,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                197,
+                                860,
+                                224
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        197,
+                                        860,
+                                        224
+                                    ],
+                                    "score": 0.984,
+                                    "content": "1941andwhichhasnotbeencompletedbythedateofsuchcommencement,anyperson havinganinterest in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                219,
+                                860,
+                                242
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        219,
+                                        860,
+                                        242
+                                    ],
+                                    "score": 0.999,
+                                    "content": "theestateinwritingrequeststheMasteroftheHighCourttoadministertheestateinquestionintermsofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                237,
+                                824,
+                                263
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        237,
+                                        824,
+                                        263
+                                    ],
+                                    "score": 0.989,
+                                    "content": "AdministrationofEstatesAct,1965,theMastermust(a)inwritingrequestthemagistrateinchargeofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                259,
+                                840,
+                                282
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        259,
+                                        840,
+                                        282
+                                    ],
+                                    "score": 0.986,
+                                    "content": "supervisionoftheestateinquestiontotransfersuch estatetothe Master'ssupervisionandcontrol;and(b)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                278,
+                                790,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        278,
+                                        790,
+                                        302
+                                    ],
+                                    "score": 0.997,
+                                    "content": "uponreceiptoftherelevantdocumentsandinformationpertainingtotheestateinquestionexercise",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                299,
+                                835,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        299,
+                                        835,
+                                        322
+                                    ],
+                                    "score": 0.984,
+                                    "content": "jurisdictioninrespectoftheestateintermsoftheAdministrationof EstatesAct,1965.(4)Uponreceiptofa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                319,
+                                876,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        319,
+                                        876,
+                                        342
+                                    ],
+                                    "score": 0.987,
+                                    "content": "requestoftheMasterintermsofsubsection(3)(a),themagistrateconcernedmustforthwithprovidetheMaster",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                336,
+                                879,
+                                363
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        336,
+                                        879,
+                                        363
+                                    ],
+                                    "score": 0.992,
+                                    "content": "withalldocumentspertainingtotheestateinquestionwhichhavebeenlodgedwiththemagistrateorwhichare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                359,
+                                864,
+                                382
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        359,
+                                        864,
+                                        382
+                                    ],
+                                    "score": 0.997,
+                                    "content": "underhisorhercontrolaswellasawrittenreportinrelationtoanymatterconcerningtheestateofwhichthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                375,
+                                871,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        375,
+                                        871,
+                                        405
+                                    ],
+                                    "score": 0.992,
+                                    "content": "magistratehasknowledgeandwhichisreasonablyrequiredforassistingtheMasterintheperformanceof any",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                399,
+                                874,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        399,
+                                        874,
+                                        422
+                                    ],
+                                    "score": 0.977,
+                                    "content": "functionundertheAdministrationofEstatesAct,1965inrelationtotheestate.AmendmentofAdministrationof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                415,
+                                873,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        415,
+                                        873,
+                                        440
+                                    ],
+                                    "score": 0.989,
+                                    "content": "EstatesAct,19654.TheAdministrationofEstatesAct,1965(ActNo.66of1965)isamendedbytheinsertionafter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                435,
+                                859,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        435,
+                                        859,
+                                        461
+                                    ],
+                                    "score": 0.981,
+                                    "content": "section4ofthefollowingsection:\"MinistermayassignfunctionsofMastertomagistrates4A.(1)TheMinister",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                455,
+                                847,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        455,
+                                        847,
+                                        481
+                                    ],
+                                    "score": 0.989,
+                                    "content": "afterconsultationwiththeMasterandtheChiefoflowercourts,maybynoticeintheGazette-(a)determine",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                477,
+                                848,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        477,
+                                        848,
+                                        500
+                                    ],
+                                    "score": 0.992,
+                                    "content": "thatanypowersorfunctionsvestedinorassignedtotheMasterbythisAct,asarespecifiedinthenotice,be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                496,
+                                837,
+                                522
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        496,
+                                        837,
+                                        522
+                                    ],
+                                    "score": 0.987,
+                                    "content": "vestedinandassignedalsotoamagistrateforthepurposeofassstingintheperformanceofthe Master's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                516,
+                                838,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        516,
+                                        838,
+                                        539
+                                    ],
+                                    "score": 0.993,
+                                    "content": "functionsundertheActinrelationtoestatescontemplatedinsection18(3);and(b)determineconditionsor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                537,
+                                865,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        537,
+                                        865,
+                                        560
+                                    ],
+                                    "score": 0.994,
+                                    "content": "restrictionsinrelationtotheexerciseofanpowersorperformanceofanyfunctions bymagistratesreferredto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                556,
+                                649,
+                                580
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        556,
+                                        649,
+                                        580
+                                    ],
+                                    "score": 0.996,
+                                    "content": "inparagraph(a)andprescribeprocedurestobefollowedinconnectiontherewith.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 13.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                591
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        7,
+                        876,
+                        583
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                22,
+                                870,
+                                42
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        22,
+                                        870,
+                                        42
+                                    ],
+                                    "score": 0.981,
+                                    "content": "633GovernmentGazette29December2005No.3566ActNo.15，2005ESTATESANDSUCCESSIONAMENDMENT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                39,
+                                842,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        39,
+                                        842,
+                                        63
+                                    ],
+                                    "score": 0.987,
+                                    "content": "ACT,2005orafterthedateofcommencementofthisAct,aregovernedbytheAdministrationofEstatesAct,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                60,
+                                835,
+                                83
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        60,
+                                        835,
+                                        83
+                                    ],
+                                    "score": 0.981,
+                                    "content": "1965(ActNo.66of1965).(2)Theestateofapersonwhodiedbeforethedateof commencementofthisAct",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                79,
+                                875,
+                                102
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        79,
+                                        875,
+                                        102
+                                    ],
+                                    "score": 0.983,
+                                    "content": "whichwasadministered,immediatelybeforethatdate,intermsoftheNativeAdministrationProclamation,1928",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                100,
+                                862,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        100,
+                                        862,
+                                        122
+                                    ],
+                                    "score": 0.984,
+                                    "content": "ortheAdministrationofEstates (RehobothGebiet)Proclamation,1941,mustbeliquidatedanddistributedand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                119,
+                                845,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        119,
+                                        845,
+                                        143
+                                    ],
+                                    "score": 0.997,
+                                    "content": "anymatterrelatingtotheliquidationanddistributionofsuchestatemustbedealtwithasifthisActhadnot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                140,
+                                862,
+                                163
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        140,
+                                        862,
+                                        163
+                                    ],
+                                    "score": 0.976,
+                                    "content": "beenpassed.(3)Despitesubsection(2),if,inthecaseofanestatereferredtointhatsubsectiontheliquidation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                160,
+                                876,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        160,
+                                        876,
+                                        183
+                                    ],
+                                    "score": 0.999,
+                                    "content": "anddistributionofwhichimmediatelybeforethecommencementofthisActwasbeingadministeredintermsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                176,
+                                866,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        176,
+                                        866,
+                                        205
+                                    ],
+                                    "score": 0.971,
+                                    "content": "theNativeAdministrationProclamation,928ortheAdministrationof Estates(Rehoboth Gebiet)Proclamation,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                197,
+                                860,
+                                224
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        197,
+                                        860,
+                                        224
+                                    ],
+                                    "score": 0.984,
+                                    "content": "1941andwhichhasnotbeencompletedbythedateofsuchcommencement,anyperson havinganinterest in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                219,
+                                860,
+                                242
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        219,
+                                        860,
+                                        242
+                                    ],
+                                    "score": 0.999,
+                                    "content": "theestateinwritingrequeststheMasteroftheHighCourttoadministertheestateinquestionintermsofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                237,
+                                824,
+                                263
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        237,
+                                        824,
+                                        263
+                                    ],
+                                    "score": 0.989,
+                                    "content": "AdministrationofEstatesAct,1965,theMastermust(a)inwritingrequestthemagistrateinchargeofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                259,
+                                840,
+                                282
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        259,
+                                        840,
+                                        282
+                                    ],
+                                    "score": 0.986,
+                                    "content": "supervisionoftheestateinquestiontotransfersuch estatetothe Master'ssupervisionandcontrol;and(b)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                278,
+                                790,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        278,
+                                        790,
+                                        302
+                                    ],
+                                    "score": 0.997,
+                                    "content": "uponreceiptoftherelevantdocumentsandinformationpertainingtotheestateinquestionexercise",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                299,
+                                835,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        299,
+                                        835,
+                                        322
+                                    ],
+                                    "score": 0.984,
+                                    "content": "jurisdictioninrespectoftheestateintermsoftheAdministrationof EstatesAct,1965.(4)Uponreceiptofa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                319,
+                                876,
+                                342
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        319,
+                                        876,
+                                        342
+                                    ],
+                                    "score": 0.987,
+                                    "content": "requestoftheMasterintermsofsubsection(3)(a),themagistrateconcernedmustforthwithprovidetheMaster",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                336,
+                                879,
+                                363
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        336,
+                                        879,
+                                        363
+                                    ],
+                                    "score": 0.992,
+                                    "content": "withalldocumentspertainingtotheestateinquestionwhichhavebeenlodgedwiththemagistrateorwhichare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                359,
+                                864,
+                                382
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        359,
+                                        864,
+                                        382
+                                    ],
+                                    "score": 0.997,
+                                    "content": "underhisorhercontrolaswellasawrittenreportinrelationtoanymatterconcerningtheestateofwhichthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                375,
+                                871,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        375,
+                                        871,
+                                        405
+                                    ],
+                                    "score": 0.992,
+                                    "content": "magistratehasknowledgeandwhichisreasonablyrequiredforassistingtheMasterintheperformanceof any",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                399,
+                                874,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        399,
+                                        874,
+                                        422
+                                    ],
+                                    "score": 0.977,
+                                    "content": "functionundertheAdministrationofEstatesAct,1965inrelationtotheestate.AmendmentofAdministrationof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                415,
+                                873,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        415,
+                                        873,
+                                        440
+                                    ],
+                                    "score": 0.989,
+                                    "content": "EstatesAct,19654.TheAdministrationofEstatesAct,1965(ActNo.66of1965)isamendedbytheinsertionafter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                435,
+                                859,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        435,
+                                        859,
+                                        461
+                                    ],
+                                    "score": 0.981,
+                                    "content": "section4ofthefollowingsection:\"MinistermayassignfunctionsofMastertomagistrates4A.(1)TheMinister",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                455,
+                                847,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        455,
+                                        847,
+                                        481
+                                    ],
+                                    "score": 0.989,
+                                    "content": "afterconsultationwiththeMasterandtheChiefoflowercourts,maybynoticeintheGazette-(a)determine",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                477,
+                                848,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        477,
+                                        848,
+                                        500
+                                    ],
+                                    "score": 0.992,
+                                    "content": "thatanypowersorfunctionsvestedinorassignedtotheMasterbythisAct,asarespecifiedinthenotice,be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                496,
+                                837,
+                                522
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        496,
+                                        837,
+                                        522
+                                    ],
+                                    "score": 0.987,
+                                    "content": "vestedinandassignedalsotoamagistrateforthepurposeofassstingintheperformanceofthe Master's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                516,
+                                838,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        516,
+                                        838,
+                                        539
+                                    ],
+                                    "score": 0.993,
+                                    "content": "functionsundertheActinrelationtoestatescontemplatedinsection18(3);and(b)determineconditionsor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                537,
+                                865,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        537,
+                                        865,
+                                        560
+                                    ],
+                                    "score": 0.994,
+                                    "content": "restrictionsinrelationtotheexerciseofanpowersorperformanceofanyfunctions bymagistratesreferredto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                556,
+                                649,
+                                580
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        556,
+                                        649,
+                                        580
+                                    ],
+                                    "score": 0.996,
+                                    "content": "inparagraph(a)andprescribeprocedurestobefollowedinconnectiontherewith.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 13.5,
+                    "bbox_fs": [
+                        14,
+                        22,
+                        879,
+                        580
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

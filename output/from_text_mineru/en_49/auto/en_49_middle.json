@@ -1,0 +1,1588 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        876,
+                        629
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                20,
+                                847,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        20,
+                                        847,
+                                        47
+                                    ],
+                                    "score": 0.993,
+                                    "content": "96appropriateinterventionmeasurestocounterthisnegativetrend,theimpactoneconomicgrowthwillbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                41,
+                                876,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        41,
+                                        876,
+                                        65
+                                    ],
+                                    "score": 0.99,
+                                    "content": "severe.Fromthepointofviewofeconomicgrowth,theoutlookfor2019isnotthebest.Gross domesticproduct",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                823,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        192,
+                                        85
+                                    ],
+                                    "score": 0.958,
+                                    "content": "isexpected to growby",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        193,
+                                        62,
+                                        235,
+                                        82
+                                    ],
+                                    "score": 0.84,
+                                    "content": "0 , 3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        235,
+                                        61,
+                                        823,
+                                        85
+                                    ],
+                                    "score": 0.992,
+                                    "content": "inrealterms,whichisadecisiveslowdowncomparedtothepreviousyear.A",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                870,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        870,
+                                        107
+                                    ],
+                                    "score": 0.983,
+                                    "content": "decelerationinproductionratesisexpected,whichwouldhaveanegativeimpactonthelabourmarket,leading",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                816,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        816,
+                                        125
+                                    ],
+                                    "score": 0.991,
+                                    "content": "toanincreaseintheunemploymentrate.Thepoliticalsituationatbothnationalandinternationallevelis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                837,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        837,
+                                        146
+                                    ],
+                                    "score": 0.998,
+                                    "content": "contributingnegativelybycreatinguncertaintyinthefinancialmarketswithnegativeconsequencesforthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                142,
+                                874,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        142,
+                                        874,
+                                        165
+                                    ],
+                                    "score": 0.994,
+                                    "content": "economyatgloballevel.Anegativeeconomicsituationmakesitsweightfeltmoreinthedisadvantagedareas,in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                828,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        828,
+                                        186
+                                    ],
+                                    "score": 0.984,
+                                    "content": "theso-calledsmalercentres.Duetothelackofservices,infrastructuresandjoboffers,somepartsof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                809,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        809,
+                                        206
+                                    ],
+                                    "score": 0.99,
+                                    "content": "territoryareconstantlybeingabandonedinfavouroflargemetropolitancentreswherewefindgreater",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                201,
+                                874,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        201,
+                                        874,
+                                        227
+                                    ],
+                                    "score": 0.989,
+                                    "content": "opportunitiesforthenewgenerations.Inadditiontothemigrationofthenewgenerationstoforeigncountries,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                220,
+                                835,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        220,
+                                        835,
+                                        248
+                                    ],
+                                    "score": 0.992,
+                                    "content": "weshouldnotunderestimatethephenomenonofmigrationwithinthenationalterritorywhichisgrowing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                241,
+                                842,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        241,
+                                        842,
+                                        267
+                                    ],
+                                    "score": 0.99,
+                                    "content": "continuouslyasconfirmedbytheforecastsforfutureyears.Ashiftintheweightofthepopulationfromthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                829,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        829,
+                                        285
+                                    ],
+                                    "score": 0.989,
+                                    "content": "SouthtotheCentre-Northofthecountryisexpectedintheyearstocome.In2065theCentre-Northwould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                282,
+                                873,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        282,
+                                        89,
+                                        303
+                                    ],
+                                    "score": 0.993,
+                                    "content": "welcome",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        90,
+                                        282,
+                                        124,
+                                        301
+                                    ],
+                                    "score": 0.7,
+                                    "content": "7 1 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        124,
+                                        282,
+                                        280,
+                                        303
+                                    ],
+                                    "score": 0.999,
+                                    "content": "ofresidentsagainst",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        282,
+                                        314,
+                                        301
+                                    ],
+                                    "score": 0.84,
+                                    "content": "6 6 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        315,
+                                        282,
+                                        646,
+                                        303
+                                    ],
+                                    "score": 0.98,
+                                    "content": "oftoday;theSouth insteadwouldwelcome",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        647,
+                                        282,
+                                        681,
+                                        301
+                                    ],
+                                    "score": 0.74,
+                                    "content": "2 9 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        681,
+                                        282,
+                                        741,
+                                        303
+                                    ],
+                                    "score": 0.999,
+                                    "content": "against",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        742,
+                                        282,
+                                        776,
+                                        301
+                                    ],
+                                    "score": 0.77,
+                                    "content": "34 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        777,
+                                        282,
+                                        873,
+                                        303
+                                    ],
+                                    "score": 0.998,
+                                    "content": "atpresent.2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                834,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        834,
+                                        327
+                                    ],
+                                    "score": 0.996,
+                                    "content": "ExposuretoriskandfragilityoftheterritoryTheWorldEconomicForumrecentlypublishedthefourteenth",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                869,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        869,
+                                        347
+                                    ],
+                                    "score": 0.986,
+                                    "content": "editionoftheGlobal RiskReport,basedonasurveyof expertsanddecision-makersfromvarioussectorsofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                342,
+                                830,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        342,
+                                        830,
+                                        366
+                                    ],
+                                    "score": 0.997,
+                                    "content": "globaleconomyontheperceptionofrisksattheinternationallevel.Themainglobalrisksremainlinkedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                854,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        854,
+                                        386
+                                    ],
+                                    "score": 0.988,
+                                    "content": "environmentalissues,representing5of thetop10globalrisksintermsofbothprobabilityofoccurrenceand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                848,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        848,
+                                        406
+                                    ],
+                                    "score": 0.987,
+                                    "content": "impact:inparticular,climatedisastersarestillthemainriskintermsofprobability.Startingfromtheanalysis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                843,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        843,
+                                        426
+                                    ],
+                                    "score": 0.998,
+                                    "content": "andstudyofriskisachoicedictatedbythedesiretotakeasareferencetheSustainableDevelopmentGoals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                422,
+                                823,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        422,
+                                        823,
+                                        446
+                                    ],
+                                    "score": 0.997,
+                                    "content": "(SDGs)oftheUNAgenda2030.AmongthesustainabilityobjectivesoftheGoaln.11SustainableCitiesand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                441,
+                                846,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        441,
+                                        846,
+                                        465
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Communities,thethemeofenvironmentaldisastersemergesinTarget11.5\"Reducingtheadverseeffectsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                461,
+                                847,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        461,
+                                        847,
+                                        488
+                                    ],
+                                    "score": 0.99,
+                                    "content": "naturaldisasters.By2030,significantlyreducethenumberofdeathsandthenumberofpeopleaffectedand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                478,
+                                826,
+                                509
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        478,
+                                        826,
+                                        509
+                                    ],
+                                    "score": 0.966,
+                                    "content": "substantiallyreducedirect economiclossesrelatedtoglobal grossdomesticproduct caused bydisasters,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                502,
+                                796,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        502,
+                                        796,
+                                        525
+                                    ],
+                                    "score": 0.996,
+                                    "content": "includingwater-relateddisasters,withparticularattentiontotheprotectionofthepoorandpeoplein",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                522,
+                                856,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        522,
+                                        856,
+                                        545
+                                    ],
+                                    "score": 0.989,
+                                    "content": "vulnerablesituations.Goingdowntoanationalscale,theItalianterritoryisalsoathighenvironmentalrisk,at",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                540,
+                                860,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        540,
+                                        860,
+                                        568
+                                    ],
+                                    "score": 0.994,
+                                    "content": "seismicandhydrogeologicallevel.Theriskisadangerthatcanbequantifiedthroughaprobabilisticapproach",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                841,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        841,
+                                        585
+                                    ],
+                                    "score": 0.988,
+                                    "content": "thatrelatesthedangerortheprobabilitythatacertaineventproducesdamage,tothenegativeeffectsthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                813,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        813,
+                                        607
+                                    ],
+                                    "score": 0.995,
+                                    "content": "suchaneventproduces.Itisoffundamentalimportancetoconsidertheabilitytorespondto2Regional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                802,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        802,
+                                        627
+                                    ],
+                                    "score": 0.988,
+                                    "content": "forecastsoftheresidentpopulationin2065.www.istat.it/it/files//2018/05/previsioni_demografiche.pdf",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 14.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                636
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        876,
+                        629
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                20,
+                                847,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        20,
+                                        847,
+                                        47
+                                    ],
+                                    "score": 0.993,
+                                    "content": "96appropriateinterventionmeasurestocounterthisnegativetrend,theimpactoneconomicgrowthwillbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                41,
+                                876,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        41,
+                                        876,
+                                        65
+                                    ],
+                                    "score": 0.99,
+                                    "content": "severe.Fromthepointofviewofeconomicgrowth,theoutlookfor2019isnotthebest.Gross domesticproduct",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                823,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        192,
+                                        85
+                                    ],
+                                    "score": 0.958,
+                                    "content": "isexpected to growby",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        193,
+                                        62,
+                                        235,
+                                        82
+                                    ],
+                                    "score": 0.84,
+                                    "content": "0 , 3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        235,
+                                        61,
+                                        823,
+                                        85
+                                    ],
+                                    "score": 0.992,
+                                    "content": "inrealterms,whichisadecisiveslowdowncomparedtothepreviousyear.A",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                870,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        870,
+                                        107
+                                    ],
+                                    "score": 0.983,
+                                    "content": "decelerationinproductionratesisexpected,whichwouldhaveanegativeimpactonthelabourmarket,leading",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                816,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        816,
+                                        125
+                                    ],
+                                    "score": 0.991,
+                                    "content": "toanincreaseintheunemploymentrate.Thepoliticalsituationatbothnationalandinternationallevelis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                837,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        837,
+                                        146
+                                    ],
+                                    "score": 0.998,
+                                    "content": "contributingnegativelybycreatinguncertaintyinthefinancialmarketswithnegativeconsequencesforthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                142,
+                                874,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        142,
+                                        874,
+                                        165
+                                    ],
+                                    "score": 0.994,
+                                    "content": "economyatgloballevel.Anegativeeconomicsituationmakesitsweightfeltmoreinthedisadvantagedareas,in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                828,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        828,
+                                        186
+                                    ],
+                                    "score": 0.984,
+                                    "content": "theso-calledsmalercentres.Duetothelackofservices,infrastructuresandjoboffers,somepartsof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                809,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        809,
+                                        206
+                                    ],
+                                    "score": 0.99,
+                                    "content": "territoryareconstantlybeingabandonedinfavouroflargemetropolitancentreswherewefindgreater",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                201,
+                                874,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        201,
+                                        874,
+                                        227
+                                    ],
+                                    "score": 0.989,
+                                    "content": "opportunitiesforthenewgenerations.Inadditiontothemigrationofthenewgenerationstoforeigncountries,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                220,
+                                835,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        220,
+                                        835,
+                                        248
+                                    ],
+                                    "score": 0.992,
+                                    "content": "weshouldnotunderestimatethephenomenonofmigrationwithinthenationalterritorywhichisgrowing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                241,
+                                842,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        241,
+                                        842,
+                                        267
+                                    ],
+                                    "score": 0.99,
+                                    "content": "continuouslyasconfirmedbytheforecastsforfutureyears.Ashiftintheweightofthepopulationfromthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                829,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        829,
+                                        285
+                                    ],
+                                    "score": 0.989,
+                                    "content": "SouthtotheCentre-Northofthecountryisexpectedintheyearstocome.In2065theCentre-Northwould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                282,
+                                873,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        282,
+                                        89,
+                                        303
+                                    ],
+                                    "score": 0.993,
+                                    "content": "welcome",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        90,
+                                        282,
+                                        124,
+                                        301
+                                    ],
+                                    "score": 0.7,
+                                    "content": "7 1 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        124,
+                                        282,
+                                        280,
+                                        303
+                                    ],
+                                    "score": 0.999,
+                                    "content": "ofresidentsagainst",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        282,
+                                        314,
+                                        301
+                                    ],
+                                    "score": 0.84,
+                                    "content": "6 6 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        315,
+                                        282,
+                                        646,
+                                        303
+                                    ],
+                                    "score": 0.98,
+                                    "content": "oftoday;theSouth insteadwouldwelcome",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        647,
+                                        282,
+                                        681,
+                                        301
+                                    ],
+                                    "score": 0.74,
+                                    "content": "2 9 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        681,
+                                        282,
+                                        741,
+                                        303
+                                    ],
+                                    "score": 0.999,
+                                    "content": "against",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        742,
+                                        282,
+                                        776,
+                                        301
+                                    ],
+                                    "score": 0.77,
+                                    "content": "34 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        777,
+                                        282,
+                                        873,
+                                        303
+                                    ],
+                                    "score": 0.998,
+                                    "content": "atpresent.2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                834,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        834,
+                                        327
+                                    ],
+                                    "score": 0.996,
+                                    "content": "ExposuretoriskandfragilityoftheterritoryTheWorldEconomicForumrecentlypublishedthefourteenth",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                869,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        869,
+                                        347
+                                    ],
+                                    "score": 0.986,
+                                    "content": "editionoftheGlobal RiskReport,basedonasurveyof expertsanddecision-makersfromvarioussectorsofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                342,
+                                830,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        342,
+                                        830,
+                                        366
+                                    ],
+                                    "score": 0.997,
+                                    "content": "globaleconomyontheperceptionofrisksattheinternationallevel.Themainglobalrisksremainlinkedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                854,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        854,
+                                        386
+                                    ],
+                                    "score": 0.988,
+                                    "content": "environmentalissues,representing5of thetop10globalrisksintermsofbothprobabilityofoccurrenceand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                848,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        848,
+                                        406
+                                    ],
+                                    "score": 0.987,
+                                    "content": "impact:inparticular,climatedisastersarestillthemainriskintermsofprobability.Startingfromtheanalysis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                843,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        843,
+                                        426
+                                    ],
+                                    "score": 0.998,
+                                    "content": "andstudyofriskisachoicedictatedbythedesiretotakeasareferencetheSustainableDevelopmentGoals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                422,
+                                823,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        422,
+                                        823,
+                                        446
+                                    ],
+                                    "score": 0.997,
+                                    "content": "(SDGs)oftheUNAgenda2030.AmongthesustainabilityobjectivesoftheGoaln.11SustainableCitiesand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                441,
+                                846,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        441,
+                                        846,
+                                        465
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Communities,thethemeofenvironmentaldisastersemergesinTarget11.5\"Reducingtheadverseeffectsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                461,
+                                847,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        461,
+                                        847,
+                                        488
+                                    ],
+                                    "score": 0.99,
+                                    "content": "naturaldisasters.By2030,significantlyreducethenumberofdeathsandthenumberofpeopleaffectedand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                478,
+                                826,
+                                509
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        478,
+                                        826,
+                                        509
+                                    ],
+                                    "score": 0.966,
+                                    "content": "substantiallyreducedirect economiclossesrelatedtoglobal grossdomesticproduct caused bydisasters,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                502,
+                                796,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        502,
+                                        796,
+                                        525
+                                    ],
+                                    "score": 0.996,
+                                    "content": "includingwater-relateddisasters,withparticularattentiontotheprotectionofthepoorandpeoplein",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                522,
+                                856,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        522,
+                                        856,
+                                        545
+                                    ],
+                                    "score": 0.989,
+                                    "content": "vulnerablesituations.Goingdowntoanationalscale,theItalianterritoryisalsoathighenvironmentalrisk,at",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                540,
+                                860,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        540,
+                                        860,
+                                        568
+                                    ],
+                                    "score": 0.994,
+                                    "content": "seismicandhydrogeologicallevel.Theriskisadangerthatcanbequantifiedthroughaprobabilisticapproach",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                841,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        841,
+                                        585
+                                    ],
+                                    "score": 0.988,
+                                    "content": "thatrelatesthedangerortheprobabilitythatacertaineventproducesdamage,tothenegativeeffectsthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                813,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        813,
+                                        607
+                                    ],
+                                    "score": 0.995,
+                                    "content": "suchaneventproduces.Itisoffundamentalimportancetoconsidertheabilitytorespondto2Regional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                802,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        802,
+                                        627
+                                    ],
+                                    "score": 0.988,
+                                    "content": "forecastsoftheresidentpopulationin2065.www.istat.it/it/files//2018/05/previsioni_demografiche.pdf",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 14.5,
+                    "bbox_fs": [
+                        13,
+                        20,
+                        876,
+                        627
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

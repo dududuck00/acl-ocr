@@ -1,0 +1,1015 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    45,
+                    400,
+                    2445,
+                    400,
+                    2445,
+                    3317,
+                    45,
+                    3317
+                ],
+                "score": 0.926
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    579,
+                    621,
+                    637,
+                    621,
+                    637,
+                    680,
+                    579,
+                    680
+                ],
+                "score": 0.72,
+                "latex": "\\cdot 1 \\beta"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    2093,
+                    790,
+                    2151,
+                    790,
+                    2151,
+                    849,
+                    2093,
+                    849
+                ],
+                "score": 0.66,
+                "latex": "\\boldsymbol { \\cdot } \\boldsymbol { 1 } \\beta"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1343,
+                    904,
+                    1401,
+                    904,
+                    1401,
+                    964,
+                    1343,
+                    964
+                ],
+                "score": 0.61,
+                "latex": "1 \\beta"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1182,
+                    1693,
+                    1242,
+                    1693,
+                    1242,
+                    1753,
+                    1182,
+                    1753
+                ],
+                "score": 0.51,
+                "latex": "1 \\beta"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1893,
+                    507,
+                    1949,
+                    507,
+                    1949,
+                    566,
+                    1893,
+                    566
+                ],
+                "score": 0.49,
+                "latex": "1 \\beta"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1771,
+                    1520,
+                    1829,
+                    1520,
+                    1829,
+                    1580,
+                    1771,
+                    1580
+                ],
+                "score": 0.36,
+                "latex": "1 \\beta"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    2166,
+                    1578,
+                    2225,
+                    1578,
+                    2225,
+                    1639,
+                    2166,
+                    1639
+                ],
+                "score": 0.29,
+                "latex": "\\boldsymbol { \\cdot } \\boldsymbol { \\mathsf { 1 } } \\boldsymbol { \\mathsf { \\mathsf { \\beta } } }"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    392.0,
+                    2376.0,
+                    392.0,
+                    2376.0,
+                    462.0,
+                    40.0,
+                    462.0
+                ],
+                "score": 0.989,
+                "text": "regulatedbyepithelialbarrerintegrity[17].Diffusionoftheluminalmaterialsintolaminapropriapromotesa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    449.0,
+                    2331.0,
+                    449.0,
+                    2331.0,
+                    520.0,
+                    40.0,
+                    520.0
+                ],
+                "score": 0.992,
+                "text": "localinflammatoryresponsecausingreleaseofproinflammatorycytokines,releaseofMMPs,andepithelial"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    504.0,
+                    1892.0,
+                    504.0,
+                    1892.0,
+                    574.0,
+                    43.0,
+                    574.0
+                ],
+                "score": 0.987,
+                "text": "degradationandinflammation[18].Expressionofpro-inflammatorycytokines:IL-1a,IL-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1950.0,
+                    504.0,
+                    2424.0,
+                    504.0,
+                    2424.0,
+                    574.0,
+                    1950.0,
+                    574.0
+                ],
+                "score": 0.948,
+                "text": "TNFa,andIL-15were"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    558.0,
+                    2385.0,
+                    558.0,
+                    2385.0,
+                    628.0,
+                    40.0,
+                    628.0
+                ],
+                "score": 0.989,
+                "text": "increasedinIL-1rn-/-mice,andtheseresultsareinagreementwiththoseobtainedfrompatientswithCrohn's"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    616.0,
+                    578.0,
+                    616.0,
+                    578.0,
+                    686.0,
+                    43.0,
+                    686.0
+                ],
+                "score": 0.955,
+                "text": "disease[19].IL-1aandIL-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    638.0,
+                    616.0,
+                    2357.0,
+                    616.0,
+                    2357.0,
+                    686.0,
+                    638.0,
+                    686.0
+                ],
+                "score": 0.983,
+                "text": "arealsoexpressedinhumanintestinalepithelialcells[20].IL-1αisreleasedwhen"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    676.0,
+                    2395.0,
+                    676.0,
+                    2395.0,
+                    747.0,
+                    43.0,
+                    747.0
+                ],
+                "score": 0.965,
+                "text": "thesehumanintestinalcelsaredamagedordestroyed,andIL-1awascommonlydetectedintheepitheliumof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    728.0,
+                    2261.0,
+                    728.0,
+                    2261.0,
+                    804.0,
+                    40.0,
+                    804.0
+                ],
+                "score": 0.994,
+                "text": "IBD,releasedfromnecroticintestinalepithelialcellsandplaysacrucialroleinintestinalinflammationby"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    792.0,
+                    2092.0,
+                    792.0,
+                    2092.0,
+                    852.0,
+                    46.0,
+                    852.0
+                ],
+                "score": 0.981,
+                "text": "inducing human intestinalfibroblaststoproduceIL-6andIL-8[21].ThehighconcentrationsofIL-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2152.0,
+                    792.0,
+                    2286.0,
+                    792.0,
+                    2286.0,
+                    852.0,
+                    2152.0,
+                    852.0
+                ],
+                "score": 0.996,
+                "text": "inthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    849.0,
+                    2398.0,
+                    849.0,
+                    2398.0,
+                    910.0,
+                    46.0,
+                    910.0
+                ],
+                "score": 0.982,
+                "text": "intestineofpatientswithCrohn'sdiseasearemainlyattributedtolocalmononuclearcellinfiltration[22],which"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    900.0,
+                    1342.0,
+                    900.0,
+                    1342.0,
+                    971.0,
+                    43.0,
+                    971.0
+                ],
+                "score": 0.972,
+                "text": "werealsoobservedinthismodel.Increasedproductionof IL-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1402.0,
+                    900.0,
+                    2392.0,
+                    900.0,
+                    2392.0,
+                    971.0,
+                    1402.0,
+                    971.0
+                ],
+                "score": 0.985,
+                "text": "andTNFaininflamedCrohn'sdiseasemucosa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    37.0,
+                    955.0,
+                    2366.0,
+                    955.0,
+                    2366.0,
+                    1028.0,
+                    37.0,
+                    1028.0
+                ],
+                "score": 0.996,
+                "text": "inducesthesynthesisofIL-8,whichisaneffectiveneutrophilchemoattractant[23].Thesefindingsagreewith"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1016.0,
+                    2427.0,
+                    1016.0,
+                    2427.0,
+                    1083.0,
+                    40.0,
+                    1083.0
+                ],
+                "score": 0.993,
+                "text": "previouswork,whichshowedincreasednumbersofTNFapositivecelsinthelaminapropriaandsubmucosaof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1070.0,
+                    2385.0,
+                    1070.0,
+                    2385.0,
+                    1140.0,
+                    43.0,
+                    1140.0
+                ],
+                "score": 0.977,
+                "text": "patientswith Crohn'sdisease.Furthermore,TNFaproducedbysubepithelialmacrophages has beenshownto"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1124.0,
+                    2376.0,
+                    1124.0,
+                    2376.0,
+                    1195.0,
+                    40.0,
+                    1195.0
+                ],
+                "score": 0.995,
+                "text": "contributetodecreasedepithelialintegrity[24].TNFaactsasanimportantmediatorofinflammationthrough"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1182.0,
+                    2325.0,
+                    1182.0,
+                    2325.0,
+                    1252.0,
+                    43.0,
+                    1252.0
+                ],
+                "score": 0.977,
+                "text": "MAPKandNF-KBactivation,increasingcellproliferationandalteringepithelialbarrierpermeability[25].The"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1233.0,
+                    2289.0,
+                    1233.0,
+                    2289.0,
+                    1304.0,
+                    43.0,
+                    1304.0
+                ],
+                "score": 0.988,
+                "text": "productionofTNFaisalsohigh inculturedmucosalmononuclearcellsfromCrohn'sdiseasepatients[26]."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1294.0,
+                    2392.0,
+                    1294.0,
+                    2392.0,
+                    1364.0,
+                    43.0,
+                    1364.0
+                ],
+                "score": 0.992,
+                "text": "However,incontrastapreviousstudyobservednodiferencesinTNFamRNAexpressionbetweencontroland"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1348.0,
+                    2321.0,
+                    1348.0,
+                    2321.0,
+                    1419.0,
+                    40.0,
+                    1419.0
+                ],
+                "score": 0.958,
+                "text": "IBDmucosalbiopsies[27].IL-1RIisexpressedonmanycelltypesincludingTcels,fibroblasts,andintestinal"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1400.0,
+                    2296.0,
+                    1400.0,
+                    2296.0,
+                    1476.0,
+                    40.0,
+                    1476.0
+                ],
+                "score": 0.982,
+                "text": "epithelialcels.Despitethe increasedexpressionofIL-1βintheIL-1rn-/-mice,theexpressionof IL-1R1was"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1464.0,
+                    2248.0,
+                    1464.0,
+                    2248.0,
+                    1524.0,
+                    43.0,
+                    1524.0
+                ],
+                "score": 0.984,
+                "text": "reduced;thiscouldsuggestanegativefedbackloopdecreasingexpressionofIL-1RIinthepresenceof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1518.0,
+                    1770.0,
+                    1518.0,
+                    1770.0,
+                    1588.0,
+                    43.0,
+                    1588.0
+                ],
+                "score": 0.96,
+                "text": "uncontrolled IL-1production.Thisagrees witha previousstudy,which showed IL"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1830.0,
+                    1518.0,
+                    2273.0,
+                    1518.0,
+                    2273.0,
+                    1588.0,
+                    1830.0,
+                    1588.0
+                ],
+                "score": 0.942,
+                "text": "and TNFa treatment"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1572.0,
+                    2165.0,
+                    1572.0,
+                    2165.0,
+                    1646.0,
+                    40.0,
+                    1646.0
+                ],
+                "score": 0.986,
+                "text": "downregulatedtheexpressionofmRNAIL-1RIinratintestinalepithelialcels(IEC-6)[28].Similarly,IL-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2226.0,
+                    1572.0,
+                    2229.0,
+                    1572.0,
+                    2229.0,
+                    1646.0,
+                    2226.0,
+                    1646.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1633.0,
+                    2296.0,
+                    1633.0,
+                    2296.0,
+                    1704.0,
+                    40.0,
+                    1704.0
+                ],
+                "score": 0.986,
+                "text": "treatmentwasalsoshowntodownregulateIL-1RIprotein inretinalendothelialcels(TR-iBRB2)[29].Thisis"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    37.0,
+                    1691.0,
+                    1181.0,
+                    1691.0,
+                    1181.0,
+                    1758.0,
+                    37.0,
+                    1758.0
+                ],
+                "score": 0.96,
+                "text": "contrary to previousstudy,inwhich an increase in IL-"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1243.0,
+                    1691.0,
+                    2424.0,
+                    1691.0,
+                    2424.0,
+                    1758.0,
+                    1243.0,
+                    1758.0
+                ],
+                "score": 0.999,
+                "text": "inducedchronicintestinalinflammationinmiceandan"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    37.0,
+                    1739.0,
+                    2430.0,
+                    1739.0,
+                    2430.0,
+                    1825.0,
+                    37.0,
+                    1825.0
+                ],
+                "score": 0.976,
+                "text": "increaseinIL-17A-secretinginnatelymphoidcellswhichexpresshighlevelsofIL-1R130].Thesedifferencesmay"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1803.0,
+                    2414.0,
+                    1803.0,
+                    2414.0,
+                    1873.0,
+                    43.0,
+                    1873.0
+                ],
+                "score": 0.984,
+                "text": "bearesultofthediferentlevelsofinflammationseeninthesemodels.Here,increasedexpressionofI-15was"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1860.0,
+                    2334.0,
+                    1860.0,
+                    2334.0,
+                    1931.0,
+                    40.0,
+                    1931.0
+                ],
+                "score": 0.947,
+                "text": "seeninIL-1rn-/-mice,thisisinagreementwithLiuetal(2o),whoshowedincreasedexpressionofI-15by"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1915.0,
+                    2245.0,
+                    1915.0,
+                    2245.0,
+                    1985.0,
+                    43.0,
+                    1985.0
+                ],
+                "score": 0.991,
+                "text": "macrophagesintheinflamedileumofpatientswithCrohn'sdiseaseandthatIL-15increased localTcell"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1972.0,
+                    2312.0,
+                    1972.0,
+                    2312.0,
+                    2043.0,
+                    40.0,
+                    2043.0
+                ],
+                "score": 0.993,
+                "text": "activationandinducedproinflammatorycytokineproductionbyTcelsandmacrophages.Thepresenceof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    2027.0,
+                    2443.0,
+                    2027.0,
+                    2443.0,
+                    2097.0,
+                    43.0,
+                    2097.0
+                ],
+                "score": 0.991,
+                "text": "polymorphonuclearcelsandmononuclearcelsplayanimportantroleintheaugmentationofinflammationand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    2078.0,
+                    2389.0,
+                    2078.0,
+                    2389.0,
+                    2152.0,
+                    40.0,
+                    2152.0
+                ],
+                "score": 0.989,
+                "text": "tissuedamageinIBD[31].IncreasedinfiltrationoftheseCD11bandCD68positivecelsintothelaminapropria"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    2139.0,
+                    2427.0,
+                    2139.0,
+                    2427.0,
+                    2209.0,
+                    40.0,
+                    2209.0
+                ],
+                "score": 0.993,
+                "text": "wereobservedinIL-1rn-/-micecomparedwithWTmice.Thesefindingsareinagreementwithpreviousfindings"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    2193.0,
+                    2289.0,
+                    2193.0,
+                    2289.0,
+                    2254.0,
+                    43.0,
+                    2254.0
+                ],
+                "score": 0.996,
+                "text": "whichshowedincreasednumbersofthesecelsintheinflamedmucosaofIBDpatients[32].Infiltrationof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    2248.0,
+                    2273.0,
+                    2248.0,
+                    2273.0,
+                    2318.0,
+                    43.0,
+                    2318.0
+                ],
+                "score": 0.968,
+                "text": "immunecelssuchasmacrophagesand lymphocytes inthe lamina propriaisanimportant aspectof IBD,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    2308.0,
+                    2363.0,
+                    2308.0,
+                    2363.0,
+                    2369.0,
+                    46.0,
+                    2369.0
+                ],
+                "score": 0.973,
+                "text": "especiallyCrohn'sdisease,eveninthelackofnoticeablemorphological,clinical,andendoscopicindicationof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    2363.0,
+                    2392.0,
+                    2363.0,
+                    2392.0,
+                    2424.0,
+                    46.0,
+                    2424.0
+                ],
+                "score": 0.999,
+                "text": "inflammation.Thisisthoughttobeduetoanincreaseddemandofmacrophageswithintheinflamedintestine"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    2414.0,
+                    2424.0,
+                    2414.0,
+                    2424.0,
+                    2484.0,
+                    46.0,
+                    2484.0
+                ],
+                "score": 0.996,
+                "text": "[33].Functionalassessmentofthisincreasedinflammatoryresponsesuchascalprotectinmeasurementinstool"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    2475.0,
+                    2405.0,
+                    2475.0,
+                    2405.0,
+                    2536.0,
+                    46.0,
+                    2536.0
+                ],
+                "score": 0.986,
+                "text": "sampleswould have beenausefulassessment,howeverunfortunatelythesesampleswerenotavailableinthis"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    2526.0,
+                    2238.0,
+                    2526.0,
+                    2238.0,
+                    2596.0,
+                    43.0,
+                    2596.0
+                ],
+                "score": 0.995,
+                "text": "study.MMPsandADAMTS1expressionwerenotsignificantlyalteredinIL-1rn-/-mice.MMPshavebeen"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    2584.0,
+                    2293.0,
+                    2584.0,
+                    2293.0,
+                    2654.0,
+                    43.0,
+                    2654.0
+                ],
+                "score": 0.998,
+                "text": "demonstratedtobeinducedinseveralpathologicalconditionsofIBDandplayakeyroleinregulatingthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    2638.0,
+                    2401.0,
+                    2638.0,
+                    2401.0,
+                    2708.0,
+                    43.0,
+                    2708.0
+                ],
+                "score": 0.995,
+                "text": "pathophysiologyofIBD[34].ThemainactionofMMPsistodegradeextracellularmatrixproteins.ActiveMMP2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    2692.0,
+                    2382.0,
+                    2692.0,
+                    2382.0,
+                    2763.0,
+                    43.0,
+                    2763.0
+                ],
+                "score": 0.989,
+                "text": "andMMP9playanimportantroleincellmigrationandcytokinestimulation.Indeedneutrophilinfiltrationhas"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    2744.0,
+                    2353.0,
+                    2744.0,
+                    2353.0,
+                    2817.0,
+                    40.0,
+                    2817.0
+                ],
+                "score": 0.991,
+                "text": "benshowntobeinducedbyupregulationofMMP9inmurineinflamedintestine[35].Furthermore,stromal"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    2804.0,
+                    2363.0,
+                    2804.0,
+                    2363.0,
+                    2875.0,
+                    40.0,
+                    2875.0
+                ],
+                "score": 0.981,
+                "text": "cellsplayanimportantroleinintestinalinflammationandthepathogenesisof IBD.ThesecelssecreteMMP2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    34.0,
+                    2846.0,
+                    2341.0,
+                    2846.0,
+                    2341.0,
+                    2936.0,
+                    34.0,
+                    2936.0
+                ],
+                "score": 0.93,
+                "text": "andMMP9[36];andMMP9isproducedbyhumancolonicepitheliumduringIBD37].Inadditioninfiltrating"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    2920.0,
+                    2369.0,
+                    2920.0,
+                    2369.0,
+                    2980.0,
+                    43.0,
+                    2980.0
+                ],
+                "score": 0.966,
+                "text": "macrophagesandneutrophilsarethemainsourceofMMP9inhuman IBD[38].OverexpressionofMMP9 has"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    2971.0,
+                    2302.0,
+                    2971.0,
+                    2302.0,
+                    3041.0,
+                    40.0,
+                    3041.0
+                ],
+                "score": 0.995,
+                "text": "beenshowntocauseareductioninthediferentiationofprogenitorcellstogobletcelsandconsequently"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    3025.0,
+                    2414.0,
+                    3025.0,
+                    2414.0,
+                    3096.0,
+                    43.0,
+                    3096.0
+                ],
+                "score": 0.971,
+                "text": "decreasedMUC2expression,whichleadstodecreasesintheprotectivemucinbarierincolonicepithelium[35]."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    3076.0,
+                    2353.0,
+                    3076.0,
+                    2353.0,
+                    3153.0,
+                    40.0,
+                    3153.0
+                ],
+                "score": 0.981,
+                "text": "Themaintenanceofepithelialbarrerfunctionandcontrolofparacellularpermeabilityareregulatedbytight"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    3137.0,
+                    2299.0,
+                    3137.0,
+                    2299.0,
+                    3208.0,
+                    40.0,
+                    3208.0
+                ],
+                "score": 0.994,
+                "text": "junctionproteins[39].Epithelialdisruptionanddecreaseintightjunctionsthatleadtoincreasedintestinal"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    3195.0,
+                    2270.0,
+                    3195.0,
+                    2270.0,
+                    3265.0,
+                    43.0,
+                    3265.0
+                ],
+                "score": 0.985,
+                "text": "permeabilityarethecommonfeaturesofCrohn'sdisease[40].DecreasedexpressionofZO-1and lossof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    3245.0,
+                    296.0,
+                    3245.0,
+                    296.0,
+                    3317.0,
+                    44.0,
+                    3317.0
+                ],
+                "score": 0.996,
+                "text": "E-cadherin"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 3334
+        }
+    }
+]

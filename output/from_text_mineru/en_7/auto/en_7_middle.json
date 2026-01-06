@@ -1,0 +1,1368 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        10,
+                        879,
+                        627
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                20,
+                                840,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        20,
+                                        840,
+                                        44
+                                    ],
+                                    "score": 0.971,
+                                    "content": "FocusGoal(s)Goal Description:Thedescriptionprovided fora FocusGoalmustbespecific,measurable,and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                41,
+                                845,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        41,
+                                        845,
+                                        65
+                                    ],
+                                    "score": 0.993,
+                                    "content": "timebound.AnLEAdevelopsaFocusGoaltoaddressareasofneed thatmayrequireorbenefitfromamore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                62,
+                                873,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        62,
+                                        873,
+                                        86
+                                    ],
+                                    "score": 0.994,
+                                    "content": "specificanddataintensiveapproach.TheFocusGoalcanexplicitlyreferencethemetric(s)bywhichachievement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                82,
+                                811,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        82,
+                                        811,
+                                        105
+                                    ],
+                                    "score": 0.979,
+                                    "content": "ofthegoalwillbemeasuredandthe timeframeaccording towhichtheLEAexpectstoachieve thegoal.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                102,
+                                848,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        102,
+                                        848,
+                                        126
+                                    ],
+                                    "score": 0.984,
+                                    "content": "ExplanationofwhytheLEAhasdevelopedthisgoal:ExplainwhytheLEAhaschosentoprioritizethisgoal.An",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                861,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        861,
+                                        145
+                                    ],
+                                    "score": 0.979,
+                                    "content": "explanationmustbebasedon Dashboarddataorotherlocallycolecteddata.LEAsmustdescribehowthe LEA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                142,
+                                786,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        142,
+                                        786,
+                                        165
+                                    ],
+                                    "score": 0.997,
+                                    "content": "identifiedthisgoalforfocusedattention,includingrelevantconsultationwithstakeholders.LEAsare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                846,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        846,
+                                        185
+                                    ],
+                                    "score": 0.974,
+                                    "content": "encouraged to promote transparencyand understandingaroundthedecisionto pursueafocus goal.Broad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                835,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        835,
+                                        205
+                                    ],
+                                    "score": 0.997,
+                                    "content": "GoalGoalDescription:DescribewhattheLEAplanstoachievethroughtheactionsincludedinthegoal.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                200,
+                                874,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        200,
+                                        874,
+                                        227
+                                    ],
+                                    "score": 0.993,
+                                    "content": "descriptionofabroad goalwillbeclearlyalignedwiththeexpectedmeasurableoutcomesincludedforthegoal.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                220,
+                                871,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        220,
+                                        871,
+                                        247
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Thegoaldescriptionorganizestheactionsandexpectedoutcomesinacohesiveandconsistentmanner.Agoal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                241,
+                                872,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        241,
+                                        872,
+                                        265
+                                    ],
+                                    "score": 0.992,
+                                    "content": "descriptionisspecificenoughtobemeasurableineitherquantitativeorqualitativeterms.Abroadgoalisnot as",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                821,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        821,
+                                        286
+                                    ],
+                                    "score": 0.995,
+                                    "content": "specificasafocusgoal.Whileitisspecificenoughtobemeasurable,therearemanydiferentmetricsfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                856,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        856,
+                                        305
+                                    ],
+                                    "score": 0.988,
+                                    "content": "measuringprogresstowardthegoal.ExplanationofwhytheLEAhasdevelopedthisgoal: ExplainwhytheLEA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                300,
+                                865,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        300,
+                                        865,
+                                        327
+                                    ],
+                                    "score": 0.995,
+                                    "content": "developedthisgoalandhowtheactionsandmetricsgroupedtogetherwillhelpachievethegoal.Maintenance",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                842,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        842,
+                                        345
+                                    ],
+                                    "score": 0.981,
+                                    "content": "ofProgressGoalGoal Description:Describe howtheLEAintendstomaintaintheprogressmadein the LCFF",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                872,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        872,
+                                        365
+                                    ],
+                                    "score": 0.986,
+                                    "content": "StatePrioritiesnotaddressedbytheothergoalsintheLCAP.Usethistypeofgoaltoaddressthestatepriorities",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                362,
+                                856,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        362,
+                                        856,
+                                        385
+                                    ],
+                                    "score": 0.991,
+                                    "content": "andapplicablemetricsnotaddressedwithintheothergoals intheLCAP.Thestateprioritiesandmetricstobe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                383,
+                                833,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        383,
+                                        833,
+                                        403
+                                    ],
+                                    "score": 0.989,
+                                    "content": "addressedinthissectionarethoseforwhichtheLEA,inconsultationwithstakeholders,hasdeterminedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                399,
+                                861,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        399,
+                                        861,
+                                        425
+                                    ],
+                                    "score": 0.996,
+                                    "content": "maintainactionsandmonitorprogresswhilefocusingimplementationeffortsontheactionscoveredbyother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                420,
+                                853,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        420,
+                                        853,
+                                        444
+                                    ],
+                                    "score": 0.989,
+                                    "content": "goalsintheLCAP.ExplanationofwhytheLEAhasdevelopedthisgoal:Explainhowtheactionswillsustainthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                439,
+                                864,
+                                463
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        439,
+                                        864,
+                                        463
+                                    ],
+                                    "score": 0.992,
+                                    "content": "progressexemplifiedbytherelatedmetrics.MeasuringandReportingResults:ForeachLCAPyear，identifythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                459,
+                                872,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        459,
+                                        872,
+                                        485
+                                    ],
+                                    "score": 0.997,
+                                    "content": "metric(s)thattheLEAwillusetotrackprogresstowardtheexpectedoutcomes.LEAsareencouragedtoidentify",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                477,
+                                865,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        477,
+                                        865,
+                                        506
+                                    ],
+                                    "score": 0.978,
+                                    "content": "metricsforspecificstudent groups,asappropriate,includingexpectedoutcomesthatwouldreflectnarrowing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                498,
+                                835,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        498,
+                                        835,
+                                        523
+                                    ],
+                                    "score": 0.976,
+                                    "content": "ofanyexistingperformance gaps.Includeinthe baselinecolumnthemostrecent dataassociated with this",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                519,
+                                878,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        519,
+                                        878,
+                                        543
+                                    ],
+                                    "score": 0.999,
+                                    "content": "metricavailableatthetimeofadoptionoftheLCAPforthefirstyearofthethree-yearplan.LEAsmayusedataas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                538,
+                                819,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        538,
+                                        819,
+                                        564
+                                    ],
+                                    "score": 0.992,
+                                    "content": "reportedonthe2019Dashboardforthebaselineofametriconlyifthatdatarepresents themostrecent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                560,
+                                869,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        560,
+                                        869,
+                                        584
+                                    ],
+                                    "score": 0.991,
+                                    "content": "available(e.g.highschoolgraduationrate).Usingthemostrecentdataavailablemayinvolvereviewingdatathe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                580,
+                                874,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        580,
+                                        874,
+                                        604
+                                    ],
+                                    "score": 0.986,
+                                    "content": "LEAispreparingforsubmissiontotheCalifornia LongitudinalPupilAchievementDataSystem(CALPADS)ordata",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                599,
+                                710,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        599,
+                                        710,
+                                        623
+                                    ],
+                                    "score": 0.995,
+                                    "content": "thattheLEAhasrecentlysubmittedtoCALPADS.Becausefinal2019-20outcomesonsome",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 14.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                634
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        10,
+                        879,
+                        627
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                20,
+                                840,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        20,
+                                        840,
+                                        44
+                                    ],
+                                    "score": 0.971,
+                                    "content": "FocusGoal(s)Goal Description:Thedescriptionprovided fora FocusGoalmustbespecific,measurable,and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                41,
+                                845,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        41,
+                                        845,
+                                        65
+                                    ],
+                                    "score": 0.993,
+                                    "content": "timebound.AnLEAdevelopsaFocusGoaltoaddressareasofneed thatmayrequireorbenefitfromamore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                62,
+                                873,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        62,
+                                        873,
+                                        86
+                                    ],
+                                    "score": 0.994,
+                                    "content": "specificanddataintensiveapproach.TheFocusGoalcanexplicitlyreferencethemetric(s)bywhichachievement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                82,
+                                811,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        82,
+                                        811,
+                                        105
+                                    ],
+                                    "score": 0.979,
+                                    "content": "ofthegoalwillbemeasuredandthe timeframeaccording towhichtheLEAexpectstoachieve thegoal.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                102,
+                                848,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        102,
+                                        848,
+                                        126
+                                    ],
+                                    "score": 0.984,
+                                    "content": "ExplanationofwhytheLEAhasdevelopedthisgoal:ExplainwhytheLEAhaschosentoprioritizethisgoal.An",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                861,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        861,
+                                        145
+                                    ],
+                                    "score": 0.979,
+                                    "content": "explanationmustbebasedon Dashboarddataorotherlocallycolecteddata.LEAsmustdescribehowthe LEA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                142,
+                                786,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        142,
+                                        786,
+                                        165
+                                    ],
+                                    "score": 0.997,
+                                    "content": "identifiedthisgoalforfocusedattention,includingrelevantconsultationwithstakeholders.LEAsare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                846,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        846,
+                                        185
+                                    ],
+                                    "score": 0.974,
+                                    "content": "encouraged to promote transparencyand understandingaroundthedecisionto pursueafocus goal.Broad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                835,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        835,
+                                        205
+                                    ],
+                                    "score": 0.997,
+                                    "content": "GoalGoalDescription:DescribewhattheLEAplanstoachievethroughtheactionsincludedinthegoal.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                200,
+                                874,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        200,
+                                        874,
+                                        227
+                                    ],
+                                    "score": 0.993,
+                                    "content": "descriptionofabroad goalwillbeclearlyalignedwiththeexpectedmeasurableoutcomesincludedforthegoal.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                220,
+                                871,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        220,
+                                        871,
+                                        247
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Thegoaldescriptionorganizestheactionsandexpectedoutcomesinacohesiveandconsistentmanner.Agoal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                241,
+                                872,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        241,
+                                        872,
+                                        265
+                                    ],
+                                    "score": 0.992,
+                                    "content": "descriptionisspecificenoughtobemeasurableineitherquantitativeorqualitativeterms.Abroadgoalisnot as",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                821,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        821,
+                                        286
+                                    ],
+                                    "score": 0.995,
+                                    "content": "specificasafocusgoal.Whileitisspecificenoughtobemeasurable,therearemanydiferentmetricsfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                856,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        856,
+                                        305
+                                    ],
+                                    "score": 0.988,
+                                    "content": "measuringprogresstowardthegoal.ExplanationofwhytheLEAhasdevelopedthisgoal: ExplainwhytheLEA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                300,
+                                865,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        300,
+                                        865,
+                                        327
+                                    ],
+                                    "score": 0.995,
+                                    "content": "developedthisgoalandhowtheactionsandmetricsgroupedtogetherwillhelpachievethegoal.Maintenance",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                842,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        842,
+                                        345
+                                    ],
+                                    "score": 0.981,
+                                    "content": "ofProgressGoalGoal Description:Describe howtheLEAintendstomaintaintheprogressmadein the LCFF",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                872,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        872,
+                                        365
+                                    ],
+                                    "score": 0.986,
+                                    "content": "StatePrioritiesnotaddressedbytheothergoalsintheLCAP.Usethistypeofgoaltoaddressthestatepriorities",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                362,
+                                856,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        362,
+                                        856,
+                                        385
+                                    ],
+                                    "score": 0.991,
+                                    "content": "andapplicablemetricsnotaddressedwithintheothergoals intheLCAP.Thestateprioritiesandmetricstobe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                383,
+                                833,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        383,
+                                        833,
+                                        403
+                                    ],
+                                    "score": 0.989,
+                                    "content": "addressedinthissectionarethoseforwhichtheLEA,inconsultationwithstakeholders,hasdeterminedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                399,
+                                861,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        399,
+                                        861,
+                                        425
+                                    ],
+                                    "score": 0.996,
+                                    "content": "maintainactionsandmonitorprogresswhilefocusingimplementationeffortsontheactionscoveredbyother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                420,
+                                853,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        420,
+                                        853,
+                                        444
+                                    ],
+                                    "score": 0.989,
+                                    "content": "goalsintheLCAP.ExplanationofwhytheLEAhasdevelopedthisgoal:Explainhowtheactionswillsustainthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                439,
+                                864,
+                                463
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        439,
+                                        864,
+                                        463
+                                    ],
+                                    "score": 0.992,
+                                    "content": "progressexemplifiedbytherelatedmetrics.MeasuringandReportingResults:ForeachLCAPyear，identifythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                459,
+                                872,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        459,
+                                        872,
+                                        485
+                                    ],
+                                    "score": 0.997,
+                                    "content": "metric(s)thattheLEAwillusetotrackprogresstowardtheexpectedoutcomes.LEAsareencouragedtoidentify",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                477,
+                                865,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        477,
+                                        865,
+                                        506
+                                    ],
+                                    "score": 0.978,
+                                    "content": "metricsforspecificstudent groups,asappropriate,includingexpectedoutcomesthatwouldreflectnarrowing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                498,
+                                835,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        498,
+                                        835,
+                                        523
+                                    ],
+                                    "score": 0.976,
+                                    "content": "ofanyexistingperformance gaps.Includeinthe baselinecolumnthemostrecent dataassociated with this",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                519,
+                                878,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        519,
+                                        878,
+                                        543
+                                    ],
+                                    "score": 0.999,
+                                    "content": "metricavailableatthetimeofadoptionoftheLCAPforthefirstyearofthethree-yearplan.LEAsmayusedataas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                538,
+                                819,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        538,
+                                        819,
+                                        564
+                                    ],
+                                    "score": 0.992,
+                                    "content": "reportedonthe2019Dashboardforthebaselineofametriconlyifthatdatarepresents themostrecent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                560,
+                                869,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        560,
+                                        869,
+                                        584
+                                    ],
+                                    "score": 0.991,
+                                    "content": "available(e.g.highschoolgraduationrate).Usingthemostrecentdataavailablemayinvolvereviewingdatathe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                580,
+                                874,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        580,
+                                        874,
+                                        604
+                                    ],
+                                    "score": 0.986,
+                                    "content": "LEAispreparingforsubmissiontotheCalifornia LongitudinalPupilAchievementDataSystem(CALPADS)ordata",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                599,
+                                710,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        599,
+                                        710,
+                                        623
+                                    ],
+                                    "score": 0.995,
+                                    "content": "thattheLEAhasrecentlysubmittedtoCALPADS.Becausefinal2019-20outcomesonsome",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 14.5,
+                    "bbox_fs": [
+                        14,
+                        20,
+                        878,
+                        623
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

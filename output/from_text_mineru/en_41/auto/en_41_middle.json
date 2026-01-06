@@ -1,0 +1,2336 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        16,
+                        156,
+                        873,
+                        1206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                12,
+                                156,
+                                876,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        156,
+                                        876,
+                                        187
+                                    ],
+                                    "score": 0.978,
+                                    "content": "thusnecessarytoestablishabalance betweenthosewhoprofessedareligionandthosewhodidnot.According",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                182,
+                                867,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        182,
+                                        867,
+                                        203
+                                    ],
+                                    "score": 0.996,
+                                    "content": "tothisviewtherecouldbenofreedomofconscienceinaStateinwhichadherentsofonereligionorbelief held",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                202,
+                                836,
+                                224
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        202,
+                                        836,
+                                        224
+                                    ],
+                                    "score": 0.997,
+                                    "content": "aprivilegedpositionandtherewasdiscriminationagainstadherentsofotherreligionsorbeliefs.Norcould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                221,
+                                855,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        221,
+                                        855,
+                                        246
+                                    ],
+                                    "score": 0.992,
+                                    "content": "therebefreedomofconscienceinaStateinwhichtherewasdiscriminationagainstpersonsholdingatheistic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                874,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        874,
+                                        266
+                                    ],
+                                    "score": 0.988,
+                                    "content": "views.Separationof theChurchandtheState,andoftheChurchandtheschools,wasanessentialguaranteeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                802,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        802,
+                                        286
+                                    ],
+                                    "score": 0.992,
+                                    "content": "freedomofconscience.WherereligionorbeliefwasboundtotheState,eitheroficiallyorbytiesofan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                281,
+                                848,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        281,
+                                        848,
+                                        306
+                                    ],
+                                    "score": 0.995,
+                                    "content": "ideologicaloreconomicnature,itwasmerelyaweapontobeusedbytheStateincarryingoutitspolicy.110.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                299,
+                                863,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        299,
+                                        863,
+                                        327
+                                    ],
+                                    "score": 0.994,
+                                    "content": "MembersgenerallyagreedthattheCommissionshouldnotattempttoexaminetheoreticalreligiousconcepts,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                858,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        858,
+                                        344
+                                    ],
+                                    "score": 0.986,
+                                    "content": "butshould concentrateupontheelaborationofpracticalrulesforfreedomofreligionandotherbeliefswhich",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                858,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        858,
+                                        366
+                                    ],
+                                    "score": 0.978,
+                                    "content": "couldbeuniversallysupported.11.TherewasconsiderablediscussionintheCom-missionofthemeaning to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                853,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        853,
+                                        385
+                                    ],
+                                    "score": 0.99,
+                                    "content": "beattributedtotheword\"belief\",asusedinthedraftprinciplespreparedbytheSub-Commisson.Reference",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                381,
+                                839,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        381,
+                                        839,
+                                        406
+                                    ],
+                                    "score": 0.99,
+                                    "content": "wasmadetothefactthatinthefootnoteonpage1ofhisStudyofDiscriminationintheMatterofReligious",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                401,
+                                867,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        401,
+                                        867,
+                                        426
+                                    ],
+                                    "score": 0.985,
+                                    "content": "RightsandPracticesMr.Krishnaswamihadstatedthat\"Inviewofthedifficultyofdefining'religion',theterm",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                421,
+                                857,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        421,
+                                        857,
+                                        447
+                                    ],
+                                    "score": 0.976,
+                                    "content": "religionorbelief'isused..toinclude,inadditiontovarioustheisticcreeds,suchotherbeliefsasagnosticism,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                441,
+                                858,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        441,
+                                        858,
+                                        466
+                                    ],
+                                    "score": 0.994,
+                                    "content": "freethought,atheismandrationalism\".Duringthediscus-sionsomememberspointedoutthatthefootnote",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                461,
+                                831,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        461,
+                                        831,
+                                        487
+                                    ],
+                                    "score": 0.995,
+                                    "content": "expressedonlythepersonalpointofviewoftheSpecial Rapporteurandhadnospecialsignificance.Other",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                481,
+                                845,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        481,
+                                        845,
+                                        506
+                                    ],
+                                    "score": 0.989,
+                                    "content": "memberssupportedthedefinitionofthewords\"religionorbelief\"giveninMr.Krishnaswami'sstudy.They",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                501,
+                                818,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        501,
+                                        818,
+                                        526
+                                    ],
+                                    "score": 0.999,
+                                    "content": "pointedoutthattheuseofthesetwowordsinthedocumentobedrawnupwouldensurefreedomand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                520,
+                                864,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        520,
+                                        864,
+                                        546
+                                    ],
+                                    "score": 0.974,
+                                    "content": "non-discrimination both withrespecttopersonsprofessingareligionandwith respecttopersonsadhering to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                541,
+                                844,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        541,
+                                        844,
+                                        563
+                                    ],
+                                    "score": 0.983,
+                                    "content": "atheisticbeliefs.Itwasalsorecaledthattheterm\"religionorbelief\"hadbeenusedbothinarticle18ofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                562,
+                                873,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        562,
+                                        873,
+                                        583
+                                    ],
+                                    "score": 0.99,
+                                    "content": "UniversalDeclarationofHumanRightsandinarticle18ofthedraftCovenantonCivilandPoliticalRights.112.In",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                580,
+                                844,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        580,
+                                        844,
+                                        605
+                                    ],
+                                    "score": 0.989,
+                                    "content": "theviewofsomememberstheuseoftheterm\"religionorbelief”toincludenotonlythosewhofolloweda",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                601,
+                                812,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        601,
+                                        812,
+                                        626
+                                    ],
+                                    "score": 0.977,
+                                    "content": "religionbut alsothosewho heldnon-religiousethicalbeliefswaswronginprinciple becauseit gave the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                621,
+                                878,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        621,
+                                        878,
+                                        646
+                                    ],
+                                    "score": 0.991,
+                                    "content": "impressionthatthetwowereequivalent,whichwasnotso.Intheiropinionreligionwasmuchmorethanprivate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                641,
+                                866,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        641,
+                                        866,
+                                        667
+                                    ],
+                                    "score": 0.993,
+                                    "content": "prayersorpublicworship;itwasatthebasisofthewholeconceptionoflifeofareligiousman,permeating his",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                660,
+                                867,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        660,
+                                        867,
+                                        689
+                                    ],
+                                    "score": 0.983,
+                                    "content": "thinkingandhisdeedsinrelationtohisCreator,andhavingaprofoundinfluenceuponotheraspectsofhislife",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                683,
+                                858,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        683,
+                                        858,
+                                        704
+                                    ],
+                                    "score": 0.989,
+                                    "content": "asanindividualandinhisbearing towardsotherpeopleandtowardssocietyasawhole.Theyalsostated that",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                702,
+                                861,
+                                724
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        702,
+                                        861,
+                                        724
+                                    ],
+                                    "score": 0.991,
+                                    "content": "becauseofitsuniqueandtranscendantcharacteranditscom-prehensiveandpervasivenature,religioncould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                721,
+                                858,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        721,
+                                        858,
+                                        745
+                                    ],
+                                    "score": 0.974,
+                                    "content": "not,inprinciple,beputonthesamefootingwithagnos-ticism,free-thought,atheismandrationalism.Onthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                743,
+                                857,
+                                765
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        743,
+                                        857,
+                                        765
+                                    ],
+                                    "score": 0.987,
+                                    "content": "otherhand,itwaspointedoutthatitwasabsurdtoatempttoplacereligionaboveatheisticbelief.113.Other",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                762,
+                                849,
+                                784
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        762,
+                                        849,
+                                        784
+                                    ],
+                                    "score": 0.986,
+                                    "content": "members,whilerecognizing theimpor-tanceofdistinguishingbetweenreligionandbeliefwhereindividuals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                781,
+                                871,
+                                805
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        781,
+                                        871,
+                                        805
+                                    ],
+                                    "score": 0.99,
+                                    "content": "wereconcerned,wereoftheopinionthatfromthepointofviewoftheStatethatdistinctionwasirrelevant:the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                802,
+                                864,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        802,
+                                        864,
+                                        824
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Stateshouldshowthesametolerancewithregardtobothreligionandnon-religious beliefsalthoughitshould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                822,
+                                860,
+                                844
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        822,
+                                        860,
+                                        844
+                                    ],
+                                    "score": 0.998,
+                                    "content": "notpermitfreedomtobeinvokedtoprotectthosewhowishedtoattackanddestroyreligion.Intheirexternal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                840,
+                                832,
+                                866
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        840,
+                                        832,
+                                        866
+                                    ],
+                                    "score": 0.987,
+                                    "content": "manifestations,religiousandnon-religious beliefsshouldberespectedequaly.Itwaspointedoutthatthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                859,
+                                839,
+                                885
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        859,
+                                        839,
+                                        885
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Sub-Commissionclearlyhadintendedthedraftprinciplestoprohibitalldiscri-minationinmatersof belief,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                879,
+                                866,
+                                906
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        879,
+                                        866,
+                                        906
+                                    ],
+                                    "score": 0.984,
+                                    "content": "whetherreligiousornon-religious,asevidencedbythefactthatithadusedtheexpression\"religionorbelief\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                902,
+                                865,
+                                927
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        902,
+                                        865,
+                                        927
+                                    ],
+                                    "score": 0.977,
+                                    "content": "nolessthantwenty-threetimes,aswellasbyitsenunciation,inparagraph1ofpartIofthedraftprinciples,of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                921,
+                                867,
+                                946
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        921,
+                                        867,
+                                        946
+                                    ],
+                                    "score": 0.992,
+                                    "content": "therightofeveryonetoadhereornottoadheretoareligionorbelief.114.Severalmembersstronglyfavoured",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                941,
+                                869,
+                                966
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        941,
+                                        869,
+                                        966
+                                    ],
+                                    "score": 0.981,
+                                    "content": "theuseoftheterm\"religionorbelief\"throughouttheprinciples,bothasamatterofconsistencyandbecause",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                958,
+                                879,
+                                988
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        958,
+                                        879,
+                                        988
+                                    ],
+                                    "score": 0.994,
+                                    "content": "theterm\"non-religiousbeliefmightbeinterpretedasincludingpoliticalorothersecularbeliefs.Intheopinion",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                982,
+                                877,
+                                1004
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        982,
+                                        877,
+                                        1004
+                                    ],
+                                    "score": 0.974,
+                                    "content": "ofothers,theabsenceoftheword\"religion\"madenodifference,astheword\"belief\"shouldbeinterpretedin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1000,
+                                845,
+                                1025
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1000,
+                                        845,
+                                        1025
+                                    ],
+                                    "score": 0.988,
+                                    "content": "thebroadest possiblesense.Onememberfeltthattherewasnoneedfortheusesystematicallyofthe term",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1019,
+                                878,
+                                1047
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1019,
+                                        878,
+                                        1047
+                                    ],
+                                    "score": 0.972,
+                                    "content": "religionorbelief\"andinparticularoftheterm\"orbelief“incertainofthedraftprinciples,suchasthosehaving",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1041,
+                                842,
+                                1066
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1041,
+                                        842,
+                                        1066
+                                    ],
+                                    "score": 0.994,
+                                    "content": "applicationexclusivelytopriestsorministersofreligion.115.Anotherissuewhicharoseinthecourseof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1059,
+                                831,
+                                1086
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1059,
+                                        831,
+                                        1086
+                                    ],
+                                    "score": 0.998,
+                                    "content": "generaldebatewasthatoftheindividualandsocialcharacteristicsofreligion.Oneviewwasthatthedraft",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                1081,
+                                816,
+                                1104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        1081,
+                                        816,
+                                        1104
+                                    ],
+                                    "score": 0.985,
+                                    "content": "principleswereseriouslydefectivein thattheystressedmainlythefreedomof theindividualanddid not",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                1101,
+                                803,
+                                1126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        1101,
+                                        803,
+                                        1126
+                                    ],
+                                    "score": 0.993,
+                                    "content": "adequatelyprotecttherightsofreligiousgroupsassuch.Itwasmaintainedthatthereligiousrightsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                1119,
+                                860,
+                                1146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        1119,
+                                        860,
+                                        1146
+                                    ],
+                                    "score": 0.987,
+                                    "content": "individualscouldnotbeguaranteedtothefulestextentunless thecommunitycharacterofreligionwastaken",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1141,
+                                852,
+                                1167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1141,
+                                        852,
+                                        1167
+                                    ],
+                                    "score": 0.993,
+                                    "content": "intoaccountandtherightsresultingtherefromwerealsoguaranteed;suchrightsincluded,forexample,the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1163,
+                                840,
+                                1185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1163,
+                                        840,
+                                        1185
+                                    ],
+                                    "score": 0.996,
+                                    "content": "rightofareligiouscommunitytoorganizeitsadherentsingroups,therightofitscentralauthoritiestogive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1180,
+                                370,
+                                1206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1180,
+                                        370,
+                                        1206
+                                    ],
+                                    "score": 0.978,
+                                    "content": "directives ofabinding natureonmattersofU",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        }
+                    ],
+                    "index": 25.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                1216
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        16,
+                        156,
+                        873,
+                        1206
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                12,
+                                156,
+                                876,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        156,
+                                        876,
+                                        187
+                                    ],
+                                    "score": 0.978,
+                                    "content": "thusnecessarytoestablishabalance betweenthosewhoprofessedareligionandthosewhodidnot.According",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                182,
+                                867,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        182,
+                                        867,
+                                        203
+                                    ],
+                                    "score": 0.996,
+                                    "content": "tothisviewtherecouldbenofreedomofconscienceinaStateinwhichadherentsofonereligionorbelief held",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                202,
+                                836,
+                                224
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        202,
+                                        836,
+                                        224
+                                    ],
+                                    "score": 0.997,
+                                    "content": "aprivilegedpositionandtherewasdiscriminationagainstadherentsofotherreligionsorbeliefs.Norcould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                221,
+                                855,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        221,
+                                        855,
+                                        246
+                                    ],
+                                    "score": 0.992,
+                                    "content": "therebefreedomofconscienceinaStateinwhichtherewasdiscriminationagainstpersonsholdingatheistic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                874,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        874,
+                                        266
+                                    ],
+                                    "score": 0.988,
+                                    "content": "views.Separationof theChurchandtheState,andoftheChurchandtheschools,wasanessentialguaranteeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                802,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        802,
+                                        286
+                                    ],
+                                    "score": 0.992,
+                                    "content": "freedomofconscience.WherereligionorbeliefwasboundtotheState,eitheroficiallyorbytiesofan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                281,
+                                848,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        281,
+                                        848,
+                                        306
+                                    ],
+                                    "score": 0.995,
+                                    "content": "ideologicaloreconomicnature,itwasmerelyaweapontobeusedbytheStateincarryingoutitspolicy.110.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                299,
+                                863,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        299,
+                                        863,
+                                        327
+                                    ],
+                                    "score": 0.994,
+                                    "content": "MembersgenerallyagreedthattheCommissionshouldnotattempttoexaminetheoreticalreligiousconcepts,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                858,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        858,
+                                        344
+                                    ],
+                                    "score": 0.986,
+                                    "content": "butshould concentrateupontheelaborationofpracticalrulesforfreedomofreligionandotherbeliefswhich",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                858,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        858,
+                                        366
+                                    ],
+                                    "score": 0.978,
+                                    "content": "couldbeuniversallysupported.11.TherewasconsiderablediscussionintheCom-missionofthemeaning to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                853,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        853,
+                                        385
+                                    ],
+                                    "score": 0.99,
+                                    "content": "beattributedtotheword\"belief\",asusedinthedraftprinciplespreparedbytheSub-Commisson.Reference",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                381,
+                                839,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        381,
+                                        839,
+                                        406
+                                    ],
+                                    "score": 0.99,
+                                    "content": "wasmadetothefactthatinthefootnoteonpage1ofhisStudyofDiscriminationintheMatterofReligious",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                401,
+                                867,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        401,
+                                        867,
+                                        426
+                                    ],
+                                    "score": 0.985,
+                                    "content": "RightsandPracticesMr.Krishnaswamihadstatedthat\"Inviewofthedifficultyofdefining'religion',theterm",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                421,
+                                857,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        421,
+                                        857,
+                                        447
+                                    ],
+                                    "score": 0.976,
+                                    "content": "religionorbelief'isused..toinclude,inadditiontovarioustheisticcreeds,suchotherbeliefsasagnosticism,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                441,
+                                858,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        441,
+                                        858,
+                                        466
+                                    ],
+                                    "score": 0.994,
+                                    "content": "freethought,atheismandrationalism\".Duringthediscus-sionsomememberspointedoutthatthefootnote",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                461,
+                                831,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        461,
+                                        831,
+                                        487
+                                    ],
+                                    "score": 0.995,
+                                    "content": "expressedonlythepersonalpointofviewoftheSpecial Rapporteurandhadnospecialsignificance.Other",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                481,
+                                845,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        481,
+                                        845,
+                                        506
+                                    ],
+                                    "score": 0.989,
+                                    "content": "memberssupportedthedefinitionofthewords\"religionorbelief\"giveninMr.Krishnaswami'sstudy.They",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                501,
+                                818,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        501,
+                                        818,
+                                        526
+                                    ],
+                                    "score": 0.999,
+                                    "content": "pointedoutthattheuseofthesetwowordsinthedocumentobedrawnupwouldensurefreedomand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                520,
+                                864,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        520,
+                                        864,
+                                        546
+                                    ],
+                                    "score": 0.974,
+                                    "content": "non-discrimination both withrespecttopersonsprofessingareligionandwith respecttopersonsadhering to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                541,
+                                844,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        541,
+                                        844,
+                                        563
+                                    ],
+                                    "score": 0.983,
+                                    "content": "atheisticbeliefs.Itwasalsorecaledthattheterm\"religionorbelief\"hadbeenusedbothinarticle18ofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                562,
+                                873,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        562,
+                                        873,
+                                        583
+                                    ],
+                                    "score": 0.99,
+                                    "content": "UniversalDeclarationofHumanRightsandinarticle18ofthedraftCovenantonCivilandPoliticalRights.112.In",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                580,
+                                844,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        580,
+                                        844,
+                                        605
+                                    ],
+                                    "score": 0.989,
+                                    "content": "theviewofsomememberstheuseoftheterm\"religionorbelief”toincludenotonlythosewhofolloweda",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                601,
+                                812,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        601,
+                                        812,
+                                        626
+                                    ],
+                                    "score": 0.977,
+                                    "content": "religionbut alsothosewho heldnon-religiousethicalbeliefswaswronginprinciple becauseit gave the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                621,
+                                878,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        621,
+                                        878,
+                                        646
+                                    ],
+                                    "score": 0.991,
+                                    "content": "impressionthatthetwowereequivalent,whichwasnotso.Intheiropinionreligionwasmuchmorethanprivate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                641,
+                                866,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        641,
+                                        866,
+                                        667
+                                    ],
+                                    "score": 0.993,
+                                    "content": "prayersorpublicworship;itwasatthebasisofthewholeconceptionoflifeofareligiousman,permeating his",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                660,
+                                867,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        660,
+                                        867,
+                                        689
+                                    ],
+                                    "score": 0.983,
+                                    "content": "thinkingandhisdeedsinrelationtohisCreator,andhavingaprofoundinfluenceuponotheraspectsofhislife",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                683,
+                                858,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        683,
+                                        858,
+                                        704
+                                    ],
+                                    "score": 0.989,
+                                    "content": "asanindividualandinhisbearing towardsotherpeopleandtowardssocietyasawhole.Theyalsostated that",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                702,
+                                861,
+                                724
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        702,
+                                        861,
+                                        724
+                                    ],
+                                    "score": 0.991,
+                                    "content": "becauseofitsuniqueandtranscendantcharacteranditscom-prehensiveandpervasivenature,religioncould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                721,
+                                858,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        721,
+                                        858,
+                                        745
+                                    ],
+                                    "score": 0.974,
+                                    "content": "not,inprinciple,beputonthesamefootingwithagnos-ticism,free-thought,atheismandrationalism.Onthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                743,
+                                857,
+                                765
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        743,
+                                        857,
+                                        765
+                                    ],
+                                    "score": 0.987,
+                                    "content": "otherhand,itwaspointedoutthatitwasabsurdtoatempttoplacereligionaboveatheisticbelief.113.Other",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                762,
+                                849,
+                                784
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        762,
+                                        849,
+                                        784
+                                    ],
+                                    "score": 0.986,
+                                    "content": "members,whilerecognizing theimpor-tanceofdistinguishingbetweenreligionandbeliefwhereindividuals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                781,
+                                871,
+                                805
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        781,
+                                        871,
+                                        805
+                                    ],
+                                    "score": 0.99,
+                                    "content": "wereconcerned,wereoftheopinionthatfromthepointofviewoftheStatethatdistinctionwasirrelevant:the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                802,
+                                864,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        802,
+                                        864,
+                                        824
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Stateshouldshowthesametolerancewithregardtobothreligionandnon-religious beliefsalthoughitshould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                822,
+                                860,
+                                844
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        822,
+                                        860,
+                                        844
+                                    ],
+                                    "score": 0.998,
+                                    "content": "notpermitfreedomtobeinvokedtoprotectthosewhowishedtoattackanddestroyreligion.Intheirexternal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                840,
+                                832,
+                                866
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        840,
+                                        832,
+                                        866
+                                    ],
+                                    "score": 0.987,
+                                    "content": "manifestations,religiousandnon-religious beliefsshouldberespectedequaly.Itwaspointedoutthatthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                859,
+                                839,
+                                885
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        859,
+                                        839,
+                                        885
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Sub-Commissionclearlyhadintendedthedraftprinciplestoprohibitalldiscri-minationinmatersof belief,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                879,
+                                866,
+                                906
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        879,
+                                        866,
+                                        906
+                                    ],
+                                    "score": 0.984,
+                                    "content": "whetherreligiousornon-religious,asevidencedbythefactthatithadusedtheexpression\"religionorbelief\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                902,
+                                865,
+                                927
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        902,
+                                        865,
+                                        927
+                                    ],
+                                    "score": 0.977,
+                                    "content": "nolessthantwenty-threetimes,aswellasbyitsenunciation,inparagraph1ofpartIofthedraftprinciples,of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                921,
+                                867,
+                                946
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        921,
+                                        867,
+                                        946
+                                    ],
+                                    "score": 0.992,
+                                    "content": "therightofeveryonetoadhereornottoadheretoareligionorbelief.114.Severalmembersstronglyfavoured",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                941,
+                                869,
+                                966
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        941,
+                                        869,
+                                        966
+                                    ],
+                                    "score": 0.981,
+                                    "content": "theuseoftheterm\"religionorbelief\"throughouttheprinciples,bothasamatterofconsistencyandbecause",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                958,
+                                879,
+                                988
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        958,
+                                        879,
+                                        988
+                                    ],
+                                    "score": 0.994,
+                                    "content": "theterm\"non-religiousbeliefmightbeinterpretedasincludingpoliticalorothersecularbeliefs.Intheopinion",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                982,
+                                877,
+                                1004
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        982,
+                                        877,
+                                        1004
+                                    ],
+                                    "score": 0.974,
+                                    "content": "ofothers,theabsenceoftheword\"religion\"madenodifference,astheword\"belief\"shouldbeinterpretedin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1000,
+                                845,
+                                1025
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1000,
+                                        845,
+                                        1025
+                                    ],
+                                    "score": 0.988,
+                                    "content": "thebroadest possiblesense.Onememberfeltthattherewasnoneedfortheusesystematicallyofthe term",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1019,
+                                878,
+                                1047
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1019,
+                                        878,
+                                        1047
+                                    ],
+                                    "score": 0.972,
+                                    "content": "religionorbelief\"andinparticularoftheterm\"orbelief“incertainofthedraftprinciples,suchasthosehaving",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1041,
+                                842,
+                                1066
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1041,
+                                        842,
+                                        1066
+                                    ],
+                                    "score": 0.994,
+                                    "content": "applicationexclusivelytopriestsorministersofreligion.115.Anotherissuewhicharoseinthecourseof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1059,
+                                831,
+                                1086
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1059,
+                                        831,
+                                        1086
+                                    ],
+                                    "score": 0.998,
+                                    "content": "generaldebatewasthatoftheindividualandsocialcharacteristicsofreligion.Oneviewwasthatthedraft",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                1081,
+                                816,
+                                1104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        1081,
+                                        816,
+                                        1104
+                                    ],
+                                    "score": 0.985,
+                                    "content": "principleswereseriouslydefectivein thattheystressedmainlythefreedomof theindividualanddid not",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                1101,
+                                803,
+                                1126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        1101,
+                                        803,
+                                        1126
+                                    ],
+                                    "score": 0.993,
+                                    "content": "adequatelyprotecttherightsofreligiousgroupsassuch.Itwasmaintainedthatthereligiousrightsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                1119,
+                                860,
+                                1146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        1119,
+                                        860,
+                                        1146
+                                    ],
+                                    "score": 0.987,
+                                    "content": "individualscouldnotbeguaranteedtothefulestextentunless thecommunitycharacterofreligionwastaken",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1141,
+                                852,
+                                1167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1141,
+                                        852,
+                                        1167
+                                    ],
+                                    "score": 0.993,
+                                    "content": "intoaccountandtherightsresultingtherefromwerealsoguaranteed;suchrightsincluded,forexample,the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1163,
+                                840,
+                                1185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1163,
+                                        840,
+                                        1185
+                                    ],
+                                    "score": 0.996,
+                                    "content": "rightofareligiouscommunitytoorganizeitsadherentsingroups,therightofitscentralauthoritiestogive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1180,
+                                370,
+                                1206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1180,
+                                        370,
+                                        1206
+                                    ],
+                                    "score": 0.978,
+                                    "content": "directives ofabinding natureonmattersofU",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        }
+                    ],
+                    "index": 25.5,
+                    "bbox_fs": [
+                        12,
+                        156,
+                        879,
+                        1206
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

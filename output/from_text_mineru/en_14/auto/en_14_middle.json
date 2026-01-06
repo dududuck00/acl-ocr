@@ -1,0 +1,1324 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        10,
+                        882,
+                        608
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                20,
+                                850,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        20,
+                                        850,
+                                        45
+                                    ],
+                                    "score": 0.941,
+                                    "content": "13paymentplan,ahealthFSA,oranHRA,butonlyifthecoverageoffereddoesnotconsistsolelyofexcepted",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                41,
+                                852,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        41,
+                                        852,
+                                        65
+                                    ],
+                                    "score": 0.975,
+                                    "content": "benefits.See26C.F.R.51.36B-2(c)(3)(vi).Ifanemployeeenrolls inanyemployer-sponsoredminimumessential",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                847,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        847,
+                                        86
+                                    ],
+                                    "score": 0.984,
+                                    "content": "coverage,theemployeeisineligibleforindividualcoveragesubsidizedbytheCode536Bpremiumtaxcredit.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                817,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        817,
+                                        106
+                                    ],
+                                    "score": 0.979,
+                                    "content": "Question12:Section125(f)(3)oftheCode,effectivefortaxableyearsbeginningafterDecember31,2013,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                101,
+                                878,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        101,
+                                        878,
+                                        126
+                                    ],
+                                    "score": 0.976,
+                                    "content": "providesthattheterm“qualifiedbenefit”doesnotincludeanyQHP(asdefinedinACA51301(a))offeredthrough",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                840,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        840,
+                                        147
+                                    ],
+                                    "score": 0.994,
+                                    "content": "anExchange.11ThisprohibitsanemployerfromprovidingaQHPofferedthroughan Exchangeasabenefit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                867,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        867,
+                                        167
+                                    ],
+                                    "score": 0.989,
+                                    "content": "undertheemployer'sCode5125plan.SomestateshavealreadyestablishedExchangesandemployersinthose",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                160,
+                                825,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        160,
+                                        825,
+                                        186
+                                    ],
+                                    "score": 0.994,
+                                    "content": "statesmayhaveCode5125planprovisionsthatallowemployeestoenrollinhealthcoveragethroughthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                861,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        861,
+                                        205
+                                    ],
+                                    "score": 0.978,
+                                    "content": "ExchangeasabenefitunderaCodeS125plan.Iftheemployer'sCode5125planoperatesonaplanyearother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                860,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        860,
+                                        227
+                                    ],
+                                    "score": 0.981,
+                                    "content": "thanacalendaryear,maytheemployercontinuetoprovidetheExchangecoveragethroughaCodeS125plan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                219,
+                                868,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        219,
+                                        868,
+                                        247
+                                    ],
+                                    "score": 0.95,
+                                    "content": "afterDecember31,2013?Answer12:ForCode5125plansthatasofSeptember13,2013operateonaplanyear",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                240,
+                                858,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        240,
+                                        858,
+                                        266
+                                    ],
+                                    "score": 0.979,
+                                    "content": "otherthanacalendaryear,therestrictionunderCode5125(f)(3)willnotapplybeforethefirstplanyearof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                261,
+                                875,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        261,
+                                        875,
+                                        286
+                                    ],
+                                    "score": 0.975,
+                                    "content": "Code5125planthatbeginsafterDecember31,2013.Thus,fortheremainderofaplanyearbeginningin2013,a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                860,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        860,
+                                        306
+                                    ],
+                                    "score": 0.986,
+                                    "content": "QHPprovidedthroughanExchangeasabenefitunderaCode5125planwillnotresult inallbenefitsprovided",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                302,
+                                877,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        302,
+                                        877,
+                                        325
+                                    ],
+                                    "score": 0.977,
+                                    "content": "undertheCode5125planbeingtaxable.However,individualsmaynotclaimaCode536Bpremiumtaxcreditfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                320,
+                                846,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        320,
+                                        846,
+                                        346
+                                    ],
+                                    "score": 0.979,
+                                    "content": "anymonthinwhichtheindividualwascoveredbyaQHPprovidedthroughan Exchangeasabenefitundera",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                339,
+                                844,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        339,
+                                        844,
+                                        367
+                                    ],
+                                    "score": 0.983,
+                                    "content": "CodeS125plan.IV.APPLICABILITYDATEANDRELIANCEPERIODThisTechnicalReleaseappliesforplanyears",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                879,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        879,
+                                        385
+                                    ],
+                                    "score": 0.982,
+                                    "content": "beginningonandafterJanuary1,2014,buttheguidanceprovidedinthisTechnicalReleasemaybeappliedforall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                880,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        880,
+                                        407
+                                    ],
+                                    "score": 0.974,
+                                    "content": "priorperiods.IflegislativeactionbyanyState,local,orIndiantribalgovernmententityisnecessarytomodifythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                402,
+                                867,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        402,
+                                        867,
+                                        427
+                                    ],
+                                    "score": 0.984,
+                                    "content": "termsofapre-existingHRA,ahealthFSAthatdoesnotqualifyasexceptedbenefits,anemployerpaymentplan,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                421,
+                                871,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        421,
+                                        871,
+                                        447
+                                    ],
+                                    "score": 0.917,
+                                    "content": "orothersimiararrangement,sponsoredbyanyState,local,orIndiantribalgovernmententityasanemployer,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                874,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        874,
+                                        467
+                                    ],
+                                    "score": 0.992,
+                                    "content": "toavoidafailuretocomplywiththemarketreforms(includingactiontoterminatesucharrangement)andsuch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                847,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        847,
+                                        487
+                                    ],
+                                    "score": 0.971,
+                                    "content": "actionmayonlybetakenbyaState,local,orIndiantribalgovernmententitylegislativebody,theapplicability",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                480,
+                                847,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        480,
+                                        847,
+                                        507
+                                    ],
+                                    "score": 0.989,
+                                    "content": "dateof theportionsofthisTechnical Releaseunderwhichsucharrangementwouldotherwisefailtocomply",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                500,
+                                850,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        500,
+                                        850,
+                                        525
+                                    ],
+                                    "score": 0.979,
+                                    "content": "withthemarketreformsisextendedtothelaterof(1)January1,2014,or(2)thefirstdayofthefirstplanyear",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                840,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        840,
+                                        545
+                                    ],
+                                    "score": 0.985,
+                                    "content": "following thefirstcloseofaregularlegislativesessionof theapplicablelegislativebodyafterSeptember13,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                805,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        805,
+                                        567
+                                    ],
+                                    "score": 0.985,
+                                    "content": "2013.11Thisruledoesnotapplywithrespecttoanyemployeeiftheemployee'semployerisaqualified",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                560,
+                                878,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        560,
+                                        878,
+                                        588
+                                    ],
+                                    "score": 0.977,
+                                    "content": "employer(asdefinedinACA51312(f)(2))offeringtheemployeetheopportunitytoenrollthroughanExchangein",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                513,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        513,
+                                        607
+                                    ],
+                                    "score": 0.981,
+                                    "content": "aqualified healthplaninagroupmarket.SeeCode5125(f)(3)(B).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                616
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        10,
+                        882,
+                        608
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                20,
+                                850,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        20,
+                                        850,
+                                        45
+                                    ],
+                                    "score": 0.941,
+                                    "content": "13paymentplan,ahealthFSA,oranHRA,butonlyifthecoverageoffereddoesnotconsistsolelyofexcepted",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                41,
+                                852,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        41,
+                                        852,
+                                        65
+                                    ],
+                                    "score": 0.975,
+                                    "content": "benefits.See26C.F.R.51.36B-2(c)(3)(vi).Ifanemployeeenrolls inanyemployer-sponsoredminimumessential",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                847,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        847,
+                                        86
+                                    ],
+                                    "score": 0.984,
+                                    "content": "coverage,theemployeeisineligibleforindividualcoveragesubsidizedbytheCode536Bpremiumtaxcredit.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                817,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        817,
+                                        106
+                                    ],
+                                    "score": 0.979,
+                                    "content": "Question12:Section125(f)(3)oftheCode,effectivefortaxableyearsbeginningafterDecember31,2013,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                101,
+                                878,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        101,
+                                        878,
+                                        126
+                                    ],
+                                    "score": 0.976,
+                                    "content": "providesthattheterm“qualifiedbenefit”doesnotincludeanyQHP(asdefinedinACA51301(a))offeredthrough",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                840,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        840,
+                                        147
+                                    ],
+                                    "score": 0.994,
+                                    "content": "anExchange.11ThisprohibitsanemployerfromprovidingaQHPofferedthroughan Exchangeasabenefit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                867,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        867,
+                                        167
+                                    ],
+                                    "score": 0.989,
+                                    "content": "undertheemployer'sCode5125plan.SomestateshavealreadyestablishedExchangesandemployersinthose",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                160,
+                                825,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        160,
+                                        825,
+                                        186
+                                    ],
+                                    "score": 0.994,
+                                    "content": "statesmayhaveCode5125planprovisionsthatallowemployeestoenrollinhealthcoveragethroughthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                861,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        861,
+                                        205
+                                    ],
+                                    "score": 0.978,
+                                    "content": "ExchangeasabenefitunderaCodeS125plan.Iftheemployer'sCode5125planoperatesonaplanyearother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                860,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        860,
+                                        227
+                                    ],
+                                    "score": 0.981,
+                                    "content": "thanacalendaryear,maytheemployercontinuetoprovidetheExchangecoveragethroughaCodeS125plan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                219,
+                                868,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        219,
+                                        868,
+                                        247
+                                    ],
+                                    "score": 0.95,
+                                    "content": "afterDecember31,2013?Answer12:ForCode5125plansthatasofSeptember13,2013operateonaplanyear",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                240,
+                                858,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        240,
+                                        858,
+                                        266
+                                    ],
+                                    "score": 0.979,
+                                    "content": "otherthanacalendaryear,therestrictionunderCode5125(f)(3)willnotapplybeforethefirstplanyearof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                261,
+                                875,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        261,
+                                        875,
+                                        286
+                                    ],
+                                    "score": 0.975,
+                                    "content": "Code5125planthatbeginsafterDecember31,2013.Thus,fortheremainderofaplanyearbeginningin2013,a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                860,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        860,
+                                        306
+                                    ],
+                                    "score": 0.986,
+                                    "content": "QHPprovidedthroughanExchangeasabenefitunderaCode5125planwillnotresult inallbenefitsprovided",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                302,
+                                877,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        302,
+                                        877,
+                                        325
+                                    ],
+                                    "score": 0.977,
+                                    "content": "undertheCode5125planbeingtaxable.However,individualsmaynotclaimaCode536Bpremiumtaxcreditfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                320,
+                                846,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        320,
+                                        846,
+                                        346
+                                    ],
+                                    "score": 0.979,
+                                    "content": "anymonthinwhichtheindividualwascoveredbyaQHPprovidedthroughan Exchangeasabenefitundera",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                339,
+                                844,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        339,
+                                        844,
+                                        367
+                                    ],
+                                    "score": 0.983,
+                                    "content": "CodeS125plan.IV.APPLICABILITYDATEANDRELIANCEPERIODThisTechnicalReleaseappliesforplanyears",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                879,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        879,
+                                        385
+                                    ],
+                                    "score": 0.982,
+                                    "content": "beginningonandafterJanuary1,2014,buttheguidanceprovidedinthisTechnicalReleasemaybeappliedforall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                880,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        880,
+                                        407
+                                    ],
+                                    "score": 0.974,
+                                    "content": "priorperiods.IflegislativeactionbyanyState,local,orIndiantribalgovernmententityisnecessarytomodifythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                402,
+                                867,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        402,
+                                        867,
+                                        427
+                                    ],
+                                    "score": 0.984,
+                                    "content": "termsofapre-existingHRA,ahealthFSAthatdoesnotqualifyasexceptedbenefits,anemployerpaymentplan,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                421,
+                                871,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        421,
+                                        871,
+                                        447
+                                    ],
+                                    "score": 0.917,
+                                    "content": "orothersimiararrangement,sponsoredbyanyState,local,orIndiantribalgovernmententityasanemployer,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                874,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        874,
+                                        467
+                                    ],
+                                    "score": 0.992,
+                                    "content": "toavoidafailuretocomplywiththemarketreforms(includingactiontoterminatesucharrangement)andsuch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                847,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        847,
+                                        487
+                                    ],
+                                    "score": 0.971,
+                                    "content": "actionmayonlybetakenbyaState,local,orIndiantribalgovernmententitylegislativebody,theapplicability",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                480,
+                                847,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        480,
+                                        847,
+                                        507
+                                    ],
+                                    "score": 0.989,
+                                    "content": "dateof theportionsofthisTechnical Releaseunderwhichsucharrangementwouldotherwisefailtocomply",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                500,
+                                850,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        500,
+                                        850,
+                                        525
+                                    ],
+                                    "score": 0.979,
+                                    "content": "withthemarketreformsisextendedtothelaterof(1)January1,2014,or(2)thefirstdayofthefirstplanyear",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                840,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        840,
+                                        545
+                                    ],
+                                    "score": 0.985,
+                                    "content": "following thefirstcloseofaregularlegislativesessionof theapplicablelegislativebodyafterSeptember13,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                805,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        805,
+                                        567
+                                    ],
+                                    "score": 0.985,
+                                    "content": "2013.11Thisruledoesnotapplywithrespecttoanyemployeeiftheemployee'semployerisaqualified",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                560,
+                                878,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        560,
+                                        878,
+                                        588
+                                    ],
+                                    "score": 0.977,
+                                    "content": "employer(asdefinedinACA51312(f)(2))offeringtheemployeetheopportunitytoenrollthroughanExchangein",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                513,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        513,
+                                        607
+                                    ],
+                                    "score": 0.981,
+                                    "content": "aqualified healthplaninagroupmarket.SeeCode5125(f)(3)(B).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        }
+                    ],
+                    "index": 14,
+                    "bbox_fs": [
+                        14,
+                        20,
+                        880,
+                        607
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

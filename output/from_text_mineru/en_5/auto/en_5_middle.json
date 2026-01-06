@@ -1,0 +1,1412 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        878,
+                        587
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                20,
+                                829,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        20,
+                                        829,
+                                        46
+                                    ],
+                                    "score": 0.975,
+                                    "content": "biggestfragmentsandtrygluing themintoplace,andeventuallypiece together thevase.Atthispointsit's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                42,
+                                855,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        42,
+                                        855,
+                                        65
+                                    ],
+                                    "score": 0.998,
+                                    "content": "importanttorealizethelimitationsofouranalogy.InarealLTcodingscheme,thebagoffragmentswouldbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                822,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        822,
+                                        84
+                                    ],
+                                    "score": 0.995,
+                                    "content": "bottomless,sothatwecouldalwaysreachinandgrabanewfistfuloffragments,eachdifferentfromthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                81,
+                                833,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        81,
+                                        833,
+                                        106
+                                    ],
+                                    "score": 0.978,
+                                    "content": "previousones,andeachcontaining newpieces of thevasethat wouldbeusefulinreconstructingit.Atthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                860,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        860,
+                                        127
+                                    ],
+                                    "score": 0.984,
+                                    "content": "point,thereadermightbethinkingthatthisprocesssoundsprettywasteful,sinceitwouldendupgetinglots",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                120,
+                                824,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        120,
+                                        824,
+                                        144
+                                    ],
+                                    "score": 0.987,
+                                    "content": "ofduplicatefragments.Indeed,it'shardtoseehowthiswouldn'tleadtoalotofoverheadintheprotocol.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                141,
+                                873,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        141,
+                                        873,
+                                        167
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Obviouslythereneedstobesomedegreeofredundancy/overheadinanyrobustsystemlikethis,butweshould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                160,
+                                855,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        160,
+                                        855,
+                                        183
+                                    ],
+                                    "score": 0.993,
+                                    "content": "distinguishbetweenredundantdataandwastefuloverhead.Bywastefuloverhead,wemeanthatsomeof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                867,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        867,
+                                        205
+                                    ],
+                                    "score": 0.997,
+                                    "content": "bitswearesendingarenottheactualdataitself,butrathertheprotocolthatdescribesthefragmentsandhow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                200,
+                                878,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        200,
+                                        878,
+                                        225
+                                    ],
+                                    "score": 0.989,
+                                    "content": "toassemblethem.Whilesuch informationisneededtomakethesystemwork,wewanttokeepittoanabsolute",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                817,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        817,
+                                        244
+                                    ],
+                                    "score": 0.994,
+                                    "content": "minimum.Afterallifwehadtodownload30megabytesworthof3megabytechunksinordertoreliably",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                852,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        752,
+                                        265
+                                    ],
+                                    "score": 0.989,
+                                    "content": "assemblea5megabytefile,thatwouldbeaprettybadoutcome,since thesystemwould onlybe",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        752,
+                                        242,
+                                        850,
+                                        262
+                                    ],
+                                    "score": 0.9,
+                                    "content": "5 / 3 0 = 1 6 . 6 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        850,
+                                        240,
+                                        852,
+                                        265
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                259,
+                                877,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        259,
+                                        877,
+                                        286
+                                    ],
+                                    "score": 0.983,
+                                    "content": "efficient.ThisleadstothesecondsurprisingpropertyofLTcodes:inpractice,theycanachieveeficiencyratesof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                876,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        109,
+                                        306
+                                    ],
+                                    "score": 0.954,
+                                    "content": "upwards of",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        109,
+                                        282,
+                                        145,
+                                        301
+                                    ],
+                                    "score": 0.8,
+                                    "content": "8 5 \\% ,",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        145,
+                                        281,
+                                        876,
+                                        306
+                                    ],
+                                    "score": 0.974,
+                                    "content": "asshowninthefollowingfigure,which showsthatinordertodownload2,048\"symbols\"worth",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                301,
+                                848,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        301,
+                                        848,
+                                        327
+                                    ],
+                                    "score": 0.966,
+                                    "content": "ofdatawithahighprobabilityofsuccess,wegenerallywillonlyneedtodownload2,300symbolsworthofLT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                819,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        819,
+                                        345
+                                    ],
+                                    "score": 0.995,
+                                    "content": "chunks.Aswecontinuetodownloadmorechunks,theprobabilityofsuccessfullydecoding theentirefile",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                341,
+                                814,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        341,
+                                        113,
+                                        365
+                                    ],
+                                    "score": 0.998,
+                                    "content": "approaches",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        113,
+                                        342,
+                                        155,
+                                        361
+                                    ],
+                                    "score": 0.83,
+                                    "content": "100 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        155,
+                                        341,
+                                        814,
+                                        365
+                                    ],
+                                    "score": 0.995,
+                                    "content": ".Thismeansthatthevastmajorityofourbandwidthisbeingputtowardsusefulwork:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                833,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        833,
+                                        385
+                                    ],
+                                    "score": 0.975,
+                                    "content": "transferring thebitsofdatawewant,notuseless overheadthat usesupourbandwidthwithout getting us",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                380,
+                                862,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        380,
+                                        862,
+                                        405
+                                    ],
+                                    "score": 0.994,
+                                    "content": "closertowhatwewant-recon-structingthefile.Andyet,westillgetthesealmostmiraculousbenefits:wecan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                401,
+                                859,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        401,
+                                        859,
+                                        427
+                                    ],
+                                    "score": 0.993,
+                                    "content": "getfilechunksfrommultiplesources,inanyorder,andeverychunkisjustasgood/usefulasanyotherchunk.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                832,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        832,
+                                        444
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Nomorestuckdownloads,nomore“rare\"filechunksthatwehopesomeonewillmakeavailable-justdata",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                862,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        862,
+                                        467
+                                    ],
+                                    "score": 0.987,
+                                    "content": "droplets,likewaterfromafountain,thatwecanslurpupfromanywhereuntilourglassisfullandwehavethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                822,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        822,
+                                        486
+                                    ],
+                                    "score": 0.985,
+                                    "content": "file!Buthowwillweknowthatwehavetherightfile?Thatpartiseasy:westoretheSHA3-256hashofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                482,
+                                857,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        482,
+                                        857,
+                                        505
+                                    ],
+                                    "score": 0.983,
+                                    "content": "originalimagefileintheartregistrationticketontheblockchain,andwekeepgetingnewLTchunksuntilthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                500,
+                                708,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        500,
+                                        708,
+                                        525
+                                    ],
+                                    "score": 0.993,
+                                    "content": "reconstructedfilehashestothisexactsamevalue.LTCodeswereoriginallydesignedfora",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                520,
+                                866,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        520,
+                                        866,
+                                        545
+                                    ],
+                                    "score": 0.991,
+                                    "content": "broadcaster-subscribermodel,inwhichthebroadcaster(forexample,theNFLstreamingalivegame,orSteam",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                878,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        878,
+                                        567
+                                    ],
+                                    "score": 0.991,
+                                    "content": "servingavideogamedemotousers)hasafullcopyofthefile/stream,andgeneratesnewLTchunksontheflyin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                311,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        311,
+                                        584
+                                    ],
+                                    "score": 0.961,
+                                    "content": "an\"endlessstream\"ofchunks,and99",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 13.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                594
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        878,
+                        587
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                20,
+                                829,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        20,
+                                        829,
+                                        46
+                                    ],
+                                    "score": 0.975,
+                                    "content": "biggestfragmentsandtrygluing themintoplace,andeventuallypiece together thevase.Atthispointsit's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                42,
+                                855,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        42,
+                                        855,
+                                        65
+                                    ],
+                                    "score": 0.998,
+                                    "content": "importanttorealizethelimitationsofouranalogy.InarealLTcodingscheme,thebagoffragmentswouldbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                822,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        822,
+                                        84
+                                    ],
+                                    "score": 0.995,
+                                    "content": "bottomless,sothatwecouldalwaysreachinandgrabanewfistfuloffragments,eachdifferentfromthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                81,
+                                833,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        81,
+                                        833,
+                                        106
+                                    ],
+                                    "score": 0.978,
+                                    "content": "previousones,andeachcontaining newpieces of thevasethat wouldbeusefulinreconstructingit.Atthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                860,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        860,
+                                        127
+                                    ],
+                                    "score": 0.984,
+                                    "content": "point,thereadermightbethinkingthatthisprocesssoundsprettywasteful,sinceitwouldendupgetinglots",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                120,
+                                824,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        120,
+                                        824,
+                                        144
+                                    ],
+                                    "score": 0.987,
+                                    "content": "ofduplicatefragments.Indeed,it'shardtoseehowthiswouldn'tleadtoalotofoverheadintheprotocol.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                141,
+                                873,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        141,
+                                        873,
+                                        167
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Obviouslythereneedstobesomedegreeofredundancy/overheadinanyrobustsystemlikethis,butweshould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                160,
+                                855,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        160,
+                                        855,
+                                        183
+                                    ],
+                                    "score": 0.993,
+                                    "content": "distinguishbetweenredundantdataandwastefuloverhead.Bywastefuloverhead,wemeanthatsomeof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                867,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        867,
+                                        205
+                                    ],
+                                    "score": 0.997,
+                                    "content": "bitswearesendingarenottheactualdataitself,butrathertheprotocolthatdescribesthefragmentsandhow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                200,
+                                878,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        200,
+                                        878,
+                                        225
+                                    ],
+                                    "score": 0.989,
+                                    "content": "toassemblethem.Whilesuch informationisneededtomakethesystemwork,wewanttokeepittoanabsolute",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                817,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        817,
+                                        244
+                                    ],
+                                    "score": 0.994,
+                                    "content": "minimum.Afterallifwehadtodownload30megabytesworthof3megabytechunksinordertoreliably",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                852,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        752,
+                                        265
+                                    ],
+                                    "score": 0.989,
+                                    "content": "assemblea5megabytefile,thatwouldbeaprettybadoutcome,since thesystemwould onlybe",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        752,
+                                        242,
+                                        850,
+                                        262
+                                    ],
+                                    "score": 0.9,
+                                    "content": "5 / 3 0 = 1 6 . 6 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        850,
+                                        240,
+                                        852,
+                                        265
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                259,
+                                877,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        259,
+                                        877,
+                                        286
+                                    ],
+                                    "score": 0.983,
+                                    "content": "efficient.ThisleadstothesecondsurprisingpropertyofLTcodes:inpractice,theycanachieveeficiencyratesof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                876,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        109,
+                                        306
+                                    ],
+                                    "score": 0.954,
+                                    "content": "upwards of",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        109,
+                                        282,
+                                        145,
+                                        301
+                                    ],
+                                    "score": 0.8,
+                                    "content": "8 5 \\% ,",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        145,
+                                        281,
+                                        876,
+                                        306
+                                    ],
+                                    "score": 0.974,
+                                    "content": "asshowninthefollowingfigure,which showsthatinordertodownload2,048\"symbols\"worth",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                301,
+                                848,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        301,
+                                        848,
+                                        327
+                                    ],
+                                    "score": 0.966,
+                                    "content": "ofdatawithahighprobabilityofsuccess,wegenerallywillonlyneedtodownload2,300symbolsworthofLT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                819,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        819,
+                                        345
+                                    ],
+                                    "score": 0.995,
+                                    "content": "chunks.Aswecontinuetodownloadmorechunks,theprobabilityofsuccessfullydecoding theentirefile",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                341,
+                                814,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        341,
+                                        113,
+                                        365
+                                    ],
+                                    "score": 0.998,
+                                    "content": "approaches",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        113,
+                                        342,
+                                        155,
+                                        361
+                                    ],
+                                    "score": 0.83,
+                                    "content": "100 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        155,
+                                        341,
+                                        814,
+                                        365
+                                    ],
+                                    "score": 0.995,
+                                    "content": ".Thismeansthatthevastmajorityofourbandwidthisbeingputtowardsusefulwork:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                833,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        833,
+                                        385
+                                    ],
+                                    "score": 0.975,
+                                    "content": "transferring thebitsofdatawewant,notuseless overheadthat usesupourbandwidthwithout getting us",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                380,
+                                862,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        380,
+                                        862,
+                                        405
+                                    ],
+                                    "score": 0.994,
+                                    "content": "closertowhatwewant-recon-structingthefile.Andyet,westillgetthesealmostmiraculousbenefits:wecan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                401,
+                                859,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        401,
+                                        859,
+                                        427
+                                    ],
+                                    "score": 0.993,
+                                    "content": "getfilechunksfrommultiplesources,inanyorder,andeverychunkisjustasgood/usefulasanyotherchunk.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                832,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        832,
+                                        444
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Nomorestuckdownloads,nomore“rare\"filechunksthatwehopesomeonewillmakeavailable-justdata",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                862,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        862,
+                                        467
+                                    ],
+                                    "score": 0.987,
+                                    "content": "droplets,likewaterfromafountain,thatwecanslurpupfromanywhereuntilourglassisfullandwehavethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                822,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        822,
+                                        486
+                                    ],
+                                    "score": 0.985,
+                                    "content": "file!Buthowwillweknowthatwehavetherightfile?Thatpartiseasy:westoretheSHA3-256hashofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                482,
+                                857,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        482,
+                                        857,
+                                        505
+                                    ],
+                                    "score": 0.983,
+                                    "content": "originalimagefileintheartregistrationticketontheblockchain,andwekeepgetingnewLTchunksuntilthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                500,
+                                708,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        500,
+                                        708,
+                                        525
+                                    ],
+                                    "score": 0.993,
+                                    "content": "reconstructedfilehashestothisexactsamevalue.LTCodeswereoriginallydesignedfora",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                520,
+                                866,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        520,
+                                        866,
+                                        545
+                                    ],
+                                    "score": 0.991,
+                                    "content": "broadcaster-subscribermodel,inwhichthebroadcaster(forexample,theNFLstreamingalivegame,orSteam",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                878,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        878,
+                                        567
+                                    ],
+                                    "score": 0.991,
+                                    "content": "servingavideogamedemotousers)hasafullcopyofthefile/stream,andgeneratesnewLTchunksontheflyin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                311,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        311,
+                                        584
+                                    ],
+                                    "score": 0.961,
+                                    "content": "an\"endlessstream\"ofchunks,and99",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 13.5,
+                    "bbox_fs": [
+                        14,
+                        20,
+                        878,
+                        584
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

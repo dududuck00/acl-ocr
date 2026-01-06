@@ -1,0 +1,1456 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        9,
+                        878,
+                        675
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                21,
+                                854,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        21,
+                                        854,
+                                        45
+                                    ],
+                                    "score": 0.982,
+                                    "content": "29Thisisthemeaning.Indeed,thosepersons,whosebodieshavebecomehotduetoheat,undertakeactions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                42,
+                                811,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        42,
+                                        811,
+                                        64
+                                    ],
+                                    "score": 0.994,
+                                    "content": "merelyonthebasisofobservationofacoldlakeinsofarastheydesiretobatheinitswater.Theydonot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                60,
+                                868,
+                                83
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        60,
+                                        868,
+                                        83
+                                    ],
+                                    "score": 0.987,
+                                    "content": "deliberateinthemeantime[inthefolowingmanner]:“Thewaterinthevisiblelakeiscapableofaleviatingheat,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                833,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        833,
+                                        105
+                                    ],
+                                    "score": 0.971,
+                                    "content": "becauseitiscoldwater.Everythingthatiscoldwateriscapableofalleviating heat,justlikethewaterof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                101,
+                                871,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        101,
+                                        871,
+                                        124
+                                    ],
+                                    "score": 0.976,
+                                    "content": "Ganges.Andwearehot.So,forthesakeofalleviatingthatheat,weshallbathehere.\"Moreover,thesediferent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                875,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        875,
+                                        147
+                                    ],
+                                    "score": 0.977,
+                                    "content": "things-theheat,thewaterlocatedinthelake,itscapacitytoalleviateheat,andsoon-areobjectsofwhichone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                141,
+                                846,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        141,
+                                        846,
+                                        165
+                                    ],
+                                    "score": 0.992,
+                                    "content": "isawareseparately.Furthermore,unlessthesearesynthesizedwitheachother,thereisnoto-be-done-ness.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                159,
+                                878,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        159,
+                                        878,
+                                        187
+                                    ],
+                                    "score": 0.985,
+                                    "content": "And,whenthisto-be-done-nessisabsent,thereisnoconsciouspracticalundertakingofanautonomousperson.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                182,
+                                841,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        182,
+                                        841,
+                                        205
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Also,withrespecttothesynthesis,thereisnomeansofknowingthatusualloperates.Therefore,itistobe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                201,
+                                875,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        201,
+                                        875,
+                                        226
+                                    ],
+                                    "score": 0.933,
+                                    "content": "acceptedthatlinguisticimpressionwhosenatureisunknown(asamviditarupa),isthecauseofthepratibthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                831,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        831,
+                                        244
+                                    ],
+                                    "score": 0.984,
+                                    "content": "takestheform,“Thisistobedonebythismeansinthisway.\"44Thelastlineofthepassageclaimsthatthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                241,
+                                861,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        241,
+                                        861,
+                                        266
+                                    ],
+                                    "score": 0.986,
+                                    "content": "pratibhaiscausedbylinguisticimpressions.Whymustwethinkso?Whycantheunderlyingimpressionnotbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                262,
+                                840,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        262,
+                                        840,
+                                        285
+                                    ],
+                                    "score": 0.992,
+                                    "content": "justamemoryimpressionleftbyinferentialawareness-eventsthattookplaceinapreviousbirth?Vacaspati",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                282,
+                                870,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        282,
+                                        870,
+                                        305
+                                    ],
+                                    "score": 0.988,
+                                    "content": "addressesthisobjection.Thefolowingisnottobesaid:\"Whatever[awareness]appearswherevereitherdueto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                302,
+                                792,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        302,
+                                        792,
+                                        324
+                                    ],
+                                    "score": 0.991,
+                                    "content": "apreviousbirthorinsofarasitisproducedbythatbirth,lettherebeaseedofanimpressionforthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                319,
+                                772,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        319,
+                                        772,
+                                        347
+                                    ],
+                                    "score": 0.961,
+                                    "content": "[awareness]inthat case.Whatisthepointof language?\"Sincean impressonthatisproduced bya",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                342,
+                                862,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        342,
+                                        862,
+                                        365
+                                    ],
+                                    "score": 0.994,
+                                    "content": "non-recollectiveinferentialawareness(anumanikanubhava)doesnotcauseanawarenessthathastheformof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                857,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        857,
+                                        384
+                                    ],
+                                    "score": 0.984,
+                                    "content": "to-be-done-nessbecausethatinferentialawarenesshasafact(bhutartha)asitsintentionalobject,and,inthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                380,
+                                857,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        380,
+                                        857,
+                                        403
+                                    ],
+                                    "score": 0.99,
+                                    "content": "case[wheretheagentperformsanaction],thereisnoawarenessofameresynthesiswhichlackstheformof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                871,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        871,
+                                        424
+                                    ],
+                                    "score": 0.998,
+                                    "content": "to-be-done-ness.45Theimpressionthatgivesrisetothepracticalinsightaboutto-be-done-nessmustoriginate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                418,
+                                875,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        418,
+                                        875,
+                                        445
+                                    ],
+                                    "score": 0.971,
+                                    "content": "fromlanguage,sincetheothermeansofknowing,suchasinference,etc.，onlygivesusaccesstofacts,44NKon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                812,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        812,
+                                        464
+                                    ],
+                                    "score": 0.979,
+                                    "content": "VSS11.3,487.10-17:ayamarthah|santapataptatanavohisitahradadarsanamatradapsumimanksavah",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                461,
+                                869,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        461,
+                                        869,
+                                        486
+                                    ],
+                                    "score": 0.979,
+                                    "content": "pravartante|nantaravicarayanti|drsyamanahradagataapastapamapanetumsamarthahsisiratoyatvat|yad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                480,
+                                803,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        480,
+                                        803,
+                                        507
+                                    ],
+                                    "score": 0.982,
+                                    "content": "yattoyamsisiramtatsarvamtapapanodanasamarthamyathagangatoyam|vayamcataptah|tadiha",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                504,
+                                865,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        504,
+                                        865,
+                                        527
+                                    ],
+                                    "score": 0.987,
+                                    "content": "tatprasamanayanimajmahaiti|nanacaitepadarthavicchinnapratipattayahsantapohradadharaapastasam",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                524,
+                                858,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        524,
+                                        858,
+                                        547
+                                    ],
+                                    "score": 0.974,
+                                    "content": "santapopasamanasamarthyamityadayah|nacaitesamparasparopaslesamantarenakartavyata|nacasyam",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                546,
+                                763,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        546,
+                                        763,
+                                        568
+                                    ],
+                                    "score": 0.968,
+                                    "content": "asatyamsvatantracetanapravrtih|nacopaslesesamudacaravrttikincit pramanamasti|tasmad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                567,
+                                848,
+                                590
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        567,
+                                        848,
+                                        590
+                                    ],
+                                    "score": 0.985,
+                                    "content": "asamviditarupasabdabhavanaivedamitthamanenakartavyamitipratibhaheturastheyah|Foravariant,see",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                585,
+                                879,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        585,
+                                        879,
+                                        614
+                                    ],
+                                    "score": 0.959,
+                                    "content": "VMG178.6-12.45NKonVS511.3,487.17-18and488.1:nacaivamvacyam|pragbhaviyamtajanmajamvayatra",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                607,
+                                775,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        607,
+                                        775,
+                                        632
+                                    ],
+                                    "score": 0.975,
+                                    "content": "yatpratibhatitatratadbhavanabijamastu|kimsabdenetianumanikanubhavajanmanobhavanaya",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                627,
+                                864,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        627,
+                                        864,
+                                        655
+                                    ],
+                                    "score": 0.98,
+                                    "content": "bhutarthagocaratvenakartavyatakarapratityakaranatkartavyatakararahitasyacatropaslesamatrasyapratiteh|",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                651,
+                                281,
+                                671
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        651,
+                                        281,
+                                        671
+                                    ],
+                                    "score": 0.968,
+                                    "content": "Foravariant,seeVVMG178.12-15.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 15.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                682
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        9,
+                        878,
+                        675
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                21,
+                                854,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        21,
+                                        854,
+                                        45
+                                    ],
+                                    "score": 0.982,
+                                    "content": "29Thisisthemeaning.Indeed,thosepersons,whosebodieshavebecomehotduetoheat,undertakeactions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                42,
+                                811,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        42,
+                                        811,
+                                        64
+                                    ],
+                                    "score": 0.994,
+                                    "content": "merelyonthebasisofobservationofacoldlakeinsofarastheydesiretobatheinitswater.Theydonot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                60,
+                                868,
+                                83
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        60,
+                                        868,
+                                        83
+                                    ],
+                                    "score": 0.987,
+                                    "content": "deliberateinthemeantime[inthefolowingmanner]:“Thewaterinthevisiblelakeiscapableofaleviatingheat,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                833,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        833,
+                                        105
+                                    ],
+                                    "score": 0.971,
+                                    "content": "becauseitiscoldwater.Everythingthatiscoldwateriscapableofalleviating heat,justlikethewaterof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                101,
+                                871,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        101,
+                                        871,
+                                        124
+                                    ],
+                                    "score": 0.976,
+                                    "content": "Ganges.Andwearehot.So,forthesakeofalleviatingthatheat,weshallbathehere.\"Moreover,thesediferent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                875,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        875,
+                                        147
+                                    ],
+                                    "score": 0.977,
+                                    "content": "things-theheat,thewaterlocatedinthelake,itscapacitytoalleviateheat,andsoon-areobjectsofwhichone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                141,
+                                846,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        141,
+                                        846,
+                                        165
+                                    ],
+                                    "score": 0.992,
+                                    "content": "isawareseparately.Furthermore,unlessthesearesynthesizedwitheachother,thereisnoto-be-done-ness.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                159,
+                                878,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        159,
+                                        878,
+                                        187
+                                    ],
+                                    "score": 0.985,
+                                    "content": "And,whenthisto-be-done-nessisabsent,thereisnoconsciouspracticalundertakingofanautonomousperson.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                182,
+                                841,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        182,
+                                        841,
+                                        205
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Also,withrespecttothesynthesis,thereisnomeansofknowingthatusualloperates.Therefore,itistobe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                201,
+                                875,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        201,
+                                        875,
+                                        226
+                                    ],
+                                    "score": 0.933,
+                                    "content": "acceptedthatlinguisticimpressionwhosenatureisunknown(asamviditarupa),isthecauseofthepratibthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                831,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        831,
+                                        244
+                                    ],
+                                    "score": 0.984,
+                                    "content": "takestheform,“Thisistobedonebythismeansinthisway.\"44Thelastlineofthepassageclaimsthatthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                241,
+                                861,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        241,
+                                        861,
+                                        266
+                                    ],
+                                    "score": 0.986,
+                                    "content": "pratibhaiscausedbylinguisticimpressions.Whymustwethinkso?Whycantheunderlyingimpressionnotbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                262,
+                                840,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        262,
+                                        840,
+                                        285
+                                    ],
+                                    "score": 0.992,
+                                    "content": "justamemoryimpressionleftbyinferentialawareness-eventsthattookplaceinapreviousbirth?Vacaspati",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                282,
+                                870,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        282,
+                                        870,
+                                        305
+                                    ],
+                                    "score": 0.988,
+                                    "content": "addressesthisobjection.Thefolowingisnottobesaid:\"Whatever[awareness]appearswherevereitherdueto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                302,
+                                792,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        302,
+                                        792,
+                                        324
+                                    ],
+                                    "score": 0.991,
+                                    "content": "apreviousbirthorinsofarasitisproducedbythatbirth,lettherebeaseedofanimpressionforthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                319,
+                                772,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        319,
+                                        772,
+                                        347
+                                    ],
+                                    "score": 0.961,
+                                    "content": "[awareness]inthat case.Whatisthepointof language?\"Sincean impressonthatisproduced bya",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                342,
+                                862,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        342,
+                                        862,
+                                        365
+                                    ],
+                                    "score": 0.994,
+                                    "content": "non-recollectiveinferentialawareness(anumanikanubhava)doesnotcauseanawarenessthathastheformof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                857,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        857,
+                                        384
+                                    ],
+                                    "score": 0.984,
+                                    "content": "to-be-done-nessbecausethatinferentialawarenesshasafact(bhutartha)asitsintentionalobject,and,inthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                380,
+                                857,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        380,
+                                        857,
+                                        403
+                                    ],
+                                    "score": 0.99,
+                                    "content": "case[wheretheagentperformsanaction],thereisnoawarenessofameresynthesiswhichlackstheformof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                871,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        871,
+                                        424
+                                    ],
+                                    "score": 0.998,
+                                    "content": "to-be-done-ness.45Theimpressionthatgivesrisetothepracticalinsightaboutto-be-done-nessmustoriginate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                418,
+                                875,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        418,
+                                        875,
+                                        445
+                                    ],
+                                    "score": 0.971,
+                                    "content": "fromlanguage,sincetheothermeansofknowing,suchasinference,etc.，onlygivesusaccesstofacts,44NKon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                812,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        812,
+                                        464
+                                    ],
+                                    "score": 0.979,
+                                    "content": "VSS11.3,487.10-17:ayamarthah|santapataptatanavohisitahradadarsanamatradapsumimanksavah",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                461,
+                                869,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        461,
+                                        869,
+                                        486
+                                    ],
+                                    "score": 0.979,
+                                    "content": "pravartante|nantaravicarayanti|drsyamanahradagataapastapamapanetumsamarthahsisiratoyatvat|yad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                480,
+                                803,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        480,
+                                        803,
+                                        507
+                                    ],
+                                    "score": 0.982,
+                                    "content": "yattoyamsisiramtatsarvamtapapanodanasamarthamyathagangatoyam|vayamcataptah|tadiha",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                504,
+                                865,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        504,
+                                        865,
+                                        527
+                                    ],
+                                    "score": 0.987,
+                                    "content": "tatprasamanayanimajmahaiti|nanacaitepadarthavicchinnapratipattayahsantapohradadharaapastasam",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                524,
+                                858,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        524,
+                                        858,
+                                        547
+                                    ],
+                                    "score": 0.974,
+                                    "content": "santapopasamanasamarthyamityadayah|nacaitesamparasparopaslesamantarenakartavyata|nacasyam",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                546,
+                                763,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        546,
+                                        763,
+                                        568
+                                    ],
+                                    "score": 0.968,
+                                    "content": "asatyamsvatantracetanapravrtih|nacopaslesesamudacaravrttikincit pramanamasti|tasmad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                567,
+                                848,
+                                590
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        567,
+                                        848,
+                                        590
+                                    ],
+                                    "score": 0.985,
+                                    "content": "asamviditarupasabdabhavanaivedamitthamanenakartavyamitipratibhaheturastheyah|Foravariant,see",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                585,
+                                879,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        585,
+                                        879,
+                                        614
+                                    ],
+                                    "score": 0.959,
+                                    "content": "VMG178.6-12.45NKonVS511.3,487.17-18and488.1:nacaivamvacyam|pragbhaviyamtajanmajamvayatra",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                607,
+                                775,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        607,
+                                        775,
+                                        632
+                                    ],
+                                    "score": 0.975,
+                                    "content": "yatpratibhatitatratadbhavanabijamastu|kimsabdenetianumanikanubhavajanmanobhavanaya",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                627,
+                                864,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        627,
+                                        864,
+                                        655
+                                    ],
+                                    "score": 0.98,
+                                    "content": "bhutarthagocaratvenakartavyatakarapratityakaranatkartavyatakararahitasyacatropaslesamatrasyapratiteh|",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                651,
+                                281,
+                                671
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        651,
+                                        281,
+                                        671
+                                    ],
+                                    "score": 0.968,
+                                    "content": "Foravariant,seeVVMG178.12-15.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 15.5,
+                    "bbox_fs": [
+                        12,
+                        21,
+                        879,
+                        671
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

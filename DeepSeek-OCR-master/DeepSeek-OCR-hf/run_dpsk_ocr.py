@@ -31,4 +31,4 @@ output_path = 'your/output/dir'
 
 # Gundam: base_size = 1024, image_size = 640, crop_mode = True
 
-res = model.infer(tokenizer, prompt=prompt, image_file=image_file, output_path = output_path, base_size = 1024, image_size = 640, crop_mode=True, save_results = True, test_compress = True)
+# res = model.infer(tokenizer, prompt=prompt, image_file=image_file, output_path = output_path, base_size = 1024, image_size = 640, crop_mode=True, save_results = True, test_compress = True)

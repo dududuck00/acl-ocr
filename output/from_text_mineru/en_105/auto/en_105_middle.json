@@ -1,0 +1,1764 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        23,
+                        878,
+                        805
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                22,
+                                817,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        22,
+                                        817,
+                                        45
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Man:ButGod,Istilldon'tunderstandwhyyousaythatthesupplyofmoneyshouldbemaintainedbythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                39,
+                                866,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        39,
+                                        866,
+                                        68
+                                    ],
+                                    "score": 0.975,
+                                    "content": "government.God:Becausetheproperfunctioning ofthelawof supplyanddemand necessitates your havinga",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                62,
+                                820,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        62,
+                                        820,
+                                        85
+                                    ],
+                                    "score": 0.995,
+                                    "content": "reliablestandardofvalue.Theaccuracyofyourstandardofvaluedependsuponhowwellyoumaintaina",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                797,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        797,
+                                        105
+                                    ],
+                                    "score": 0.977,
+                                    "content": "constantrelationship betweenthesupplyof moneyand thenumberof peopleusing thatmoney.Your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                101,
+                                878,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        101,
+                                        878,
+                                        126
+                                    ],
+                                    "score": 0.994,
+                                    "content": "governmentmaintainstheaccuracyofyourstandardsofweightandlength-doesn'tit?(Mannods)Thenisn'tit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                122,
+                                853,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        122,
+                                        853,
+                                        145
+                                    ],
+                                    "score": 0.987,
+                                    "content": "logicalthatyour governmentshouldmaintaintheaccuracyofyourstandardofvaluealso?Doesn'tthatmake",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                838,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        838,
+                                        165
+                                    ],
+                                    "score": 0.987,
+                                    "content": "sense?Man:Yes,God,Iunderstandnow.God:Itgrievesmetoseewhatishappeningdownthere.Youhave",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                851,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        851,
+                                        185
+                                    ],
+                                    "score": 0.984,
+                                    "content": "madesuchmagnificent progressinsomanyotherfields.Youcould havehadaveritableheavenonearth had",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                181,
+                                851,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        181,
+                                        851,
+                                        206
+                                    ],
+                                    "score": 0.995,
+                                    "content": "youmadeequalprogressineconomics.Butbecauseyoufailedsomiserablyinthescienceofeconomics,you",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                871,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        871,
+                                        227
+                                    ],
+                                    "score": 0.993,
+                                    "content": "havenever-asawhole-enjoyedthefruitsofyourlabors.Anhonestmoney-togetherwithafreemarketand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                218,
+                                869,
+                                249
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        218,
+                                        869,
+                                        249
+                                    ],
+                                    "score": 0.981,
+                                    "content": "asensiblesystemoftaxation-wouldalloweachofyoutoenjoythefruitsofyourlabor.Butadishonestmoney",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                855,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        855,
+                                        266
+                                    ],
+                                    "score": 0.992,
+                                    "content": "robsmostofyou,andunjustlyrewardsafewofyouwhoknowhowto benefitfromadishonestmoney.Then",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                857,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        857,
+                                        287
+                                    ],
+                                    "score": 0.995,
+                                    "content": "youreactagainstthisinjusticebyabandoningmynaturallawsinsteadofprovidingyourselveswithanhonest",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                280,
+                                864,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        280,
+                                        864,
+                                        306
+                                    ],
+                                    "score": 0.985,
+                                    "content": "money.(Manremainssilent--soGodcontinues.)Ihavegivenyoutheinteligencetosolveyourproblems.ButI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                852,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        852,
+                                        326
+                                    ],
+                                    "score": 0.992,
+                                    "content": "can't--atleastIwon't-forceyoutousethatinteligence.Iamnotadictator.Youpeoplearefreeagents--at",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                803,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        803,
+                                        345
+                                    ],
+                                    "score": 0.985,
+                                    "content": "leastthoseofyouwhohavehad thewisdomtomaintain yourfreedom.Butunlessyouactalittlemore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                869,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        869,
+                                        365
+                                    ],
+                                    "score": 0.989,
+                                    "content": "intelligentlythanyouhaveinthepast,youwhoarestillfreearegoingtoloseyourfreedomalso.Yourdestinyis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                877,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        877,
+                                        385
+                                    ],
+                                    "score": 0.968,
+                                    "content": "inyourhands.Man:ButGod,eventhoughsomeofussolvedourmonetaryproblem,I'mafraidthere'snotmuch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                379,
+                                879,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        379,
+                                        879,
+                                        406
+                                    ],
+                                    "score": 0.983,
+                                    "content": "wecoulddoaboutit.Itwouldbetoodificulttoarousethepeopletoaction.God:(withanunbelieving look inhis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                401,
+                                870,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        401,
+                                        870,
+                                        425
+                                    ],
+                                    "score": 0.981,
+                                    "content": "eyes)Toodificulttoarousethepublic?Ican'tbelieveit!Surelythey'reindignantathavingoverhalf thevalueof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                870,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        870,
+                                        445
+                                    ],
+                                    "score": 0.989,
+                                    "content": "theirsavingstakenawayfromthem!Surelytheyhaven’tlosttheirsenseofjustice!Whentheylosethat,theywill",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                819,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        819,
+                                        465
+                                    ],
+                                    "score": 0.99,
+                                    "content": "loseeverything.Man:No,God.Theyhaven'tlosttheirsenseofjustice.Buttheyareconfusedastowhat's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                791,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        791,
+                                        487
+                                    ],
+                                    "score": 0.99,
+                                    "content": "causingalltheinjustice.Theyknowthey'rebeingrobbed.But halfofthemthinkinflationiscausedby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                481,
+                                847,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        481,
+                                        847,
+                                        507
+                                    ],
+                                    "score": 0.991,
+                                    "content": "businessmenraisingpricesunnecessarily.Andtheotherhalfthinkinflationiscausedbylaborforcing wages",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                502,
+                                869,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        502,
+                                        869,
+                                        525
+                                    ],
+                                    "score": 0.983,
+                                    "content": "higherthantheyoughttobe.God:That’sjustwhat’sgoingtodestroyyou.Youarefightingbetweenyourselves",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                521,
+                                845,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        521,
+                                        845,
+                                        547
+                                    ],
+                                    "score": 0.98,
+                                    "content": "insteadoffighting yourcommonenemy.Can'tyouseethat inflationisadirectresultof having thesupplyof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                866,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        866,
+                                        567
+                                    ],
+                                    "score": 0.995,
+                                    "content": "moneyincreasefasterthanthenumberofpeopleusingthatmoney?Mylawofsupplyanddemandmakesthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                559,
+                                834,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        559,
+                                        834,
+                                        588
+                                    ],
+                                    "score": 0.988,
+                                    "content": "inevitable.Man:Thatmakessensetome.Anditoughttomakesensetoeveryoneelse.But evensupposing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                581,
+                                865,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        581,
+                                        865,
+                                        604
+                                    ],
+                                    "score": 0.994,
+                                    "content": "everybodyunderstoodthis,there'sstillnohopeofmakingsuchabasicchangeinourbankingsystem.God:No",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                600,
+                                879,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        600,
+                                        879,
+                                        626
+                                    ],
+                                    "score": 0.952,
+                                    "content": "hope?Haveyoudeterioratedtothatextent?(Pause)Butthen,it'snderstandable.Naturalyifyou'velostfaithin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                621,
+                                876,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        621,
+                                        876,
+                                        647
+                                    ],
+                                    "score": 0.992,
+                                    "content": "me,youwouldhavelostallhopealso.Tellme-howdoyouexpecttosurvivetheemergenciesthatconfrontyou",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                641,
+                                864,
+                                664
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        641,
+                                        864,
+                                        664
+                                    ],
+                                    "score": 0.986,
+                                    "content": "withoutfaithandhope?Man:ButGod,wedohavefaithinYou.Ourleadersproclaimthatfaithdaily.God:Faith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                661,
+                                851,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        661,
+                                        851,
+                                        687
+                                    ],
+                                    "score": 0.995,
+                                    "content": "inmemustincludefaithinmylaws,andfaithinthemindsIgaveyoutounderstandthoselawsandusethem",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                679,
+                                810,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        679,
+                                        810,
+                                        706
+                                    ],
+                                    "score": 0.991,
+                                    "content": "intelligently.Youdon'thavethatfaith.Thesortoffaithyou haveisnotadequatetoseeyouthroughthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                700,
+                                865,
+                                726
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        700,
+                                        865,
+                                        726
+                                    ],
+                                    "score": 0.985,
+                                    "content": "difficultiesthatlieahead.Itisyourkindoffaiththatisdestroyingyou-slowlybutsurely.Nothingbutarebirth",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                722,
+                                880,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        722,
+                                        880,
+                                        745
+                                    ],
+                                    "score": 0.969,
+                                    "content": "ofatruefaithinmeandmylawswillsaveyou.Man:ButGod,let'sbepracticalabouthisthing..God:Practical?I",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                742,
+                                830,
+                                765
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        742,
+                                        830,
+                                        765
+                                    ],
+                                    "score": 0.998,
+                                    "content": "alwaysthoughtIwasverypractical.OneofthemostpracticalthingsIeverdidwastodecidetogovernthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                762,
+                                836,
+                                785
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        762,
+                                        836,
+                                        785
+                                    ],
+                                    "score": 0.992,
+                                    "content": "universebynaturallawsratherthanbydirectintervention.ItisManthatisn'tbeingpractical.Youpersistin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                782,
+                                745,
+                                805
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        782,
+                                        745,
+                                        805
+                                    ],
+                                    "score": 0.999,
+                                    "content": "defyingmylawsandthenhavethetemeritytoaskmetohelpyououtofthechaosthatresults.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        }
+                    ],
+                    "index": 19
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                816
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        23,
+                        878,
+                        805
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                22,
+                                817,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        22,
+                                        817,
+                                        45
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Man:ButGod,Istilldon'tunderstandwhyyousaythatthesupplyofmoneyshouldbemaintainedbythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                39,
+                                866,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        39,
+                                        866,
+                                        68
+                                    ],
+                                    "score": 0.975,
+                                    "content": "government.God:Becausetheproperfunctioning ofthelawof supplyanddemand necessitates your havinga",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                62,
+                                820,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        62,
+                                        820,
+                                        85
+                                    ],
+                                    "score": 0.995,
+                                    "content": "reliablestandardofvalue.Theaccuracyofyourstandardofvaluedependsuponhowwellyoumaintaina",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                797,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        797,
+                                        105
+                                    ],
+                                    "score": 0.977,
+                                    "content": "constantrelationship betweenthesupplyof moneyand thenumberof peopleusing thatmoney.Your",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                101,
+                                878,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        101,
+                                        878,
+                                        126
+                                    ],
+                                    "score": 0.994,
+                                    "content": "governmentmaintainstheaccuracyofyourstandardsofweightandlength-doesn'tit?(Mannods)Thenisn'tit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                122,
+                                853,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        122,
+                                        853,
+                                        145
+                                    ],
+                                    "score": 0.987,
+                                    "content": "logicalthatyour governmentshouldmaintaintheaccuracyofyourstandardofvaluealso?Doesn'tthatmake",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                838,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        838,
+                                        165
+                                    ],
+                                    "score": 0.987,
+                                    "content": "sense?Man:Yes,God,Iunderstandnow.God:Itgrievesmetoseewhatishappeningdownthere.Youhave",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                851,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        851,
+                                        185
+                                    ],
+                                    "score": 0.984,
+                                    "content": "madesuchmagnificent progressinsomanyotherfields.Youcould havehadaveritableheavenonearth had",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                181,
+                                851,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        181,
+                                        851,
+                                        206
+                                    ],
+                                    "score": 0.995,
+                                    "content": "youmadeequalprogressineconomics.Butbecauseyoufailedsomiserablyinthescienceofeconomics,you",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                871,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        871,
+                                        227
+                                    ],
+                                    "score": 0.993,
+                                    "content": "havenever-asawhole-enjoyedthefruitsofyourlabors.Anhonestmoney-togetherwithafreemarketand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                218,
+                                869,
+                                249
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        218,
+                                        869,
+                                        249
+                                    ],
+                                    "score": 0.981,
+                                    "content": "asensiblesystemoftaxation-wouldalloweachofyoutoenjoythefruitsofyourlabor.Butadishonestmoney",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                855,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        855,
+                                        266
+                                    ],
+                                    "score": 0.992,
+                                    "content": "robsmostofyou,andunjustlyrewardsafewofyouwhoknowhowto benefitfromadishonestmoney.Then",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                857,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        857,
+                                        287
+                                    ],
+                                    "score": 0.995,
+                                    "content": "youreactagainstthisinjusticebyabandoningmynaturallawsinsteadofprovidingyourselveswithanhonest",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                280,
+                                864,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        280,
+                                        864,
+                                        306
+                                    ],
+                                    "score": 0.985,
+                                    "content": "money.(Manremainssilent--soGodcontinues.)Ihavegivenyoutheinteligencetosolveyourproblems.ButI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                852,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        852,
+                                        326
+                                    ],
+                                    "score": 0.992,
+                                    "content": "can't--atleastIwon't-forceyoutousethatinteligence.Iamnotadictator.Youpeoplearefreeagents--at",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                803,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        803,
+                                        345
+                                    ],
+                                    "score": 0.985,
+                                    "content": "leastthoseofyouwhohavehad thewisdomtomaintain yourfreedom.Butunlessyouactalittlemore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                869,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        869,
+                                        365
+                                    ],
+                                    "score": 0.989,
+                                    "content": "intelligentlythanyouhaveinthepast,youwhoarestillfreearegoingtoloseyourfreedomalso.Yourdestinyis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                877,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        877,
+                                        385
+                                    ],
+                                    "score": 0.968,
+                                    "content": "inyourhands.Man:ButGod,eventhoughsomeofussolvedourmonetaryproblem,I'mafraidthere'snotmuch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                379,
+                                879,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        379,
+                                        879,
+                                        406
+                                    ],
+                                    "score": 0.983,
+                                    "content": "wecoulddoaboutit.Itwouldbetoodificulttoarousethepeopletoaction.God:(withanunbelieving look inhis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                401,
+                                870,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        401,
+                                        870,
+                                        425
+                                    ],
+                                    "score": 0.981,
+                                    "content": "eyes)Toodificulttoarousethepublic?Ican'tbelieveit!Surelythey'reindignantathavingoverhalf thevalueof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                870,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        870,
+                                        445
+                                    ],
+                                    "score": 0.989,
+                                    "content": "theirsavingstakenawayfromthem!Surelytheyhaven’tlosttheirsenseofjustice!Whentheylosethat,theywill",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                819,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        819,
+                                        465
+                                    ],
+                                    "score": 0.99,
+                                    "content": "loseeverything.Man:No,God.Theyhaven'tlosttheirsenseofjustice.Buttheyareconfusedastowhat's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                791,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        791,
+                                        487
+                                    ],
+                                    "score": 0.99,
+                                    "content": "causingalltheinjustice.Theyknowthey'rebeingrobbed.But halfofthemthinkinflationiscausedby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                481,
+                                847,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        481,
+                                        847,
+                                        507
+                                    ],
+                                    "score": 0.991,
+                                    "content": "businessmenraisingpricesunnecessarily.Andtheotherhalfthinkinflationiscausedbylaborforcing wages",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                502,
+                                869,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        502,
+                                        869,
+                                        525
+                                    ],
+                                    "score": 0.983,
+                                    "content": "higherthantheyoughttobe.God:That’sjustwhat’sgoingtodestroyyou.Youarefightingbetweenyourselves",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                521,
+                                845,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        521,
+                                        845,
+                                        547
+                                    ],
+                                    "score": 0.98,
+                                    "content": "insteadoffighting yourcommonenemy.Can'tyouseethat inflationisadirectresultof having thesupplyof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                866,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        866,
+                                        567
+                                    ],
+                                    "score": 0.995,
+                                    "content": "moneyincreasefasterthanthenumberofpeopleusingthatmoney?Mylawofsupplyanddemandmakesthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                559,
+                                834,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        559,
+                                        834,
+                                        588
+                                    ],
+                                    "score": 0.988,
+                                    "content": "inevitable.Man:Thatmakessensetome.Anditoughttomakesensetoeveryoneelse.But evensupposing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                581,
+                                865,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        581,
+                                        865,
+                                        604
+                                    ],
+                                    "score": 0.994,
+                                    "content": "everybodyunderstoodthis,there'sstillnohopeofmakingsuchabasicchangeinourbankingsystem.God:No",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                600,
+                                879,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        600,
+                                        879,
+                                        626
+                                    ],
+                                    "score": 0.952,
+                                    "content": "hope?Haveyoudeterioratedtothatextent?(Pause)Butthen,it'snderstandable.Naturalyifyou'velostfaithin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                621,
+                                876,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        621,
+                                        876,
+                                        647
+                                    ],
+                                    "score": 0.992,
+                                    "content": "me,youwouldhavelostallhopealso.Tellme-howdoyouexpecttosurvivetheemergenciesthatconfrontyou",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                641,
+                                864,
+                                664
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        641,
+                                        864,
+                                        664
+                                    ],
+                                    "score": 0.986,
+                                    "content": "withoutfaithandhope?Man:ButGod,wedohavefaithinYou.Ourleadersproclaimthatfaithdaily.God:Faith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                661,
+                                851,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        661,
+                                        851,
+                                        687
+                                    ],
+                                    "score": 0.995,
+                                    "content": "inmemustincludefaithinmylaws,andfaithinthemindsIgaveyoutounderstandthoselawsandusethem",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                679,
+                                810,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        679,
+                                        810,
+                                        706
+                                    ],
+                                    "score": 0.991,
+                                    "content": "intelligently.Youdon'thavethatfaith.Thesortoffaithyou haveisnotadequatetoseeyouthroughthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                700,
+                                865,
+                                726
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        700,
+                                        865,
+                                        726
+                                    ],
+                                    "score": 0.985,
+                                    "content": "difficultiesthatlieahead.Itisyourkindoffaiththatisdestroyingyou-slowlybutsurely.Nothingbutarebirth",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                722,
+                                880,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        722,
+                                        880,
+                                        745
+                                    ],
+                                    "score": 0.969,
+                                    "content": "ofatruefaithinmeandmylawswillsaveyou.Man:ButGod,let'sbepracticalabouthisthing..God:Practical?I",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                742,
+                                830,
+                                765
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        742,
+                                        830,
+                                        765
+                                    ],
+                                    "score": 0.998,
+                                    "content": "alwaysthoughtIwasverypractical.OneofthemostpracticalthingsIeverdidwastodecidetogovernthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                762,
+                                836,
+                                785
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        762,
+                                        836,
+                                        785
+                                    ],
+                                    "score": 0.992,
+                                    "content": "universebynaturallawsratherthanbydirectintervention.ItisManthatisn'tbeingpractical.Youpersistin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                782,
+                                745,
+                                805
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        782,
+                                        745,
+                                        805
+                                    ],
+                                    "score": 0.999,
+                                    "content": "defyingmylawsandthenhavethetemeritytoaskmetohelpyououtofthechaosthatresults.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        }
+                    ],
+                    "index": 19,
+                    "bbox_fs": [
+                        12,
+                        22,
+                        880,
+                        805
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

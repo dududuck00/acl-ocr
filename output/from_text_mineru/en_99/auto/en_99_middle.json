@@ -1,0 +1,1412 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        877,
+                        646
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                23,
+                                810,
+                                43
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        23,
+                                        810,
+                                        43
+                                    ],
+                                    "score": 0.973,
+                                    "content": "5Let'ssay,forexample,thereisapersonwho,nomatterhowyoulookathim,hasnogoodordesirable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                41,
+                                875,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        41,
+                                        875,
+                                        65
+                                    ],
+                                    "score": 0.988,
+                                    "content": "qualities.Butthensomeonecomesalongandfalsinlovewiththisbadpersonandthinks,\"MaybeIcanhelpthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                62,
+                                875,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        62,
+                                        875,
+                                        86
+                                    ],
+                                    "score": 0.981,
+                                    "content": "personifIamwithhimorher.\"Inthebeginning,thissecondpersonisnotasdificult,intolerableorcrazyasthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                81,
+                                871,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        81,
+                                        871,
+                                        106
+                                    ],
+                                    "score": 0.997,
+                                    "content": "personheorshehasfalleninlovewith.Buteventuallythesecondpersonwillbecomeunhappyandunstableas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                100,
+                                851,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        100,
+                                        851,
+                                        128
+                                    ],
+                                    "score": 0.985,
+                                    "content": "aresultofbeingwiththedificultperson.Thefirstpersoncould beanalcoholicandnottryingorcommiting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                120,
+                                868,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        120,
+                                        868,
+                                        146
+                                    ],
+                                    "score": 0.996,
+                                    "content": "himorherselftosobriety.Thenawomanoramancomesalongwhothinkssheorhecanhelpthispersonstop",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                862,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        862,
+                                        165
+                                    ],
+                                    "score": 0.996,
+                                    "content": "drinkingiftheyaretogether.Buttoooftenthisdoesnotwork.InBuddhism,asIveexplainedbefore,thereare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                873,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        873,
+                                        185
+                                    ],
+                                    "score": 0.991,
+                                    "content": "TenWorlds.9EachindividualhastheseTenWorlds.Butthissystemalsoexistswithininterelationshipsbetween",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                870,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        870,
+                                        205
+                                    ],
+                                    "score": 0.984,
+                                    "content": "ahusbandandwife,parentandchild,brotherandsister,lovers,etc.Thatis,theTenWorldsalsoexistwithinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                202,
+                                849,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        202,
+                                        849,
+                                        225
+                                    ],
+                                    "score": 0.998,
+                                    "content": "relationshipswithotherhumanbeings.SocietyalsohastheTenWorlds.Therefore,ifeachindividualthatyou",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                222,
+                                876,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        222,
+                                        876,
+                                        245
+                                    ],
+                                    "score": 0.987,
+                                    "content": "dealwithhastheTenWorlds,thenthepointistoacceptnotjusttheaspectsoftheperson'scharacterwhichyou",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                241,
+                                862,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        241,
+                                        862,
+                                        265
+                                    ],
+                                    "score": 0.983,
+                                    "content": "like,buttoacceptalloftheTenWorldswithineachindividual.B2:IfapersonwhoisaBuddhistchants,realizes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                260,
+                                820,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        260,
+                                        820,
+                                        288
+                                    ],
+                                    "score": 0.991,
+                                    "content": "andacceptsthatmistakesweremade,andhasapologizedforthisoveralifetime,butthesituationkeeps",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                789,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        789,
+                                        305
+                                    ],
+                                    "score": 0.974,
+                                    "content": "repeating,andthebehavior continues,thepersonmaythink that chantingdoesn’tworkbecause the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                861,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        861,
+                                        327
+                                    ],
+                                    "score": 0.99,
+                                    "content": "understandingisthatifyoujustchantitwillgoawayorthesituationthattriggersthatbehaviorortraitwillno",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                318,
+                                866,
+                                349
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        318,
+                                        866,
+                                        349
+                                    ],
+                                    "score": 0.839,
+                                    "content": "longeroccur.Whatdoyouthnkaboutthat?RH:Ifapersonsaysagainandagan,I'msorryI'msorryImory",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                340,
+                                844,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        340,
+                                        844,
+                                        367
+                                    ],
+                                    "score": 0.996,
+                                    "content": "bymakingthatkindofapologythepersoniscommitinganotherbadaction.Sangeisthestartingpoint-to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                876,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        876,
+                                        387
+                                    ],
+                                    "score": 0.983,
+                                    "content": "apologizeandconfess.Thenextstepisintrospectionandself-reflection.Ifyoudon't reflectonyourself andyour",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                875,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        875,
+                                        406
+                                    ],
+                                    "score": 0.993,
+                                    "content": "ownbehaviorthenthebadbehaviorcontinues,anditwillsemasthoughchantingdoesnotworkbecauseyour",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                854,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        854,
+                                        426
+                                    ],
+                                    "score": 0.984,
+                                    "content": "apologiesarejustemptywords.Butas Buddhists,youshould haveaclearmind aboutwhatyouaredoing.Be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                420,
+                                827,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        420,
+                                        827,
+                                        446
+                                    ],
+                                    "score": 0.985,
+                                    "content": "morecriticalandreflectiveofyourself,questioningyourownbehaviorbeforeyoucriticizethebehaviorof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                441,
+                                858,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        441,
+                                        858,
+                                        465
+                                    ],
+                                    "score": 0.985,
+                                    "content": "others.Youshould,infact,bealitleeasieronothers,realizingthattheytoohavetheTenWorlds.Thisiswhat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                840,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        840,
+                                        484
+                                    ],
+                                    "score": 0.991,
+                                    "content": "NichirenDaishonin10taught.TheSokaGakkai,11ontheotherhand,condonesthebehaviorofitsmembers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                479,
+                                860,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        479,
+                                        860,
+                                        507
+                                    ],
+                                    "score": 0.98,
+                                    "content": "whileshowingill-willtowardspeoplewhoarenotSokaGakkaimembers,orpeoplewhoopposeSGI.Yet,they",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                501,
+                                878,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        501,
+                                        878,
+                                        524
+                                    ],
+                                    "score": 0.993,
+                                    "content": "claimtheyfolowtheteachingsofNichirenDaishonin,whichisentirelyfalse.ThedemeanoroftheSokaGakkaiis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                866,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        866,
+                                        547
+                                    ],
+                                    "score": 0.992,
+                                    "content": "theoppositeoftheteachingsofNichirenDaishonin.9TenWorlds-tenconditionsoflifethatarephysicallyand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                828,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        828,
+                                        566
+                                    ],
+                                    "score": 0.9,
+                                    "content": "spirituallymanifestedinasinglelife.Theyare:HellHunger，AnimalityAnger，HumanityHeaven(Rapture),",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                879,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        879,
+                                        585
+                                    ],
+                                    "score": 0.876,
+                                    "content": "Learning,Realization,Bodisatva,Buddha.10NchirenDishonin-(122-1282)thetrueBuddhawhoreaizedthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                852,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        852,
+                                        605
+                                    ],
+                                    "score": 0.986,
+                                    "content": "LawofNamumyohorengekyöimbeddedintheLotusSutraandestablishedtheLawasthemeansbywhichall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                602,
+                                878,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        602,
+                                        878,
+                                        626
+                                    ],
+                                    "score": 0.989,
+                                    "content": "livingsbeingscanbecomeenlightened.11SokaGakkai-SGI-SokaGakkaiInternational-alayorganizationthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                621,
+                                864,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        621,
+                                        864,
+                                        647
+                                    ],
+                                    "score": 0.995,
+                                    "content": "wronglyincorporatessomeofthedoctrineofNichirenShoshu Buddhismintoitsownphilosophyandpractice.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 15
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                656
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        877,
+                        646
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                23,
+                                810,
+                                43
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        23,
+                                        810,
+                                        43
+                                    ],
+                                    "score": 0.973,
+                                    "content": "5Let'ssay,forexample,thereisapersonwho,nomatterhowyoulookathim,hasnogoodordesirable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                41,
+                                875,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        41,
+                                        875,
+                                        65
+                                    ],
+                                    "score": 0.988,
+                                    "content": "qualities.Butthensomeonecomesalongandfalsinlovewiththisbadpersonandthinks,\"MaybeIcanhelpthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                62,
+                                875,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        62,
+                                        875,
+                                        86
+                                    ],
+                                    "score": 0.981,
+                                    "content": "personifIamwithhimorher.\"Inthebeginning,thissecondpersonisnotasdificult,intolerableorcrazyasthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                81,
+                                871,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        81,
+                                        871,
+                                        106
+                                    ],
+                                    "score": 0.997,
+                                    "content": "personheorshehasfalleninlovewith.Buteventuallythesecondpersonwillbecomeunhappyandunstableas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                100,
+                                851,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        100,
+                                        851,
+                                        128
+                                    ],
+                                    "score": 0.985,
+                                    "content": "aresultofbeingwiththedificultperson.Thefirstpersoncould beanalcoholicandnottryingorcommiting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                120,
+                                868,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        120,
+                                        868,
+                                        146
+                                    ],
+                                    "score": 0.996,
+                                    "content": "himorherselftosobriety.Thenawomanoramancomesalongwhothinkssheorhecanhelpthispersonstop",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                862,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        862,
+                                        165
+                                    ],
+                                    "score": 0.996,
+                                    "content": "drinkingiftheyaretogether.Buttoooftenthisdoesnotwork.InBuddhism,asIveexplainedbefore,thereare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                873,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        873,
+                                        185
+                                    ],
+                                    "score": 0.991,
+                                    "content": "TenWorlds.9EachindividualhastheseTenWorlds.Butthissystemalsoexistswithininterelationshipsbetween",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                870,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        870,
+                                        205
+                                    ],
+                                    "score": 0.984,
+                                    "content": "ahusbandandwife,parentandchild,brotherandsister,lovers,etc.Thatis,theTenWorldsalsoexistwithinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                202,
+                                849,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        202,
+                                        849,
+                                        225
+                                    ],
+                                    "score": 0.998,
+                                    "content": "relationshipswithotherhumanbeings.SocietyalsohastheTenWorlds.Therefore,ifeachindividualthatyou",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                222,
+                                876,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        222,
+                                        876,
+                                        245
+                                    ],
+                                    "score": 0.987,
+                                    "content": "dealwithhastheTenWorlds,thenthepointistoacceptnotjusttheaspectsoftheperson'scharacterwhichyou",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                241,
+                                862,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        241,
+                                        862,
+                                        265
+                                    ],
+                                    "score": 0.983,
+                                    "content": "like,buttoacceptalloftheTenWorldswithineachindividual.B2:IfapersonwhoisaBuddhistchants,realizes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                260,
+                                820,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        260,
+                                        820,
+                                        288
+                                    ],
+                                    "score": 0.991,
+                                    "content": "andacceptsthatmistakesweremade,andhasapologizedforthisoveralifetime,butthesituationkeeps",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                789,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        789,
+                                        305
+                                    ],
+                                    "score": 0.974,
+                                    "content": "repeating,andthebehavior continues,thepersonmaythink that chantingdoesn’tworkbecause the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                861,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        861,
+                                        327
+                                    ],
+                                    "score": 0.99,
+                                    "content": "understandingisthatifyoujustchantitwillgoawayorthesituationthattriggersthatbehaviorortraitwillno",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                318,
+                                866,
+                                349
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        318,
+                                        866,
+                                        349
+                                    ],
+                                    "score": 0.839,
+                                    "content": "longeroccur.Whatdoyouthnkaboutthat?RH:Ifapersonsaysagainandagan,I'msorryI'msorryImory",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                340,
+                                844,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        340,
+                                        844,
+                                        367
+                                    ],
+                                    "score": 0.996,
+                                    "content": "bymakingthatkindofapologythepersoniscommitinganotherbadaction.Sangeisthestartingpoint-to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                876,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        876,
+                                        387
+                                    ],
+                                    "score": 0.983,
+                                    "content": "apologizeandconfess.Thenextstepisintrospectionandself-reflection.Ifyoudon't reflectonyourself andyour",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                875,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        875,
+                                        406
+                                    ],
+                                    "score": 0.993,
+                                    "content": "ownbehaviorthenthebadbehaviorcontinues,anditwillsemasthoughchantingdoesnotworkbecauseyour",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                854,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        854,
+                                        426
+                                    ],
+                                    "score": 0.984,
+                                    "content": "apologiesarejustemptywords.Butas Buddhists,youshould haveaclearmind aboutwhatyouaredoing.Be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                420,
+                                827,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        420,
+                                        827,
+                                        446
+                                    ],
+                                    "score": 0.985,
+                                    "content": "morecriticalandreflectiveofyourself,questioningyourownbehaviorbeforeyoucriticizethebehaviorof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                441,
+                                858,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        441,
+                                        858,
+                                        465
+                                    ],
+                                    "score": 0.985,
+                                    "content": "others.Youshould,infact,bealitleeasieronothers,realizingthattheytoohavetheTenWorlds.Thisiswhat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                840,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        840,
+                                        484
+                                    ],
+                                    "score": 0.991,
+                                    "content": "NichirenDaishonin10taught.TheSokaGakkai,11ontheotherhand,condonesthebehaviorofitsmembers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                479,
+                                860,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        479,
+                                        860,
+                                        507
+                                    ],
+                                    "score": 0.98,
+                                    "content": "whileshowingill-willtowardspeoplewhoarenotSokaGakkaimembers,orpeoplewhoopposeSGI.Yet,they",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                501,
+                                878,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        501,
+                                        878,
+                                        524
+                                    ],
+                                    "score": 0.993,
+                                    "content": "claimtheyfolowtheteachingsofNichirenDaishonin,whichisentirelyfalse.ThedemeanoroftheSokaGakkaiis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                866,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        866,
+                                        547
+                                    ],
+                                    "score": 0.992,
+                                    "content": "theoppositeoftheteachingsofNichirenDaishonin.9TenWorlds-tenconditionsoflifethatarephysicallyand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                828,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        828,
+                                        566
+                                    ],
+                                    "score": 0.9,
+                                    "content": "spirituallymanifestedinasinglelife.Theyare:HellHunger，AnimalityAnger，HumanityHeaven(Rapture),",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                879,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        879,
+                                        585
+                                    ],
+                                    "score": 0.876,
+                                    "content": "Learning,Realization,Bodisatva,Buddha.10NchirenDishonin-(122-1282)thetrueBuddhawhoreaizedthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                852,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        852,
+                                        605
+                                    ],
+                                    "score": 0.986,
+                                    "content": "LawofNamumyohorengekyöimbeddedintheLotusSutraandestablishedtheLawasthemeansbywhichall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                602,
+                                878,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        602,
+                                        878,
+                                        626
+                                    ],
+                                    "score": 0.989,
+                                    "content": "livingsbeingscanbecomeenlightened.11SokaGakkai-SGI-SokaGakkaiInternational-alayorganizationthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                621,
+                                864,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        621,
+                                        864,
+                                        647
+                                    ],
+                                    "score": 0.995,
+                                    "content": "wronglyincorporatessomeofthedoctrineofNichirenShoshu Buddhismintoitsownphilosophyandpractice.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 15,
+                    "bbox_fs": [
+                        13,
+                        23,
+                        879,
+                        647
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

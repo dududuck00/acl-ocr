@@ -1,0 +1,1632 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        0,
+                        876,
+                        747
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                21,
+                                878,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        21,
+                                        878,
+                                        45
+                                    ],
+                                    "score": 0.99,
+                                    "content": "SCOPEOFSERVICESTask1:BasisofDesignReportTask1.1StormwaterModelAnalysisCMAshallrefinetheICPR",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                43,
+                                826,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        43,
+                                        826,
+                                        64
+                                    ],
+                                    "score": 0.996,
+                                    "content": "stormwatermodeldevelopedduringthe2013WestchesterStormwaterStudytoalowforamoredetailed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                875,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        875,
+                                        85
+                                    ],
+                                    "score": 0.992,
+                                    "content": "analysisoftheprojectarea.CMAwillreviewandincorporatealloftherecentimprovementsconductedbySWCD",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                865,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        865,
+                                        105
+                                    ],
+                                    "score": 0.994,
+                                    "content": "sincethecompletionofthepreviousstormwaterstudy.CMAwillsubdividetheexistingdrainagebasins further",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                862,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        862,
+                                        125
+                                    ],
+                                    "score": 0.998,
+                                    "content": "toallowforthemoredetailedanalysisoftheprojectareaonablockbyblockbasis.CMAwillupdatethemodel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                873,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        873,
+                                        144
+                                    ],
+                                    "score": 0.995,
+                                    "content": "parametersoftherelevantnodesandlinkswithinthestormwatermodeltoreflecttherevisedbasin boundaries",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                802,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        802,
+                                        165
+                                    ],
+                                    "score": 0.996,
+                                    "content": "withintheprojectarea.CMAwillruntheupdatedstormwatermodeltoobtainpeakfloodstages,flood",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                808,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        808,
+                                        185
+                                    ],
+                                    "score": 0.983,
+                                    "content": "durations,andpeak dischargesfortheexisting conditionswithintheproject area.CMAwillalsousethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                855,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        855,
+                                        205
+                                    ],
+                                    "score": 0.984,
+                                    "content": "stormwatermodeltoassesstheeffectivenessofthevariouspotentialsystemimprovementalternatives.CMA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                818,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        818,
+                                        225
+                                    ],
+                                    "score": 0.981,
+                                    "content": "willrunupdated stormwatermodelforvariousscenarioswhichwillincludemultiplecombinationsof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                221,
+                                874,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        221,
+                                        874,
+                                        245
+                                    ],
+                                    "score": 0.995,
+                                    "content": "potentialsystemimprovementalternatives.CMAwillusethestormwatermodeltocomparetheeffectivenessof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                241,
+                                823,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        241,
+                                        823,
+                                        265
+                                    ],
+                                    "score": 0.989,
+                                    "content": "eachscenarioatreducing thepeak floodstageandflooddurationthroughouttheprojectareawhilealso",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                260,
+                                860,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        260,
+                                        860,
+                                        286
+                                    ],
+                                    "score": 0.997,
+                                    "content": "estimatingtheimpactonpeakdischargeintotheWestchesterCanal.Themodelresultsforthevarioussystem",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                282,
+                                853,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        282,
+                                        853,
+                                        306
+                                    ],
+                                    "score": 0.976,
+                                    "content": "improvementsscenarioswillbeincludedintheBasisofDesign Report.CMAshallcompletethistaskwithin60",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                302,
+                                869,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        302,
+                                        869,
+                                        322
+                                    ],
+                                    "score": 0.989,
+                                    "content": "calendardaysfromtheissuanceoftheNoticetoProceed(NTP)fromtheCity.Task1.2PermitVerificationBased",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                839,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        839,
+                                        346
+                                    ],
+                                    "score": 0.993,
+                                    "content": "ontheregulatoryrequirements,theimplementationoftheproposed stormwaterimprovementswithinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                826,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        826,
+                                        366
+                                    ],
+                                    "score": 0.997,
+                                    "content": "projectareawillikelybecontingentonprovidingsufficientstoragevolumeforwaterqualitytreatmentof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                837,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        837,
+                                        385
+                                    ],
+                                    "score": 0.989,
+                                    "content": "stormwaterrunoffpriortodischargeintotheWestchesterCanalandonlimitingthepeakdischargevia the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                842,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        842,
+                                        405
+                                    ],
+                                    "score": 0.992,
+                                    "content": "existingstormwateroutfals.CMAshallreview,evaluate,andcomparethepermitrestrictionsonthevarious",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                865,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        865,
+                                        426
+                                    ],
+                                    "score": 0.996,
+                                    "content": "potentialsystemimprovementalternatives.CMAwilltabulatethemaximumwaterqualityvolumethatcouldbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                420,
+                                866,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        420,
+                                        866,
+                                        447
+                                    ],
+                                    "score": 0.998,
+                                    "content": "providedundereachpotentialsystemimprovementalternativesforcomparisonwiththeminimumvolumeper",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                442,
+                                833,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        442,
+                                        833,
+                                        465
+                                    ],
+                                    "score": 0.993,
+                                    "content": "regulatoryrequirements.CMAwillcomparethepeak dischargeundereachpotentialsystemimprovement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                848,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        848,
+                                        486
+                                    ],
+                                    "score": 0.982,
+                                    "content": "alternativeswiththemaximumalowabledischargeperregulatoryrequirements.CMAshallmeetwithSWCD",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                482,
+                                833,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        482,
+                                        833,
+                                        505
+                                    ],
+                                    "score": 0.992,
+                                    "content": "andwithSouthFloridaWaterManagement District(SFWMD)topresentthepotentialsystemimprovement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                500,
+                                843,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        500,
+                                        843,
+                                        527
+                                    ],
+                                    "score": 0.995,
+                                    "content": "alternativesforthisprojectandtoconfirmthepermitrequirementsforeachpotentialsystemimprovement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                522,
+                                862,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        522,
+                                        862,
+                                        546
+                                    ],
+                                    "score": 0.997,
+                                    "content": "alternatives.ThepermitrequirementsforeachsystemimprovementsscenariowillbesummarizedintheBasis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                829,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        829,
+                                        565
+                                    ],
+                                    "score": 0.996,
+                                    "content": "ofDesignReportforcomparisonpurposes.CMAshallcompletethistaskwithin60calendardaysfromthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                563,
+                                856,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        563,
+                                        856,
+                                        583
+                                    ],
+                                    "score": 0.988,
+                                    "content": "isuanceoftheNoticetoProceed(NTP)fromtheCity.Task1.3DocumentResearch/ReviewCMAwillreviewall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                865,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        865,
+                                        605
+                                    ],
+                                    "score": 0.984,
+                                    "content": "availabletopographicsurveys,atlases,designdrawings,and/orrecorddrawingsfortheexistingutilitieswithin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                601,
+                                868,
+                                624
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        601,
+                                        868,
+                                        624
+                                    ],
+                                    "score": 0.992,
+                                    "content": "theprojectareatodeterminetheconfigurationofexistingconditions.CMAwillalsoreviewallplatmapsforthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                621,
+                                820,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        621,
+                                        820,
+                                        644
+                                    ],
+                                    "score": 0.998,
+                                    "content": "projectareastoconfirmthepresenceofanyutilityeasementsatthelocationsoftheexistingstormwater",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                640,
+                                872,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        640,
+                                        872,
+                                        667
+                                    ],
+                                    "score": 0.993,
+                                    "content": "outfallsthroughouttheneighborhood.Iftheavailableplatmapsfortheneighborhooddonotdisplayanyutility",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                661,
+                                823,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        661,
+                                        823,
+                                        685
+                                    ],
+                                    "score": 0.994,
+                                    "content": "easementattheseoutfallocations,additionaltitlesearcheswillbeconductedtoconfirmthepresenceof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                683,
+                                858,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        683,
+                                        858,
+                                        704
+                                    ],
+                                    "score": 0.99,
+                                    "content": "existingutilityeasementsattheselocations.Thisscopeislimitedtotitlesearchesforupto10parcellocations.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                702,
+                                871,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        702,
+                                        871,
+                                        725
+                                    ],
+                                    "score": 0.998,
+                                    "content": "CMAwillperformnecessrysitevisitstotheprojectareaforverificationpurposes.CMAshallcompletethistask",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                720,
+                                564,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        720,
+                                        564,
+                                        747
+                                    ],
+                                    "score": 0.969,
+                                    "content": "within60calendardaysfromtheNoticeto Proceed(NTP)fromthe City.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                756
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        0,
+                        876,
+                        747
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                21,
+                                878,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        21,
+                                        878,
+                                        45
+                                    ],
+                                    "score": 0.99,
+                                    "content": "SCOPEOFSERVICESTask1:BasisofDesignReportTask1.1StormwaterModelAnalysisCMAshallrefinetheICPR",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                43,
+                                826,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        43,
+                                        826,
+                                        64
+                                    ],
+                                    "score": 0.996,
+                                    "content": "stormwatermodeldevelopedduringthe2013WestchesterStormwaterStudytoalowforamoredetailed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                875,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        875,
+                                        85
+                                    ],
+                                    "score": 0.992,
+                                    "content": "analysisoftheprojectarea.CMAwillreviewandincorporatealloftherecentimprovementsconductedbySWCD",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                865,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        865,
+                                        105
+                                    ],
+                                    "score": 0.994,
+                                    "content": "sincethecompletionofthepreviousstormwaterstudy.CMAwillsubdividetheexistingdrainagebasins further",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                862,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        862,
+                                        125
+                                    ],
+                                    "score": 0.998,
+                                    "content": "toallowforthemoredetailedanalysisoftheprojectareaonablockbyblockbasis.CMAwillupdatethemodel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                873,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        873,
+                                        144
+                                    ],
+                                    "score": 0.995,
+                                    "content": "parametersoftherelevantnodesandlinkswithinthestormwatermodeltoreflecttherevisedbasin boundaries",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                802,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        802,
+                                        165
+                                    ],
+                                    "score": 0.996,
+                                    "content": "withintheprojectarea.CMAwillruntheupdatedstormwatermodeltoobtainpeakfloodstages,flood",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                808,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        808,
+                                        185
+                                    ],
+                                    "score": 0.983,
+                                    "content": "durations,andpeak dischargesfortheexisting conditionswithintheproject area.CMAwillalsousethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                855,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        855,
+                                        205
+                                    ],
+                                    "score": 0.984,
+                                    "content": "stormwatermodeltoassesstheeffectivenessofthevariouspotentialsystemimprovementalternatives.CMA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                818,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        818,
+                                        225
+                                    ],
+                                    "score": 0.981,
+                                    "content": "willrunupdated stormwatermodelforvariousscenarioswhichwillincludemultiplecombinationsof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                221,
+                                874,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        221,
+                                        874,
+                                        245
+                                    ],
+                                    "score": 0.995,
+                                    "content": "potentialsystemimprovementalternatives.CMAwillusethestormwatermodeltocomparetheeffectivenessof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                241,
+                                823,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        241,
+                                        823,
+                                        265
+                                    ],
+                                    "score": 0.989,
+                                    "content": "eachscenarioatreducing thepeak floodstageandflooddurationthroughouttheprojectareawhilealso",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                260,
+                                860,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        260,
+                                        860,
+                                        286
+                                    ],
+                                    "score": 0.997,
+                                    "content": "estimatingtheimpactonpeakdischargeintotheWestchesterCanal.Themodelresultsforthevarioussystem",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                282,
+                                853,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        282,
+                                        853,
+                                        306
+                                    ],
+                                    "score": 0.976,
+                                    "content": "improvementsscenarioswillbeincludedintheBasisofDesign Report.CMAshallcompletethistaskwithin60",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                302,
+                                869,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        302,
+                                        869,
+                                        322
+                                    ],
+                                    "score": 0.989,
+                                    "content": "calendardaysfromtheissuanceoftheNoticetoProceed(NTP)fromtheCity.Task1.2PermitVerificationBased",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                839,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        839,
+                                        346
+                                    ],
+                                    "score": 0.993,
+                                    "content": "ontheregulatoryrequirements,theimplementationoftheproposed stormwaterimprovementswithinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                826,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        826,
+                                        366
+                                    ],
+                                    "score": 0.997,
+                                    "content": "projectareawillikelybecontingentonprovidingsufficientstoragevolumeforwaterqualitytreatmentof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                837,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        837,
+                                        385
+                                    ],
+                                    "score": 0.989,
+                                    "content": "stormwaterrunoffpriortodischargeintotheWestchesterCanalandonlimitingthepeakdischargevia the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                842,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        842,
+                                        405
+                                    ],
+                                    "score": 0.992,
+                                    "content": "existingstormwateroutfals.CMAshallreview,evaluate,andcomparethepermitrestrictionsonthevarious",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                865,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        865,
+                                        426
+                                    ],
+                                    "score": 0.996,
+                                    "content": "potentialsystemimprovementalternatives.CMAwilltabulatethemaximumwaterqualityvolumethatcouldbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                420,
+                                866,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        420,
+                                        866,
+                                        447
+                                    ],
+                                    "score": 0.998,
+                                    "content": "providedundereachpotentialsystemimprovementalternativesforcomparisonwiththeminimumvolumeper",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                442,
+                                833,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        442,
+                                        833,
+                                        465
+                                    ],
+                                    "score": 0.993,
+                                    "content": "regulatoryrequirements.CMAwillcomparethepeak dischargeundereachpotentialsystemimprovement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                848,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        848,
+                                        486
+                                    ],
+                                    "score": 0.982,
+                                    "content": "alternativeswiththemaximumalowabledischargeperregulatoryrequirements.CMAshallmeetwithSWCD",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                482,
+                                833,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        482,
+                                        833,
+                                        505
+                                    ],
+                                    "score": 0.992,
+                                    "content": "andwithSouthFloridaWaterManagement District(SFWMD)topresentthepotentialsystemimprovement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                500,
+                                843,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        500,
+                                        843,
+                                        527
+                                    ],
+                                    "score": 0.995,
+                                    "content": "alternativesforthisprojectandtoconfirmthepermitrequirementsforeachpotentialsystemimprovement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                522,
+                                862,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        522,
+                                        862,
+                                        546
+                                    ],
+                                    "score": 0.997,
+                                    "content": "alternatives.ThepermitrequirementsforeachsystemimprovementsscenariowillbesummarizedintheBasis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                829,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        829,
+                                        565
+                                    ],
+                                    "score": 0.996,
+                                    "content": "ofDesignReportforcomparisonpurposes.CMAshallcompletethistaskwithin60calendardaysfromthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                563,
+                                856,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        563,
+                                        856,
+                                        583
+                                    ],
+                                    "score": 0.988,
+                                    "content": "isuanceoftheNoticetoProceed(NTP)fromtheCity.Task1.3DocumentResearch/ReviewCMAwillreviewall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                865,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        865,
+                                        605
+                                    ],
+                                    "score": 0.984,
+                                    "content": "availabletopographicsurveys,atlases,designdrawings,and/orrecorddrawingsfortheexistingutilitieswithin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                601,
+                                868,
+                                624
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        601,
+                                        868,
+                                        624
+                                    ],
+                                    "score": 0.992,
+                                    "content": "theprojectareatodeterminetheconfigurationofexistingconditions.CMAwillalsoreviewallplatmapsforthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                621,
+                                820,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        621,
+                                        820,
+                                        644
+                                    ],
+                                    "score": 0.998,
+                                    "content": "projectareastoconfirmthepresenceofanyutilityeasementsatthelocationsoftheexistingstormwater",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                640,
+                                872,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        640,
+                                        872,
+                                        667
+                                    ],
+                                    "score": 0.993,
+                                    "content": "outfallsthroughouttheneighborhood.Iftheavailableplatmapsfortheneighborhooddonotdisplayanyutility",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                661,
+                                823,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        661,
+                                        823,
+                                        685
+                                    ],
+                                    "score": 0.994,
+                                    "content": "easementattheseoutfallocations,additionaltitlesearcheswillbeconductedtoconfirmthepresenceof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                683,
+                                858,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        683,
+                                        858,
+                                        704
+                                    ],
+                                    "score": 0.99,
+                                    "content": "existingutilityeasementsattheselocations.Thisscopeislimitedtotitlesearchesforupto10parcellocations.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                702,
+                                871,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        702,
+                                        871,
+                                        725
+                                    ],
+                                    "score": 0.998,
+                                    "content": "CMAwillperformnecessrysitevisitstotheprojectareaforverificationpurposes.CMAshallcompletethistask",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                720,
+                                564,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        720,
+                                        564,
+                                        747
+                                    ],
+                                    "score": 0.969,
+                                    "content": "within60calendardaysfromtheNoticeto Proceed(NTP)fromthe City.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5,
+                    "bbox_fs": [
+                        14,
+                        21,
+                        878,
+                        747
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

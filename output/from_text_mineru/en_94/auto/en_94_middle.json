@@ -1,0 +1,1500 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        16,
+                        878,
+                        683
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                18,
+                                864,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        18,
+                                        864,
+                                        47
+                                    ],
+                                    "score": 0.968,
+                                    "content": "INTRODUCTIONn1992RichardWilkinsonpublishedawidelycitedpaper intheBritishMedicalJournal,arguing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                39,
+                                866,
+                                67
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        39,
+                                        866,
+                                        67
+                                    ],
+                                    "score": 0.984,
+                                    "content": "thatinrichcountrieshigherlevelsofincomeinequalityloweredaveragelifeexpectancy.1Sincethen,agrowing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                59,
+                                839,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        59,
+                                        839,
+                                        86
+                                    ],
+                                    "score": 0.997,
+                                    "content": "bodyofresearchhasexploredwhetherthelevelofincomeinequalityinasocietypredictsaveragehealthor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                851,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        851,
+                                        105
+                                    ],
+                                    "score": 0.987,
+                                    "content": "longevity.Asecond,separatebodyofresearchhasexploredincomedisparitiesintheseoutcomes.Thesetwo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                100,
+                                818,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        100,
+                                        818,
+                                        126
+                                    ],
+                                    "score": 0.989,
+                                    "content": "traditionsshouldbeseenascomplementary,becauseunderstandingtheeffectsof incomeinequalityon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                122,
+                                861,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        122,
+                                        861,
+                                        145
+                                    ],
+                                    "score": 0.99,
+                                    "content": "individualhealthrequiresustoconsideritsrelationshiptobothaveragehealthanddisparitiesinhealth.Three",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                140,
+                                869,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        140,
+                                        869,
+                                        167
+                                    ],
+                                    "score": 0.995,
+                                    "content": "promisingdirectionsforresearcharesuggested,allofwhichfocusonunderstandingthemechanismsthatlink",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                861,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        861,
+                                        185
+                                    ],
+                                    "score": 0.996,
+                                    "content": "incomeinequalitytoaveragehealthandhealthdisparities.First,weneedmoredetailedinvestigationofwhois",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                180,
+                                849,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        180,
+                                        849,
+                                        207
+                                    ],
+                                    "score": 0.977,
+                                    "content": "affectedbyincomeinequalityandhowtheyareaffected,sinceeffectsareunlikelytobeuniform.Second,we",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                872,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        872,
+                                        225
+                                    ],
+                                    "score": 0.99,
+                                    "content": "needresearchthattakesaccountofeects thatunfoldovertime,sincetimelagscanbelongaswellasshort.If",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                219,
+                                850,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        219,
+                                        850,
+                                        246
+                                    ],
+                                    "score": 0.987,
+                                    "content": "risingincomeinequalityresultsinpoliticalcapturebytherich,forinstance,thatwillaectpolicyafterlagsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                241,
+                                864,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        241,
+                                        864,
+                                        267
+                                    ],
+                                    "score": 0.955,
+                                    "content": "uncertainbutvaryingduration,andpolicychangeswillnturnaffectindividuals'healthandmortalityafterlags",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                261,
+                                869,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        261,
+                                        869,
+                                        285
+                                    ],
+                                    "score": 0.982,
+                                    "content": "ofuncertainduration.Third,researchmustdistinguishbetweendirectandindirecteffectsofincomeinequality.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                865,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        865,
+                                        304
+                                    ],
+                                    "score": 0.983,
+                                    "content": "Inthisreport,wedescribedirectandindirecteffectsandnoteprominenttheoriesthatpredictsucheffects.We",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                299,
+                                867,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        299,
+                                        867,
+                                        327
+                                    ],
+                                    "score": 0.986,
+                                    "content": "thensummarizeempiricalevidenceontherelationshipsamongincomeinequalityaveragelifeexpectancyand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                836,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        836,
+                                        345
+                                    ],
+                                    "score": 0.968,
+                                    "content": "SocioeConomicdisparitiesinIifeexpectancy.DIRECTANDINDIRECTEFFECTSOFINCOMEINEQUALITYDirect",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                824,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        824,
+                                        365
+                                    ],
+                                    "score": 0.992,
+                                    "content": "effectsofincomeinequalityoperatethroughchangesinindividuals'ownincome.Indirecteffectsoperate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                863,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        863,
+                                        385
+                                    ],
+                                    "score": 0.985,
+                                    "content": "throughchangesinotherpeople'sincome,whichchangeasociety'spoliticalandeconomicinstitutions,aswell",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                379,
+                                856,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        379,
+                                        856,
+                                        406
+                                    ],
+                                    "score": 0.966,
+                                    "content": "asitscustomsandideals.Suchbroadsocialchangescan,inturn,alteranindividuals'incentivesandbehavior",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                875,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        875,
+                                        425
+                                    ],
+                                    "score": 0.995,
+                                    "content": "eveniftheirownincomeshavenotchanged.Indirecteffectscanchangeeithertheaveragelevelofhealthorthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                840,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        840,
+                                        446
+                                    ],
+                                    "score": 0.992,
+                                    "content": "slopeoftherelationshipbetweenindividualincomeandhealth.Directeffects.Bydefinition,ariseinincome",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                876,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        876,
+                                        467
+                                    ],
+                                    "score": 0.992,
+                                    "content": "inequalityincreasespurchasingpowerdisparities.Ifmoreincomeimproves health,largerincomegapsbetween",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                459,
+                                855,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        459,
+                                        855,
+                                        486
+                                    ],
+                                    "score": 0.99,
+                                    "content": "therichandpoorshouldresultinlarger healthgapsbetweenrichandpoor.Inaddition,thehealthoftherich",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                479,
+                                855,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        479,
+                                        855,
+                                        507
+                                    ],
+                                    "score": 0.99,
+                                    "content": "benefitslessthanthehealthofthepoorfromeachextradollarof income.Inotherwords,thelineconnecting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                850,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        850,
+                                        527
+                                    ],
+                                    "score": 0.989,
+                                    "content": "incomeandhealthisconcavedownward.Thus,ifallelseisequal,transferringmoneyfrompoorergroupsto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                872,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        872,
+                                        547
+                                    ],
+                                    "score": 0.995,
+                                    "content": "richergroupswillreduceaveragehealth.Atleasttwotheoriesrelatedirecteffectsofrising incomeinequalityto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                851,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        851,
+                                        565
+                                    ],
+                                    "score": 0.993,
+                                    "content": "averagehealthandhealthdisparities.First,risingincomeinequalityatboththeindividualandthecommunity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                563,
+                                875,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        563,
+                                        875,
+                                        586
+                                    ],
+                                    "score": 0.94,
+                                    "content": "levelislikelytoincreaseinequalityinealth-producingmaterialresources,suchasnutrition,housingconditions,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                582,
+                                865,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        582,
+                                        865,
+                                        605
+                                    ],
+                                    "score": 0.984,
+                                    "content": "andeducation.2Second,becausematerialdeprivationimposesacognitive“bandwidthtax”thatinterfereswith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                839,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        839,
+                                        627
+                                    ],
+                                    "score": 0.987,
+                                    "content": "decision-makingandlong-termplanning,3risingincomeinequalitymaytakealargercognitivetollonthose",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                832,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        832,
+                                        645
+                                    ],
+                                    "score": 0.995,
+                                    "content": "nearerthebottomoftheincomedistribution.AsFigure1shows,directeffectsdependonwhetherincome",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                639,
+                                806,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        639,
+                                        806,
+                                        669
+                                    ],
+                                    "score": 0.975,
+                                    "content": "inequalitygrowsatthetopor theI32TruesdaleandJencks:IncomeInequalityand Health Publishedby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                661,
+                                164,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        661,
+                                        164,
+                                        685
+                                    ],
+                                    "score": 0.979,
+                                    "content": "UKnowledge,2016",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                696
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        16,
+                        878,
+                        683
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                18,
+                                864,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        18,
+                                        864,
+                                        47
+                                    ],
+                                    "score": 0.968,
+                                    "content": "INTRODUCTIONn1992RichardWilkinsonpublishedawidelycitedpaper intheBritishMedicalJournal,arguing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                39,
+                                866,
+                                67
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        39,
+                                        866,
+                                        67
+                                    ],
+                                    "score": 0.984,
+                                    "content": "thatinrichcountrieshigherlevelsofincomeinequalityloweredaveragelifeexpectancy.1Sincethen,agrowing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                59,
+                                839,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        59,
+                                        839,
+                                        86
+                                    ],
+                                    "score": 0.997,
+                                    "content": "bodyofresearchhasexploredwhetherthelevelofincomeinequalityinasocietypredictsaveragehealthor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                851,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        851,
+                                        105
+                                    ],
+                                    "score": 0.987,
+                                    "content": "longevity.Asecond,separatebodyofresearchhasexploredincomedisparitiesintheseoutcomes.Thesetwo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                100,
+                                818,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        100,
+                                        818,
+                                        126
+                                    ],
+                                    "score": 0.989,
+                                    "content": "traditionsshouldbeseenascomplementary,becauseunderstandingtheeffectsof incomeinequalityon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                122,
+                                861,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        122,
+                                        861,
+                                        145
+                                    ],
+                                    "score": 0.99,
+                                    "content": "individualhealthrequiresustoconsideritsrelationshiptobothaveragehealthanddisparitiesinhealth.Three",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                140,
+                                869,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        140,
+                                        869,
+                                        167
+                                    ],
+                                    "score": 0.995,
+                                    "content": "promisingdirectionsforresearcharesuggested,allofwhichfocusonunderstandingthemechanismsthatlink",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                861,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        861,
+                                        185
+                                    ],
+                                    "score": 0.996,
+                                    "content": "incomeinequalitytoaveragehealthandhealthdisparities.First,weneedmoredetailedinvestigationofwhois",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                180,
+                                849,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        180,
+                                        849,
+                                        207
+                                    ],
+                                    "score": 0.977,
+                                    "content": "affectedbyincomeinequalityandhowtheyareaffected,sinceeffectsareunlikelytobeuniform.Second,we",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                872,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        872,
+                                        225
+                                    ],
+                                    "score": 0.99,
+                                    "content": "needresearchthattakesaccountofeects thatunfoldovertime,sincetimelagscanbelongaswellasshort.If",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                219,
+                                850,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        219,
+                                        850,
+                                        246
+                                    ],
+                                    "score": 0.987,
+                                    "content": "risingincomeinequalityresultsinpoliticalcapturebytherich,forinstance,thatwillaectpolicyafterlagsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                241,
+                                864,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        241,
+                                        864,
+                                        267
+                                    ],
+                                    "score": 0.955,
+                                    "content": "uncertainbutvaryingduration,andpolicychangeswillnturnaffectindividuals'healthandmortalityafterlags",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                261,
+                                869,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        261,
+                                        869,
+                                        285
+                                    ],
+                                    "score": 0.982,
+                                    "content": "ofuncertainduration.Third,researchmustdistinguishbetweendirectandindirecteffectsofincomeinequality.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                865,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        865,
+                                        304
+                                    ],
+                                    "score": 0.983,
+                                    "content": "Inthisreport,wedescribedirectandindirecteffectsandnoteprominenttheoriesthatpredictsucheffects.We",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                299,
+                                867,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        299,
+                                        867,
+                                        327
+                                    ],
+                                    "score": 0.986,
+                                    "content": "thensummarizeempiricalevidenceontherelationshipsamongincomeinequalityaveragelifeexpectancyand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                836,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        836,
+                                        345
+                                    ],
+                                    "score": 0.968,
+                                    "content": "SocioeConomicdisparitiesinIifeexpectancy.DIRECTANDINDIRECTEFFECTSOFINCOMEINEQUALITYDirect",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                824,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        824,
+                                        365
+                                    ],
+                                    "score": 0.992,
+                                    "content": "effectsofincomeinequalityoperatethroughchangesinindividuals'ownincome.Indirecteffectsoperate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                863,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        863,
+                                        385
+                                    ],
+                                    "score": 0.985,
+                                    "content": "throughchangesinotherpeople'sincome,whichchangeasociety'spoliticalandeconomicinstitutions,aswell",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                379,
+                                856,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        379,
+                                        856,
+                                        406
+                                    ],
+                                    "score": 0.966,
+                                    "content": "asitscustomsandideals.Suchbroadsocialchangescan,inturn,alteranindividuals'incentivesandbehavior",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                875,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        875,
+                                        425
+                                    ],
+                                    "score": 0.995,
+                                    "content": "eveniftheirownincomeshavenotchanged.Indirecteffectscanchangeeithertheaveragelevelofhealthorthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                840,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        840,
+                                        446
+                                    ],
+                                    "score": 0.992,
+                                    "content": "slopeoftherelationshipbetweenindividualincomeandhealth.Directeffects.Bydefinition,ariseinincome",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                876,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        876,
+                                        467
+                                    ],
+                                    "score": 0.992,
+                                    "content": "inequalityincreasespurchasingpowerdisparities.Ifmoreincomeimproves health,largerincomegapsbetween",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                459,
+                                855,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        459,
+                                        855,
+                                        486
+                                    ],
+                                    "score": 0.99,
+                                    "content": "therichandpoorshouldresultinlarger healthgapsbetweenrichandpoor.Inaddition,thehealthoftherich",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                479,
+                                855,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        479,
+                                        855,
+                                        507
+                                    ],
+                                    "score": 0.99,
+                                    "content": "benefitslessthanthehealthofthepoorfromeachextradollarof income.Inotherwords,thelineconnecting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                850,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        850,
+                                        527
+                                    ],
+                                    "score": 0.989,
+                                    "content": "incomeandhealthisconcavedownward.Thus,ifallelseisequal,transferringmoneyfrompoorergroupsto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                872,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        872,
+                                        547
+                                    ],
+                                    "score": 0.995,
+                                    "content": "richergroupswillreduceaveragehealth.Atleasttwotheoriesrelatedirecteffectsofrising incomeinequalityto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                851,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        851,
+                                        565
+                                    ],
+                                    "score": 0.993,
+                                    "content": "averagehealthandhealthdisparities.First,risingincomeinequalityatboththeindividualandthecommunity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                563,
+                                875,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        563,
+                                        875,
+                                        586
+                                    ],
+                                    "score": 0.94,
+                                    "content": "levelislikelytoincreaseinequalityinealth-producingmaterialresources,suchasnutrition,housingconditions,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                582,
+                                865,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        582,
+                                        865,
+                                        605
+                                    ],
+                                    "score": 0.984,
+                                    "content": "andeducation.2Second,becausematerialdeprivationimposesacognitive“bandwidthtax”thatinterfereswith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                839,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        839,
+                                        627
+                                    ],
+                                    "score": 0.987,
+                                    "content": "decision-makingandlong-termplanning,3risingincomeinequalitymaytakealargercognitivetollonthose",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                832,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        832,
+                                        645
+                                    ],
+                                    "score": 0.995,
+                                    "content": "nearerthebottomoftheincomedistribution.AsFigure1shows,directeffectsdependonwhetherincome",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                639,
+                                806,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        639,
+                                        806,
+                                        669
+                                    ],
+                                    "score": 0.975,
+                                    "content": "inequalitygrowsatthetopor theI32TruesdaleandJencks:IncomeInequalityand Health Publishedby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                661,
+                                164,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        661,
+                                        164,
+                                        685
+                                    ],
+                                    "score": 0.979,
+                                    "content": "UKnowledge,2016",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 16,
+                    "bbox_fs": [
+                        13,
+                        18,
+                        876,
+                        685
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

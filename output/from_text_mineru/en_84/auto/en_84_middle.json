@@ -1,0 +1,1632 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        5,
+                        879,
+                        703
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                21,
+                                801,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        21,
+                                        801,
+                                        45
+                                    ],
+                                    "score": 0.984,
+                                    "content": "4benefitonlythosepropertieswithinthat specificCommunityPropertyDistrict.Anexampleof District",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                39,
+                                871,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        39,
+                                        871,
+                                        66
+                                    ],
+                                    "score": 0.943,
+                                    "content": "Infrastructurewouldbetheinternalstrets,water,seweranddrainageforstreetswithinspecificCommunity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                61,
+                                873,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        61,
+                                        873,
+                                        84
+                                    ],
+                                    "score": 0.986,
+                                    "content": "PropertyDistrict.Thisclassofstreetwouldtypicallyhaveresidentiallotsoneachsideanddirectaccessontothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                868,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        868,
+                                        105
+                                    ],
+                                    "score": 0.973,
+                                    "content": "streetwouldbeallowed.BothCommunityInfrastructure(CI)andDistrict Infrastructure(DI),(colectively\"Public",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                100,
+                                793,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        100,
+                                        793,
+                                        124
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Infrastructure\")aretobeconstructedforthebenefitofthepublic.Onlythoseimprovementsthatare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                118,
+                                842,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        118,
+                                        842,
+                                        146
+                                    ],
+                                    "score": 0.982,
+                                    "content": "determinedtobeeligiblefortax-exemptfinancing havebeen,orwillbe,fundedbytheCommunityProperty",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                874,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        874,
+                                        164
+                                    ],
+                                    "score": 0.982,
+                                    "content": "Districts.Pursuanttoawriteninterlocalagreement(the\"InterlocalAgreement\"),theDistrictshaveprovidedfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                856,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        856,
+                                        185
+                                    ],
+                                    "score": 0.989,
+                                    "content": "theimplementationoftheCommunityInfrastructurebydelegatingtooneoftheDistricts(the“Issuer\"),inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                182,
+                                858,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        182,
+                                        858,
+                                        205
+                                    ],
+                                    "score": 0.981,
+                                    "content": "mannersetforthintheInterlocalAgreement,theauthoritytofinance,acquireandconstructsuchCommunity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                201,
+                                833,
+                                224
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        201,
+                                        833,
+                                        224
+                                    ],
+                                    "score": 0.99,
+                                    "content": "InfrastructurewithintheboundariesoftheDistricts.TheInterlocalAgreementalsoprovidesforoneof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                857,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        857,
+                                        245
+                                    ],
+                                    "score": 0.985,
+                                    "content": "Districts(the“AdministrationDistrict\")tooperateandmaintain,onbehalfoftheIssuerforthebenefitofallof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                239,
+                                858,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        239,
+                                        858,
+                                        266
+                                    ],
+                                    "score": 0.997,
+                                    "content": "theDistricts,anyportionsoftheCommunityInfrastructurenotconveyedtoanothergovernmentalentity.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                842,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        842,
+                                        286
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Issuermayalsofinance,acquireandconstructtheinfrastructurenecessarytoservethepropertywithinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                857,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        857,
+                                        306
+                                    ],
+                                    "score": 0.987,
+                                    "content": "boundariesofaspecificDistrict(the“DistrictInfrastructure\"),subjecttothereservedrightsofeachDistrictto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                302,
+                                813,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        302,
+                                        813,
+                                        325
+                                    ],
+                                    "score": 0.997,
+                                    "content": "financetheacquisitionandconstructionofitsownDistrictInfrastructure.DistrictInfrastructuremaybe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                320,
+                                801,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        320,
+                                        801,
+                                        344
+                                    ],
+                                    "score": 0.979,
+                                    "content": "operatedandmaintainedbythe Administration Districtor theapplicable Districtinwhich such District",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                338,
+                                857,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        338,
+                                        857,
+                                        367
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Infrastructureislocatedtotheextentnotconveyedtoanothergovernmentalentity.TheCommunityProperty",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                362,
+                                859,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        362,
+                                        859,
+                                        385
+                                    ],
+                                    "score": 0.993,
+                                    "content": "willbeassessedcostsassociatedwiththePublicInfrastructurebasedonitsrelativebenefitasidentifiedinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                378,
+                                790,
+                                401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        378,
+                                        790,
+                                        401
+                                    ],
+                                    "score": 0.992,
+                                    "content": "masterassessmentmethodologyreportpreparedbyFishkind&Associates,Inc.andapprovedbythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                397,
+                                875,
+                                423
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        397,
+                                        875,
+                                        423
+                                    ],
+                                    "score": 0.982,
+                                    "content": "CommunityPropertyDistricts,assupplementedfromtimetotime,includingassupplementedbyareportdated",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                418,
+                                875,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        418,
+                                        875,
+                                        441
+                                    ],
+                                    "score": 0.908,
+                                    "content": "August1,2019preparedbySpecialDistrictervices,Inc.thecurrentassessmentmethodologyconsultanttothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                436,
+                                868,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        436,
+                                        868,
+                                        461
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Districts.SouthernGroveCommunityDevelopmentDistrictNo.5(\"CDDNo.5”)iscurrentlyservingastheIssuer",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                457,
+                                791,
+                                482
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        457,
+                                        468,
+                                        482
+                                    ],
+                                    "score": 0.986,
+                                    "content": "underthe Interlocal Agreement.Ithaspreviouslyissued its",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        468,
+                                        458,
+                                        552,
+                                        478
+                                    ],
+                                    "score": 0.55,
+                                    "content": "\\$ 2,655,000",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        552,
+                                        457,
+                                        791,
+                                        482
+                                    ],
+                                    "score": 0.967,
+                                    "content": "inoriginalprincipal of its Bond",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                478,
+                                816,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        478,
+                                        816,
+                                        501
+                                    ],
+                                    "score": 0.986,
+                                    "content": "AnticipationNote,Series2014(CommunityInfrastructure)(the“2014CINote\")tofinanceaportionofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                497,
+                                849,
+                                520
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        497,
+                                        849,
+                                        520
+                                    ],
+                                    "score": 0.989,
+                                    "content": "CommunityInfrastructure,asdescribedintheSecondSupplement(the“2014CIProject\").CDDNo.5hasalso",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                518,
+                                773,
+                                541
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        518,
+                                        92,
+                                        541
+                                    ],
+                                    "score": 0.969,
+                                    "content": "issued its",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        93,
+                                        518,
+                                        175,
+                                        538
+                                    ],
+                                    "score": 0.8,
+                                    "content": "\\$ 5,800,000",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        176,
+                                        518,
+                                        773,
+                                        541
+                                    ],
+                                    "score": 0.992,
+                                    "content": "inoriginalprincipalamountofitsBondAnticipationNote,Series2014(District",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                538,
+                                868,
+                                561
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        538,
+                                        868,
+                                        561
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Infrastructure)(the\"2014DINote\")tofinanceaportionofitsown DistrictInfrastructure(the\"2014DIProject\").",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                557,
+                                874,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        557,
+                                        874,
+                                        583
+                                    ],
+                                    "score": 0.995,
+                                    "content": "SubsequenttotheapprovaloftheOriginalEngineer'sReport,theDistrictsapprovedcertainsupplementstothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                576,
+                                875,
+                                601
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        576,
+                                        875,
+                                        601
+                                    ],
+                                    "score": 0.984,
+                                    "content": "OriginalEngineer'sReport,which,byrecentactionofthegoverningboardsoftheDistricts,havebeenrescinded",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                597,
+                                802,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        597,
+                                        802,
+                                        622
+                                    ],
+                                    "score": 0.99,
+                                    "content": "asofthedatehereof.SubsequenttotheSecondSupplement,achangeoccurredintheownershipofa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                616,
+                                858,
+                                643
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        616,
+                                        858,
+                                        643
+                                    ],
+                                    "score": 0.978,
+                                    "content": "significantportionoftheundevelopedlandintheDistricts(the\"Significant UndevelopedLand\").CDDNo.5,as",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                638,
+                                806,
+                                661
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        638,
+                                        806,
+                                        661
+                                    ],
+                                    "score": 0.98,
+                                    "content": "thecurrent“Issuer,”theownersoftheSignificantUndevelopedLandandtheConsultingEngineerhave",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                658,
+                                865,
+                                681
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        658,
+                                        865,
+                                        681
+                                    ],
+                                    "score": 0.981,
+                                    "content": "formulatedarevised CommunityInfrastructureprogram,basedonthecurrentexpecteddevelopmentplanfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                678,
+                                545,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        678,
+                                        545,
+                                        701
+                                    ],
+                                    "score": 0.982,
+                                    "content": "theCommunityProperty(the“CurrentDevelopmentPlan”),which18",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                712
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        5,
+                        879,
+                        703
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                21,
+                                801,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        21,
+                                        801,
+                                        45
+                                    ],
+                                    "score": 0.984,
+                                    "content": "4benefitonlythosepropertieswithinthat specificCommunityPropertyDistrict.Anexampleof District",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                39,
+                                871,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        39,
+                                        871,
+                                        66
+                                    ],
+                                    "score": 0.943,
+                                    "content": "Infrastructurewouldbetheinternalstrets,water,seweranddrainageforstreetswithinspecificCommunity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                61,
+                                873,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        61,
+                                        873,
+                                        84
+                                    ],
+                                    "score": 0.986,
+                                    "content": "PropertyDistrict.Thisclassofstreetwouldtypicallyhaveresidentiallotsoneachsideanddirectaccessontothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                868,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        868,
+                                        105
+                                    ],
+                                    "score": 0.973,
+                                    "content": "streetwouldbeallowed.BothCommunityInfrastructure(CI)andDistrict Infrastructure(DI),(colectively\"Public",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                100,
+                                793,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        100,
+                                        793,
+                                        124
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Infrastructure\")aretobeconstructedforthebenefitofthepublic.Onlythoseimprovementsthatare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                118,
+                                842,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        118,
+                                        842,
+                                        146
+                                    ],
+                                    "score": 0.982,
+                                    "content": "determinedtobeeligiblefortax-exemptfinancing havebeen,orwillbe,fundedbytheCommunityProperty",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                874,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        874,
+                                        164
+                                    ],
+                                    "score": 0.982,
+                                    "content": "Districts.Pursuanttoawriteninterlocalagreement(the\"InterlocalAgreement\"),theDistrictshaveprovidedfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                856,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        856,
+                                        185
+                                    ],
+                                    "score": 0.989,
+                                    "content": "theimplementationoftheCommunityInfrastructurebydelegatingtooneoftheDistricts(the“Issuer\"),inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                182,
+                                858,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        182,
+                                        858,
+                                        205
+                                    ],
+                                    "score": 0.981,
+                                    "content": "mannersetforthintheInterlocalAgreement,theauthoritytofinance,acquireandconstructsuchCommunity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                201,
+                                833,
+                                224
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        201,
+                                        833,
+                                        224
+                                    ],
+                                    "score": 0.99,
+                                    "content": "InfrastructurewithintheboundariesoftheDistricts.TheInterlocalAgreementalsoprovidesforoneof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                857,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        857,
+                                        245
+                                    ],
+                                    "score": 0.985,
+                                    "content": "Districts(the“AdministrationDistrict\")tooperateandmaintain,onbehalfoftheIssuerforthebenefitofallof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                239,
+                                858,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        239,
+                                        858,
+                                        266
+                                    ],
+                                    "score": 0.997,
+                                    "content": "theDistricts,anyportionsoftheCommunityInfrastructurenotconveyedtoanothergovernmentalentity.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                842,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        842,
+                                        286
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Issuermayalsofinance,acquireandconstructtheinfrastructurenecessarytoservethepropertywithinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                857,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        857,
+                                        306
+                                    ],
+                                    "score": 0.987,
+                                    "content": "boundariesofaspecificDistrict(the“DistrictInfrastructure\"),subjecttothereservedrightsofeachDistrictto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                302,
+                                813,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        302,
+                                        813,
+                                        325
+                                    ],
+                                    "score": 0.997,
+                                    "content": "financetheacquisitionandconstructionofitsownDistrictInfrastructure.DistrictInfrastructuremaybe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                320,
+                                801,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        320,
+                                        801,
+                                        344
+                                    ],
+                                    "score": 0.979,
+                                    "content": "operatedandmaintainedbythe Administration Districtor theapplicable Districtinwhich such District",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                338,
+                                857,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        338,
+                                        857,
+                                        367
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Infrastructureislocatedtotheextentnotconveyedtoanothergovernmentalentity.TheCommunityProperty",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                362,
+                                859,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        362,
+                                        859,
+                                        385
+                                    ],
+                                    "score": 0.993,
+                                    "content": "willbeassessedcostsassociatedwiththePublicInfrastructurebasedonitsrelativebenefitasidentifiedinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                378,
+                                790,
+                                401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        378,
+                                        790,
+                                        401
+                                    ],
+                                    "score": 0.992,
+                                    "content": "masterassessmentmethodologyreportpreparedbyFishkind&Associates,Inc.andapprovedbythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                397,
+                                875,
+                                423
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        397,
+                                        875,
+                                        423
+                                    ],
+                                    "score": 0.982,
+                                    "content": "CommunityPropertyDistricts,assupplementedfromtimetotime,includingassupplementedbyareportdated",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                418,
+                                875,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        418,
+                                        875,
+                                        441
+                                    ],
+                                    "score": 0.908,
+                                    "content": "August1,2019preparedbySpecialDistrictervices,Inc.thecurrentassessmentmethodologyconsultanttothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                436,
+                                868,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        436,
+                                        868,
+                                        461
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Districts.SouthernGroveCommunityDevelopmentDistrictNo.5(\"CDDNo.5”)iscurrentlyservingastheIssuer",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                457,
+                                791,
+                                482
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        457,
+                                        468,
+                                        482
+                                    ],
+                                    "score": 0.986,
+                                    "content": "underthe Interlocal Agreement.Ithaspreviouslyissued its",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        468,
+                                        458,
+                                        552,
+                                        478
+                                    ],
+                                    "score": 0.55,
+                                    "content": "\\$ 2,655,000",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        552,
+                                        457,
+                                        791,
+                                        482
+                                    ],
+                                    "score": 0.967,
+                                    "content": "inoriginalprincipal of its Bond",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                478,
+                                816,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        478,
+                                        816,
+                                        501
+                                    ],
+                                    "score": 0.986,
+                                    "content": "AnticipationNote,Series2014(CommunityInfrastructure)(the“2014CINote\")tofinanceaportionofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                497,
+                                849,
+                                520
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        497,
+                                        849,
+                                        520
+                                    ],
+                                    "score": 0.989,
+                                    "content": "CommunityInfrastructure,asdescribedintheSecondSupplement(the“2014CIProject\").CDDNo.5hasalso",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                518,
+                                773,
+                                541
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        518,
+                                        92,
+                                        541
+                                    ],
+                                    "score": 0.969,
+                                    "content": "issued its",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        93,
+                                        518,
+                                        175,
+                                        538
+                                    ],
+                                    "score": 0.8,
+                                    "content": "\\$ 5,800,000",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        176,
+                                        518,
+                                        773,
+                                        541
+                                    ],
+                                    "score": 0.992,
+                                    "content": "inoriginalprincipalamountofitsBondAnticipationNote,Series2014(District",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                538,
+                                868,
+                                561
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        538,
+                                        868,
+                                        561
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Infrastructure)(the\"2014DINote\")tofinanceaportionofitsown DistrictInfrastructure(the\"2014DIProject\").",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                557,
+                                874,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        557,
+                                        874,
+                                        583
+                                    ],
+                                    "score": 0.995,
+                                    "content": "SubsequenttotheapprovaloftheOriginalEngineer'sReport,theDistrictsapprovedcertainsupplementstothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                576,
+                                875,
+                                601
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        576,
+                                        875,
+                                        601
+                                    ],
+                                    "score": 0.984,
+                                    "content": "OriginalEngineer'sReport,which,byrecentactionofthegoverningboardsoftheDistricts,havebeenrescinded",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                597,
+                                802,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        597,
+                                        802,
+                                        622
+                                    ],
+                                    "score": 0.99,
+                                    "content": "asofthedatehereof.SubsequenttotheSecondSupplement,achangeoccurredintheownershipofa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                616,
+                                858,
+                                643
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        616,
+                                        858,
+                                        643
+                                    ],
+                                    "score": 0.978,
+                                    "content": "significantportionoftheundevelopedlandintheDistricts(the\"Significant UndevelopedLand\").CDDNo.5,as",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                638,
+                                806,
+                                661
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        638,
+                                        806,
+                                        661
+                                    ],
+                                    "score": 0.98,
+                                    "content": "thecurrent“Issuer,”theownersoftheSignificantUndevelopedLandandtheConsultingEngineerhave",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                658,
+                                865,
+                                681
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        658,
+                                        865,
+                                        681
+                                    ],
+                                    "score": 0.981,
+                                    "content": "formulatedarevised CommunityInfrastructureprogram,basedonthecurrentexpecteddevelopmentplanfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                678,
+                                545,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        678,
+                                        545,
+                                        701
+                                    ],
+                                    "score": 0.982,
+                                    "content": "theCommunityProperty(the“CurrentDevelopmentPlan”),which18",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5,
+                    "bbox_fs": [
+                        13,
+                        21,
+                        875,
+                        701
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

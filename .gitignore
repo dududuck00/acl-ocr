@@ -4,18 +4,14 @@ __pycache__/
 *$py.class
 *.so
 .Python
+.venv/
+.vllm/
 env/
 venv/
-.venv/
 ENV/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
-# Results and data files
-results/
-*.json
-!requirements.json
 
 # IDE
 .vscode/
@@ -27,6 +23,3 @@ Thumbs.db
 
 # Model
 .model/
-*.ckpt
-
-*.whl

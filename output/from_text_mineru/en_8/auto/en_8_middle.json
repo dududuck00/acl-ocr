@@ -1,0 +1,1852 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        96,
+                        881,
+                        905
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                100,
+                                874,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        100,
+                                        115,
+                                        124
+                                    ],
+                                    "score": 0.994,
+                                    "content": "reachedage",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        115,
+                                        102,
+                                        150,
+                                        122
+                                    ],
+                                    "score": 0.41,
+                                    "content": "7 0 \\% ,",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        151,
+                                        100,
+                                        874,
+                                        124
+                                    ],
+                                    "score": 0.994,
+                                    "content": "ifapplicableunderparagraph3(b)(i)istheaccountvalueatthecloseofbusinessonDecember",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                118,
+                                876,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        118,
+                                        876,
+                                        147
+                                    ],
+                                    "score": 0.988,
+                                    "content": "31oftheprecedingyeardividedbythelifeexpectancy(inthesinglelifetableinRegulationsSection1.401(a)(9)-9",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                868,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        868,
+                                        167
+                                    ],
+                                    "score": 0.982,
+                                    "content": "oftheindividualspecifiedinsuchparagraphs3(a)and3(b)(i);c.therequiredminimumdistributionfortheyear",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                826,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        826,
+                                        184
+                                    ],
+                                    "score": 0.98,
+                                    "content": "thedepositorreachesage70vcanbemadeaslateasApril1of thefollowing year.Therequiredminimum",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                856,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        856,
+                                        205
+                                    ],
+                                    "score": 0.993,
+                                    "content": "distributionforanyotheryearmustbemadebytheendofsuchyear.6.Theowneroftwoormoretraditional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                871,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        871,
+                                        225
+                                    ],
+                                    "score": 0.989,
+                                    "content": "IRAsmaysatisfytheminimumdistributionrequirementsdescribedabovebytakingfromonetraditionalIRAthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                825,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        825,
+                                        245
+                                    ],
+                                    "score": 0.989,
+                                    "content": "amountrequiredtosatisfytherequirementforanotherinaccordancewiththeregulationsunderSection",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                240,
+                                852,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        240,
+                                        852,
+                                        266
+                                    ],
+                                    "score": 0.996,
+                                    "content": "408(a)(6).ArticleV1.ThedepositoragreestoprovidetheCustodianwithallinformationnecessarytoprepare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                261,
+                                862,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        261,
+                                        862,
+                                        285
+                                    ],
+                                    "score": 0.986,
+                                    "content": "anyreportsrequiredbySection408(i)andRegulationsSections1.408-5and1.408-6.2.TheCustodianagreesto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                280,
+                                797,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        280,
+                                        797,
+                                        307
+                                    ],
+                                    "score": 0.987,
+                                    "content": "submitto theInternal RevenueService(IRS)anddepositorthereportsprescribedbytheIRS.ArticleVI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                301,
+                                865,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        301,
+                                        865,
+                                        325
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Notwithstandinganyotherarticleswhichmaybeaddedorincorporated,theprovisionsofArticlesIthroughIII",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                320,
+                                808,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        320,
+                                        808,
+                                        347
+                                    ],
+                                    "score": 0.992,
+                                    "content": "andthissentencewillbecontrolling.AnyadditionalarticlesinconsistentwithSection 408(a)andrelated",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                874,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        874,
+                                        364
+                                    ],
+                                    "score": 0.983,
+                                    "content": "regulationswillbeinvalid.ArticleVIIThisagreementwillbeamendedasnecessarytocomplywiththeprovisions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                358,
+                                834,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        358,
+                                        834,
+                                        387
+                                    ],
+                                    "score": 0.993,
+                                    "content": "oftheCodeandtherelatedregulations.Otheramendmentsmaybemadewiththeconsentof thepersons",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                382,
+                                866,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        382,
+                                        866,
+                                        404
+                                    ],
+                                    "score": 0.989,
+                                    "content": "whosesignaturesappearbelow.ArticleVII1.InvestmentofAccountAssetsa.Allcontributionstothecustodial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                403,
+                                855,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        403,
+                                        855,
+                                        424
+                                    ],
+                                    "score": 0.983,
+                                    "content": "accountshallbeinvestedinthesharesoftheLKBalancedFundor,ifavailable,anyotherseriesofLKBalanced",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                420,
+                                866,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        420,
+                                        866,
+                                        445
+                                    ],
+                                    "score": 0.997,
+                                    "content": "FundorotherregulatedinvestmentcompaniesforwhichLawsonKroekerInvestmentManagement,Incserves",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                439,
+                                875,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        439,
+                                        875,
+                                        468
+                                    ],
+                                    "score": 0.987,
+                                    "content": "asInvestmentAdvisorordesignatesasbeing eligibleforinvestment.SharesofstockofanInvestment Company",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                462,
+                                840,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        462,
+                                        840,
+                                        486
+                                    ],
+                                    "score": 0.985,
+                                    "content": "shallbereferredtoas“InvestmentCompanyShares\".Totheextentthattwoormorefundsareavailablefor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                481,
+                                830,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        481,
+                                        830,
+                                        504
+                                    ],
+                                    "score": 0.986,
+                                    "content": "investment,contributionsshallbe investedinaccordancewiththedepositor'sinvestment election.b.Each",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                502,
+                                849,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        502,
+                                        849,
+                                        525
+                                    ],
+                                    "score": 0.991,
+                                    "content": "contributiontothecustodialaccountshallidentifythedepositor'saccountnumberandbeaccompaniedbya",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                522,
+                                836,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        522,
+                                        836,
+                                        546
+                                    ],
+                                    "score": 0.995,
+                                    "content": "signedstatementdirectingtheinvestmentofthatcontribution.TheCustodianmayreturntothedepositor,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                542,
+                                793,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        542,
+                                        793,
+                                        565
+                                    ],
+                                    "score": 0.997,
+                                    "content": "withoutliabilityforinterestthereon,anycontributionwhichisnotaccompaniedbyadequateaccount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                562,
+                                843,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        562,
+                                        843,
+                                        586
+                                    ],
+                                    "score": 0.993,
+                                    "content": "identificationoranappropriatesignedstatementdirectinginvestmentofthatcontribution.c.Contributions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                582,
+                                876,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        582,
+                                        876,
+                                        603
+                                    ],
+                                    "score": 0.994,
+                                    "content": "shallbeinvestedinwholeandfractionalInvestmentCompanySharesatthepriceandinthemannersuchshares",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                602,
+                                870,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        602,
+                                        870,
+                                        626
+                                    ],
+                                    "score": 0.995,
+                                    "content": "areofferedtothepublic.AlldistributionsreceivedonInvestmentCompanyShares,includingbothdividendand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                620,
+                                851,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        620,
+                                        851,
+                                        646
+                                    ],
+                                    "score": 0.995,
+                                    "content": "capitalgaindistributions,heldinthecustodialaccountshallbereinvestedinlikeshares.Ifanydistributionof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                642,
+                                799,
+                                663
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        642,
+                                        799,
+                                        663
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Investment CompanySharesmaybereceivedinadditionallikeshares orincashorotherproperty,the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                663,
+                                874,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        663,
+                                        874,
+                                        684
+                                    ],
+                                    "score": 0.989,
+                                    "content": "CustodianshallelecttoreceivesuchdistributioninadditionalikeInvestmentCompanyShares.d.AlInvestment",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                682,
+                                874,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        682,
+                                        874,
+                                        705
+                                    ],
+                                    "score": 0.998,
+                                    "content": "CompanySharesacquiredbytheCustodianshallberegisteredinthenameoftheCustodianoritsnominee.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                702,
+                                857,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        702,
+                                        857,
+                                        725
+                                    ],
+                                    "score": 0.988,
+                                    "content": "depositorshallbethebeneficialownerofalInvestmentCompanySharesheldinthecustodialaccount.e.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                720,
+                                873,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        720,
+                                        873,
+                                        747
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Custodianagreestoforwardtothedepositoreachprospectus,report,notice,proxyandrelatedproxysoliciting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                740,
+                                867,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        740,
+                                        867,
+                                        767
+                                    ],
+                                    "score": 0.984,
+                                    "content": "materialsapplicableto InvestmentCompanySharesheldinthecustodialaccountreceivedbytheCustodian.By",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                761,
+                                846,
+                                786
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        761,
+                                        846,
+                                        786
+                                    ],
+                                    "score": 0.983,
+                                    "content": "establishing orhavingestablishedthecustodialaccount,thedepositorafirmativelydirectstheCustodianto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                781,
+                                819,
+                                805
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        781,
+                                        819,
+                                        805
+                                    ],
+                                    "score": 0.998,
+                                    "content": "voteanyInvestmentCompanySharesheldontheapplicablerecorddatethathavenotbeenvotedbythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                802,
+                                852,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        802,
+                                        852,
+                                        825
+                                    ],
+                                    "score": 0.992,
+                                    "content": "depositorpriortoashareholdermeetingforwhichpriornoticehasbeen given.TheCustodianshallvotewith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                821,
+                                817,
+                                845
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        821,
+                                        817,
+                                        845
+                                    ],
+                                    "score": 0.985,
+                                    "content": "themanagementoftheInvestment CompanyoneachproposalthattheInvestment Company'sBoardof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                842,
+                                825,
+                                865
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        842,
+                                        825,
+                                        865
+                                    ],
+                                    "score": 0.974,
+                                    "content": "Directorshasapprovedunanimously.Ifthe Investment Company's Boardof Directorshas notapproved a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                861,
+                                858,
+                                885
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        861,
+                                        858,
+                                        885
+                                    ],
+                                    "score": 0.981,
+                                    "content": "proposalunanimously,theCustodianshallvoteinproportiontoallsharesvotedbytheInvestment Company's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                880,
+                                128,
+                                904
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        880,
+                                        128,
+                                        904
+                                    ],
+                                    "score": 0.998,
+                                    "content": "shareholders.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                912
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        96,
+                        881,
+                        905
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                100,
+                                874,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        100,
+                                        115,
+                                        124
+                                    ],
+                                    "score": 0.994,
+                                    "content": "reachedage",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        115,
+                                        102,
+                                        150,
+                                        122
+                                    ],
+                                    "score": 0.41,
+                                    "content": "7 0 \\% ,",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        151,
+                                        100,
+                                        874,
+                                        124
+                                    ],
+                                    "score": 0.994,
+                                    "content": "ifapplicableunderparagraph3(b)(i)istheaccountvalueatthecloseofbusinessonDecember",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                118,
+                                876,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        118,
+                                        876,
+                                        147
+                                    ],
+                                    "score": 0.988,
+                                    "content": "31oftheprecedingyeardividedbythelifeexpectancy(inthesinglelifetableinRegulationsSection1.401(a)(9)-9",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                868,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        868,
+                                        167
+                                    ],
+                                    "score": 0.982,
+                                    "content": "oftheindividualspecifiedinsuchparagraphs3(a)and3(b)(i);c.therequiredminimumdistributionfortheyear",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                826,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        826,
+                                        184
+                                    ],
+                                    "score": 0.98,
+                                    "content": "thedepositorreachesage70vcanbemadeaslateasApril1of thefollowing year.Therequiredminimum",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                856,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        856,
+                                        205
+                                    ],
+                                    "score": 0.993,
+                                    "content": "distributionforanyotheryearmustbemadebytheendofsuchyear.6.Theowneroftwoormoretraditional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                871,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        871,
+                                        225
+                                    ],
+                                    "score": 0.989,
+                                    "content": "IRAsmaysatisfytheminimumdistributionrequirementsdescribedabovebytakingfromonetraditionalIRAthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                825,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        825,
+                                        245
+                                    ],
+                                    "score": 0.989,
+                                    "content": "amountrequiredtosatisfytherequirementforanotherinaccordancewiththeregulationsunderSection",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                240,
+                                852,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        240,
+                                        852,
+                                        266
+                                    ],
+                                    "score": 0.996,
+                                    "content": "408(a)(6).ArticleV1.ThedepositoragreestoprovidetheCustodianwithallinformationnecessarytoprepare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                261,
+                                862,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        261,
+                                        862,
+                                        285
+                                    ],
+                                    "score": 0.986,
+                                    "content": "anyreportsrequiredbySection408(i)andRegulationsSections1.408-5and1.408-6.2.TheCustodianagreesto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                280,
+                                797,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        280,
+                                        797,
+                                        307
+                                    ],
+                                    "score": 0.987,
+                                    "content": "submitto theInternal RevenueService(IRS)anddepositorthereportsprescribedbytheIRS.ArticleVI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                301,
+                                865,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        301,
+                                        865,
+                                        325
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Notwithstandinganyotherarticleswhichmaybeaddedorincorporated,theprovisionsofArticlesIthroughIII",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                320,
+                                808,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        320,
+                                        808,
+                                        347
+                                    ],
+                                    "score": 0.992,
+                                    "content": "andthissentencewillbecontrolling.AnyadditionalarticlesinconsistentwithSection 408(a)andrelated",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                874,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        874,
+                                        364
+                                    ],
+                                    "score": 0.983,
+                                    "content": "regulationswillbeinvalid.ArticleVIIThisagreementwillbeamendedasnecessarytocomplywiththeprovisions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                358,
+                                834,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        358,
+                                        834,
+                                        387
+                                    ],
+                                    "score": 0.993,
+                                    "content": "oftheCodeandtherelatedregulations.Otheramendmentsmaybemadewiththeconsentof thepersons",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                382,
+                                866,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        382,
+                                        866,
+                                        404
+                                    ],
+                                    "score": 0.989,
+                                    "content": "whosesignaturesappearbelow.ArticleVII1.InvestmentofAccountAssetsa.Allcontributionstothecustodial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                403,
+                                855,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        403,
+                                        855,
+                                        424
+                                    ],
+                                    "score": 0.983,
+                                    "content": "accountshallbeinvestedinthesharesoftheLKBalancedFundor,ifavailable,anyotherseriesofLKBalanced",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                420,
+                                866,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        420,
+                                        866,
+                                        445
+                                    ],
+                                    "score": 0.997,
+                                    "content": "FundorotherregulatedinvestmentcompaniesforwhichLawsonKroekerInvestmentManagement,Incserves",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                439,
+                                875,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        439,
+                                        875,
+                                        468
+                                    ],
+                                    "score": 0.987,
+                                    "content": "asInvestmentAdvisorordesignatesasbeing eligibleforinvestment.SharesofstockofanInvestment Company",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                462,
+                                840,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        462,
+                                        840,
+                                        486
+                                    ],
+                                    "score": 0.985,
+                                    "content": "shallbereferredtoas“InvestmentCompanyShares\".Totheextentthattwoormorefundsareavailablefor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                481,
+                                830,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        481,
+                                        830,
+                                        504
+                                    ],
+                                    "score": 0.986,
+                                    "content": "investment,contributionsshallbe investedinaccordancewiththedepositor'sinvestment election.b.Each",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                502,
+                                849,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        502,
+                                        849,
+                                        525
+                                    ],
+                                    "score": 0.991,
+                                    "content": "contributiontothecustodialaccountshallidentifythedepositor'saccountnumberandbeaccompaniedbya",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                522,
+                                836,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        522,
+                                        836,
+                                        546
+                                    ],
+                                    "score": 0.995,
+                                    "content": "signedstatementdirectingtheinvestmentofthatcontribution.TheCustodianmayreturntothedepositor,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                542,
+                                793,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        542,
+                                        793,
+                                        565
+                                    ],
+                                    "score": 0.997,
+                                    "content": "withoutliabilityforinterestthereon,anycontributionwhichisnotaccompaniedbyadequateaccount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                562,
+                                843,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        562,
+                                        843,
+                                        586
+                                    ],
+                                    "score": 0.993,
+                                    "content": "identificationoranappropriatesignedstatementdirectinginvestmentofthatcontribution.c.Contributions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                582,
+                                876,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        582,
+                                        876,
+                                        603
+                                    ],
+                                    "score": 0.994,
+                                    "content": "shallbeinvestedinwholeandfractionalInvestmentCompanySharesatthepriceandinthemannersuchshares",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                602,
+                                870,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        602,
+                                        870,
+                                        626
+                                    ],
+                                    "score": 0.995,
+                                    "content": "areofferedtothepublic.AlldistributionsreceivedonInvestmentCompanyShares,includingbothdividendand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                620,
+                                851,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        620,
+                                        851,
+                                        646
+                                    ],
+                                    "score": 0.995,
+                                    "content": "capitalgaindistributions,heldinthecustodialaccountshallbereinvestedinlikeshares.Ifanydistributionof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                642,
+                                799,
+                                663
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        642,
+                                        799,
+                                        663
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Investment CompanySharesmaybereceivedinadditionallikeshares orincashorotherproperty,the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                663,
+                                874,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        663,
+                                        874,
+                                        684
+                                    ],
+                                    "score": 0.989,
+                                    "content": "CustodianshallelecttoreceivesuchdistributioninadditionalikeInvestmentCompanyShares.d.AlInvestment",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                682,
+                                874,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        682,
+                                        874,
+                                        705
+                                    ],
+                                    "score": 0.998,
+                                    "content": "CompanySharesacquiredbytheCustodianshallberegisteredinthenameoftheCustodianoritsnominee.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                702,
+                                857,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        702,
+                                        857,
+                                        725
+                                    ],
+                                    "score": 0.988,
+                                    "content": "depositorshallbethebeneficialownerofalInvestmentCompanySharesheldinthecustodialaccount.e.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                720,
+                                873,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        720,
+                                        873,
+                                        747
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Custodianagreestoforwardtothedepositoreachprospectus,report,notice,proxyandrelatedproxysoliciting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                740,
+                                867,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        740,
+                                        867,
+                                        767
+                                    ],
+                                    "score": 0.984,
+                                    "content": "materialsapplicableto InvestmentCompanySharesheldinthecustodialaccountreceivedbytheCustodian.By",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                761,
+                                846,
+                                786
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        761,
+                                        846,
+                                        786
+                                    ],
+                                    "score": 0.983,
+                                    "content": "establishing orhavingestablishedthecustodialaccount,thedepositorafirmativelydirectstheCustodianto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                781,
+                                819,
+                                805
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        781,
+                                        819,
+                                        805
+                                    ],
+                                    "score": 0.998,
+                                    "content": "voteanyInvestmentCompanySharesheldontheapplicablerecorddatethathavenotbeenvotedbythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                802,
+                                852,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        802,
+                                        852,
+                                        825
+                                    ],
+                                    "score": 0.992,
+                                    "content": "depositorpriortoashareholdermeetingforwhichpriornoticehasbeen given.TheCustodianshallvotewith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                821,
+                                817,
+                                845
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        821,
+                                        817,
+                                        845
+                                    ],
+                                    "score": 0.985,
+                                    "content": "themanagementoftheInvestment CompanyoneachproposalthattheInvestment Company'sBoardof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                842,
+                                825,
+                                865
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        842,
+                                        825,
+                                        865
+                                    ],
+                                    "score": 0.974,
+                                    "content": "Directorshasapprovedunanimously.Ifthe Investment Company's Boardof Directorshas notapproved a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                861,
+                                858,
+                                885
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        861,
+                                        858,
+                                        885
+                                    ],
+                                    "score": 0.981,
+                                    "content": "proposalunanimously,theCustodianshallvoteinproportiontoallsharesvotedbytheInvestment Company's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                880,
+                                128,
+                                904
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        880,
+                                        128,
+                                        904
+                                    ],
+                                    "score": 0.998,
+                                    "content": "shareholders.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5,
+                    "bbox_fs": [
+                        13,
+                        100,
+                        876,
+                        904
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

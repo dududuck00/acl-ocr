@@ -1,0 +1,2292 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        96,
+                        881,
+                        904
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                101,
+                                873,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        101,
+                                        873,
+                                        125
+                                    ],
+                                    "score": 0.993,
+                                    "content": "(associations,foundations,cooperatives)couldbeincludedinthefieldofworkintegrationsocialenterprise.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                122,
+                                828,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        122,
+                                        828,
+                                        145
+                                    ],
+                                    "score": 0.989,
+                                    "content": "shelteredworkshopshavethebenefitofreservedmarketsasallemployersinRomaniahavetoeitherhire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                864,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        864,
+                                        165
+                                    ],
+                                    "score": 0.993,
+                                    "content": "disabledemployeesortobuyservicesofgoodsfromprotectedworkshops.Shelteredworkshopsregisteredin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                836,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        414,
+                                        185
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Romaniaareingreatmajorityforprofitcompanies",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        414,
+                                        163,
+                                        448,
+                                        181
+                                    ],
+                                    "score": 0.59,
+                                    "content": "6 9 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        448,
+                                        162,
+                                        836,
+                                        185
+                                    ],
+                                    "score": 0.97,
+                                    "content": "fromtotal,391shelteredworkshops),someof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                180,
+                                809,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        180,
+                                        809,
+                                        206
+                                    ],
+                                    "score": 0.997,
+                                    "content": "companiesbeingalsocommercialsubsidiariesofnon-profitorganisations(associationorfoundations).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                831,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        831,
+                                        225
+                                    ],
+                                    "score": 0.983,
+                                    "content": "AccordingtoGeneral DirectionforProtectionof PersonswithDisabilities,legalformsassimilatedtosocial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                220,
+                                852,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        220,
+                                        342,
+                                        246
+                                    ],
+                                    "score": 0.984,
+                                    "content": "economyrepresented inAugust2012only",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        342,
+                                        222,
+                                        376,
+                                        241
+                                    ],
+                                    "score": 0.86,
+                                    "content": "23 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        376,
+                                        220,
+                                        852,
+                                        246
+                                    ],
+                                    "score": 0.989,
+                                    "content": "intotalshelteredworkshops:95associations,20cooperatives",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                239,
+                                815,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        239,
+                                        815,
+                                        265
+                                    ],
+                                    "score": 0.978,
+                                    "content": "and14foundations.Attheendof 2012,shelteredworkshopsemployedanapproximatenumberof4600",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                259,
+                                853,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        259,
+                                        613,
+                                        287
+                                    ],
+                                    "score": 0.971,
+                                    "content": "persons,fromwhichapproximate2ooopersonswithdisabilities,representing",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        614,
+                                        262,
+                                        648,
+                                        281
+                                    ],
+                                    "score": 0.84,
+                                    "content": "4 2 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        648,
+                                        259,
+                                        853,
+                                        287
+                                    ],
+                                    "score": 0.997,
+                                    "content": "intotalemployeesforthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                280,
+                                852,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        280,
+                                        443,
+                                        307
+                                    ],
+                                    "score": 0.984,
+                                    "content": "typeoforganization,averageclose tolegalconditionof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        444,
+                                        282,
+                                        478,
+                                        301
+                                    ],
+                                    "score": 0.8,
+                                    "content": "3 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        478,
+                                        280,
+                                        852,
+                                        307
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Besidestheroleof creatingjobsforpeoplewith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                301,
+                                828,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        301,
+                                        505,
+                                        325
+                                    ],
+                                    "score": 0.991,
+                                    "content": "disabilities,accordingtotheresearchresultsofIESreport2013,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        506,
+                                        302,
+                                        540,
+                                        321
+                                    ],
+                                    "score": 0.76,
+                                    "content": "4 7 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        541,
+                                        301,
+                                        828,
+                                        325
+                                    ],
+                                    "score": 0.983,
+                                    "content": "oftotal shelteredworkshopsprovide",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                321,
+                                832,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        321,
+                                        637,
+                                        345
+                                    ],
+                                    "score": 0.987,
+                                    "content": "supplementaryservicesforemployeeswithdisabilities like:professional training",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        637,
+                                        322,
+                                        672,
+                                        342
+                                    ],
+                                    "score": 0.65,
+                                    "content": "( 2 7 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        672,
+                                        321,
+                                        832,
+                                        345
+                                    ],
+                                    "score": 0.973,
+                                    "content": "fromtotalsheltered",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                819,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        110,
+                                        366
+                                    ],
+                                    "score": 0.993,
+                                    "content": "workshops,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        111,
+                                        343,
+                                        145,
+                                        362
+                                    ],
+                                    "score": 0.69,
+                                    "content": "3 7 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        145,
+                                        340,
+                                        819,
+                                        366
+                                    ],
+                                    "score": 0.988,
+                                    "content": "fromshelteredworkshopsdevelopedbysocial economyorganizations),counselingand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                361,
+                                864,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        361,
+                                        183,
+                                        385
+                                    ],
+                                    "score": 0.997,
+                                    "content": "informationservices",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        184,
+                                        362,
+                                        217,
+                                        381
+                                    ],
+                                    "score": 0.75,
+                                    "content": "1 4 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        217,
+                                        361,
+                                        467,
+                                        385
+                                    ],
+                                    "score": 0.996,
+                                    "content": "fromtotalshelteredworkshops,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        468,
+                                        362,
+                                        502,
+                                        381
+                                    ],
+                                    "score": 0.81,
+                                    "content": "2 5 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        502,
+                                        361,
+                                        864,
+                                        385
+                                    ],
+                                    "score": 0.998,
+                                    "content": "fromshelteredworkshopsdevelopedbysocial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                380,
+                                856,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        380,
+                                        856,
+                                        406
+                                    ],
+                                    "score": 0.993,
+                                    "content": "economyorganization).ThedraftLawonSocialEconomyfromSeptember2012introducesanewcategoryof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                398,
+                                865,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        398,
+                                        865,
+                                        427
+                                    ],
+                                    "score": 0.989,
+                                    "content": "socialenterprises,workintegrationsocialenterpriseswhichwouldleadtoanextensionofshelteredworkshop",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                805,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        805,
+                                        446
+                                    ],
+                                    "score": 0.997,
+                                    "content": "activitiestowardsworkintegrationofothercategoriesofvulnerablegroupsthanthedisabledandalso",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                440,
+                                871,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        440,
+                                        871,
+                                        466
+                                    ],
+                                    "score": 0.992,
+                                    "content": "incorporatingthesocialeconomyprinciplesintheiroperation,andwithoutthebenefitofthereservedmarkets.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                459,
+                                807,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        459,
+                                        807,
+                                        487
+                                    ],
+                                    "score": 0.992,
+                                    "content": "3.Casestudyofapilotruralterritorywhereacomprehensivesocialeconomystart-upproject hasbeen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                778,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        778,
+                                        506
+                                    ],
+                                    "score": 0.988,
+                                    "content": "developed Horezu Romania Idealisproject.Whatwouldbetheroleofsocialeconomyinaterritorial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                502,
+                                876,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        502,
+                                        876,
+                                        526
+                                    ],
+                                    "score": 0.987,
+                                    "content": "developmentinHorezu?Valuechainanalysis.Theterritory:generaldescriptionandresourcesTheterrtory-five",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                519,
+                                797,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        519,
+                                        797,
+                                        547
+                                    ],
+                                    "score": 0.993,
+                                    "content": "localitiesfromtheSouthWestCarpathianregioninRomania-Horezu-amarkettown,andfourrural",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                855,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        855,
+                                        566
+                                    ],
+                                    "score": 0.953,
+                                    "content": "municipalitiesCostesti,Vaideeni,MaldarestiandSlatioaraasatrategicpartnership“Olteniaatthefeetofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                560,
+                                861,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        560,
+                                        716,
+                                        585
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Mountains-PartnershipforLocal EconomicDevelopment\".The Horezumicroregion liesat",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        716,
+                                        563,
+                                        774,
+                                        582
+                                    ],
+                                    "score": 0.55,
+                                    "content": "2 0 0 \\ k \\mathsf { m }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        774,
+                                        560,
+                                        861,
+                                        585
+                                    ],
+                                    "score": 0.997,
+                                    "content": "awayfrom",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                583,
+                                843,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        583,
+                                        843,
+                                        604
+                                    ],
+                                    "score": 0.975,
+                                    "content": "Romania'scapitalBucharest,betweentheCapataniiMountainstothenorth,andlitlemountainriverstothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                603,
+                                867,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        603,
+                                        667,
+                                        627
+                                    ],
+                                    "score": 0.987,
+                                    "content": "otherparts.Itismainlyahighland region,withmountainsreachingaltitudesofupto",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        667,
+                                        603,
+                                        729,
+                                        623
+                                    ],
+                                    "score": 0.64,
+                                    "content": "2 . 1 2 4 \\ : \\mathrm { m }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        729,
+                                        603,
+                                        867,
+                                        627
+                                    ],
+                                    "score": 0.996,
+                                    "content": "intheUrsulPeak,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                858,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        858,
+                                        646
+                                    ],
+                                    "score": 0.988,
+                                    "content": "tworowsofhilsanddepressionarycorridors,amongwhichstandsouttheHorezuValley.Horezu,themarket",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                643,
+                                844,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        643,
+                                        844,
+                                        667
+                                    ],
+                                    "score": 0.97,
+                                    "content": "townaroundwhichthenetworkoflocalitieshasevolvedhasapopulationofapproximately7,oooliving inan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                663,
+                                842,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        663,
+                                        842,
+                                        686
+                                    ],
+                                    "score": 0.995,
+                                    "content": "areaof118squarekilometers.Horezuisreputedasanethnographiccentreandasanage-oldfolkceramics",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                683,
+                                843,
+                                707
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        683,
+                                        843,
+                                        707
+                                    ],
+                                    "score": 0.946,
+                                    "content": "centre,famousforwellpreservedtraditionsandcrafts,richcutural,spiritualandarchitecturalheritage(old",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                704,
+                                872,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        704,
+                                        872,
+                                        725
+                                    ],
+                                    "score": 0.982,
+                                    "content": "churchesandmonasteries,mostfamoustraditionalpotterycentersinRomania)Traditionaloccupationsinclude",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                721,
+                                862,
+                                749
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        721,
+                                        862,
+                                        749
+                                    ],
+                                    "score": 0.759,
+                                    "content": "fruitprodutiomlinbinesotsndeep),amics/terydod-roesntry",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                740,
+                                839,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        740,
+                                        839,
+                                        767
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Horezuisalsoatraditionalcommercialcentre;amarketareaforfarmingproductsand(household)utlities",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                762,
+                                825,
+                                785
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        762,
+                                        825,
+                                        785
+                                    ],
+                                    "score": 0.98,
+                                    "content": "exchange.Finaly,thenameof HorezuislinkedwiththeMonasteryofHurez,whichisamonasticcomplex",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                782,
+                                838,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        782,
+                                        838,
+                                        806
+                                    ],
+                                    "score": 0.985,
+                                    "content": "erectedattheendoftheXVI-thcentury,andwhichislistedintheUNWorldHeritageSite,amasterpieceof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                803,
+                                842,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        803,
+                                        842,
+                                        825
+                                    ],
+                                    "score": 0.994,
+                                    "content": "orthodoxreligiousarchitecture,andalsoaculturalcentrethatinfluencedthedevelopmentofcraftssuchas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                822,
+                                822,
+                                846
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        822,
+                                        822,
+                                        846
+                                    ],
+                                    "score": 0.998,
+                                    "content": "taspestryandceramicsintheregion.TheHorezuethnographicalareablendselementsspecificofseveral",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                843,
+                                872,
+                                866
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        843,
+                                        872,
+                                        866
+                                    ],
+                                    "score": 0.974,
+                                    "content": "civilizations:theclaycivilisation-famouspotters,thewoodcivilization-talentedwood-carversandthepastoral",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                862,
+                                816,
+                                886
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        862,
+                                        816,
+                                        886
+                                    ],
+                                    "score": 0.987,
+                                    "content": "civilization-onthealpine18ConstantinescuSt.(coord.),Social Economyandworkingforceemployment.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                883,
+                                711,
+                                906
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        883,
+                                        711,
+                                        906
+                                    ],
+                                    "score": 0.978,
+                                    "content": "Integrationofvulnerable groupson labormarket,InstituteofSocial Economy(CSDF),2013",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                917
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        96,
+                        881,
+                        904
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                101,
+                                873,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        101,
+                                        873,
+                                        125
+                                    ],
+                                    "score": 0.993,
+                                    "content": "(associations,foundations,cooperatives)couldbeincludedinthefieldofworkintegrationsocialenterprise.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                122,
+                                828,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        122,
+                                        828,
+                                        145
+                                    ],
+                                    "score": 0.989,
+                                    "content": "shelteredworkshopshavethebenefitofreservedmarketsasallemployersinRomaniahavetoeitherhire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                864,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        864,
+                                        165
+                                    ],
+                                    "score": 0.993,
+                                    "content": "disabledemployeesortobuyservicesofgoodsfromprotectedworkshops.Shelteredworkshopsregisteredin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                836,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        414,
+                                        185
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Romaniaareingreatmajorityforprofitcompanies",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        414,
+                                        163,
+                                        448,
+                                        181
+                                    ],
+                                    "score": 0.59,
+                                    "content": "6 9 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        448,
+                                        162,
+                                        836,
+                                        185
+                                    ],
+                                    "score": 0.97,
+                                    "content": "fromtotal,391shelteredworkshops),someof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                180,
+                                809,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        180,
+                                        809,
+                                        206
+                                    ],
+                                    "score": 0.997,
+                                    "content": "companiesbeingalsocommercialsubsidiariesofnon-profitorganisations(associationorfoundations).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                831,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        831,
+                                        225
+                                    ],
+                                    "score": 0.983,
+                                    "content": "AccordingtoGeneral DirectionforProtectionof PersonswithDisabilities,legalformsassimilatedtosocial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                220,
+                                852,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        220,
+                                        342,
+                                        246
+                                    ],
+                                    "score": 0.984,
+                                    "content": "economyrepresented inAugust2012only",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        342,
+                                        222,
+                                        376,
+                                        241
+                                    ],
+                                    "score": 0.86,
+                                    "content": "23 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        376,
+                                        220,
+                                        852,
+                                        246
+                                    ],
+                                    "score": 0.989,
+                                    "content": "intotalshelteredworkshops:95associations,20cooperatives",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                239,
+                                815,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        239,
+                                        815,
+                                        265
+                                    ],
+                                    "score": 0.978,
+                                    "content": "and14foundations.Attheendof 2012,shelteredworkshopsemployedanapproximatenumberof4600",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                259,
+                                853,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        259,
+                                        613,
+                                        287
+                                    ],
+                                    "score": 0.971,
+                                    "content": "persons,fromwhichapproximate2ooopersonswithdisabilities,representing",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        614,
+                                        262,
+                                        648,
+                                        281
+                                    ],
+                                    "score": 0.84,
+                                    "content": "4 2 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        648,
+                                        259,
+                                        853,
+                                        287
+                                    ],
+                                    "score": 0.997,
+                                    "content": "intotalemployeesforthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                280,
+                                852,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        280,
+                                        443,
+                                        307
+                                    ],
+                                    "score": 0.984,
+                                    "content": "typeoforganization,averageclose tolegalconditionof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        444,
+                                        282,
+                                        478,
+                                        301
+                                    ],
+                                    "score": 0.8,
+                                    "content": "3 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        478,
+                                        280,
+                                        852,
+                                        307
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Besidestheroleof creatingjobsforpeoplewith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                301,
+                                828,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        301,
+                                        505,
+                                        325
+                                    ],
+                                    "score": 0.991,
+                                    "content": "disabilities,accordingtotheresearchresultsofIESreport2013,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        506,
+                                        302,
+                                        540,
+                                        321
+                                    ],
+                                    "score": 0.76,
+                                    "content": "4 7 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        541,
+                                        301,
+                                        828,
+                                        325
+                                    ],
+                                    "score": 0.983,
+                                    "content": "oftotal shelteredworkshopsprovide",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                321,
+                                832,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        321,
+                                        637,
+                                        345
+                                    ],
+                                    "score": 0.987,
+                                    "content": "supplementaryservicesforemployeeswithdisabilities like:professional training",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        637,
+                                        322,
+                                        672,
+                                        342
+                                    ],
+                                    "score": 0.65,
+                                    "content": "( 2 7 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        672,
+                                        321,
+                                        832,
+                                        345
+                                    ],
+                                    "score": 0.973,
+                                    "content": "fromtotalsheltered",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                819,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        110,
+                                        366
+                                    ],
+                                    "score": 0.993,
+                                    "content": "workshops,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        111,
+                                        343,
+                                        145,
+                                        362
+                                    ],
+                                    "score": 0.69,
+                                    "content": "3 7 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        145,
+                                        340,
+                                        819,
+                                        366
+                                    ],
+                                    "score": 0.988,
+                                    "content": "fromshelteredworkshopsdevelopedbysocial economyorganizations),counselingand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                361,
+                                864,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        361,
+                                        183,
+                                        385
+                                    ],
+                                    "score": 0.997,
+                                    "content": "informationservices",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        184,
+                                        362,
+                                        217,
+                                        381
+                                    ],
+                                    "score": 0.75,
+                                    "content": "1 4 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        217,
+                                        361,
+                                        467,
+                                        385
+                                    ],
+                                    "score": 0.996,
+                                    "content": "fromtotalshelteredworkshops,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        468,
+                                        362,
+                                        502,
+                                        381
+                                    ],
+                                    "score": 0.81,
+                                    "content": "2 5 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        502,
+                                        361,
+                                        864,
+                                        385
+                                    ],
+                                    "score": 0.998,
+                                    "content": "fromshelteredworkshopsdevelopedbysocial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                380,
+                                856,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        380,
+                                        856,
+                                        406
+                                    ],
+                                    "score": 0.993,
+                                    "content": "economyorganization).ThedraftLawonSocialEconomyfromSeptember2012introducesanewcategoryof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                398,
+                                865,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        398,
+                                        865,
+                                        427
+                                    ],
+                                    "score": 0.989,
+                                    "content": "socialenterprises,workintegrationsocialenterpriseswhichwouldleadtoanextensionofshelteredworkshop",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                805,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        805,
+                                        446
+                                    ],
+                                    "score": 0.997,
+                                    "content": "activitiestowardsworkintegrationofothercategoriesofvulnerablegroupsthanthedisabledandalso",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                440,
+                                871,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        440,
+                                        871,
+                                        466
+                                    ],
+                                    "score": 0.992,
+                                    "content": "incorporatingthesocialeconomyprinciplesintheiroperation,andwithoutthebenefitofthereservedmarkets.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                459,
+                                807,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        459,
+                                        807,
+                                        487
+                                    ],
+                                    "score": 0.992,
+                                    "content": "3.Casestudyofapilotruralterritorywhereacomprehensivesocialeconomystart-upproject hasbeen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                778,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        778,
+                                        506
+                                    ],
+                                    "score": 0.988,
+                                    "content": "developed Horezu Romania Idealisproject.Whatwouldbetheroleofsocialeconomyinaterritorial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                502,
+                                876,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        502,
+                                        876,
+                                        526
+                                    ],
+                                    "score": 0.987,
+                                    "content": "developmentinHorezu?Valuechainanalysis.Theterritory:generaldescriptionandresourcesTheterrtory-five",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                519,
+                                797,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        519,
+                                        797,
+                                        547
+                                    ],
+                                    "score": 0.993,
+                                    "content": "localitiesfromtheSouthWestCarpathianregioninRomania-Horezu-amarkettown,andfourrural",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                855,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        855,
+                                        566
+                                    ],
+                                    "score": 0.953,
+                                    "content": "municipalitiesCostesti,Vaideeni,MaldarestiandSlatioaraasatrategicpartnership“Olteniaatthefeetofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                560,
+                                861,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        560,
+                                        716,
+                                        585
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Mountains-PartnershipforLocal EconomicDevelopment\".The Horezumicroregion liesat",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        716,
+                                        563,
+                                        774,
+                                        582
+                                    ],
+                                    "score": 0.55,
+                                    "content": "2 0 0 \\ k \\mathsf { m }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        774,
+                                        560,
+                                        861,
+                                        585
+                                    ],
+                                    "score": 0.997,
+                                    "content": "awayfrom",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                583,
+                                843,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        583,
+                                        843,
+                                        604
+                                    ],
+                                    "score": 0.975,
+                                    "content": "Romania'scapitalBucharest,betweentheCapataniiMountainstothenorth,andlitlemountainriverstothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                603,
+                                867,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        603,
+                                        667,
+                                        627
+                                    ],
+                                    "score": 0.987,
+                                    "content": "otherparts.Itismainlyahighland region,withmountainsreachingaltitudesofupto",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        667,
+                                        603,
+                                        729,
+                                        623
+                                    ],
+                                    "score": 0.64,
+                                    "content": "2 . 1 2 4 \\ : \\mathrm { m }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        729,
+                                        603,
+                                        867,
+                                        627
+                                    ],
+                                    "score": 0.996,
+                                    "content": "intheUrsulPeak,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                858,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        858,
+                                        646
+                                    ],
+                                    "score": 0.988,
+                                    "content": "tworowsofhilsanddepressionarycorridors,amongwhichstandsouttheHorezuValley.Horezu,themarket",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                643,
+                                844,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        643,
+                                        844,
+                                        667
+                                    ],
+                                    "score": 0.97,
+                                    "content": "townaroundwhichthenetworkoflocalitieshasevolvedhasapopulationofapproximately7,oooliving inan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                663,
+                                842,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        663,
+                                        842,
+                                        686
+                                    ],
+                                    "score": 0.995,
+                                    "content": "areaof118squarekilometers.Horezuisreputedasanethnographiccentreandasanage-oldfolkceramics",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                683,
+                                843,
+                                707
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        683,
+                                        843,
+                                        707
+                                    ],
+                                    "score": 0.946,
+                                    "content": "centre,famousforwellpreservedtraditionsandcrafts,richcutural,spiritualandarchitecturalheritage(old",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                704,
+                                872,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        704,
+                                        872,
+                                        725
+                                    ],
+                                    "score": 0.982,
+                                    "content": "churchesandmonasteries,mostfamoustraditionalpotterycentersinRomania)Traditionaloccupationsinclude",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                721,
+                                862,
+                                749
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        721,
+                                        862,
+                                        749
+                                    ],
+                                    "score": 0.759,
+                                    "content": "fruitprodutiomlinbinesotsndeep),amics/terydod-roesntry",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                740,
+                                839,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        740,
+                                        839,
+                                        767
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Horezuisalsoatraditionalcommercialcentre;amarketareaforfarmingproductsand(household)utlities",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                762,
+                                825,
+                                785
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        762,
+                                        825,
+                                        785
+                                    ],
+                                    "score": 0.98,
+                                    "content": "exchange.Finaly,thenameof HorezuislinkedwiththeMonasteryofHurez,whichisamonasticcomplex",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                782,
+                                838,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        782,
+                                        838,
+                                        806
+                                    ],
+                                    "score": 0.985,
+                                    "content": "erectedattheendoftheXVI-thcentury,andwhichislistedintheUNWorldHeritageSite,amasterpieceof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                803,
+                                842,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        803,
+                                        842,
+                                        825
+                                    ],
+                                    "score": 0.994,
+                                    "content": "orthodoxreligiousarchitecture,andalsoaculturalcentrethatinfluencedthedevelopmentofcraftssuchas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                822,
+                                822,
+                                846
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        822,
+                                        822,
+                                        846
+                                    ],
+                                    "score": 0.998,
+                                    "content": "taspestryandceramicsintheregion.TheHorezuethnographicalareablendselementsspecificofseveral",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                843,
+                                872,
+                                866
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        843,
+                                        872,
+                                        866
+                                    ],
+                                    "score": 0.974,
+                                    "content": "civilizations:theclaycivilisation-famouspotters,thewoodcivilization-talentedwood-carversandthepastoral",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                862,
+                                816,
+                                886
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        862,
+                                        816,
+                                        886
+                                    ],
+                                    "score": 0.987,
+                                    "content": "civilization-onthealpine18ConstantinescuSt.(coord.),Social Economyandworkingforceemployment.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                883,
+                                711,
+                                906
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        883,
+                                        711,
+                                        906
+                                    ],
+                                    "score": 0.978,
+                                    "content": "Integrationofvulnerable groupson labormarket,InstituteofSocial Economy(CSDF),2013",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5,
+                    "bbox_fs": [
+                        13,
+                        101,
+                        876,
+                        906
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

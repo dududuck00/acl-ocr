@@ -1,0 +1,1456 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        880,
+                        666
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                19,
+                                865,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        19,
+                                        865,
+                                        45
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Page-3-SALEANDPURCHASEOFINTERMENT/INURNMENTRIGHTSAIlintermentandinurnment rightsaresold",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                856,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        856,
+                                        65
+                                    ],
+                                    "score": 0.994,
+                                    "content": "subjecttopaymentoftheamountsetbytheCityofAthens.Intermentandinurnmentrightsshallbefullypaid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                60,
+                                849,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        60,
+                                        849,
+                                        87
+                                    ],
+                                    "score": 0.992,
+                                    "content": "priortotheiruse.Thesaleortransferofanyintermentorinurnmentrightbyanyownershallnotbebinding",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                82,
+                                877,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        82,
+                                        877,
+                                        106
+                                    ],
+                                    "score": 0.995,
+                                    "content": "upontheCemeteryunlesssameshalfirstbedulyapprovedinwritingbytheCityofAthens.TheCityshalissuea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                102,
+                                840,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        102,
+                                        840,
+                                        126
+                                    ],
+                                    "score": 0.994,
+                                    "content": "\"CertificateofOwnership\"perOhioRevisedCode517.07tothenewOwnersubjecttotheprovisionsofsaid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                122,
+                                849,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        122,
+                                        849,
+                                        145
+                                    ],
+                                    "score": 0.991,
+                                    "content": "certificate.Thesameruleshallapplyinallcasesofassgnmentforintermentorinurnmentrights.Anyandall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                870,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        870,
+                                        165
+                                    ],
+                                    "score": 0.986,
+                                    "content": "transfersofanyintermentorinurnmentright,whethersamebebyconveyanceorassignmentaresubjectoall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                878,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        878,
+                                        186
+                                    ],
+                                    "score": 0.985,
+                                    "content": "rulesandregulationsoftheCemetery,whicharenowinfullforceandefectorwhichmaybehereafteradopted.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                180,
+                                871,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        180,
+                                        871,
+                                        205
+                                    ],
+                                    "score": 0.986,
+                                    "content": "ThesubdivisionofintermentorinurnmentrightisnotalowedwithouttheconsentoftheCemeteryandnoone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                859,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        859,
+                                        227
+                                    ],
+                                    "score": 0.983,
+                                    "content": "shallbeburiedinanylotornothavinganinteresttherein,exceptbywrittenconsentoftheCemetery.Allwork",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                876,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        876,
+                                        246
+                                    ],
+                                    "score": 0.99,
+                                    "content": "onlotsorgraveswillbedonebytheemployeesoftheCityofAthensunderthedirectionoftheCemetery,except",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                848,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        848,
+                                        265
+                                    ],
+                                    "score": 0.973,
+                                    "content": "whenpermissionisotherwisegranted.Allgrading,landscapingwork,andimprovementsofanykind,andall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                847,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        847,
+                                        286
+                                    ],
+                                    "score": 0.954,
+                                    "content": "careoflotsorcryptsandallplantings,trimmings,removalsoftrees,shrubs,andherbageofanykindandall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                862,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        862,
+                                        304
+                                    ],
+                                    "score": 0.983,
+                                    "content": "openingsoflots,allinterments,inurnments,disinterment'sandremovalsshallbemadeunderthedirectionof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                298,
+                                864,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        298,
+                                        864,
+                                        327
+                                    ],
+                                    "score": 0.947,
+                                    "content": "theCemetery.Noenclosureofanykind,suchasafence,coping,hedgeorditch,shallbepermittedaroundany",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                828,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        828,
+                                        345
+                                    ],
+                                    "score": 0.977,
+                                    "content": "graveorlot.Gravemoundsshallnot beallowedandno lotshallberaisedabovetheestablished grade.No",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                342,
+                                860,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        342,
+                                        860,
+                                        364
+                                    ],
+                                    "score": 0.985,
+                                    "content": "intermentorinurnmentrightcanbesold,assigned,transferred,pledgedorhypothecatedwithoutthewriten",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                360,
+                                875,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        360,
+                                        875,
+                                        387
+                                    ],
+                                    "score": 0.983,
+                                    "content": "approvaloftheCityofAthens.TheCityofAthensmayexchangeintermentorinurnmentrights,whendesiredby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                380,
+                                869,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        380,
+                                        869,
+                                        407
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Owners.Whensuchanexchangeismade,theoriginalconveyancemustbesurrenderedbyproperassignment,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                848,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        848,
+                                        426
+                                    ],
+                                    "score": 0.991,
+                                    "content": "orbyre-conveyance,ifconsiderednecessarybytheCitybeforeanychangeisaffected.Eachownerisvested",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                420,
+                                880,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        420,
+                                        880,
+                                        447
+                                    ],
+                                    "score": 0.991,
+                                    "content": "withtheownershipof hisorherintermentorinurnmentrightforthesolepurposeofintermentorinurnmentof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                830,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        830,
+                                        465
+                                    ],
+                                    "score": 0.997,
+                                    "content": "humandeadbodies.UndertherulesandregulationsoftheCemetery,theintermentandinurnmentrights",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                878,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        878,
+                                        487
+                                    ],
+                                    "score": 0.987,
+                                    "content": "cannotbeconveyedwithouttheconsentoftheCityofAthens,noranyuse,divisionorimprovementsofthembe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                880,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        880,
+                                        507
+                                    ],
+                                    "score": 0.996,
+                                    "content": "madewhichtheCityprohibits,ormaydeemimproper.TheOwnerofintermentorinurnmentrightsmaydispose",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                502,
+                                858,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        502,
+                                        858,
+                                        525
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ofsamebywil,subjecttotheforegoingconditions;IfOwnerdiesinestate,theintermentorinurnmentrights",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                522,
+                                876,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        522,
+                                        876,
+                                        545
+                                    ],
+                                    "score": 0.989,
+                                    "content": "willdescendtohisorherheirsaccordingtolaw.TheCityofAthenscannotberesponsibleforthecarryingoutof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                541,
+                                845,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        541,
+                                        845,
+                                        565
+                                    ],
+                                    "score": 0.997,
+                                    "content": "theintentofthegrantor.ThegeneralcareoftheentireCemeterygroundsandlotsisassumedbytheCityof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                559,
+                                870,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        559,
+                                        870,
+                                        587
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Athens.TheCityof Athensshalldirectallimprovementswithinthegroundsanduponallotsand gravesbefore,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                578,
+                                866,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        578,
+                                        866,
+                                        608
+                                    ],
+                                    "score": 0.972,
+                                    "content": "aswellas,afterintermentshavebeenmadetherein.Theyshallhavechargeoftheplanting,sodding,surveying",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                877,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        877,
+                                        626
+                                    ],
+                                    "score": 0.992,
+                                    "content": "andgeneralimprovements.NopersonotherthantheproperemployeesoftheCityof Athensshallbeallowedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                622,
+                                830,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        622,
+                                        830,
+                                        646
+                                    ],
+                                    "score": 0.992,
+                                    "content": "performanyworkwithintheCemeterywithoutawrittenpermitfromtheauthorizedrepresentativeofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                641,
+                                100,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        641,
+                                        100,
+                                        666
+                                    ],
+                                    "score": 0.996,
+                                    "content": "Cemetery.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 15.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                676
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        880,
+                        666
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                19,
+                                865,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        19,
+                                        865,
+                                        45
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Page-3-SALEANDPURCHASEOFINTERMENT/INURNMENTRIGHTSAIlintermentandinurnment rightsaresold",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                856,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        856,
+                                        65
+                                    ],
+                                    "score": 0.994,
+                                    "content": "subjecttopaymentoftheamountsetbytheCityofAthens.Intermentandinurnmentrightsshallbefullypaid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                60,
+                                849,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        60,
+                                        849,
+                                        87
+                                    ],
+                                    "score": 0.992,
+                                    "content": "priortotheiruse.Thesaleortransferofanyintermentorinurnmentrightbyanyownershallnotbebinding",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                82,
+                                877,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        82,
+                                        877,
+                                        106
+                                    ],
+                                    "score": 0.995,
+                                    "content": "upontheCemeteryunlesssameshalfirstbedulyapprovedinwritingbytheCityofAthens.TheCityshalissuea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                102,
+                                840,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        102,
+                                        840,
+                                        126
+                                    ],
+                                    "score": 0.994,
+                                    "content": "\"CertificateofOwnership\"perOhioRevisedCode517.07tothenewOwnersubjecttotheprovisionsofsaid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                122,
+                                849,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        122,
+                                        849,
+                                        145
+                                    ],
+                                    "score": 0.991,
+                                    "content": "certificate.Thesameruleshallapplyinallcasesofassgnmentforintermentorinurnmentrights.Anyandall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                870,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        870,
+                                        165
+                                    ],
+                                    "score": 0.986,
+                                    "content": "transfersofanyintermentorinurnmentright,whethersamebebyconveyanceorassignmentaresubjectoall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                878,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        878,
+                                        186
+                                    ],
+                                    "score": 0.985,
+                                    "content": "rulesandregulationsoftheCemetery,whicharenowinfullforceandefectorwhichmaybehereafteradopted.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                180,
+                                871,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        180,
+                                        871,
+                                        205
+                                    ],
+                                    "score": 0.986,
+                                    "content": "ThesubdivisionofintermentorinurnmentrightisnotalowedwithouttheconsentoftheCemeteryandnoone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                859,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        859,
+                                        227
+                                    ],
+                                    "score": 0.983,
+                                    "content": "shallbeburiedinanylotornothavinganinteresttherein,exceptbywrittenconsentoftheCemetery.Allwork",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                876,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        876,
+                                        246
+                                    ],
+                                    "score": 0.99,
+                                    "content": "onlotsorgraveswillbedonebytheemployeesoftheCityofAthensunderthedirectionoftheCemetery,except",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                848,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        848,
+                                        265
+                                    ],
+                                    "score": 0.973,
+                                    "content": "whenpermissionisotherwisegranted.Allgrading,landscapingwork,andimprovementsofanykind,andall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                847,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        847,
+                                        286
+                                    ],
+                                    "score": 0.954,
+                                    "content": "careoflotsorcryptsandallplantings,trimmings,removalsoftrees,shrubs,andherbageofanykindandall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                862,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        862,
+                                        304
+                                    ],
+                                    "score": 0.983,
+                                    "content": "openingsoflots,allinterments,inurnments,disinterment'sandremovalsshallbemadeunderthedirectionof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                298,
+                                864,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        298,
+                                        864,
+                                        327
+                                    ],
+                                    "score": 0.947,
+                                    "content": "theCemetery.Noenclosureofanykind,suchasafence,coping,hedgeorditch,shallbepermittedaroundany",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                828,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        828,
+                                        345
+                                    ],
+                                    "score": 0.977,
+                                    "content": "graveorlot.Gravemoundsshallnot beallowedandno lotshallberaisedabovetheestablished grade.No",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                342,
+                                860,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        342,
+                                        860,
+                                        364
+                                    ],
+                                    "score": 0.985,
+                                    "content": "intermentorinurnmentrightcanbesold,assigned,transferred,pledgedorhypothecatedwithoutthewriten",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                360,
+                                875,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        360,
+                                        875,
+                                        387
+                                    ],
+                                    "score": 0.983,
+                                    "content": "approvaloftheCityofAthens.TheCityofAthensmayexchangeintermentorinurnmentrights,whendesiredby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                380,
+                                869,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        380,
+                                        869,
+                                        407
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Owners.Whensuchanexchangeismade,theoriginalconveyancemustbesurrenderedbyproperassignment,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                848,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        848,
+                                        426
+                                    ],
+                                    "score": 0.991,
+                                    "content": "orbyre-conveyance,ifconsiderednecessarybytheCitybeforeanychangeisaffected.Eachownerisvested",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                420,
+                                880,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        420,
+                                        880,
+                                        447
+                                    ],
+                                    "score": 0.991,
+                                    "content": "withtheownershipof hisorherintermentorinurnmentrightforthesolepurposeofintermentorinurnmentof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                830,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        830,
+                                        465
+                                    ],
+                                    "score": 0.997,
+                                    "content": "humandeadbodies.UndertherulesandregulationsoftheCemetery,theintermentandinurnmentrights",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                878,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        878,
+                                        487
+                                    ],
+                                    "score": 0.987,
+                                    "content": "cannotbeconveyedwithouttheconsentoftheCityofAthens,noranyuse,divisionorimprovementsofthembe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                880,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        880,
+                                        507
+                                    ],
+                                    "score": 0.996,
+                                    "content": "madewhichtheCityprohibits,ormaydeemimproper.TheOwnerofintermentorinurnmentrightsmaydispose",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                502,
+                                858,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        502,
+                                        858,
+                                        525
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ofsamebywil,subjecttotheforegoingconditions;IfOwnerdiesinestate,theintermentorinurnmentrights",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                522,
+                                876,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        522,
+                                        876,
+                                        545
+                                    ],
+                                    "score": 0.989,
+                                    "content": "willdescendtohisorherheirsaccordingtolaw.TheCityofAthenscannotberesponsibleforthecarryingoutof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                541,
+                                845,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        541,
+                                        845,
+                                        565
+                                    ],
+                                    "score": 0.997,
+                                    "content": "theintentofthegrantor.ThegeneralcareoftheentireCemeterygroundsandlotsisassumedbytheCityof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                559,
+                                870,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        559,
+                                        870,
+                                        587
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Athens.TheCityof Athensshalldirectallimprovementswithinthegroundsanduponallotsand gravesbefore,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                578,
+                                866,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        578,
+                                        866,
+                                        608
+                                    ],
+                                    "score": 0.972,
+                                    "content": "aswellas,afterintermentshavebeenmadetherein.Theyshallhavechargeoftheplanting,sodding,surveying",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                877,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        877,
+                                        626
+                                    ],
+                                    "score": 0.992,
+                                    "content": "andgeneralimprovements.NopersonotherthantheproperemployeesoftheCityof Athensshallbeallowedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                622,
+                                830,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        622,
+                                        830,
+                                        646
+                                    ],
+                                    "score": 0.992,
+                                    "content": "performanyworkwithintheCemeterywithoutawrittenpermitfromtheauthorizedrepresentativeofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                641,
+                                100,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        641,
+                                        100,
+                                        666
+                                    ],
+                                    "score": 0.996,
+                                    "content": "Cemetery.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 15.5,
+                    "bbox_fs": [
+                        14,
+                        19,
+                        880,
+                        666
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

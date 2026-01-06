@@ -1,0 +1,96 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        11,
+                        17,
+                        657,
+                        528
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                11,
+                                17,
+                                657,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        11,
+                                        17,
+                                        657,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "geometries, e.g. handling multiple classes of ShapeNet [8] simultaneously. The attention mechanism at the core of our architecture has the potential to enforce local control of the interpolation, as seen in Figure 5. Further investigation is needed to explore the possibility to introduce additional priors on the attention to force a semantically meaningful localization and interpolation behavior. Our method shares a common drawback with most transformed-based architectures, requiring long training and post-processing time due to the nature of the refinement procedure. All code and data is publicly available 1.7 Acknowledgment This work is supported by the ERC Grant No. 802554 (SPEGEO) and the MIUR under grant \"Dipartimenti di eccellenza 2018-2022\". References [1] Scan the world project. https://www.myminifactory.com/scantheworld, [Online; ac- cessed 04-June-2021] [2] Allen, B., Curless, B., Popovi'ć, Z.: The space of human body shapes: reconstruction and parameterization from range scans. ACM transactions on graphics (TOG) 22(3), 587–594 (2003) [3] Amberg, B., Romdhani, S., Vetter, T.: Optimal step nonrigid icp algorithms for surface registration. In: 2007 IEEE conference on computer vision and pattern recognition. pp. 1–8. IEEE (2007) [4] Anguelov, D., Srinivasan, P., Koller, D., Thrun, S., Rodgers, J., Davis, J.: Scape: shape completion and animation of people. In: ACM SIGGRAPH 2005 Papers, pp. 408–416 (2005) [5] Besl, P.J., McKay, N.D.: A method for registration of 3-d shapes. IEEE Transactions on Pattern Analysis and Machine Intelligence 14(2), 239–256 (Feb 1992) [6] Bhatnagar, B.L., Sminchisescu, C., Theobalt, C., Pons-Moll, G.: Loopreg: Self-supervised learning of implicit surface correspondences, pose and shape for 3d human mesh registration. In: Advances in Neural Information Processing Systems (NeurIPS) (December 2020) [7] Bogo, F., Romero, J., Loper, M., Black, M.J.: FAUST: Dataset and evaluation for 3D mesh registration. In: Proceedings IEEE Conf. on Computer Vision and Pattern Recognition (CVPR). IEEE, Piscataway, NJ, USA (Jun 2014) [8] Chang, A.X., Funkhouser, T., Guibas, L., Hanrahan, P., Huang, Q., Li, Z., Savarese, S., Savva, M., Song, S., Su, H., et al.: Shapenet: An information-rich 3d model repository. arXiv preprint arXiv:1512.03012 (2015) [9] Charlier, B., Feydy, J., Glaunès, J.A., Collin, F.D., Durif, G.: Kernel operations on the gpu, with autodiff, without memory overflows. Journal of Machine Learning Research 22(74), 1–6 (2021), http://jmlr.org/papers/v22/20-275.html [10] Cheng, S., Bronstein, M., Zhou, Y., Kotsia, I., Pantic, M., Zafeiriou, S.: Meshgan: Non-linear 3d morphable models of faces. arXiv preprint arXiv:1903.10384 (2019) [11] Devlin, J., Chang, M.W., Lee, K., Toutanova, K.: BERT: Pre-training of deep bidirectional transformers for language understanding. In: Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers). pp. 4171–4186. Association for Computational Linguistics, Minneapolis, Minnesota (Jun 2019). https://doi.org/10.18653/v1/N19-1423, https://www aclweb.org/anthology/N19-1423 [12] Donati, N., Sharma, A., Ovsjanikov, M.: Deep geometric functional maps: Robust feature learning for shape correspondence. In: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (June 2020) [13] Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S., Uszkoreit, J., Houlsby, N.: An image is worth 16x16 words: Transformers for image recognition at scale (2020) 1https://github.com/GiovanniTRA/transmatching 10",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                675.0,
+                538.5
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        11,
+                        17,
+                        657,
+                        528
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                11,
+                                17,
+                                657,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        11,
+                                        17,
+                                        657,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "geometries, e.g. handling multiple classes of ShapeNet [8] simultaneously. The attention mechanism at the core of our architecture has the potential to enforce local control of the interpolation, as seen in Figure 5. Further investigation is needed to explore the possibility to introduce additional priors on the attention to force a semantically meaningful localization and interpolation behavior. Our method shares a common drawback with most transformed-based architectures, requiring long training and post-processing time due to the nature of the refinement procedure. All code and data is publicly available 1.7 Acknowledgment This work is supported by the ERC Grant No. 802554 (SPEGEO) and the MIUR under grant \"Dipartimenti di eccellenza 2018-2022\". References [1] Scan the world project. https://www.myminifactory.com/scantheworld, [Online; ac- cessed 04-June-2021] [2] Allen, B., Curless, B., Popovi'ć, Z.: The space of human body shapes: reconstruction and parameterization from range scans. ACM transactions on graphics (TOG) 22(3), 587–594 (2003) [3] Amberg, B., Romdhani, S., Vetter, T.: Optimal step nonrigid icp algorithms for surface registration. In: 2007 IEEE conference on computer vision and pattern recognition. pp. 1–8. IEEE (2007) [4] Anguelov, D., Srinivasan, P., Koller, D., Thrun, S., Rodgers, J., Davis, J.: Scape: shape completion and animation of people. In: ACM SIGGRAPH 2005 Papers, pp. 408–416 (2005) [5] Besl, P.J., McKay, N.D.: A method for registration of 3-d shapes. IEEE Transactions on Pattern Analysis and Machine Intelligence 14(2), 239–256 (Feb 1992) [6] Bhatnagar, B.L., Sminchisescu, C., Theobalt, C., Pons-Moll, G.: Loopreg: Self-supervised learning of implicit surface correspondences, pose and shape for 3d human mesh registration. In: Advances in Neural Information Processing Systems (NeurIPS) (December 2020) [7] Bogo, F., Romero, J., Loper, M., Black, M.J.: FAUST: Dataset and evaluation for 3D mesh registration. In: Proceedings IEEE Conf. on Computer Vision and Pattern Recognition (CVPR). IEEE, Piscataway, NJ, USA (Jun 2014) [8] Chang, A.X., Funkhouser, T., Guibas, L., Hanrahan, P., Huang, Q., Li, Z., Savarese, S., Savva, M., Song, S., Su, H., et al.: Shapenet: An information-rich 3d model repository. arXiv preprint arXiv:1512.03012 (2015) [9] Charlier, B., Feydy, J., Glaunès, J.A., Collin, F.D., Durif, G.: Kernel operations on the gpu, with autodiff, without memory overflows. Journal of Machine Learning Research 22(74), 1–6 (2021), http://jmlr.org/papers/v22/20-275.html [10] Cheng, S., Bronstein, M., Zhou, Y., Kotsia, I., Pantic, M., Zafeiriou, S.: Meshgan: Non-linear 3d morphable models of faces. arXiv preprint arXiv:1903.10384 (2019) [11] Devlin, J., Chang, M.W., Lee, K., Toutanova, K.: BERT: Pre-training of deep bidirectional transformers for language understanding. In: Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers). pp. 4171–4186. Association for Computational Linguistics, Minneapolis, Minnesota (Jun 2019). https://doi.org/10.18653/v1/N19-1423, https://www aclweb.org/anthology/N19-1423 [12] Donati, N., Sharma, A., Ovsjanikov, M.: Deep geometric functional maps: Robust feature learning for shape correspondence. In: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (June 2020) [13] Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S., Uszkoreit, J., Houlsby, N.: An image is worth 16x16 words: Transformers for image recognition at scale (2020) 1https://github.com/GiovanniTRA/transmatching 10",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        675.0,
+                        538.5
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.1.0"
+}

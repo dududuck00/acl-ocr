@@ -1,0 +1,1632 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        0,
+                        879,
+                        743
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                18,
+                                861,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        18,
+                                        861,
+                                        47
+                                    ],
+                                    "score": 0.973,
+                                    "content": "72ResearchandPracticeforPersonswithSevereDisabilities41(1)roleinremindingusofourresponsibilityas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                850,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        850,
+                                        65
+                                    ],
+                                    "score": 0.988,
+                                    "content": "humansandinteachingus howtolisten.WithoutJudith,ourpersonalcapacitytolistenwouldbediminished,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                869,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        869,
+                                        85
+                                    ],
+                                    "score": 0.99,
+                                    "content": "andtheinjusticeexperiencedbythosenotbeing heardwouldcontinue.Judithwasnottheonlycoachforbetter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                837,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        837,
+                                        105
+                                    ],
+                                    "score": 0.994,
+                                    "content": "listening,butshewasatherbestasaformidableforcetoimproveourhearing.Judith'sSchoolforPersonal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                102,
+                                849,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        102,
+                                        849,
+                                        126
+                                    ],
+                                    "score": 0.982,
+                                    "content": "AssistantsandLivingFullyOvertheyears,Judithhadapproximately600personalcareassistantswhowerein",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                120,
+                                839,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        120,
+                                        839,
+                                        145
+                                    ],
+                                    "score": 0.995,
+                                    "content": "factrecipientsofoneoftheworld'smostremarkable,entirelypersonalmentoringprograms.Judithtrained",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                863,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        863,
+                                        165
+                                    ],
+                                    "score": 0.992,
+                                    "content": "these600workerstomanageherpersonalandcareerneedsandtotravelwithherthroughouttheworld.This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                847,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        847,
+                                        186
+                                    ],
+                                    "score": 0.984,
+                                    "content": "experiencehelpedJudithforgeideasabouttheessenceofperson-centeredsupportand,inturn,offeredher",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                879,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        879,
+                                        205
+                                    ],
+                                    "score": 0.981,
+                                    "content": "assistantsamasterclassonhowtoliveandparticipatefullyinlife.Herassistantscamefromavarietyofcultural,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                855,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        855,
+                                        225
+                                    ],
+                                    "score": 0.916,
+                                    "content": "social,andeconomicbackgrounds,andtheywouldgoontobecomeartists,cademicsentrepreners,oial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                856,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        856,
+                                        245
+                                    ],
+                                    "score": 0.985,
+                                    "content": "workersandmuch,muchmore—carryingwiththemJudith'slessontolistentoyourdreams.Judithsupported",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                241,
+                                871,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        241,
+                                        871,
+                                        265
+                                    ],
+                                    "score": 0.988,
+                                    "content": "thisbylisteningtotheinnerworkingsofeachassistantandtailoredherinstructionandtheirworkassignments",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                260,
+                                869,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        260,
+                                        869,
+                                        286
+                                    ],
+                                    "score": 0.985,
+                                    "content": "tohelpeachofthemtobecomethemostremarkableperson heorshecouldbe.NoonewhoworkedforJudith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                857,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        857,
+                                        304
+                                    ],
+                                    "score": 0.958,
+                                    "content": "escapedher grasp.All6ooofthemwere transformed.SomeofthemsaythatbeingJudith'spersonalassistant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                301,
+                                861,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        301,
+                                        861,
+                                        324
+                                    ],
+                                    "score": 0.986,
+                                    "content": "savedtheirlives.DreamingJudith'snowfamousstoryaboutwantingtobeatruckdriver(eventhoughshehad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                321,
+                                855,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        321,
+                                        855,
+                                        346
+                                    ],
+                                    "score": 0.98,
+                                    "content": "nophysicalcontrolof herarmsorlegs)hasalowedmanyofusto learntolistenbetweenthelinesfordeeper",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                341,
+                                867,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        341,
+                                        867,
+                                        365
+                                    ],
+                                    "score": 0.998,
+                                    "content": "meaning.Hercour-agetofinallyrevealherownoutrageousdreamandthenunpackitsowecouldunderstand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                826,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        826,
+                                        385
+                                    ],
+                                    "score": 0.993,
+                                    "content": "qualifiesherasagreatteacher.Sheconvincedusoftheobvious thatourdreamscontaintheseedsof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                383,
+                                864,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        383,
+                                        864,
+                                        403
+                                    ],
+                                    "score": 0.991,
+                                    "content": "directionsforourlives.Thetrickisthatwehavetolistenforthemandbewillngtoheardifferently.Becauseso",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                874,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        874,
+                                        425
+                                    ],
+                                    "score": 0.985,
+                                    "content": "manyofus havecometounderstandwhatisunderJudith'struckdrivermetaphor,thedreamsofsomanyother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                420,
+                                841,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        420,
+                                        841,
+                                        446
+                                    ],
+                                    "score": 0.99,
+                                    "content": "indi-vidualsandfamilieshavebeenheardandhonored.Biggerliveshavebeenlivedandexpandedupon,all",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                440,
+                                863,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        440,
+                                        863,
+                                        465
+                                    ],
+                                    "score": 0.986,
+                                    "content": "becauseofadream.LaserEaglesArtGuildEarlyinlife,Judithpaintedinarttherapy.Sheloveditbutwastoldit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                462,
+                                858,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        462,
+                                        858,
+                                        485
+                                    ],
+                                    "score": 0.983,
+                                    "content": "wasnotart!Theartistinherwassealedshutfordecades,untilsherediscovereditwhensheencounteredand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                479,
+                                853,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        479,
+                                        853,
+                                        502
+                                    ],
+                                    "score": 0.985,
+                                    "content": "thenreinventedpaintingwitha“tracker\"-apersonwhoholdsthebrushforyoubutimplementsyourartistic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                498,
+                                843,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        498,
+                                        843,
+                                        524
+                                    ],
+                                    "score": 0.965,
+                                    "content": "visiononcanvas.ForJudith,itwasliberating,butbecauseitwasJudith,italsobecameamovementthatnow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                518,
+                                838,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        518,
+                                        838,
+                                        543
+                                    ],
+                                    "score": 0.999,
+                                    "content": "allowsthousandswhohavemobilityandcommunicationstrugglestorevealtheirowncreativeabilitiesand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                540,
+                                803,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        540,
+                                        803,
+                                        563
+                                    ],
+                                    "score": 0.988,
+                                    "content": "expression.Itwasasimpleidea:artistsusing laserstoguide trackerstocreateart.LaserEaglesandits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                559,
+                                870,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        559,
+                                        870,
+                                        582
+                                    ],
+                                    "score": 0.995,
+                                    "content": "derivativeswereborn.Inherunstoppablefashion,Judithwascollaboratingwithateamofengineersandartists",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                580,
+                                866,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        580,
+                                        866,
+                                        604
+                                    ],
+                                    "score": 0.995,
+                                    "content": "toinventnewtechnolo-giestoallowmorepeoplewithmobilityandcommunitystrugglestobeartiststhrough",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                599,
+                                873,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        599,
+                                        873,
+                                        623
+                                    ],
+                                    "score": 0.991,
+                                    "content": "theuseofiPadsandbeyond.Stillintherefinementstages,thesewillbeincrediblelegaciesofcreatingaprocess",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                617,
+                                869,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        617,
+                                        869,
+                                        645
+                                    ],
+                                    "score": 0.991,
+                                    "content": "wherefolkswithfewchoicesaregenuinelyincontrolofexpressingthemselvesthroughart.Yet,anothergroup",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                639,
+                                876,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        639,
+                                        876,
+                                        665
+                                    ],
+                                    "score": 0.987,
+                                    "content": "of peo-pleareconnectedtoJudith.Limits?What'sThat?Perhapssomeofthemostoutrageousandinspirational",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                659,
+                                872,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        659,
+                                        872,
+                                        683
+                                    ],
+                                    "score": 0.971,
+                                    "content": "undertakingswerebornofsomeonesaying,\"Youcan't”toJudith.Shetraveledtheworld,ateanddrankwiththe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                677,
+                                873,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        677,
+                                        873,
+                                        705
+                                    ],
+                                    "score": 0.973,
+                                    "content": "best,hottubbedandswameverywhere,canoedmanytimes,andclimbedtherockwallonacruiseshipbecause",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                698,
+                                867,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        698,
+                                        867,
+                                        725
+                                    ],
+                                    "score": 0.962,
+                                    "content": "itwasthere.Whenshewastold,\"Youcan'tdothat,\"shemadeapointofdoingit.Shebecameanactor,starring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                719,
+                                206,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        719,
+                                        206,
+                                        745
+                                    ],
+                                    "score": 0.976,
+                                    "content": "intwoplaysand several",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                754
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        0,
+                        879,
+                        743
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                18,
+                                861,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        18,
+                                        861,
+                                        47
+                                    ],
+                                    "score": 0.973,
+                                    "content": "72ResearchandPracticeforPersonswithSevereDisabilities41(1)roleinremindingusofourresponsibilityas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                850,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        850,
+                                        65
+                                    ],
+                                    "score": 0.988,
+                                    "content": "humansandinteachingus howtolisten.WithoutJudith,ourpersonalcapacitytolistenwouldbediminished,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                869,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        869,
+                                        85
+                                    ],
+                                    "score": 0.99,
+                                    "content": "andtheinjusticeexperiencedbythosenotbeing heardwouldcontinue.Judithwasnottheonlycoachforbetter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                837,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        837,
+                                        105
+                                    ],
+                                    "score": 0.994,
+                                    "content": "listening,butshewasatherbestasaformidableforcetoimproveourhearing.Judith'sSchoolforPersonal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                102,
+                                849,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        102,
+                                        849,
+                                        126
+                                    ],
+                                    "score": 0.982,
+                                    "content": "AssistantsandLivingFullyOvertheyears,Judithhadapproximately600personalcareassistantswhowerein",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                120,
+                                839,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        120,
+                                        839,
+                                        145
+                                    ],
+                                    "score": 0.995,
+                                    "content": "factrecipientsofoneoftheworld'smostremarkable,entirelypersonalmentoringprograms.Judithtrained",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                863,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        863,
+                                        165
+                                    ],
+                                    "score": 0.992,
+                                    "content": "these600workerstomanageherpersonalandcareerneedsandtotravelwithherthroughouttheworld.This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                847,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        847,
+                                        186
+                                    ],
+                                    "score": 0.984,
+                                    "content": "experiencehelpedJudithforgeideasabouttheessenceofperson-centeredsupportand,inturn,offeredher",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                879,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        879,
+                                        205
+                                    ],
+                                    "score": 0.981,
+                                    "content": "assistantsamasterclassonhowtoliveandparticipatefullyinlife.Herassistantscamefromavarietyofcultural,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                855,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        855,
+                                        225
+                                    ],
+                                    "score": 0.916,
+                                    "content": "social,andeconomicbackgrounds,andtheywouldgoontobecomeartists,cademicsentrepreners,oial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                856,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        856,
+                                        245
+                                    ],
+                                    "score": 0.985,
+                                    "content": "workersandmuch,muchmore—carryingwiththemJudith'slessontolistentoyourdreams.Judithsupported",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                241,
+                                871,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        241,
+                                        871,
+                                        265
+                                    ],
+                                    "score": 0.988,
+                                    "content": "thisbylisteningtotheinnerworkingsofeachassistantandtailoredherinstructionandtheirworkassignments",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                260,
+                                869,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        260,
+                                        869,
+                                        286
+                                    ],
+                                    "score": 0.985,
+                                    "content": "tohelpeachofthemtobecomethemostremarkableperson heorshecouldbe.NoonewhoworkedforJudith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                857,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        857,
+                                        304
+                                    ],
+                                    "score": 0.958,
+                                    "content": "escapedher grasp.All6ooofthemwere transformed.SomeofthemsaythatbeingJudith'spersonalassistant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                301,
+                                861,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        301,
+                                        861,
+                                        324
+                                    ],
+                                    "score": 0.986,
+                                    "content": "savedtheirlives.DreamingJudith'snowfamousstoryaboutwantingtobeatruckdriver(eventhoughshehad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                321,
+                                855,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        321,
+                                        855,
+                                        346
+                                    ],
+                                    "score": 0.98,
+                                    "content": "nophysicalcontrolof herarmsorlegs)hasalowedmanyofusto learntolistenbetweenthelinesfordeeper",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                341,
+                                867,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        341,
+                                        867,
+                                        365
+                                    ],
+                                    "score": 0.998,
+                                    "content": "meaning.Hercour-agetofinallyrevealherownoutrageousdreamandthenunpackitsowecouldunderstand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                826,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        826,
+                                        385
+                                    ],
+                                    "score": 0.993,
+                                    "content": "qualifiesherasagreatteacher.Sheconvincedusoftheobvious thatourdreamscontaintheseedsof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                383,
+                                864,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        383,
+                                        864,
+                                        403
+                                    ],
+                                    "score": 0.991,
+                                    "content": "directionsforourlives.Thetrickisthatwehavetolistenforthemandbewillngtoheardifferently.Becauseso",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                874,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        874,
+                                        425
+                                    ],
+                                    "score": 0.985,
+                                    "content": "manyofus havecometounderstandwhatisunderJudith'struckdrivermetaphor,thedreamsofsomanyother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                420,
+                                841,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        420,
+                                        841,
+                                        446
+                                    ],
+                                    "score": 0.99,
+                                    "content": "indi-vidualsandfamilieshavebeenheardandhonored.Biggerliveshavebeenlivedandexpandedupon,all",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                440,
+                                863,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        440,
+                                        863,
+                                        465
+                                    ],
+                                    "score": 0.986,
+                                    "content": "becauseofadream.LaserEaglesArtGuildEarlyinlife,Judithpaintedinarttherapy.Sheloveditbutwastoldit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                462,
+                                858,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        462,
+                                        858,
+                                        485
+                                    ],
+                                    "score": 0.983,
+                                    "content": "wasnotart!Theartistinherwassealedshutfordecades,untilsherediscovereditwhensheencounteredand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                479,
+                                853,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        479,
+                                        853,
+                                        502
+                                    ],
+                                    "score": 0.985,
+                                    "content": "thenreinventedpaintingwitha“tracker\"-apersonwhoholdsthebrushforyoubutimplementsyourartistic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                498,
+                                843,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        498,
+                                        843,
+                                        524
+                                    ],
+                                    "score": 0.965,
+                                    "content": "visiononcanvas.ForJudith,itwasliberating,butbecauseitwasJudith,italsobecameamovementthatnow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                518,
+                                838,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        518,
+                                        838,
+                                        543
+                                    ],
+                                    "score": 0.999,
+                                    "content": "allowsthousandswhohavemobilityandcommunicationstrugglestorevealtheirowncreativeabilitiesand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                540,
+                                803,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        540,
+                                        803,
+                                        563
+                                    ],
+                                    "score": 0.988,
+                                    "content": "expression.Itwasasimpleidea:artistsusing laserstoguide trackerstocreateart.LaserEaglesandits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                559,
+                                870,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        559,
+                                        870,
+                                        582
+                                    ],
+                                    "score": 0.995,
+                                    "content": "derivativeswereborn.Inherunstoppablefashion,Judithwascollaboratingwithateamofengineersandartists",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                580,
+                                866,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        580,
+                                        866,
+                                        604
+                                    ],
+                                    "score": 0.995,
+                                    "content": "toinventnewtechnolo-giestoallowmorepeoplewithmobilityandcommunitystrugglestobeartiststhrough",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                599,
+                                873,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        599,
+                                        873,
+                                        623
+                                    ],
+                                    "score": 0.991,
+                                    "content": "theuseofiPadsandbeyond.Stillintherefinementstages,thesewillbeincrediblelegaciesofcreatingaprocess",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                617,
+                                869,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        617,
+                                        869,
+                                        645
+                                    ],
+                                    "score": 0.991,
+                                    "content": "wherefolkswithfewchoicesaregenuinelyincontrolofexpressingthemselvesthroughart.Yet,anothergroup",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                639,
+                                876,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        639,
+                                        876,
+                                        665
+                                    ],
+                                    "score": 0.987,
+                                    "content": "of peo-pleareconnectedtoJudith.Limits?What'sThat?Perhapssomeofthemostoutrageousandinspirational",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                659,
+                                872,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        659,
+                                        872,
+                                        683
+                                    ],
+                                    "score": 0.971,
+                                    "content": "undertakingswerebornofsomeonesaying,\"Youcan't”toJudith.Shetraveledtheworld,ateanddrankwiththe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                677,
+                                873,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        677,
+                                        873,
+                                        705
+                                    ],
+                                    "score": 0.973,
+                                    "content": "best,hottubbedandswameverywhere,canoedmanytimes,andclimbedtherockwallonacruiseshipbecause",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                698,
+                                867,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        698,
+                                        867,
+                                        725
+                                    ],
+                                    "score": 0.962,
+                                    "content": "itwasthere.Whenshewastold,\"Youcan'tdothat,\"shemadeapointofdoingit.Shebecameanactor,starring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                719,
+                                206,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        719,
+                                        206,
+                                        745
+                                    ],
+                                    "score": 0.976,
+                                    "content": "intwoplaysand several",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5,
+                    "bbox_fs": [
+                        14,
+                        18,
+                        879,
+                        745
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

@@ -1,0 +1,550 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    53,
+                    24,
+                    2445,
+                    24,
+                    2445,
+                    2007,
+                    53,
+                    2007
+                ],
+                "score": 0.917
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    56.0,
+                    2223.0,
+                    56.0,
+                    2223.0,
+                    125.0,
+                    45.0,
+                    125.0
+                ],
+                "score": 0.976,
+                "text": "84CICConsolidated Crown Investments Corporation of Saskatchewan Notesto Consolidated Financial"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    117.0,
+                    2426.0,
+                    117.0,
+                    2426.0,
+                    183.0,
+                    47.0,
+                    183.0
+                ],
+                "score": 0.991,
+                "text": "StatementsMarch31,2019474.SignificantaccountingpoliciesTheaccountingpoliciessetoutbelowhavebeen"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    169.0,
+                    2416.0,
+                    169.0,
+                    2416.0,
+                    241.0,
+                    42.0,
+                    241.0
+                ],
+                "score": 0.992,
+                "text": "appliedconsistentlytoallperiodspresentedintheseconsolidatedfinancialstatements.Theaccountingpolicies"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    227.0,
+                    2262.0,
+                    227.0,
+                    2262.0,
+                    293.0,
+                    45.0,
+                    293.0
+                ],
+                "score": 0.971,
+                "text": "havebeenconsistentlyapplied byCIC'ssubsidiaries.a) Basisof consolidation Subsidiaries Saskatchewan"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    280.0,
+                    2400.0,
+                    280.0,
+                    2400.0,
+                    351.0,
+                    42.0,
+                    351.0
+                ],
+                "score": 0.99,
+                "text": "provincialCrowncorporationsareeitherdesignatedassubsidiaryCrowncorporationsofCICorcreatedas CIC"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    338.0,
+                    2343.0,
+                    338.0,
+                    2343.0,
+                    404.0,
+                    47.0,
+                    404.0
+                ],
+                "score": 0.992,
+                "text": "CrowncorporationsunderTheCrownCorporationsAct,1993(theAct).TheActassignsspecificfinancialand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    391.0,
+                    2377.0,
+                    391.0,
+                    2377.0,
+                    457.0,
+                    47.0,
+                    457.0
+                ],
+                "score": 0.991,
+                "text": "otherresponsibilitiesregardingthesecorporationstoCIC.InadditiontotheCrowncorporationslistedbelow,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    449.0,
+                    2442.0,
+                    449.0,
+                    2442.0,
+                    515.0,
+                    45.0,
+                    515.0
+                ],
+                "score": 0.979,
+                "text": "theCorporationalsoconsolidatestheaccountsofGradworksInc.,awholl-ownednon-profitsubsidiaryandthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    499.0,
+                    2434.0,
+                    499.0,
+                    2434.0,
+                    576.0,
+                    39.0,
+                    576.0
+                ],
+                "score": 0.981,
+                "text": "followingwholy-ownedsharecapitalsubsidiaries:CICAssetManagementInc.;FirstNationsandMetisFundInc.;"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    563.0,
+                    2364.0,
+                    563.0,
+                    2364.0,
+                    629.0,
+                    47.0,
+                    629.0
+                ],
+                "score": 0.976,
+                "text": "CICEconomicHoldcoLtd.;andSaskatchewan Immigrant InvestorFundInc.(SIIF),allofwhicharedomiciledin"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    615.0,
+                    2418.0,
+                    615.0,
+                    2418.0,
+                    684.0,
+                    45.0,
+                    684.0
+                ],
+                "score": 0.984,
+                "text": "Canada.AsatMarch31,2018,GradworksInc.wasdissolved.SeparateauditedfinancialstatementsforCIChave"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    676.0,
+                    2309.0,
+                    676.0,
+                    2309.0,
+                    742.0,
+                    47.0,
+                    742.0
+                ],
+                "score": 0.989,
+                "text": "beenpreparedtoshowthefinancialpositionand resultsofoperationsofthecorporateentity.Inaddition,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    734.0,
+                    2377.0,
+                    734.0,
+                    2377.0,
+                    792.0,
+                    47.0,
+                    792.0
+                ],
+                "score": 0.991,
+                "text": "auditedfinancialstatementsforeachoftheundernotedCrowncorporations,whichareconsolidatedinthese"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    787.0,
+                    2273.0,
+                    787.0,
+                    2273.0,
+                    853.0,
+                    45.0,
+                    853.0
+                ],
+                "score": 0.995,
+                "text": "financialstatements,arepreparedandreleasedpublicly:Wholly-ownedsubsidiariesdomiciledinCanada"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    835.0,
+                    2429.0,
+                    835.0,
+                    2429.0,
+                    914.0,
+                    40.0,
+                    914.0
+                ],
+                "score": 0.992,
+                "text": "PrincipalActivitySaskEnergyIncorporated(SaskEnergy)NaturalgasstorageanddeliverySaskatchewanGaming"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    895.0,
+                    2351.0,
+                    895.0,
+                    2351.0,
+                    967.0,
+                    45.0,
+                    967.0
+                ],
+                "score": 0.982,
+                "text": "Corporation (SGC)EntertainmentSaskatchewanGovernment Insurance(SGICANADA)Propertyand casualty"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    953.0,
+                    2392.0,
+                    953.0,
+                    2392.0,
+                    1019.0,
+                    42.0,
+                    1019.0
+                ],
+                "score": 0.987,
+                "text": "insuranceSaskatchewanOpportunities Corporation(SOCO)ResearchparksSaskatchewanPowerCorporation"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1004.0,
+                    2161.0,
+                    1004.0,
+                    2161.0,
+                    1080.0,
+                    42.0,
+                    1080.0
+                ],
+                "score": 0.98,
+                "text": "(SaskPower)ElectricitySaskatchewan Telecommunications Holding Corporationand Saskatchewan"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1059.0,
+                    2226.0,
+                    1059.0,
+                    2226.0,
+                    1133.0,
+                    42.0,
+                    1133.0
+                ],
+                "score": 0.993,
+                "text": "Telecommunications(colectivelySaskTel)InformationandcommunicationstechnologySaskatchewan"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    1120.0,
+                    2442.0,
+                    1120.0,
+                    2442.0,
+                    1186.0,
+                    47.0,
+                    1186.0
+                ],
+                "score": 0.992,
+                "text": "Transportation Company(STC)(Note10)PassengerandfreighttransportationSaskatchewanWaterCorporation"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    1175.0,
+                    2437.0,
+                    1175.0,
+                    2437.0,
+                    1241.0,
+                    47.0,
+                    1241.0
+                ],
+                "score": 0.991,
+                "text": "(SaskWater)WaterandwastewatermanagementAssociatesandjointventures(investmentsinequityaccounted"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    1223.0,
+                    2392.0,
+                    1223.0,
+                    2392.0,
+                    1302.0,
+                    39.0,
+                    1302.0
+                ],
+                "score": 0.991,
+                "text": "investees)AssociatesarethoseentitiesinwhichtheCorporationhassignificantinfluence,butnotcontrolover"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    1286.0,
+                    2322.0,
+                    1286.0,
+                    2322.0,
+                    1352.0,
+                    47.0,
+                    1352.0
+                ],
+                "score": 0.996,
+                "text": "strategicfinancialandoperatingdecisions.SignificantinfluenceispresumedtoexistwhentheCorporation"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1339.0,
+                    2439.0,
+                    1339.0,
+                    2439.0,
+                    1410.0,
+                    42.0,
+                    1410.0
+                ],
+                "score": 0.99,
+                "text": "holdsbetween20.0and50.0percentofthevotingpowerofanotherentity.Jointventuresarethoseentitiesover"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1394.0,
+                    2226.0,
+                    1394.0,
+                    2226.0,
+                    1466.0,
+                    42.0,
+                    1466.0
+                ],
+                "score": 0.988,
+                "text": "whoseactivitiestheCorporationhasjointcontrol,establishedbycontractualagreementandrequiring"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1450.0,
+                    2390.0,
+                    1450.0,
+                    2390.0,
+                    1524.0,
+                    42.0,
+                    1524.0
+                ],
+                "score": 0.99,
+                "text": "unanimousconsentforstrategicfinancialandoperatingdecisions,andprovidetheCorporationwithrightsto"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1505.0,
+                    2434.0,
+                    1505.0,
+                    2434.0,
+                    1577.0,
+                    42.0,
+                    1577.0
+                ],
+                "score": 0.997,
+                "text": "thenetassetsofthearrangement.Associatesandjointventuresareaccountedforusingtheequitymethodand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1561.0,
+                    2408.0,
+                    1561.0,
+                    2408.0,
+                    1635.0,
+                    42.0,
+                    1635.0
+                ],
+                "score": 0.969,
+                "text": "arerecognizedinitiallyatcost.TheCorporation's investmentincludesanygoodwillidentifiedatacquisition,net"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1619.0,
+                    2426.0,
+                    1619.0,
+                    2426.0,
+                    1685.0,
+                    45.0,
+                    1685.0
+                ],
+                "score": 0.992,
+                "text": "ofaccumulatedimpairmentlosses.TheconsolidatedfinancialstatementsincludetheCorporation'sshareofthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1677.0,
+                    2366.0,
+                    1677.0,
+                    2366.0,
+                    1743.0,
+                    45.0,
+                    1743.0
+                ],
+                "score": 0.992,
+                "text": "totalcomprehensiveincomeandequitymovementsofequityaccountedinvestees,afteradjustmentstoalign"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1730.0,
+                    2366.0,
+                    1730.0,
+                    2366.0,
+                    1793.0,
+                    42.0,
+                    1793.0
+                ],
+                "score": 0.99,
+                "text": "theaccountingpolicieswiththoseoftheCorporation,fromthedatethatsignificantinfluenceorjointcontrol"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1785.0,
+                    2340.0,
+                    1785.0,
+                    2340.0,
+                    1851.0,
+                    42.0,
+                    1851.0
+                ],
+                "score": 0.975,
+                "text": "commencesuntilthedate that significantinfluenceorjoint controlceases.Whenthe Corporation's shareof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1843.0,
+                    2385.0,
+                    1843.0,
+                    2385.0,
+                    1909.0,
+                    42.0,
+                    1909.0
+                ],
+                "score": 0.993,
+                "text": "lossesexceedsitsinterestinequityaccountedinvestees,thecarryingamountofthatinterestisreducedtoNil"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    1896.0,
+                    2426.0,
+                    1896.0,
+                    2426.0,
+                    1962.0,
+                    47.0,
+                    1962.0
+                ],
+                "score": 0.993,
+                "text": "andtherecognitionoffurtherlossesisdiscontinuedexcepttotheextentthattheCorporationhasanobligation"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1954.0,
+                    1092.0,
+                    1954.0,
+                    1092.0,
+                    2020.0,
+                    45.0,
+                    2020.0
+                ],
+                "score": 0.984,
+                "text": "orhasmadepaymentsonbehalfoftheinvestee."
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 2048
+        }
+    }
+]

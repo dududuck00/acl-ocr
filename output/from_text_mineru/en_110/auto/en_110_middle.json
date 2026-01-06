@@ -1,0 +1,1544 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        9,
+                        880,
+                        705
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                20,
+                                804,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        20,
+                                        804,
+                                        45
+                                    ],
+                                    "score": 0.988,
+                                    "content": "viSummaryAnumberofcountriesinSub-Saharan Africa(SSA)haveacomparativeadvantageincotton",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                42,
+                                871,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        42,
+                                        871,
+                                        63
+                                    ],
+                                    "score": 0.986,
+                                    "content": "production.Inthelasttwentyyears,theshareofSSAinworldcottonexports increasedfrom6.9percentto17.3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                59,
+                                851,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        59,
+                                        851,
+                                        87
+                                    ],
+                                    "score": 0.974,
+                                    "content": "percent.Theincreasewasmodest(from2.0to2.1percent)inGhana,TanzaniaandZimbabwe,butitwasvery",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                874,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        874,
+                                        107
+                                    ],
+                                    "score": 0.974,
+                                    "content": "large(from2.4to9.4percent)inBenin,BurkinaFaso,CotedvoireandMali.Folowingthecrisesencounteredby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                103,
+                                869,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        103,
+                                        869,
+                                        126
+                                    ],
+                                    "score": 0.991,
+                                    "content": "severalpublicmonopolies,reformswereundertakentoimprovethecompetitivepositionofthecottonsectors.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                861,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        861,
+                                        147
+                                    ],
+                                    "score": 0.97,
+                                    "content": "However,asshowninthisreport,notallreformsweresuccessul.IntheFrancophonecountries,therewasno",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                142,
+                                875,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        142,
+                                        875,
+                                        168
+                                    ],
+                                    "score": 0.995,
+                                    "content": "competitiononpricepaidtogrowers,buttheginningandinputsectorshavebeenprivatizedtovariousdegrees",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                164,
+                                872,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        164,
+                                        872,
+                                        184
+                                    ],
+                                    "score": 0.994,
+                                    "content": "inthelasttenyears.ReformsaremuchmoreadvancedinBeninthaninBurkinaFaso,butresultswerenobetter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                182,
+                                847,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        182,
+                                        847,
+                                        205
+                                    ],
+                                    "score": 0.983,
+                                    "content": "inBenin;asamatteroffact,followingthedevaluationoftheCFAfrancinJanuary1994,productionincreased",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                203,
+                                856,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        203,
+                                        856,
+                                        226
+                                    ],
+                                    "score": 0.993,
+                                    "content": "fasterinBurkinaFasothaninBenin.InthethreeAnglophonecountries,thecottonsectorhasbeenliberalized",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                866,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        866,
+                                        245
+                                    ],
+                                    "score": 0.955,
+                                    "content": "since1985inGhana，1994inTanzania,and1995inZimbabwe.Theliberalizationwasinitiallasuccessbutitdid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                243,
+                                859,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        243,
+                                        859,
+                                        266
+                                    ],
+                                    "score": 0.992,
+                                    "content": "notlast.InGhanaandTanzania,productionandyieldsarenowlowerthantheyweretenyearsago.InBurkina",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                851,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        851,
+                                        287
+                                    ],
+                                    "score": 0.969,
+                                    "content": "Faso,SOFITEXstillhasamonopolyforthepurchaseofseedcoton,butproducersacquired30percentofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                282,
+                                861,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        282,
+                                        861,
+                                        308
+                                    ],
+                                    "score": 0.983,
+                                    "content": "company'ssharesin1999andobtainedamajorityinthecommitteeresponsiblefortheselectionofinput bids.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                300,
+                                858,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        300,
+                                        858,
+                                        327
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Producersparticipateinthemanagementofthesectorandrelationsbetweenvariousstakeholdersaregood;",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                321,
+                                841,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        321,
+                                        841,
+                                        346
+                                    ],
+                                    "score": 0.977,
+                                    "content": "however,producers'associationsremainfragile.InCotedTvoire,the CIDTwassplitinto threecompaniesof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                344,
+                                807,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        344,
+                                        807,
+                                        367
+                                    ],
+                                    "score": 0.989,
+                                    "content": "comparablesizein1998and,afteratwo-yeartransitionperiod,thetwonewprivatecompaniesandthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                364,
+                                856,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        364,
+                                        856,
+                                        387
+                                    ],
+                                    "score": 0.992,
+                                    "content": "remainingpartoftheCIDThavebeenoperating independently.Oneofthetwonewcompanieswasmanaged",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                382,
+                                867,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        382,
+                                        867,
+                                        408
+                                    ],
+                                    "score": 0.989,
+                                    "content": "beterthantheoldCIDT,buttheotherwasnot.Conflictsamongstakeholderswerefrequent;theywerefuelled",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                402,
+                                865,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        402,
+                                        865,
+                                        430
+                                    ],
+                                    "score": 0.982,
+                                    "content": "bythenorth-southpoliticalconflictwhichbecameopenconflicts towardtheendof2oo2andledtoaconfused",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                423,
+                                876,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        423,
+                                        876,
+                                        448
+                                    ],
+                                    "score": 0.978,
+                                    "content": "situationin2003.InBenin,privatizationstartedwiththeprovisionofinputsin1992andincludedginningin1995.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                444,
+                                845,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        444,
+                                        845,
+                                        467
+                                    ],
+                                    "score": 0.979,
+                                    "content": "Thesequenceofmeasureswas not alwayswelldesigned andanumberofproblems soonemerged.Mostof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                461,
+                                868,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        461,
+                                        868,
+                                        488
+                                    ],
+                                    "score": 0.992,
+                                    "content": "thosehavenowbeensolved,notablybyestablishingaclearinghouseforallfinancialtransactionsofthesector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                486,
+                                875,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        486,
+                                        875,
+                                        506
+                                    ],
+                                    "score": 0.994,
+                                    "content": "(CSPR);butthesectorremainsheavilyregulated.Producerpricesarefixedfortheentirecountryandannounced",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                501,
+                                802,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        501,
+                                        802,
+                                        530
+                                    ],
+                                    "score": 0.981,
+                                    "content": "atthebeginning ofthemarketingseason,asinthepast.Witheight cottoncompanies,surplus ginning",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                524,
+                                864,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        524,
+                                        864,
+                                        547
+                                    ],
+                                    "score": 0.966,
+                                    "content": "capacities,andnocompetitiontoclearthemarket,anewdistributionsystemhadtobedesigned.Asaresult,a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                542,
+                                829,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        542,
+                                        829,
+                                        568
+                                    ],
+                                    "score": 0.995,
+                                    "content": "professionalassociation1alocatesquotastoeachcompanyonthebasisofitsinstalledcapacityandeach",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                563,
+                                827,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        563,
+                                        827,
+                                        588
+                                    ],
+                                    "score": 0.987,
+                                    "content": "companyistoldwheretobuyitscotton.InGhana,thecottonsectorwasliberalizedin1985andthis hada",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                582,
+                                857,
+                                609
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        582,
+                                        857,
+                                        609
+                                    ],
+                                    "score": 0.988,
+                                    "content": "stimulatingeffect.However,productionreachedapeakin1998/99anddeclinedsteadilyafterward.Freeentry",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                603,
+                                827,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        603,
+                                        827,
+                                        626
+                                    ],
+                                    "score": 0.969,
+                                    "content": "ledtowidespreadpoachingandthevirtualcollapseofinputcredits.2InMarch2002,Ghana had12cotton",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                623,
+                                880,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        623,
+                                        880,
+                                        649
+                                    ],
+                                    "score": 0.994,
+                                    "content": "companieswiththreemoreapplyingforregistrationwhiletheproductionofseedcottonhadfallento15,0001L",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                643,
+                                827,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        643,
+                                        827,
+                                        669
+                                    ],
+                                    "score": 0.965,
+                                    "content": "Association Interprofessionnelledu Coton(ACI) includesallmajorstakeholdersof thecottonsector:input",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                662,
+                                843,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        662,
+                                        843,
+                                        689
+                                    ],
+                                    "score": 0.98,
+                                    "content": "suppliers,producers'associations,ginneries,manufacturersandtransporters.2Poachingisawayofselling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                682,
+                                672,
+                                709
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        682,
+                                        672,
+                                        709
+                                    ],
+                                    "score": 0.97,
+                                    "content": "seed cotton without clearing the input credit obtained for producing theseed cotton.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                718
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        9,
+                        880,
+                        705
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                20,
+                                804,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        20,
+                                        804,
+                                        45
+                                    ],
+                                    "score": 0.988,
+                                    "content": "viSummaryAnumberofcountriesinSub-Saharan Africa(SSA)haveacomparativeadvantageincotton",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                42,
+                                871,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        42,
+                                        871,
+                                        63
+                                    ],
+                                    "score": 0.986,
+                                    "content": "production.Inthelasttwentyyears,theshareofSSAinworldcottonexports increasedfrom6.9percentto17.3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                59,
+                                851,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        59,
+                                        851,
+                                        87
+                                    ],
+                                    "score": 0.974,
+                                    "content": "percent.Theincreasewasmodest(from2.0to2.1percent)inGhana,TanzaniaandZimbabwe,butitwasvery",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                874,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        874,
+                                        107
+                                    ],
+                                    "score": 0.974,
+                                    "content": "large(from2.4to9.4percent)inBenin,BurkinaFaso,CotedvoireandMali.Folowingthecrisesencounteredby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                103,
+                                869,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        103,
+                                        869,
+                                        126
+                                    ],
+                                    "score": 0.991,
+                                    "content": "severalpublicmonopolies,reformswereundertakentoimprovethecompetitivepositionofthecottonsectors.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                861,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        861,
+                                        147
+                                    ],
+                                    "score": 0.97,
+                                    "content": "However,asshowninthisreport,notallreformsweresuccessul.IntheFrancophonecountries,therewasno",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                142,
+                                875,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        142,
+                                        875,
+                                        168
+                                    ],
+                                    "score": 0.995,
+                                    "content": "competitiononpricepaidtogrowers,buttheginningandinputsectorshavebeenprivatizedtovariousdegrees",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                164,
+                                872,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        164,
+                                        872,
+                                        184
+                                    ],
+                                    "score": 0.994,
+                                    "content": "inthelasttenyears.ReformsaremuchmoreadvancedinBeninthaninBurkinaFaso,butresultswerenobetter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                182,
+                                847,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        182,
+                                        847,
+                                        205
+                                    ],
+                                    "score": 0.983,
+                                    "content": "inBenin;asamatteroffact,followingthedevaluationoftheCFAfrancinJanuary1994,productionincreased",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                203,
+                                856,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        203,
+                                        856,
+                                        226
+                                    ],
+                                    "score": 0.993,
+                                    "content": "fasterinBurkinaFasothaninBenin.InthethreeAnglophonecountries,thecottonsectorhasbeenliberalized",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                866,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        866,
+                                        245
+                                    ],
+                                    "score": 0.955,
+                                    "content": "since1985inGhana，1994inTanzania,and1995inZimbabwe.Theliberalizationwasinitiallasuccessbutitdid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                243,
+                                859,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        243,
+                                        859,
+                                        266
+                                    ],
+                                    "score": 0.992,
+                                    "content": "notlast.InGhanaandTanzania,productionandyieldsarenowlowerthantheyweretenyearsago.InBurkina",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                851,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        851,
+                                        287
+                                    ],
+                                    "score": 0.969,
+                                    "content": "Faso,SOFITEXstillhasamonopolyforthepurchaseofseedcoton,butproducersacquired30percentofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                282,
+                                861,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        282,
+                                        861,
+                                        308
+                                    ],
+                                    "score": 0.983,
+                                    "content": "company'ssharesin1999andobtainedamajorityinthecommitteeresponsiblefortheselectionofinput bids.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                300,
+                                858,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        300,
+                                        858,
+                                        327
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Producersparticipateinthemanagementofthesectorandrelationsbetweenvariousstakeholdersaregood;",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                321,
+                                841,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        321,
+                                        841,
+                                        346
+                                    ],
+                                    "score": 0.977,
+                                    "content": "however,producers'associationsremainfragile.InCotedTvoire,the CIDTwassplitinto threecompaniesof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                344,
+                                807,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        344,
+                                        807,
+                                        367
+                                    ],
+                                    "score": 0.989,
+                                    "content": "comparablesizein1998and,afteratwo-yeartransitionperiod,thetwonewprivatecompaniesandthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                364,
+                                856,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        364,
+                                        856,
+                                        387
+                                    ],
+                                    "score": 0.992,
+                                    "content": "remainingpartoftheCIDThavebeenoperating independently.Oneofthetwonewcompanieswasmanaged",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                382,
+                                867,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        382,
+                                        867,
+                                        408
+                                    ],
+                                    "score": 0.989,
+                                    "content": "beterthantheoldCIDT,buttheotherwasnot.Conflictsamongstakeholderswerefrequent;theywerefuelled",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                402,
+                                865,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        402,
+                                        865,
+                                        430
+                                    ],
+                                    "score": 0.982,
+                                    "content": "bythenorth-southpoliticalconflictwhichbecameopenconflicts towardtheendof2oo2andledtoaconfused",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                423,
+                                876,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        423,
+                                        876,
+                                        448
+                                    ],
+                                    "score": 0.978,
+                                    "content": "situationin2003.InBenin,privatizationstartedwiththeprovisionofinputsin1992andincludedginningin1995.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                444,
+                                845,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        444,
+                                        845,
+                                        467
+                                    ],
+                                    "score": 0.979,
+                                    "content": "Thesequenceofmeasureswas not alwayswelldesigned andanumberofproblems soonemerged.Mostof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                461,
+                                868,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        461,
+                                        868,
+                                        488
+                                    ],
+                                    "score": 0.992,
+                                    "content": "thosehavenowbeensolved,notablybyestablishingaclearinghouseforallfinancialtransactionsofthesector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                486,
+                                875,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        486,
+                                        875,
+                                        506
+                                    ],
+                                    "score": 0.994,
+                                    "content": "(CSPR);butthesectorremainsheavilyregulated.Producerpricesarefixedfortheentirecountryandannounced",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                501,
+                                802,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        501,
+                                        802,
+                                        530
+                                    ],
+                                    "score": 0.981,
+                                    "content": "atthebeginning ofthemarketingseason,asinthepast.Witheight cottoncompanies,surplus ginning",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                524,
+                                864,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        524,
+                                        864,
+                                        547
+                                    ],
+                                    "score": 0.966,
+                                    "content": "capacities,andnocompetitiontoclearthemarket,anewdistributionsystemhadtobedesigned.Asaresult,a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                542,
+                                829,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        542,
+                                        829,
+                                        568
+                                    ],
+                                    "score": 0.995,
+                                    "content": "professionalassociation1alocatesquotastoeachcompanyonthebasisofitsinstalledcapacityandeach",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                563,
+                                827,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        563,
+                                        827,
+                                        588
+                                    ],
+                                    "score": 0.987,
+                                    "content": "companyistoldwheretobuyitscotton.InGhana,thecottonsectorwasliberalizedin1985andthis hada",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                582,
+                                857,
+                                609
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        582,
+                                        857,
+                                        609
+                                    ],
+                                    "score": 0.988,
+                                    "content": "stimulatingeffect.However,productionreachedapeakin1998/99anddeclinedsteadilyafterward.Freeentry",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                603,
+                                827,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        603,
+                                        827,
+                                        626
+                                    ],
+                                    "score": 0.969,
+                                    "content": "ledtowidespreadpoachingandthevirtualcollapseofinputcredits.2InMarch2002,Ghana had12cotton",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                623,
+                                880,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        623,
+                                        880,
+                                        649
+                                    ],
+                                    "score": 0.994,
+                                    "content": "companieswiththreemoreapplyingforregistrationwhiletheproductionofseedcottonhadfallento15,0001L",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                643,
+                                827,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        643,
+                                        827,
+                                        669
+                                    ],
+                                    "score": 0.965,
+                                    "content": "Association Interprofessionnelledu Coton(ACI) includesallmajorstakeholdersof thecottonsector:input",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                662,
+                                843,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        662,
+                                        843,
+                                        689
+                                    ],
+                                    "score": 0.98,
+                                    "content": "suppliers,producers'associations,ginneries,manufacturersandtransporters.2Poachingisawayofselling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                682,
+                                672,
+                                709
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        682,
+                                        672,
+                                        709
+                                    ],
+                                    "score": 0.97,
+                                    "content": "seed cotton without clearing the input credit obtained for producing theseed cotton.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5,
+                    "bbox_fs": [
+                        14,
+                        20,
+                        880,
+                        709
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

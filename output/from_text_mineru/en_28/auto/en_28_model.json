@@ -1,0 +1,565 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    54,
+                    0,
+                    2442,
+                    0,
+                    2442,
+                    2064,
+                    54,
+                    2064
+                ],
+                "score": 0.891
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    57.0,
+                    2349.0,
+                    57.0,
+                    2349.0,
+                    128.0,
+                    40.0,
+                    128.0
+                ],
+                "score": 0.953,
+                "text": "supplyexpressedasamountoffoodperbird,ispoor.Whetherornotwewillobservethepredictedpositive"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    120.0,
+                    2347.0,
+                    120.0,
+                    2347.0,
+                    178.0,
+                    46.0,
+                    178.0
+                ],
+                "score": 0.993,
+                "text": "correlation betweenreturnrateandamountoffoodperbirddependsonthetimescaleoverwhichthelocal"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    167.0,
+                    2422.0,
+                    167.0,
+                    2422.0,
+                    243.0,
+                    38.0,
+                    243.0
+                ],
+                "score": 0.995,
+                "text": "populationbecomesadjustedtoaloweredorincreasedfoodsupply.Ifthepopulationbecomesadjustedwithin"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    219.0,
+                    2383.0,
+                    219.0,
+                    2383.0,
+                    301.0,
+                    38.0,
+                    301.0
+                ],
+                "score": 0.98,
+                "text": "asinglewinter,wewillnotobserveasignificantcorrelationbetweenreturnrateandfoodsupply.Inthatcase,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    280.0,
+                    2276.0,
+                    280.0,
+                    2276.0,
+                    350.0,
+                    40.0,
+                    350.0
+                ],
+                "score": 0.981,
+                "text": "thereturnratewillnotdependonthemismatch betweenthenumberofbirdsandthefoodsupplyinthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    337.0,
+                    2427.0,
+                    337.0,
+                    2427.0,
+                    402.0,
+                    43.0,
+                    402.0
+                ],
+                "score": 0.993,
+                "text": "currentyear,butonthedifferencebetweenthefoodstockinthecurrentyearandthenextyear.If,ontheother"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    392.0,
+                    2445.0,
+                    392.0,
+                    2445.0,
+                    465.0,
+                    43.0,
+                    465.0
+                ],
+                "score": 0.968,
+                "text": "hand,adjustmenttakesmanyyears,asseemstobethecasefortheoystercatchersintheDutchWaddenSea,we"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    450.0,
+                    2422.0,
+                    450.0,
+                    2422.0,
+                    515.0,
+                    43.0,
+                    515.0
+                ],
+                "score": 0.969,
+                "text": "maynotobserveacorrelationeither.Theslowresponseof theoystercatchersinthe DutchWaddenSeamaybe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    502.0,
+                    2448.0,
+                    502.0,
+                    2448.0,
+                    575.0,
+                    43.0,
+                    575.0
+                ],
+                "score": 0.996,
+                "text": "explainedbythefactthattheycomprisemorethanhalfofthecontinentalEuropeanpopulation(Goss-Custardet"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    554.0,
+                    2331.0,
+                    554.0,
+                    2331.0,
+                    633.0,
+                    41.0,
+                    633.0
+                ],
+                "score": 0.971,
+                "text": "al.,1996a).Thus,changesintheWaddenSeapopulationwillbelargelydeterminedbynatalityandmortality"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    617.0,
+                    2357.0,
+                    617.0,
+                    2357.0,
+                    682.0,
+                    43.0,
+                    682.0
+                ],
+                "score": 0.986,
+                "text": "insteadofimmigrationandemigration.Bothnatalityandmortalityarelowinthelong-livedoystercatcher,so"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    672.0,
+                    2352.0,
+                    672.0,
+                    2352.0,
+                    737.0,
+                    48.0,
+                    737.0
+                ],
+                "score": 0.99,
+                "text": "adjustmentwillbeslow,exceptwhenextremeeventscausehighmortality.Thus,theabsenceofasignificant"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    724.0,
+                    2427.0,
+                    724.0,
+                    2427.0,
+                    795.0,
+                    40.0,
+                    795.0
+                ],
+                "score": 0.996,
+                "text": "correlationcannotbetakenasevidencethatthepopulationdoesnotrespondtochangesinthesizeofthefood"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    784.0,
+                    2422.0,
+                    784.0,
+                    2422.0,
+                    850.0,
+                    46.0,
+                    850.0
+                ],
+                "score": 0.992,
+                "text": "stock.Uncertaintyintheestimatesofthepopulationsize,relatedtoimputing,posesanadditionalproblem.The"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    839.0,
+                    2245.0,
+                    839.0,
+                    2245.0,
+                    905.0,
+                    46.0,
+                    905.0
+                ],
+                "score": 0.996,
+                "text": "estimatedtrendinthetotalnumberofwinteringoystercatchersisquiterobusttotheprecisedetailsof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    894.0,
+                    2352.0,
+                    894.0,
+                    2352.0,
+                    960.0,
+                    46.0,
+                    960.0
+                ],
+                "score": 0.991,
+                "text": "imputing.However,returnratedependsonthediferenceinnumbersbetweentwoconsecutiveyears.Since"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    952.0,
+                    2419.0,
+                    952.0,
+                    2419.0,
+                    1017.0,
+                    48.0,
+                    1017.0
+                ],
+                "score": 0.987,
+                "text": "oystercatcherspopulationnumbersgenerallychangeslowlyovertheyears,thisdiferenceisgenerallysmal.As"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1009.0,
+                    2388.0,
+                    1009.0,
+                    2388.0,
+                    1067.0,
+                    46.0,
+                    1067.0
+                ],
+                "score": 0.991,
+                "text": "aresult,smalldifferencesintheestimatedtotalnumberofoystercatchers,whichdonotmatterfortheoverall"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1062.0,
+                    2313.0,
+                    1062.0,
+                    2313.0,
+                    1127.0,
+                    43.0,
+                    1127.0
+                ],
+                "score": 0.991,
+                "text": "trend,canhaveabigeffectontheestimatedreturnrate.Accordingtorecentinsightsitisbettertoimpute"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1111.0,
+                    2347.0,
+                    1111.0,
+                    2347.0,
+                    1187.0,
+                    40.0,
+                    1187.0
+                ],
+                "score": 0.988,
+                "text": "missingdataonthebasisofindividualcountingsitesandnotfirstclustering thesecountingsitesinto larger"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1171.0,
+                    2378.0,
+                    1171.0,
+                    2378.0,
+                    1234.0,
+                    43.0,
+                    1234.0
+                ],
+                "score": 0.976,
+                "text": "units(Soldaatetal.,2Oo4).Preliminarycalculationsindicatethatreturnrateisquitesensitivetothemethodof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1224.0,
+                    2399.0,
+                    1224.0,
+                    2399.0,
+                    1294.0,
+                    40.0,
+                    1294.0
+                ],
+                "score": 0.991,
+                "text": "imputingandthatthenewmethodadoptedbySOvONleadstopoorercorrelationsfortheDutchWaddenSea"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1284.0,
+                    2427.0,
+                    1284.0,
+                    2427.0,
+                    1349.0,
+                    46.0,
+                    1349.0
+                ],
+                "score": 0.99,
+                "text": "thanthecorrelationdepictedinFigure7411.Giventheuncertaintiessurroundingtheestimateofreturnratefor"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1336.0,
+                    2167.0,
+                    1336.0,
+                    2167.0,
+                    1402.0,
+                    46.0,
+                    1402.0
+                ],
+                "score": 0.991,
+                "text": "theDutchWaddenSea,itwasnecessarytoinvestmosteffortindevelopingamodeldescribing how"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    1394.0,
+                    2271.0,
+                    1394.0,
+                    2271.0,
+                    1459.0,
+                    48.0,
+                    1459.0
+                ],
+                "score": 0.999,
+                "text": "oystercatchersdepleteagivenfoodstockandwhethertheyarestressedforfoodintheprocess.Ashort"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1446.0,
+                    2438.0,
+                    1446.0,
+                    2438.0,
+                    1517.0,
+                    43.0,
+                    1517.0
+                ],
+                "score": 0.983,
+                "text": "descriptionof themodel,includingthemostimportantparametersandassumptionsisprovidedinsection1.5.7."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    1498.0,
+                    2412.0,
+                    1498.0,
+                    2412.0,
+                    1574.0,
+                    38.0,
+                    1574.0
+                ],
+                "score": 0.967,
+                "text": "Foradetailedaccountwereferto(Rappoldtetal.,2oo3d).Theamountoffoodstresscalculatedwiththemodel"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1561.0,
+                    2326.0,
+                    1561.0,
+                    2326.0,
+                    1626.0,
+                    43.0,
+                    1626.0
+                ],
+                "score": 0.988,
+                "text": "increaseswithadecreasingfoodsupply.Inaddition,andasexpected,thereturnrate11Theproblemswith"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1619.0,
+                    2149.0,
+                    1619.0,
+                    2149.0,
+                    1684.0,
+                    46.0,
+                    1684.0
+                ],
+                "score": 0.996,
+                "text": "estimatingreturnrateintheDutchWaddenSeadonotapplytotheOosterschelde.First,theentire"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1668.0,
+                    2425.0,
+                    1668.0,
+                    2425.0,
+                    1742.0,
+                    43.0,
+                    1742.0
+                ],
+                "score": 0.981,
+                "text": "Oosterscheldeiscounted everymonth,sotheextentofimputing neededissmallcomparedtotheWaddenSea."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1728.0,
+                    2271.0,
+                    1728.0,
+                    2271.0,
+                    1794.0,
+                    46.0,
+                    1794.0
+                ],
+                "score": 0.992,
+                "text": "Second,theOosterscheldeismuchsmaller,sochangesinnumbersbetweenyearsmaydependmoreon"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1778.0,
+                    2393.0,
+                    1778.0,
+                    2393.0,
+                    1857.0,
+                    43.0,
+                    1857.0
+                ],
+                "score": 0.989,
+                "text": "immigrationandemigrationthanmortalityandreproduction.Thus,adjustmenttoachangedfoodsupplymay"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1836.0,
+                    2323.0,
+                    1836.0,
+                    2323.0,
+                    1909.0,
+                    40.0,
+                    1909.0
+                ],
+                "score": 0.991,
+                "text": "occuronashortertimescalecomparedtotheWaddenSea.Thismayexplainwhytherelationshipbetween"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1896.0,
+                    2230.0,
+                    1896.0,
+                    2230.0,
+                    1961.0,
+                    43.0,
+                    1961.0
+                ],
+                "score": 0.986,
+                "text": "returnrateontheonehandandfood supplyandfoodstressontheotherhandismuchtighterforthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1943.0,
+                    2235.0,
+                    1943.0,
+                    2235.0,
+                    2019.0,
+                    40.0,
+                    2019.0
+                ],
+                "score": 0.982,
+                "text": "OosterscheldethanfortheWaddenSea.114Alterra-rapport1011;RIVO-rapportC056/04;RIKZ-rapport"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    2006.0,
+                    345.0,
+                    2006.0,
+                    345.0,
+                    2063.0,
+                    46.0,
+                    2063.0
+                ],
+                "score": 0.999,
+                "text": "RKZ/2004.031"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 2089
+        }
+    }
+]

@@ -1,0 +1,2732 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        94,
+                        883,
+                        907
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                100,
+                                859,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        100,
+                                        859,
+                                        128
+                                    ],
+                                    "score": 0.968,
+                                    "content": "Ampliconsequencing usingnextrevealedalmostthesameconclusion,i.e.,Bacilusandgenerationtechnology",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                873,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        79,
+                                        147
+                                    ],
+                                    "score": 0.973,
+                                    "content": "(bTEFAP",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        79,
+                                        124,
+                                        94,
+                                        141
+                                    ],
+                                    "score": 0.37,
+                                    "content": "\\textcircled{8}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        95,
+                                        121,
+                                        873,
+                                        147
+                                    ],
+                                    "score": 0.993,
+                                    "content": "wasusedtoanalyzeBacillus-related generaarethemaingenerainhotsprings.thewatersamplesas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                143,
+                                842,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        143,
+                                        842,
+                                        167
+                                    ],
+                                    "score": 0.988,
+                                    "content": "describedpreviously[14].Briefly，Forinstance,atotalof79bacterialisolatesdominatedbythe16Suniversal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                164,
+                                874,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        164,
+                                        874,
+                                        187
+                                    ],
+                                    "score": 0.986,
+                                    "content": "eubacterialprimers515Fthegenus Bacilluswereobtainedfromfour hotspringsin(GTGCCAGCMGCCGCGGTAA)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                182,
+                                862,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        182,
+                                        862,
+                                        208
+                                    ],
+                                    "score": 0.986,
+                                    "content": "and806RMorocco[10].Inanotherstudy,acollectionof161strains(GGACTACHVGGGTWTCTAAT)wereusedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                203,
+                                859,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        203,
+                                        859,
+                                        227
+                                    ],
+                                    "score": 0.973,
+                                    "content": "evaluateof thermophilicBaciluswerealso isolatedfromTunisian thespeciesrichnessandabundanceof each",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                224,
+                                849,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        224,
+                                        849,
+                                        248
+                                    ],
+                                    "score": 0.982,
+                                    "content": "samplehotsprings[11].Additionally，differentIndianhotspringsincludingthegenusBacilusontheIllumina",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                244,
+                                847,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        244,
+                                        726,
+                                        267
+                                    ],
+                                    "score": 0.972,
+                                    "content": "MiSeqwithwerestudiedand several strainsbelongingtothe generamethods viathe bTEFAP",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        726,
+                                        245,
+                                        742,
+                                        262
+                                    ],
+                                    "score": 0.66,
+                                    "content": "\\textcircled{8}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        742,
+                                        244,
+                                        847,
+                                        267
+                                    ],
+                                    "score": 0.999,
+                                    "content": "DNAanalysis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                264,
+                                862,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        264,
+                                        862,
+                                        288
+                                    ],
+                                    "score": 0.973,
+                                    "content": "service.TheBacillusandGeobacilluswereisolated[12,13].PCRusing HotStarTaqplusMasterMixKit(Qiagen,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                284,
+                                863,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        284,
+                                        863,
+                                        310
+                                    ],
+                                    "score": 0.9,
+                                    "content": "Recently，wehaveappliedaculture-independentValencia,CA)wasdoneasdesribedpreviously[14].approach",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                302,
+                                854,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        302,
+                                        854,
+                                        330
+                                    ],
+                                    "score": 0.975,
+                                    "content": "torevealthemicrobialdiversityinJordanianhotSamplesweresequencedutilizingtheIlluminaMiSeq springs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                324,
+                                842,
+                                350
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        324,
+                                        842,
+                                        350
+                                    ],
+                                    "score": 0.99,
+                                    "content": "representedbyMa'inandAfrahotsprings[14].chemistryfollowingmanufacturer'sprotocols.TheQ25Asa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                344,
+                                824,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        344,
+                                        824,
+                                        370
+                                    ],
+                                    "score": 0.982,
+                                    "content": "spinoff ofthisstudy,importantdataaboutthesequencedataderivedfromthesequencing processwere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                365,
+                                832,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        365,
+                                        832,
+                                        387
+                                    ],
+                                    "score": 0.998,
+                                    "content": "diversityofcertaingenerabecameavailable.Inthisprocessedusingaproprietaryanalysispipelinecurrent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                384,
+                                875,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        384,
+                                        875,
+                                        407
+                                    ],
+                                    "score": 0.906,
+                                    "content": "study,weaimedprimarilytoreviewtheabundance(www.mrdnalab.com,MRDNA,Shallwater,TX).ofthegenus",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                405,
+                                878,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        405,
+                                        878,
+                                        428
+                                    ],
+                                    "score": 0.988,
+                                    "content": "BacillusinJordanianhotsprings(MainlyMa'inandAfrasprings)basedonthesedatageneratedbyDataAnalysis:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                424,
+                                847,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        424,
+                                        847,
+                                        449
+                                    ],
+                                    "score": 0.996,
+                                    "content": "VisualizationandanalysisofresultswastheIluminaMiSeqwhichwasnotutilizedbeforeforthisdoneusing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                442,
+                                848,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        442,
+                                        848,
+                                        470
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Kronasoftware.Kronasoftwareallowspurpose.Secondly,thespeciescompositionofthegenushierarchical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                464,
+                                840,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        464,
+                                        840,
+                                        488
+                                    ],
+                                    "score": 0.974,
+                                    "content": "datatobeexploredwith zooming,Bacilluswould bedetermined becausemost studiesdidmulti-layered pie",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                483,
+                                873,
+                                508
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        483,
+                                        873,
+                                        508
+                                    ],
+                                    "score": 0.997,
+                                    "content": "charts.MicrosoftExcel2010wasalsonotidentifythethermophilic/thermotolerantBacillususedtogeneratethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                502,
+                                861,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        502,
+                                        861,
+                                        530
+                                    ],
+                                    "score": 0.99,
+                                    "content": "abundancecharts.isolatestothespecieslevel.MATERIALSANDMETHODSThenewfindingsinthisstudywere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                523,
+                                867,
+                                552
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        523,
+                                        867,
+                                        552
+                                    ],
+                                    "score": 0.998,
+                                    "content": "generatedfromunpublishedmetagenomicdataemergedfromarecentpublishedworkdonebyourgroupon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                543,
+                                846,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        543,
+                                        846,
+                                        569
+                                    ],
+                                    "score": 0.982,
+                                    "content": "samplesobtainedfromMa'inandAfrahotsprings[14].Samplingof HotSpringsWater:Watersampleswere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                564,
+                                857,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        564,
+                                        857,
+                                        588
+                                    ],
+                                    "score": 0.977,
+                                    "content": "collectedfromfourJordanianhotsprings;threesampleswerecollectedfromMa'inhotsprings(HS1,HS2and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                584,
+                                873,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        584,
+                                        873,
+                                        608
+                                    ],
+                                    "score": 0.962,
+                                    "content": "HS3)andonesamplefromAfrahotsprings(HS4)asmentioned before[14].Samplecolectionwas cariedout in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                601,
+                                847,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        601,
+                                        847,
+                                        632
+                                    ],
+                                    "score": 0.983,
+                                    "content": "June,2015asmentionedpreviouslybyourgroupandtheinsitutemperatureofwaterrangedbetween38to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                623,
+                                867,
+                                650
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        625,
+                                        55,
+                                        644
+                                    ],
+                                    "score": 0.86,
+                                    "content": "5 9 ^ { \\circ } \\mathsf { C }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        56,
+                                        623,
+                                        867,
+                                        650
+                                    ],
+                                    "score": 0.993,
+                                    "content": "whereasthepHvaluesrangedbetween7.4to8.4[14].DNAIsolation:DNAwasisolatedasdescribedbefore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                646,
+                                776,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        646,
+                                        485,
+                                        668
+                                    ],
+                                    "score": 0.99,
+                                    "content": "[14],briefly,watersampleswerefilteredundervacuumusing",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        486,
+                                        646,
+                                        531,
+                                        666
+                                    ],
+                                    "score": 0.6,
+                                    "content": "0 . 2 \\mathsf { m } \\cdot",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        531,
+                                        646,
+                                        776,
+                                        668
+                                    ],
+                                    "score": 0.997,
+                                    "content": "nitrocellulosemembranes.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                664,
+                                837,
+                                691
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        664,
+                                        788,
+                                        691
+                                    ],
+                                    "score": 0.973,
+                                    "content": "nitrocellulosemembranescontaining the trappedcelswerecutintopiecesand transferred tosterile",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        788,
+                                        666,
+                                        837,
+                                        686
+                                    ],
+                                    "score": 0.39,
+                                    "content": "5 0 ~ \\mathrm { m L }",
+                                    "type": "inline_equation"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                685,
+                                874,
+                                709
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        685,
+                                        407,
+                                        709
+                                    ],
+                                    "score": 0.992,
+                                    "content": "centrifugetube.TheE.Z.N.AWaterDNAkit(Omega",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        407,
+                                        687,
+                                        424,
+                                        704
+                                    ],
+                                    "score": 0.78,
+                                    "content": "\\textcircled{8}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        424,
+                                        685,
+                                        874,
+                                        709
+                                    ],
+                                    "score": 0.995,
+                                    "content": "RESULTSAbundanceoftheGenusBacillus:Theabundance",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                705,
+                                841,
+                                729
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        705,
+                                        841,
+                                        729
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ofthegenusBacilluswithinthefamily Bacillaceaewasdeterminedrelativetodifferenttaxonomiclevels.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                726,
+                                874,
+                                750
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        726,
+                                        757,
+                                        750
+                                    ],
+                                    "score": 0.988,
+                                    "content": "genusBacilluswasfoundpredominatingthefamilyBacilaceaeinthreesamplesoutoffour(HS2,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        757,
+                                        727,
+                                        793,
+                                        747
+                                    ],
+                                    "score": 0.46,
+                                    "content": "8 4 \\% \\cdot",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        794,
+                                        726,
+                                        834,
+                                        750
+                                    ],
+                                    "score": 0.973,
+                                    "content": "HS3,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        834,
+                                        727,
+                                        869,
+                                        747
+                                    ],
+                                    "score": 0.66,
+                                    "content": "7 7 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        870,
+                                        726,
+                                        874,
+                                        750
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                745,
+                                865,
+                                769
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        745,
+                                        88,
+                                        769
+                                    ],
+                                    "score": 0.921,
+                                    "content": "and HS4,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        747,
+                                        123,
+                                        766
+                                    ],
+                                    "score": 0.47,
+                                    "content": "6 1 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        123,
+                                        745,
+                                        865,
+                                        769
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Table1).However,insampleHS1,thegenusBacilluswasfoundtobethesecondmostabundant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                766,
+                                825,
+                                792
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        766,
+                                        72,
+                                        792
+                                    ],
+                                    "score": 0.998,
+                                    "content": "genus",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        72,
+                                        768,
+                                        110,
+                                        787
+                                    ],
+                                    "score": 0.72,
+                                    "content": "( 2 2 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        110,
+                                        766,
+                                        825,
+                                        792
+                                    ],
+                                    "score": 0.984,
+                                    "content": "Table1).Theabundanceof Baciluswasalsocalculatedrelativetohighertaxa.Thegenuswas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                788,
+                                874,
+                                809
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        788,
+                                        552,
+                                        809
+                                    ],
+                                    "score": 0.993,
+                                    "content": "dominatingattheorderBacillalesandclassBacilli) onlyincaseofHS2",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        552,
+                                        788,
+                                        591,
+                                        807
+                                    ],
+                                    "score": 0.51,
+                                    "content": "( 6 4 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        592,
+                                        788,
+                                        874,
+                                        809
+                                    ],
+                                    "score": 0.983,
+                                    "content": ".However,theabundancewaslower",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                807,
+                                876,
+                                831
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        807,
+                                        72,
+                                        831
+                                    ],
+                                    "score": 0.987,
+                                    "content": "inHS1",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        72,
+                                        807,
+                                        112,
+                                        827
+                                    ],
+                                    "score": 0.67,
+                                    "content": "( 1 8 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        113,
+                                        807,
+                                        154,
+                                        831
+                                    ],
+                                    "score": 0.946,
+                                    "content": ",HS3",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        154,
+                                        808,
+                                        195,
+                                        826
+                                    ],
+                                    "score": 0.5,
+                                    "content": "( 4 7 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        807,
+                                        269,
+                                        831
+                                    ],
+                                    "score": 0.985,
+                                    "content": "andHS4",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        270,
+                                        807,
+                                        306,
+                                        826
+                                    ],
+                                    "score": 0.56,
+                                    "content": "( 3 9 \\% \\cdot",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        807,
+                                        830,
+                                        831
+                                    ],
+                                    "score": 0.985,
+                                    "content": "Table1).AtthelevelofthephylumFirmicutes,thegenusconstituted",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        830,
+                                        807,
+                                        856,
+                                        826
+                                    ],
+                                    "score": 0.76,
+                                    "content": "7 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        856,
+                                        807,
+                                        876,
+                                        831
+                                    ],
+                                    "score": 0.997,
+                                    "content": "in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                825,
+                                858,
+                                850
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        825,
+                                        55,
+                                        850
+                                    ],
+                                    "score": 0.97,
+                                    "content": "HS1,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        55,
+                                        828,
+                                        90,
+                                        846
+                                    ],
+                                    "score": 0.76,
+                                    "content": "4 1 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        90,
+                                        825,
+                                        146,
+                                        850
+                                    ],
+                                    "score": 0.925,
+                                    "content": "inHs2,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        146,
+                                        828,
+                                        181,
+                                        846
+                                    ],
+                                    "score": 0.65,
+                                    "content": "3 1 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        181,
+                                        825,
+                                        266,
+                                        850
+                                    ],
+                                    "score": 0.94,
+                                    "content": "in HS3and",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        267,
+                                        828,
+                                        300,
+                                        846
+                                    ],
+                                    "score": 0.8,
+                                    "content": "3 3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        825,
+                                        858,
+                                        850
+                                    ],
+                                    "score": 0.981,
+                                    "content": "inHS4(Table1).Relativetothedomainof Bacteria,theabundanceof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                844,
+                                870,
+                                870
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        844,
+                                        266,
+                                        870
+                                    ],
+                                    "score": 0.943,
+                                    "content": "genuswas foundtobeverylow:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        267,
+                                        847,
+                                        292,
+                                        865
+                                    ],
+                                    "score": 0.75,
+                                    "content": "2 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        292,
+                                        844,
+                                        358,
+                                        870
+                                    ],
+                                    "score": 0.982,
+                                    "content": "(inHS1),",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        358,
+                                        847,
+                                        384,
+                                        865
+                                    ],
+                                    "score": 0.72,
+                                    "content": "3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        384,
+                                        844,
+                                        450,
+                                        870
+                                    ],
+                                    "score": 0.979,
+                                    "content": "(inHS2),",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        450,
+                                        847,
+                                        489,
+                                        866
+                                    ],
+                                    "score": 0.8,
+                                    "content": "0 . 5 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        489,
+                                        844,
+                                        585,
+                                        870
+                                    ],
+                                    "score": 0.98,
+                                    "content": "(inHS3)and",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        585,
+                                        847,
+                                        610,
+                                        865
+                                    ],
+                                    "score": 0.57,
+                                    "content": "1 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        610,
+                                        844,
+                                        870,
+                                        870
+                                    ],
+                                    "score": 0.994,
+                                    "content": "(inHS4;Table1).BecauseBacillus",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                865,
+                                867,
+                                891
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        865,
+                                        867,
+                                        891
+                                    ],
+                                    "score": 0.982,
+                                    "content": "wasnotthedominant genuswithinthefamilyBacillaceaeinHS1,furtherinvestigationwascarriedouttoclarify",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                884,
+                                551,
+                                911
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        884,
+                                        551,
+                                        911
+                                    ],
+                                    "score": 0.998,
+                                    "content": "therelativeabundanceofgeneraotherthanBacilluswithinthefamily",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                920
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        94,
+                        883,
+                        907
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                100,
+                                859,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        100,
+                                        859,
+                                        128
+                                    ],
+                                    "score": 0.968,
+                                    "content": "Ampliconsequencing usingnextrevealedalmostthesameconclusion,i.e.,Bacilusandgenerationtechnology",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                873,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        79,
+                                        147
+                                    ],
+                                    "score": 0.973,
+                                    "content": "(bTEFAP",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        79,
+                                        124,
+                                        94,
+                                        141
+                                    ],
+                                    "score": 0.37,
+                                    "content": "\\textcircled{8}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        95,
+                                        121,
+                                        873,
+                                        147
+                                    ],
+                                    "score": 0.993,
+                                    "content": "wasusedtoanalyzeBacillus-related generaarethemaingenerainhotsprings.thewatersamplesas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                143,
+                                842,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        143,
+                                        842,
+                                        167
+                                    ],
+                                    "score": 0.988,
+                                    "content": "describedpreviously[14].Briefly，Forinstance,atotalof79bacterialisolatesdominatedbythe16Suniversal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                164,
+                                874,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        164,
+                                        874,
+                                        187
+                                    ],
+                                    "score": 0.986,
+                                    "content": "eubacterialprimers515Fthegenus Bacilluswereobtainedfromfour hotspringsin(GTGCCAGCMGCCGCGGTAA)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                182,
+                                862,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        182,
+                                        862,
+                                        208
+                                    ],
+                                    "score": 0.986,
+                                    "content": "and806RMorocco[10].Inanotherstudy,acollectionof161strains(GGACTACHVGGGTWTCTAAT)wereusedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                203,
+                                859,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        203,
+                                        859,
+                                        227
+                                    ],
+                                    "score": 0.973,
+                                    "content": "evaluateof thermophilicBaciluswerealso isolatedfromTunisian thespeciesrichnessandabundanceof each",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                224,
+                                849,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        224,
+                                        849,
+                                        248
+                                    ],
+                                    "score": 0.982,
+                                    "content": "samplehotsprings[11].Additionally，differentIndianhotspringsincludingthegenusBacilusontheIllumina",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                244,
+                                847,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        244,
+                                        726,
+                                        267
+                                    ],
+                                    "score": 0.972,
+                                    "content": "MiSeqwithwerestudiedand several strainsbelongingtothe generamethods viathe bTEFAP",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        726,
+                                        245,
+                                        742,
+                                        262
+                                    ],
+                                    "score": 0.66,
+                                    "content": "\\textcircled{8}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        742,
+                                        244,
+                                        847,
+                                        267
+                                    ],
+                                    "score": 0.999,
+                                    "content": "DNAanalysis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                264,
+                                862,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        264,
+                                        862,
+                                        288
+                                    ],
+                                    "score": 0.973,
+                                    "content": "service.TheBacillusandGeobacilluswereisolated[12,13].PCRusing HotStarTaqplusMasterMixKit(Qiagen,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                284,
+                                863,
+                                310
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        284,
+                                        863,
+                                        310
+                                    ],
+                                    "score": 0.9,
+                                    "content": "Recently，wehaveappliedaculture-independentValencia,CA)wasdoneasdesribedpreviously[14].approach",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                302,
+                                854,
+                                330
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        302,
+                                        854,
+                                        330
+                                    ],
+                                    "score": 0.975,
+                                    "content": "torevealthemicrobialdiversityinJordanianhotSamplesweresequencedutilizingtheIlluminaMiSeq springs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                324,
+                                842,
+                                350
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        324,
+                                        842,
+                                        350
+                                    ],
+                                    "score": 0.99,
+                                    "content": "representedbyMa'inandAfrahotsprings[14].chemistryfollowingmanufacturer'sprotocols.TheQ25Asa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                344,
+                                824,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        344,
+                                        824,
+                                        370
+                                    ],
+                                    "score": 0.982,
+                                    "content": "spinoff ofthisstudy,importantdataaboutthesequencedataderivedfromthesequencing processwere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                365,
+                                832,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        365,
+                                        832,
+                                        387
+                                    ],
+                                    "score": 0.998,
+                                    "content": "diversityofcertaingenerabecameavailable.Inthisprocessedusingaproprietaryanalysispipelinecurrent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                384,
+                                875,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        384,
+                                        875,
+                                        407
+                                    ],
+                                    "score": 0.906,
+                                    "content": "study,weaimedprimarilytoreviewtheabundance(www.mrdnalab.com,MRDNA,Shallwater,TX).ofthegenus",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                405,
+                                878,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        405,
+                                        878,
+                                        428
+                                    ],
+                                    "score": 0.988,
+                                    "content": "BacillusinJordanianhotsprings(MainlyMa'inandAfrasprings)basedonthesedatageneratedbyDataAnalysis:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                424,
+                                847,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        424,
+                                        847,
+                                        449
+                                    ],
+                                    "score": 0.996,
+                                    "content": "VisualizationandanalysisofresultswastheIluminaMiSeqwhichwasnotutilizedbeforeforthisdoneusing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                442,
+                                848,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        442,
+                                        848,
+                                        470
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Kronasoftware.Kronasoftwareallowspurpose.Secondly,thespeciescompositionofthegenushierarchical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                464,
+                                840,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        464,
+                                        840,
+                                        488
+                                    ],
+                                    "score": 0.974,
+                                    "content": "datatobeexploredwith zooming,Bacilluswould bedetermined becausemost studiesdidmulti-layered pie",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                483,
+                                873,
+                                508
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        483,
+                                        873,
+                                        508
+                                    ],
+                                    "score": 0.997,
+                                    "content": "charts.MicrosoftExcel2010wasalsonotidentifythethermophilic/thermotolerantBacillususedtogeneratethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                502,
+                                861,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        502,
+                                        861,
+                                        530
+                                    ],
+                                    "score": 0.99,
+                                    "content": "abundancecharts.isolatestothespecieslevel.MATERIALSANDMETHODSThenewfindingsinthisstudywere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                523,
+                                867,
+                                552
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        523,
+                                        867,
+                                        552
+                                    ],
+                                    "score": 0.998,
+                                    "content": "generatedfromunpublishedmetagenomicdataemergedfromarecentpublishedworkdonebyourgroupon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                543,
+                                846,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        543,
+                                        846,
+                                        569
+                                    ],
+                                    "score": 0.982,
+                                    "content": "samplesobtainedfromMa'inandAfrahotsprings[14].Samplingof HotSpringsWater:Watersampleswere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                564,
+                                857,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        564,
+                                        857,
+                                        588
+                                    ],
+                                    "score": 0.977,
+                                    "content": "collectedfromfourJordanianhotsprings;threesampleswerecollectedfromMa'inhotsprings(HS1,HS2and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                584,
+                                873,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        584,
+                                        873,
+                                        608
+                                    ],
+                                    "score": 0.962,
+                                    "content": "HS3)andonesamplefromAfrahotsprings(HS4)asmentioned before[14].Samplecolectionwas cariedout in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                601,
+                                847,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        601,
+                                        847,
+                                        632
+                                    ],
+                                    "score": 0.983,
+                                    "content": "June,2015asmentionedpreviouslybyourgroupandtheinsitutemperatureofwaterrangedbetween38to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                623,
+                                867,
+                                650
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        625,
+                                        55,
+                                        644
+                                    ],
+                                    "score": 0.86,
+                                    "content": "5 9 ^ { \\circ } \\mathsf { C }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        56,
+                                        623,
+                                        867,
+                                        650
+                                    ],
+                                    "score": 0.993,
+                                    "content": "whereasthepHvaluesrangedbetween7.4to8.4[14].DNAIsolation:DNAwasisolatedasdescribedbefore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                646,
+                                776,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        646,
+                                        485,
+                                        668
+                                    ],
+                                    "score": 0.99,
+                                    "content": "[14],briefly,watersampleswerefilteredundervacuumusing",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        486,
+                                        646,
+                                        531,
+                                        666
+                                    ],
+                                    "score": 0.6,
+                                    "content": "0 . 2 \\mathsf { m } \\cdot",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        531,
+                                        646,
+                                        776,
+                                        668
+                                    ],
+                                    "score": 0.997,
+                                    "content": "nitrocellulosemembranes.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                664,
+                                837,
+                                691
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        664,
+                                        788,
+                                        691
+                                    ],
+                                    "score": 0.973,
+                                    "content": "nitrocellulosemembranescontaining the trappedcelswerecutintopiecesand transferred tosterile",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        788,
+                                        666,
+                                        837,
+                                        686
+                                    ],
+                                    "score": 0.39,
+                                    "content": "5 0 ~ \\mathrm { m L }",
+                                    "type": "inline_equation"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                685,
+                                874,
+                                709
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        685,
+                                        407,
+                                        709
+                                    ],
+                                    "score": 0.992,
+                                    "content": "centrifugetube.TheE.Z.N.AWaterDNAkit(Omega",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        407,
+                                        687,
+                                        424,
+                                        704
+                                    ],
+                                    "score": 0.78,
+                                    "content": "\\textcircled{8}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        424,
+                                        685,
+                                        874,
+                                        709
+                                    ],
+                                    "score": 0.995,
+                                    "content": "RESULTSAbundanceoftheGenusBacillus:Theabundance",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                705,
+                                841,
+                                729
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        705,
+                                        841,
+                                        729
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ofthegenusBacilluswithinthefamily Bacillaceaewasdeterminedrelativetodifferenttaxonomiclevels.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                726,
+                                874,
+                                750
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        726,
+                                        757,
+                                        750
+                                    ],
+                                    "score": 0.988,
+                                    "content": "genusBacilluswasfoundpredominatingthefamilyBacilaceaeinthreesamplesoutoffour(HS2,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        757,
+                                        727,
+                                        793,
+                                        747
+                                    ],
+                                    "score": 0.46,
+                                    "content": "8 4 \\% \\cdot",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        794,
+                                        726,
+                                        834,
+                                        750
+                                    ],
+                                    "score": 0.973,
+                                    "content": "HS3,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        834,
+                                        727,
+                                        869,
+                                        747
+                                    ],
+                                    "score": 0.66,
+                                    "content": "7 7 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        870,
+                                        726,
+                                        874,
+                                        750
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                745,
+                                865,
+                                769
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        745,
+                                        88,
+                                        769
+                                    ],
+                                    "score": 0.921,
+                                    "content": "and HS4,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        88,
+                                        747,
+                                        123,
+                                        766
+                                    ],
+                                    "score": 0.47,
+                                    "content": "6 1 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        123,
+                                        745,
+                                        865,
+                                        769
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Table1).However,insampleHS1,thegenusBacilluswasfoundtobethesecondmostabundant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                766,
+                                825,
+                                792
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        766,
+                                        72,
+                                        792
+                                    ],
+                                    "score": 0.998,
+                                    "content": "genus",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        72,
+                                        768,
+                                        110,
+                                        787
+                                    ],
+                                    "score": 0.72,
+                                    "content": "( 2 2 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        110,
+                                        766,
+                                        825,
+                                        792
+                                    ],
+                                    "score": 0.984,
+                                    "content": "Table1).Theabundanceof Baciluswasalsocalculatedrelativetohighertaxa.Thegenuswas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                788,
+                                874,
+                                809
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        788,
+                                        552,
+                                        809
+                                    ],
+                                    "score": 0.993,
+                                    "content": "dominatingattheorderBacillalesandclassBacilli) onlyincaseofHS2",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        552,
+                                        788,
+                                        591,
+                                        807
+                                    ],
+                                    "score": 0.51,
+                                    "content": "( 6 4 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        592,
+                                        788,
+                                        874,
+                                        809
+                                    ],
+                                    "score": 0.983,
+                                    "content": ".However,theabundancewaslower",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                807,
+                                876,
+                                831
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        807,
+                                        72,
+                                        831
+                                    ],
+                                    "score": 0.987,
+                                    "content": "inHS1",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        72,
+                                        807,
+                                        112,
+                                        827
+                                    ],
+                                    "score": 0.67,
+                                    "content": "( 1 8 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        113,
+                                        807,
+                                        154,
+                                        831
+                                    ],
+                                    "score": 0.946,
+                                    "content": ",HS3",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        154,
+                                        808,
+                                        195,
+                                        826
+                                    ],
+                                    "score": 0.5,
+                                    "content": "( 4 7 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        195,
+                                        807,
+                                        269,
+                                        831
+                                    ],
+                                    "score": 0.985,
+                                    "content": "andHS4",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        270,
+                                        807,
+                                        306,
+                                        826
+                                    ],
+                                    "score": 0.56,
+                                    "content": "( 3 9 \\% \\cdot",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        306,
+                                        807,
+                                        830,
+                                        831
+                                    ],
+                                    "score": 0.985,
+                                    "content": "Table1).AtthelevelofthephylumFirmicutes,thegenusconstituted",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        830,
+                                        807,
+                                        856,
+                                        826
+                                    ],
+                                    "score": 0.76,
+                                    "content": "7 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        856,
+                                        807,
+                                        876,
+                                        831
+                                    ],
+                                    "score": 0.997,
+                                    "content": "in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                825,
+                                858,
+                                850
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        825,
+                                        55,
+                                        850
+                                    ],
+                                    "score": 0.97,
+                                    "content": "HS1,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        55,
+                                        828,
+                                        90,
+                                        846
+                                    ],
+                                    "score": 0.76,
+                                    "content": "4 1 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        90,
+                                        825,
+                                        146,
+                                        850
+                                    ],
+                                    "score": 0.925,
+                                    "content": "inHs2,",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        146,
+                                        828,
+                                        181,
+                                        846
+                                    ],
+                                    "score": 0.65,
+                                    "content": "3 1 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        181,
+                                        825,
+                                        266,
+                                        850
+                                    ],
+                                    "score": 0.94,
+                                    "content": "in HS3and",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        267,
+                                        828,
+                                        300,
+                                        846
+                                    ],
+                                    "score": 0.8,
+                                    "content": "3 3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        825,
+                                        858,
+                                        850
+                                    ],
+                                    "score": 0.981,
+                                    "content": "inHS4(Table1).Relativetothedomainof Bacteria,theabundanceof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                844,
+                                870,
+                                870
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        844,
+                                        266,
+                                        870
+                                    ],
+                                    "score": 0.943,
+                                    "content": "genuswas foundtobeverylow:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        267,
+                                        847,
+                                        292,
+                                        865
+                                    ],
+                                    "score": 0.75,
+                                    "content": "2 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        292,
+                                        844,
+                                        358,
+                                        870
+                                    ],
+                                    "score": 0.982,
+                                    "content": "(inHS1),",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        358,
+                                        847,
+                                        384,
+                                        865
+                                    ],
+                                    "score": 0.72,
+                                    "content": "3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        384,
+                                        844,
+                                        450,
+                                        870
+                                    ],
+                                    "score": 0.979,
+                                    "content": "(inHS2),",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        450,
+                                        847,
+                                        489,
+                                        866
+                                    ],
+                                    "score": 0.8,
+                                    "content": "0 . 5 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        489,
+                                        844,
+                                        585,
+                                        870
+                                    ],
+                                    "score": 0.98,
+                                    "content": "(inHS3)and",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        585,
+                                        847,
+                                        610,
+                                        865
+                                    ],
+                                    "score": 0.57,
+                                    "content": "1 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        610,
+                                        844,
+                                        870,
+                                        870
+                                    ],
+                                    "score": 0.994,
+                                    "content": "(inHS4;Table1).BecauseBacillus",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                865,
+                                867,
+                                891
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        865,
+                                        867,
+                                        891
+                                    ],
+                                    "score": 0.982,
+                                    "content": "wasnotthedominant genuswithinthefamilyBacillaceaeinHS1,furtherinvestigationwascarriedouttoclarify",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                884,
+                                551,
+                                911
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        884,
+                                        551,
+                                        911
+                                    ],
+                                    "score": 0.998,
+                                    "content": "therelativeabundanceofgeneraotherthanBacilluswithinthefamily",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5,
+                    "bbox_fs": [
+                        12,
+                        100,
+                        878,
+                        911
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

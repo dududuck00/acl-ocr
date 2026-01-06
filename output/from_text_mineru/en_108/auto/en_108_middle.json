@@ -1,0 +1,1764 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        23,
+                        879,
+                        784
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                22,
+                                855,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        22,
+                                        855,
+                                        45
+                                    ],
+                                    "score": 0.997,
+                                    "content": "ixpropositionsincepricesmayvaryconsiderablyduringthatyear.Thebestwaytodealwiththeproblemisto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                38,
+                                839,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        38,
+                                        839,
+                                        68
+                                    ],
+                                    "score": 0.987,
+                                    "content": "combineforwardsales withtwo-steppaymentsbyobservingthreeprinciples:(i)settingafloor priceonthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                856,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        856,
+                                        87
+                                    ],
+                                    "score": 0.977,
+                                    "content": "basisofrealisticmarketexpectations,notablybyrelyingonpricesalreadylockedinthroughforwardsales;(ii)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                82,
+                                866,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        82,
+                                        866,
+                                        105
+                                    ],
+                                    "score": 0.999,
+                                    "content": "incorporatingasafetymarginwhichshouldbewiderifthefloorpriceisannouncedbeforesowingthanbefore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                874,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        874,
+                                        127
+                                    ],
+                                    "score": 0.977,
+                                    "content": "marketing;and(i)calculatingthelevelofthesecondpaymentinatransparentmanneraccordingtochangesin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                120,
+                                869,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        120,
+                                        869,
+                                        147
+                                    ],
+                                    "score": 0.974,
+                                    "content": "theCFAFvalueofIndexAand sharing losses orgains proportionallybetweenproducersand cottoncompanies.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                140,
+                                844,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        140,
+                                        844,
+                                        167
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Thecalculationcouldbedoneeasilyfromdailyquotationsoftheeuro/dollarexchangerateandIndexA.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                162,
+                                872,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        162,
+                                        872,
+                                        185
+                                    ],
+                                    "score": 0.991,
+                                    "content": "thirdprincipledepartsfromthepastpracticeswhichlinkedthebonustothecompany'sprofit.Thispracticehad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                180,
+                                837,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        180,
+                                        837,
+                                        205
+                                    ],
+                                    "score": 0.992,
+                                    "content": "threedrawbacks:(i)calculatedprofitscanbeandhavebeentamperedwith;(i)profitsareknownonlyafter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                202,
+                                863,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        202,
+                                        741,
+                                        225
+                                    ],
+                                    "score": 0.986,
+                                    "content": "closingthebooks,whichexplainswhy,inBurkinaFasoandBenin,thebonusdistributedinyear",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        741,
+                                        203,
+                                        768,
+                                        221
+                                    ],
+                                    "score": 0.73,
+                                    "content": "\\mathrm { t } + 1",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        768,
+                                        202,
+                                        863,
+                                        225
+                                    ],
+                                    "score": 0.978,
+                                    "content": "isbased on",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                221,
+                                870,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        221,
+                                        870,
+                                        246
+                                    ],
+                                    "score": 0.985,
+                                    "content": "profitsmadeinyeart;and(i)privatecompaniesarereluctanttoshowtheirbooks.Theproposedsystemcould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                242,
+                                866,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        242,
+                                        866,
+                                        265
+                                    ],
+                                    "score": 0.996,
+                                    "content": "beimplementedquicklyandwouldbeeasiertoadministerthanthepreviousone.Producerscouldeasilycheck",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                869,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        869,
+                                        285
+                                    ],
+                                    "score": 0.996,
+                                    "content": "whethertheyreceivedtheirdueandcottoncompanieswouldbeinducedtoreducetheircostssincetheywould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                280,
+                                849,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        280,
+                                        849,
+                                        306
+                                    ],
+                                    "score": 0.987,
+                                    "content": "nothavetosharethefruitsof theirsavingswith others.Thetwo-steppayment providesaprotectionagainst",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                302,
+                                875,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        302,
+                                        875,
+                                        325
+                                    ],
+                                    "score": 0.989,
+                                    "content": "futurepricefalingonlyuptoapoint.Beyondit,asubsidyisneededifthereisnostabilizationfund.Requestsfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                874,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        874,
+                                        347
+                                    ],
+                                    "score": 0.988,
+                                    "content": "subsidiesnormallycomewhenworldpricesreachabottom,andaproducerpricehastobeannouncedurgently",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                863,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        863,
+                                        365
+                                    ],
+                                    "score": 0.997,
+                                    "content": "toavoiddelayingtheopeningofthemarketingseason.Thesubsidycalculatedonthebasisofprevailingprices",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                828,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        828,
+                                        386
+                                    ],
+                                    "score": 0.981,
+                                    "content": "wouldbetoohighifpricesweretorecover.Thewayfordealingwiththepriceriskinsettingthesubsidyis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                859,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        859,
+                                        405
+                                    ],
+                                    "score": 0.998,
+                                    "content": "similartotheoneoutlinedinsettingthefloorprice.Itconsistsoflinkingthevalueofthesubsidytoaspecified",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                849,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        849,
+                                        425
+                                    ],
+                                    "score": 0.985,
+                                    "content": "valueofIndexAand,attheendoftheseason,adjustingthesubsidyaccordingtothedifferencebetweenthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                421,
+                                865,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        421,
+                                        865,
+                                        444
+                                    ],
+                                    "score": 0.998,
+                                    "content": "specifiedvalueandtheactualvalue.Theneedforsubsidiescannotbeeliminated.Butsubsidiesshouldbeused",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                878,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        878,
+                                        465
+                                    ],
+                                    "score": 0.989,
+                                    "content": "onlyinlastresort,whichmeansthatalternativesshouldbefoundtocompensategrowerswhenworld prices fall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                857,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        857,
+                                        486
+                                    ],
+                                    "score": 0.994,
+                                    "content": "sharply.Ontheonehand,stabilizationfundsmanagedbygovernmentsdidnotfunctionproperlybecausethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                482,
+                                849,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        482,
+                                        849,
+                                        505
+                                    ],
+                                    "score": 0.981,
+                                    "content": "surplusaccumulatedinhigh priceyears hadoftendisappearedbythetimemoneywasneeded.Ontheother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                878,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        878,
+                                        527
+                                    ],
+                                    "score": 0.993,
+                                    "content": "hand,fundsownedjointlybyproducersandprivatecottoncompaniescouldbeunmanageable.Afundmanaged",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                522,
+                                816,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        522,
+                                        816,
+                                        545
+                                    ],
+                                    "score": 0.978,
+                                    "content": "byproducersmaybetheonlysolution leftandsuchafundhas beenworking reasonablywellin Burkina.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                540,
+                                880,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        540,
+                                        880,
+                                        567
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Producerprices(netofsubsidies)wouldincreaseataratenolowerthanworldprices;butproducerassociations",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                560,
+                                843,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        560,
+                                        843,
+                                        586
+                                    ],
+                                    "score": 0.976,
+                                    "content": "wouldbecomeresponsibleforsupporting therevenuesof their memberswhenworld pricesfallProducers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                788,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        788,
+                                        607
+                                    ],
+                                    "score": 0.994,
+                                    "content": "wouldnotbeleftoutingoodyears,buttheywouldhavetoprotectthemselvesagainstbadyears.An",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                599,
+                                877,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        599,
+                                        877,
+                                        627
+                                    ],
+                                    "score": 0.98,
+                                    "content": "assessmentof theimpactofthereformsofthecottonsectoronpovertyhastobecraftedwith greatcaution for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                621,
+                                815,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        621,
+                                        815,
+                                        645
+                                    ],
+                                    "score": 0.992,
+                                    "content": "threereasons.First,reformsinthethreeCFAcountriesremainatanintermediatestageandtheprocess",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                641,
+                                858,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        641,
+                                        858,
+                                        665
+                                    ],
+                                    "score": 0.985,
+                                    "content": "followedbyanyofthethreeAnglophonecountriesinliberalizingtheircottonsectordoes notprovideamodel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                660,
+                                776,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        660,
+                                        776,
+                                        686
+                                    ],
+                                    "score": 0.996,
+                                    "content": "thatCFAcountriesshouldcopy.Second,thechoiceofinstitutionalstructureshastobefittedtothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                682,
+                                842,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        682,
+                                        842,
+                                        705
+                                    ],
+                                    "score": 0.993,
+                                    "content": "socio-politicalcontextofthecountryconcerned.Themodelbestfittedto BurkinaFasomaynotfitBeninand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                701,
+                                875,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        701,
+                                        875,
+                                        725
+                                    ],
+                                    "score": 0.998,
+                                    "content": "vice-versa.Third,thenaturesofthereformsandtheirsequencehavetobefittedtotheinitialconditionsandthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                721,
+                                824,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        721,
+                                        824,
+                                        745
+                                    ],
+                                    "score": 0.989,
+                                    "content": "resultsmaybeaffectedbythequalityofmanagementasmuchasbythenatureof thereforms.For these",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                742,
+                                808,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        742,
+                                        808,
+                                        766
+                                    ],
+                                    "score": 0.982,
+                                    "content": "reasons,thestudydoesnotleadtothechoiceofaparticularmodel.Itdoes,nevertheless,suggestthat,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                759,
+                                254,
+                                786
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        759,
+                                        254,
+                                        786
+                                    ],
+                                    "score": 0.982,
+                                    "content": "whichevermodelisselected,a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        }
+                    ],
+                    "index": 18.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                794
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        23,
+                        879,
+                        784
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                22,
+                                855,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        22,
+                                        855,
+                                        45
+                                    ],
+                                    "score": 0.997,
+                                    "content": "ixpropositionsincepricesmayvaryconsiderablyduringthatyear.Thebestwaytodealwiththeproblemisto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                38,
+                                839,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        38,
+                                        839,
+                                        68
+                                    ],
+                                    "score": 0.987,
+                                    "content": "combineforwardsales withtwo-steppaymentsbyobservingthreeprinciples:(i)settingafloor priceonthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                856,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        856,
+                                        87
+                                    ],
+                                    "score": 0.977,
+                                    "content": "basisofrealisticmarketexpectations,notablybyrelyingonpricesalreadylockedinthroughforwardsales;(ii)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                82,
+                                866,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        82,
+                                        866,
+                                        105
+                                    ],
+                                    "score": 0.999,
+                                    "content": "incorporatingasafetymarginwhichshouldbewiderifthefloorpriceisannouncedbeforesowingthanbefore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                874,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        874,
+                                        127
+                                    ],
+                                    "score": 0.977,
+                                    "content": "marketing;and(i)calculatingthelevelofthesecondpaymentinatransparentmanneraccordingtochangesin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                120,
+                                869,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        120,
+                                        869,
+                                        147
+                                    ],
+                                    "score": 0.974,
+                                    "content": "theCFAFvalueofIndexAand sharing losses orgains proportionallybetweenproducersand cottoncompanies.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                140,
+                                844,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        140,
+                                        844,
+                                        167
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Thecalculationcouldbedoneeasilyfromdailyquotationsoftheeuro/dollarexchangerateandIndexA.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                162,
+                                872,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        162,
+                                        872,
+                                        185
+                                    ],
+                                    "score": 0.991,
+                                    "content": "thirdprincipledepartsfromthepastpracticeswhichlinkedthebonustothecompany'sprofit.Thispracticehad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                180,
+                                837,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        180,
+                                        837,
+                                        205
+                                    ],
+                                    "score": 0.992,
+                                    "content": "threedrawbacks:(i)calculatedprofitscanbeandhavebeentamperedwith;(i)profitsareknownonlyafter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                202,
+                                863,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        202,
+                                        741,
+                                        225
+                                    ],
+                                    "score": 0.986,
+                                    "content": "closingthebooks,whichexplainswhy,inBurkinaFasoandBenin,thebonusdistributedinyear",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        741,
+                                        203,
+                                        768,
+                                        221
+                                    ],
+                                    "score": 0.73,
+                                    "content": "\\mathrm { t } + 1",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        768,
+                                        202,
+                                        863,
+                                        225
+                                    ],
+                                    "score": 0.978,
+                                    "content": "isbased on",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                221,
+                                870,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        221,
+                                        870,
+                                        246
+                                    ],
+                                    "score": 0.985,
+                                    "content": "profitsmadeinyeart;and(i)privatecompaniesarereluctanttoshowtheirbooks.Theproposedsystemcould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                242,
+                                866,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        242,
+                                        866,
+                                        265
+                                    ],
+                                    "score": 0.996,
+                                    "content": "beimplementedquicklyandwouldbeeasiertoadministerthanthepreviousone.Producerscouldeasilycheck",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                869,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        869,
+                                        285
+                                    ],
+                                    "score": 0.996,
+                                    "content": "whethertheyreceivedtheirdueandcottoncompanieswouldbeinducedtoreducetheircostssincetheywould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                280,
+                                849,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        280,
+                                        849,
+                                        306
+                                    ],
+                                    "score": 0.987,
+                                    "content": "nothavetosharethefruitsof theirsavingswith others.Thetwo-steppayment providesaprotectionagainst",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                302,
+                                875,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        302,
+                                        875,
+                                        325
+                                    ],
+                                    "score": 0.989,
+                                    "content": "futurepricefalingonlyuptoapoint.Beyondit,asubsidyisneededifthereisnostabilizationfund.Requestsfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                874,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        874,
+                                        347
+                                    ],
+                                    "score": 0.988,
+                                    "content": "subsidiesnormallycomewhenworldpricesreachabottom,andaproducerpricehastobeannouncedurgently",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                863,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        863,
+                                        365
+                                    ],
+                                    "score": 0.997,
+                                    "content": "toavoiddelayingtheopeningofthemarketingseason.Thesubsidycalculatedonthebasisofprevailingprices",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                828,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        828,
+                                        386
+                                    ],
+                                    "score": 0.981,
+                                    "content": "wouldbetoohighifpricesweretorecover.Thewayfordealingwiththepriceriskinsettingthesubsidyis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                859,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        859,
+                                        405
+                                    ],
+                                    "score": 0.998,
+                                    "content": "similartotheoneoutlinedinsettingthefloorprice.Itconsistsoflinkingthevalueofthesubsidytoaspecified",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                849,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        849,
+                                        425
+                                    ],
+                                    "score": 0.985,
+                                    "content": "valueofIndexAand,attheendoftheseason,adjustingthesubsidyaccordingtothedifferencebetweenthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                421,
+                                865,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        421,
+                                        865,
+                                        444
+                                    ],
+                                    "score": 0.998,
+                                    "content": "specifiedvalueandtheactualvalue.Theneedforsubsidiescannotbeeliminated.Butsubsidiesshouldbeused",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                878,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        878,
+                                        465
+                                    ],
+                                    "score": 0.989,
+                                    "content": "onlyinlastresort,whichmeansthatalternativesshouldbefoundtocompensategrowerswhenworld prices fall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                857,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        857,
+                                        486
+                                    ],
+                                    "score": 0.994,
+                                    "content": "sharply.Ontheonehand,stabilizationfundsmanagedbygovernmentsdidnotfunctionproperlybecausethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                482,
+                                849,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        482,
+                                        849,
+                                        505
+                                    ],
+                                    "score": 0.981,
+                                    "content": "surplusaccumulatedinhigh priceyears hadoftendisappearedbythetimemoneywasneeded.Ontheother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                878,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        878,
+                                        527
+                                    ],
+                                    "score": 0.993,
+                                    "content": "hand,fundsownedjointlybyproducersandprivatecottoncompaniescouldbeunmanageable.Afundmanaged",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                522,
+                                816,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        522,
+                                        816,
+                                        545
+                                    ],
+                                    "score": 0.978,
+                                    "content": "byproducersmaybetheonlysolution leftandsuchafundhas beenworking reasonablywellin Burkina.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                540,
+                                880,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        540,
+                                        880,
+                                        567
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Producerprices(netofsubsidies)wouldincreaseataratenolowerthanworldprices;butproducerassociations",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                560,
+                                843,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        560,
+                                        843,
+                                        586
+                                    ],
+                                    "score": 0.976,
+                                    "content": "wouldbecomeresponsibleforsupporting therevenuesof their memberswhenworld pricesfallProducers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                788,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        788,
+                                        607
+                                    ],
+                                    "score": 0.994,
+                                    "content": "wouldnotbeleftoutingoodyears,buttheywouldhavetoprotectthemselvesagainstbadyears.An",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                599,
+                                877,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        599,
+                                        877,
+                                        627
+                                    ],
+                                    "score": 0.98,
+                                    "content": "assessmentof theimpactofthereformsofthecottonsectoronpovertyhastobecraftedwith greatcaution for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                621,
+                                815,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        621,
+                                        815,
+                                        645
+                                    ],
+                                    "score": 0.992,
+                                    "content": "threereasons.First,reformsinthethreeCFAcountriesremainatanintermediatestageandtheprocess",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                641,
+                                858,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        641,
+                                        858,
+                                        665
+                                    ],
+                                    "score": 0.985,
+                                    "content": "followedbyanyofthethreeAnglophonecountriesinliberalizingtheircottonsectordoes notprovideamodel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                660,
+                                776,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        660,
+                                        776,
+                                        686
+                                    ],
+                                    "score": 0.996,
+                                    "content": "thatCFAcountriesshouldcopy.Second,thechoiceofinstitutionalstructureshastobefittedtothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                682,
+                                842,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        682,
+                                        842,
+                                        705
+                                    ],
+                                    "score": 0.993,
+                                    "content": "socio-politicalcontextofthecountryconcerned.Themodelbestfittedto BurkinaFasomaynotfitBeninand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                701,
+                                875,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        701,
+                                        875,
+                                        725
+                                    ],
+                                    "score": 0.998,
+                                    "content": "vice-versa.Third,thenaturesofthereformsandtheirsequencehavetobefittedtotheinitialconditionsandthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                721,
+                                824,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        721,
+                                        824,
+                                        745
+                                    ],
+                                    "score": 0.989,
+                                    "content": "resultsmaybeaffectedbythequalityofmanagementasmuchasbythenatureof thereforms.For these",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                742,
+                                808,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        742,
+                                        808,
+                                        766
+                                    ],
+                                    "score": 0.982,
+                                    "content": "reasons,thestudydoesnotleadtothechoiceofaparticularmodel.Itdoes,nevertheless,suggestthat,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                759,
+                                254,
+                                786
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        759,
+                                        254,
+                                        786
+                                    ],
+                                    "score": 0.982,
+                                    "content": "whichevermodelisselected,a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        }
+                    ],
+                    "index": 18.5,
+                    "bbox_fs": [
+                        13,
+                        22,
+                        880,
+                        786
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

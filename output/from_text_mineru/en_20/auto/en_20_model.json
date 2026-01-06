@@ -1,0 +1,580 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    56,
+                    0,
+                    2442,
+                    0,
+                    2442,
+                    2129,
+                    56,
+                    2129
+                ],
+                "score": 0.888
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    64.0,
+                    2401.0,
+                    64.0,
+                    2401.0,
+                    121.0,
+                    48.0,
+                    121.0
+                ],
+                "score": 0.994,
+                "text": "HealthCareServiceCoordination:Asdescribedindetailabove,theSEAGOAAAissuesacompetitiveRequestfor"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    113.0,
+                    2388.0,
+                    113.0,
+                    2388.0,
+                    183.0,
+                    42.0,
+                    183.0
+                ],
+                "score": 0.986,
+                "text": "Applications toselect thebest-qualifiedserviceprovidersandensurecompetitioninarrangingforservices for"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    170.0,
+                    2382.0,
+                    170.0,
+                    2382.0,
+                    243.0,
+                    45.0,
+                    243.0
+                ],
+                "score": 0.989,
+                "text": "elderlyindividualsandtheircaregivers.Intheirproposals,prospectiveserviceprovidersareaskedtodescribe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    225.0,
+                    2304.0,
+                    225.0,
+                    2304.0,
+                    297.0,
+                    45.0,
+                    297.0
+                ],
+                "score": 0.988,
+                "text": "howtheywillcoordinatebenefitswithanyotherprogramsthatservetheelderlyordisabled,howtheywill"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    282.0,
+                    2307.0,
+                    282.0,
+                    2307.0,
+                    347.0,
+                    42.0,
+                    347.0
+                ],
+                "score": 0.983,
+                "text": "coordinateactivitieswithcountylong-termcareprograms,MedicareandALTCS,andhowtheproviderwill"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    339.0,
+                    2338.0,
+                    339.0,
+                    2338.0,
+                    404.0,
+                    45.0,
+                    404.0
+                ],
+                "score": 0.992,
+                "text": "ensurethatthesefund sourcesaremaximizedtouseAAAfundingonlywhennoothersourceisavailable,in"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    399.0,
+                    2424.0,
+                    399.0,
+                    2424.0,
+                    456.0,
+                    48.0,
+                    456.0
+                ],
+                "score": 0.987,
+                "text": "ordertoensurecoordinationofservicesandintegrationofmultiplefundingsources.CostShareisencouraged,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    448.0,
+                    2434.0,
+                    448.0,
+                    2434.0,
+                    515.0,
+                    40.0,
+                    515.0
+                ],
+                "score": 0.985,
+                "text": "andcasemanagers,serviceproviders,andAAAmonitorthesecontributions.TitleVIIEfforts:TheSEAGOAAAwill"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    502.0,
+                    2408.0,
+                    502.0,
+                    2408.0,
+                    572.0,
+                    40.0,
+                    572.0
+                ],
+                "score": 0.986,
+                "text": "continuetohosttheRegionVIConferenceofAging,whereinformationonLongTermCareOmbudsman,SHIP,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    562.0,
+                    2369.0,
+                    562.0,
+                    2369.0,
+                    627.0,
+                    45.0,
+                    627.0
+                ],
+                "score": 0.992,
+                "text": "andSMPprogramsarefeatured.Whileitwasnotpossibletohosttheconferenceduring SFY21,ourintention"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    614.0,
+                    2320.0,
+                    614.0,
+                    2320.0,
+                    686.0,
+                    42.0,
+                    686.0
+                ],
+                "score": 0.993,
+                "text": "standsoncewecandoitsafelyfromCovid.SEAGOwillcontinuetoholdworkshopsonMedicare,advanced"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    673.0,
+                    2354.0,
+                    673.0,
+                    2354.0,
+                    738.0,
+                    48.0,
+                    738.0
+                ],
+                "score": 0.962,
+                "text": "directives,andselectingLTCpolicies,aswellasscamjamsacrosstheregion.Besides,case-managedservices"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    725.0,
+                    2273.0,
+                    725.0,
+                    2273.0,
+                    795.0,
+                    40.0,
+                    795.0
+                ],
+                "score": 0.994,
+                "text": "targetthosewholackasupportsystem,lowincome,andthosewhoaremostvulnerable,includingadult"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    782.0,
+                    2403.0,
+                    782.0,
+                    2403.0,
+                    855.0,
+                    42.0,
+                    855.0
+                ],
+                "score": 0.98,
+                "text": "protectiveservicereferrals.Participationincommunitymeetings,training,healthandresourcefairs,andother"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    834.0,
+                    2385.0,
+                    834.0,
+                    2385.0,
+                    909.0,
+                    40.0,
+                    909.0
+                ],
+                "score": 0.968,
+                "text": "eventswillofferopportunitiestogetthewordoutaboutLTCOmbudsman,SHIP,SMPprogramsandservices,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    37.0,
+                    886.0,
+                    2416.0,
+                    886.0,
+                    2416.0,
+                    969.0,
+                    37.0,
+                    969.0
+                ],
+                "score": 0.984,
+                "text": "andhowtoprevent,detect,andreportabuseneglect,andfinancialexploitationofolderadults.Asnewtraining"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    948.0,
+                    2375.0,
+                    948.0,
+                    2375.0,
+                    1016.0,
+                    42.0,
+                    1016.0
+                ],
+                "score": 0.991,
+                "text": "modulesareoutatthestatelevel,thesemoduleswillbeadopted,andoncecompleted,theLTCOwillmakean"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    1005.0,
+                    2369.0,
+                    1005.0,
+                    2369.0,
+                    1070.0,
+                    48.0,
+                    1070.0
+                ],
+                "score": 0.994,
+                "text": "efforttorecruitmorevolunteersinthearea.TheLongTermCareOmbudsmanprogramandtheStateHealth"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1054.0,
+                    2401.0,
+                    1054.0,
+                    2401.0,
+                    1130.0,
+                    40.0,
+                    1130.0
+                ],
+                "score": 0.996,
+                "text": "InsuranceProgramarecollaboratinginbuildinganElderFraudandAbusetaskforceinCochisecounty.Wesee"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1114.0,
+                    2421.0,
+                    1114.0,
+                    2421.0,
+                    1187.0,
+                    42.0,
+                    1187.0
+                ],
+                "score": 0.969,
+                "text": "thatwiththemultiplechanges happening sinceCOVID,wemusteducateandinformourcommunities.Wehave"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1174.0,
+                    2395.0,
+                    1174.0,
+                    2395.0,
+                    1239.0,
+                    45.0,
+                    1239.0
+                ],
+                "score": 0.994,
+                "text": "organizationsthatworkwiththeelderlyaspartnersthatwillhelptheAreaAgencyonAgingaddresstheneeds"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1228.0,
+                    2294.0,
+                    1228.0,
+                    2294.0,
+                    1293.0,
+                    45.0,
+                    1293.0
+                ],
+                "score": 0.976,
+                "text": "of thoseaffectedorreducethenumberof cases throughout ourregion.Other:SEAGO-AAAManagement"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1277.0,
+                    2317.0,
+                    1277.0,
+                    2317.0,
+                    1353.0,
+                    40.0,
+                    1353.0
+                ],
+                "score": 0.988,
+                "text": "AnalystoverseestheCaseManagementprogram,andsinceherpartaking,weseeevenmoreimpactinthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1337.0,
+                    2429.0,
+                    1337.0,
+                    2429.0,
+                    1407.0,
+                    40.0,
+                    1407.0
+                ],
+                "score": 0.986,
+                "text": "program.Shecoordinatesservicesandfundingavailabilityamongstthecasemanagersandserviceproviders to"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1389.0,
+                    2388.0,
+                    1389.0,
+                    2388.0,
+                    1467.0,
+                    40.0,
+                    1467.0
+                ],
+                "score": 0.986,
+                "text": "assistthedirectorinprojectingfuturespending.Sheprovidestrainingand guidancetoourcasemanagerson"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1449.0,
+                    2395.0,
+                    1449.0,
+                    2395.0,
+                    1518.0,
+                    40.0,
+                    1518.0
+                ],
+                "score": 0.977,
+                "text": "changes happeningwithin theorganization.ThemodificationispreparingourManagement Analysisforwhen"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1498.0,
+                    2229.0,
+                    1498.0,
+                    2229.0,
+                    1578.0,
+                    43.0,
+                    1578.0
+                ],
+                "score": 0.994,
+                "text": "SEAGO-AAAbeginstobringthecasemanagementin-house.WithagrantobtainedthroughtheLegacy"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1557.0,
+                    2294.0,
+                    1557.0,
+                    2294.0,
+                    1633.0,
+                    40.0,
+                    1633.0
+                ],
+                "score": 0.986,
+                "text": "FoundationofSoutheastArizonaandtheDavidandLura LovellFoundation,theAreaAgencyonAginghas"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1614.0,
+                    2281.0,
+                    1614.0,
+                    2281.0,
+                    1687.0,
+                    42.0,
+                    1687.0
+                ],
+                "score": 0.994,
+                "text": "successfullyadoptedEndofLifeCareMatterssince2018.WiththededicationandsupportfromVeronica"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1666.0,
+                    2330.0,
+                    1666.0,
+                    2330.0,
+                    1742.0,
+                    45.0,
+                    1742.0
+                ],
+                "score": 0.976,
+                "text": "\"Ronnie\"Squyres,wearesuccessullygoing intoourthirdyear.Thusfar,wehaveaccomplishedour goalto"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    1729.0,
+                    2382.0,
+                    1729.0,
+                    2382.0,
+                    1793.0,
+                    48.0,
+                    1793.0
+                ],
+                "score": 0.998,
+                "text": "expandourservicesthroughoutthefour-countyregionbyhostingThoughtfulLifeConversationsworkshops."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1780.0,
+                    2317.0,
+                    1780.0,
+                    2317.0,
+                    1853.0,
+                    45.0,
+                    1853.0
+                ],
+                "score": 0.983,
+                "text": "Ourgoalhas beentonormalizeandincreaseconversationsbyprovidingseveralvenuesfordiscusing and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    1840.0,
+                    2351.0,
+                    1840.0,
+                    2351.0,
+                    1905.0,
+                    48.0,
+                    1905.0
+                ],
+                "score": 0.99,
+                "text": "planningforend-of-lifeissuesandhealthcareplanning,includingadvancedirectives.Wehavedevelopedour"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1892.0,
+                    2380.0,
+                    1892.0,
+                    2380.0,
+                    1964.0,
+                    45.0,
+                    1964.0
+                ],
+                "score": 0.987,
+                "text": "Workplace Initiative(WPI)toprovideeducationtoorganizationsthatprovidehealthcareandsocialservicesto"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1951.0,
+                    2330.0,
+                    1951.0,
+                    2330.0,
+                    2016.0,
+                    45.0,
+                    2016.0
+                ],
+                "score": 0.98,
+                "text": "patientsandclients.Wehavereachedover6O0participants,over40workshopsandpartneredwith19local"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    2001.0,
+                    2271.0,
+                    2001.0,
+                    2271.0,
+                    2076.0,
+                    42.0,
+                    2076.0
+                ],
+                "score": 0.981,
+                "text": "organizations.ThereisrepresentationfromtheAreaAgencyonAging intheAZ Health DirectiveRegistry"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    2063.0,
+                    2133.0,
+                    2063.0,
+                    2133.0,
+                    2128.0,
+                    45.0,
+                    2128.0
+                ],
+                "score": 0.99,
+                "text": "committeeforthetransition.Wecommitourselvestohelpmakethistransitionahugesuccess.27"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 2156
+        }
+    }
+]

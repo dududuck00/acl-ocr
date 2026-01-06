@@ -1,0 +1,670 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    50,
+                    226,
+                    2449,
+                    226,
+                    2449,
+                    2514,
+                    50,
+                    2514
+                ],
+                "score": 0.895
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    684,
+                    2397,
+                    779,
+                    2397,
+                    779,
+                    2450,
+                    684,
+                    2450
+                ],
+                "score": 0.83,
+                "latex": "5 0 \\%"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    225.0,
+                    2405.0,
+                    225.0,
+                    2405.0,
+                    293.0,
+                    45.0,
+                    293.0
+                ],
+                "score": 0.993,
+                "text": "3UniversityofMarylandSchoolofMedicine,Baltimore,MDAbstractWiththegrowingnumberofmobilehealth"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    282.0,
+                    2445.0,
+                    282.0,
+                    2445.0,
+                    350.0,
+                    45.0,
+                    350.0
+                ],
+                "score": 0.994,
+                "text": "devices,adescriptionofthefactorsthatleadtoadoptionanduseofthesepersonalhealthdevicesisneeded.We"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    336.0,
+                    2336.0,
+                    336.0,
+                    2336.0,
+                    404.0,
+                    45.0,
+                    404.0
+                ],
+                "score": 0.986,
+                "text": "observedandrecorded11routinedeepbrain stimulation(DBS)program-mingappointments.Wefound an"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    393.0,
+                    2371.0,
+                    393.0,
+                    2371.0,
+                    461.0,
+                    45.0,
+                    461.0
+                ],
+                "score": 0.986,
+                "text": "overallackofhealthliteracysurroundingDBSaswellasalackofdigitalliteracyinpatients'abilitytousetheir"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    447.0,
+                    2232.0,
+                    447.0,
+                    2232.0,
+                    515.0,
+                    45.0,
+                    515.0
+                ],
+                "score": 0.986,
+                "text": "DBSPatient Programmertomodifytheir DBSsettings.Thesetwofactorsledtopa-tient disuseof their"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    37.0,
+                    502.0,
+                    2395.0,
+                    502.0,
+                    2395.0,
+                    575.0,
+                    37.0,
+                    575.0
+                ],
+                "score": 0.99,
+                "text": "programmingdeviceoutsideoftheclinicalsetting.Thispaper'scontributionistopresentthisrelationshipand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    37.0,
+                    559.0,
+                    2336.0,
+                    559.0,
+                    2336.0,
+                    632.0,
+                    37.0,
+                    632.0
+                ],
+                "score": 0.984,
+                "text": "suggestwayswecanbetterfacilitatepatientsingainingbothhealthanddigitaliteracy.IntroductionAturn"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    616.0,
+                    2392.0,
+                    616.0,
+                    2392.0,
+                    684.0,
+                    40.0,
+                    684.0
+                ],
+                "score": 0.998,
+                "text": "towardsapatient-centeredcaremodelhaspromptedaninterestinprovidingpatientswithdevicestomonitor"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    670.0,
+                    2429.0,
+                    670.0,
+                    2429.0,
+                    741.0,
+                    40.0,
+                    741.0
+                ],
+                "score": 0.935,
+                "text": "theirhealthadjusttreatmentsaccordinglyndsarethisdatawiththeircicians.Inessence,putingpowerin"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    727.0,
+                    2421.0,
+                    727.0,
+                    2421.0,
+                    795.0,
+                    45.0,
+                    795.0
+                ],
+                "score": 0.991,
+                "text": "thepatient'shandtogivethemagencyovertheirowncare.However,thecontextarounddeviceusagecouldbe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    784.0,
+                    2301.0,
+                    784.0,
+                    2301.0,
+                    852.0,
+                    45.0,
+                    852.0
+                ],
+                "score": 0.979,
+                "text": "asignif-icantfactorinevaluatingtheeffcacyofthesedevicesinactuallachievingpatientengagementor"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    838.0,
+                    2147.0,
+                    838.0,
+                    2147.0,
+                    906.0,
+                    45.0,
+                    906.0
+                ],
+                "score": 0.994,
+                "text": "empowerment.Mostsignificantinthisregardistheimportanceof healthliteracyandnumeracyin"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    890.0,
+                    2427.0,
+                    890.0,
+                    2427.0,
+                    966.0,
+                    43.0,
+                    966.0
+                ],
+                "score": 0.985,
+                "text": "understandingone'sdiseaseandtherelationshipbetweensymptomsandtreatments[1].Inaddition,asfurther"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    950.0,
+                    2427.0,
+                    950.0,
+                    2427.0,
+                    1017.0,
+                    45.0,
+                    1017.0
+                ],
+                "score": 0.983,
+                "text": "technologicallyadvanceddevicesaredeveloped,apatient'sabitytounderstandandusethetechnologyplaysa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1001.0,
+                    2331.0,
+                    1001.0,
+                    2331.0,
+                    1074.0,
+                    40.0,
+                    1074.0
+                ],
+                "score": 0.994,
+                "text": "greaterroleinpatientengagement[2].Inthefollowingstudywedescribetheparticularcaseofdeepbrain"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1061.0,
+                    2427.0,
+                    1061.0,
+                    2427.0,
+                    1129.0,
+                    45.0,
+                    1129.0
+                ],
+                "score": 0.991,
+                "text": "stimulation(DBS)inParkinson'sdisease(PD)symptommanagement.Inthisinstance,patientsareprovidedwith"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1112.0,
+                    2365.0,
+                    1112.0,
+                    2365.0,
+                    1186.0,
+                    40.0,
+                    1186.0
+                ],
+                "score": 0.981,
+                "text": "adevicetomodifythebrainstimulationparame-tersto betteraddressymptomsthroughouttheday.Aswe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1172.0,
+                    2269.0,
+                    1172.0,
+                    2269.0,
+                    1240.0,
+                    45.0,
+                    1240.0
+                ],
+                "score": 0.991,
+                "text": "showinourfindings,lowhealthliteracyanddigitalliter-acyoftenlimitandoccasionallyaltogetherdeter"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1224.0,
+                    2400.0,
+                    1224.0,
+                    2400.0,
+                    1300.0,
+                    43.0,
+                    1300.0
+                ],
+                "score": 0.997,
+                "text": "patientsfrommodifyingtheirstimulationdeviceparametersoutsideoftheclinicalseting.Thispresentsareal"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1283.0,
+                    2395.0,
+                    1283.0,
+                    2395.0,
+                    1351.0,
+                    45.0,
+                    1351.0
+                ],
+                "score": 0.989,
+                "text": "challengein(1)presentingpatientswithhealthdevicestomaintaincontrolovertheirownqualityoflifeand(2)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1335.0,
+                    2373.0,
+                    1335.0,
+                    2373.0,
+                    1406.0,
+                    40.0,
+                    1406.0
+                ],
+                "score": 0.992,
+                "text": "engagingpatientsin guidingcliniciansinmakingfurthertreatmentchangesthatprovidetherapeuticbenefit."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1392.0,
+                    2381.0,
+                    1392.0,
+                    2381.0,
+                    1460.0,
+                    45.0,
+                    1460.0
+                ],
+                "score": 0.995,
+                "text": "Ourfindingsleadustomakedesignrecommendationsforthedevelopmentofvisu-alizationstoexplicatethe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1449.0,
+                    2360.0,
+                    1449.0,
+                    2360.0,
+                    1517.0,
+                    43.0,
+                    1517.0
+                ],
+                "score": 0.988,
+                "text": "relationshipbetween DBSadjustmentsandsymptomaticoutcomes inordertofacilitatepatientengagement"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1501.0,
+                    2355.0,
+                    1501.0,
+                    2355.0,
+                    1574.0,
+                    40.0,
+                    1574.0
+                ],
+                "score": 0.993,
+                "text": "throughincreasedhealthliteracyanddigitaliteracy.BackgroundTherehasbeenashiftfromthetraditional"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1560.0,
+                    2341.0,
+                    1560.0,
+                    2341.0,
+                    1628.0,
+                    45.0,
+                    1628.0
+                ],
+                "score": 0.978,
+                "text": "clinicalcaremodel,wherecliniciansaresolelyinchargeofthecareofthepatient,toapatient-centeredcare"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1617.0,
+                    2435.0,
+                    1617.0,
+                    2435.0,
+                    1685.0,
+                    43.0,
+                    1685.0
+                ],
+                "score": 0.993,
+                "text": "modelthatismorefocusedonpatientsbeingengagedintheirownmedicaldeci-sion-makingandtreatment[3]."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    37.0,
+                    1666.0,
+                    2411.0,
+                    1666.0,
+                    2411.0,
+                    1745.0,
+                    37.0,
+                    1745.0
+                ],
+                "score": 0.997,
+                "text": "Patientengagementhasbeenassociatedwithadecreasednumberofannualvisitsforspecialtycareandfewer"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1731.0,
+                    2296.0,
+                    1731.0,
+                    2296.0,
+                    1791.0,
+                    45.0,
+                    1791.0
+                ],
+                "score": 0.995,
+                "text": "hospitalizationsanddiagnostictests[4].Priorworkhasshownthathealthliteracyisimportantforpatient"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1780.0,
+                    2323.0,
+                    1780.0,
+                    2323.0,
+                    1848.0,
+                    45.0,
+                    1848.0
+                ],
+                "score": 0.993,
+                "text": "engagementaspatientscanthenbettermanagetheir health,makemoreinformeddecisions,andincrease"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1834.0,
+                    2392.0,
+                    1834.0,
+                    2392.0,
+                    1908.0,
+                    40.0,
+                    1908.0
+                ],
+                "score": 0.99,
+                "text": "communicationwiththeirdoctors[1].Healthliteracyal-lowschronicallyandprogressivelyillpatientstobetter"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1889.0,
+                    2403.0,
+                    1889.0,
+                    2403.0,
+                    1962.0,
+                    43.0,
+                    1962.0
+                ],
+                "score": 0.984,
+                "text": "\"obtain,process,andunderstand\"theirhealthconditionsandassiststheminmakingmoreinformeddecisions"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1948.0,
+                    2315.0,
+                    1948.0,
+                    2315.0,
+                    2019.0,
+                    40.0,
+                    2019.0
+                ],
+                "score": 0.983,
+                "text": "surroundingtheircare[5].Withlowhealthliteracy,patientsoftenlacktheskilstoeffectivelycommunicate"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    2005.0,
+                    2376.0,
+                    2005.0,
+                    2376.0,
+                    2073.0,
+                    43.0,
+                    2073.0
+                ],
+                "score": 0.977,
+                "text": "importantinformation,suchassymptomsorotherhealthconcerns,totheirdoctors,andtheyfrequentlyfeel"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    2057.0,
+                    2397.0,
+                    2057.0,
+                    2397.0,
+                    2128.0,
+                    40.0,
+                    2128.0
+                ],
+                "score": 0.991,
+                "text": "thattheirphysiciansfailtoexplainhealthrelatedinformationinamannerthattheycanunderstand[6].This,in"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    2119.0,
+                    2392.0,
+                    2119.0,
+                    2392.0,
+                    2179.0,
+                    45.0,
+                    2179.0
+                ],
+                "score": 0.988,
+                "text": "turn,canleadtopoorcompliancewhenitcomestotakingmedicationsorfolowingatreatmentplan,andasa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    2168.0,
+                    2419.0,
+                    2168.0,
+                    2419.0,
+                    2242.0,
+                    43.0,
+                    2242.0
+                ],
+                "score": 0.941,
+                "text": "result,worsehealthoutcomes[6].Likewise,digitalliteracytheabilitytoappropriatelyusedigitaltoolstoaccess"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    2225.0,
+                    2296.0,
+                    2225.0,
+                    2296.0,
+                    2301.0,
+                    43.0,
+                    2301.0
+                ],
+                "score": 0.989,
+                "text": "andmanagedigitalresources[7],hasalsobeenshowntobeafundamentalfactorinpatientengagement"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    2280.0,
+                    2429.0,
+                    2280.0,
+                    2429.0,
+                    2350.0,
+                    40.0,
+                    2350.0
+                ],
+                "score": 0.993,
+                "text": "primarilywithregardstosearchingforonlinehealthinformation[2].Forinstance,ina2013studyexaminingthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    2342.0,
+                    2355.0,
+                    2342.0,
+                    2355.0,
+                    2402.0,
+                    48.0,
+                    2402.0
+                ],
+                "score": 0.948,
+                "text": "relationshipbetweenfunctionalhealthliteracy,self-efficacy,socialsupport,andempowermentinindividuals"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    2388.0,
+                    683.0,
+                    2388.0,
+                    683.0,
+                    2467.0,
+                    40.0,
+                    2467.0
+                ],
+                "score": 0.977,
+                "text": "livingwithParkinson's,nearly"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    780.0,
+                    2388.0,
+                    2371.0,
+                    2388.0,
+                    2371.0,
+                    2467.0,
+                    780.0,
+                    2467.0
+                ],
+                "score": 0.991,
+                "text": "ofpatientsindi-catedthattheInternetwasthemostcommonsource they"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    2451.0,
+                    1312.0,
+                    2451.0,
+                    1312.0,
+                    2518.0,
+                    43.0,
+                    2518.0
+                ],
+                "score": 0.968,
+                "text": "used tofind health informationrelating to theirdisease[8]."
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 2545
+        }
+    }
+]

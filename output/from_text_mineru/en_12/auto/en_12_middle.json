@@ -1,0 +1,1588 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        8,
+                        880,
+                        722
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                20,
+                                800,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        20,
+                                        800,
+                                        45
+                                    ],
+                                    "score": 0.976,
+                                    "content": "84CICConsolidated Crown Investments Corporation of Saskatchewan Notesto Consolidated Financial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                873,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        873,
+                                        65
+                                    ],
+                                    "score": 0.991,
+                                    "content": "StatementsMarch31,2019474.SignificantaccountingpoliciesTheaccountingpoliciessetoutbelowhavebeen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                60,
+                                869,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        60,
+                                        869,
+                                        86
+                                    ],
+                                    "score": 0.992,
+                                    "content": "appliedconsistentlytoallperiodspresentedintheseconsolidatedfinancialstatements.Theaccountingpolicies",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                814,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        814,
+                                        105
+                                    ],
+                                    "score": 0.971,
+                                    "content": "havebeenconsistentlyapplied byCIC'ssubsidiaries.a) Basisof consolidation Subsidiaries Saskatchewan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                100,
+                                864,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        100,
+                                        864,
+                                        126
+                                    ],
+                                    "score": 0.99,
+                                    "content": "provincialCrowncorporationsareeitherdesignatedassubsidiaryCrowncorporationsofCICorcreatedas CIC",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                121,
+                                843,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        121,
+                                        843,
+                                        145
+                                    ],
+                                    "score": 0.992,
+                                    "content": "CrowncorporationsunderTheCrownCorporationsAct,1993(theAct).TheActassignsspecificfinancialand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                140,
+                                855,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        140,
+                                        855,
+                                        164
+                                    ],
+                                    "score": 0.991,
+                                    "content": "otherresponsibilitiesregardingthesecorporationstoCIC.InadditiontotheCrowncorporationslistedbelow,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                161,
+                                879,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        161,
+                                        879,
+                                        185
+                                    ],
+                                    "score": 0.979,
+                                    "content": "theCorporationalsoconsolidatestheaccountsofGradworksInc.,awholl-ownednon-profitsubsidiaryandthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                179,
+                                876,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        179,
+                                        876,
+                                        207
+                                    ],
+                                    "score": 0.981,
+                                    "content": "followingwholy-ownedsharecapitalsubsidiaries:CICAssetManagementInc.;FirstNationsandMetisFundInc.;",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                851,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        851,
+                                        226
+                                    ],
+                                    "score": 0.976,
+                                    "content": "CICEconomicHoldcoLtd.;andSaskatchewan Immigrant InvestorFundInc.(SIIF),allofwhicharedomiciledin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                221,
+                                870,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        221,
+                                        870,
+                                        246
+                                    ],
+                                    "score": 0.984,
+                                    "content": "Canada.AsatMarch31,2018,GradworksInc.wasdissolved.SeparateauditedfinancialstatementsforCIChave",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                243,
+                                831,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        243,
+                                        831,
+                                        267
+                                    ],
+                                    "score": 0.989,
+                                    "content": "beenpreparedtoshowthefinancialpositionand resultsofoperationsofthecorporateentity.Inaddition,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                264,
+                                855,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        264,
+                                        855,
+                                        285
+                                    ],
+                                    "score": 0.991,
+                                    "content": "auditedfinancialstatementsforeachoftheundernotedCrowncorporations,whichareconsolidatedinthese",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                283,
+                                818,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        283,
+                                        818,
+                                        307
+                                    ],
+                                    "score": 0.995,
+                                    "content": "financialstatements,arepreparedandreleasedpublicly:Wholly-ownedsubsidiariesdomiciledinCanada",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                300,
+                                874,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        300,
+                                        874,
+                                        329
+                                    ],
+                                    "score": 0.992,
+                                    "content": "PrincipalActivitySaskEnergyIncorporated(SaskEnergy)NaturalgasstorageanddeliverySaskatchewanGaming",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                846,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        846,
+                                        348
+                                    ],
+                                    "score": 0.982,
+                                    "content": "Corporation (SGC)EntertainmentSaskatchewanGovernment Insurance(SGICANADA)Propertyand casualty",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                343,
+                                861,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        343,
+                                        861,
+                                        366
+                                    ],
+                                    "score": 0.987,
+                                    "content": "insuranceSaskatchewanOpportunities Corporation(SOCO)ResearchparksSaskatchewanPowerCorporation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                777,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        777,
+                                        388
+                                    ],
+                                    "score": 0.98,
+                                    "content": "(SaskPower)ElectricitySaskatchewan Telecommunications Holding Corporationand Saskatchewan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                801,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        801,
+                                        407
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Telecommunications(colectivelySaskTel)InformationandcommunicationstechnologySaskatchewan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                403,
+                                879,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        403,
+                                        879,
+                                        426
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Transportation Company(STC)(Note10)PassengerandfreighttransportationSaskatchewanWaterCorporation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                423,
+                                877,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        423,
+                                        877,
+                                        446
+                                    ],
+                                    "score": 0.991,
+                                    "content": "(SaskWater)WaterandwastewatermanagementAssociatesandjointventures(investmentsinequityaccounted",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                440,
+                                861,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        440,
+                                        861,
+                                        468
+                                    ],
+                                    "score": 0.991,
+                                    "content": "investees)AssociatesarethoseentitiesinwhichtheCorporationhassignificantinfluence,butnotcontrolover",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                835,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        835,
+                                        486
+                                    ],
+                                    "score": 0.996,
+                                    "content": "strategicfinancialandoperatingdecisions.SignificantinfluenceispresumedtoexistwhentheCorporation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                482,
+                                878,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        482,
+                                        878,
+                                        507
+                                    ],
+                                    "score": 0.99,
+                                    "content": "holdsbetween20.0and50.0percentofthevotingpowerofanotherentity.Jointventuresarethoseentitiesover",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                801,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        801,
+                                        527
+                                    ],
+                                    "score": 0.988,
+                                    "content": "whoseactivitiestheCorporationhasjointcontrol,establishedbycontractualagreementandrequiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                522,
+                                860,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        522,
+                                        860,
+                                        548
+                                    ],
+                                    "score": 0.99,
+                                    "content": "unanimousconsentforstrategicfinancialandoperatingdecisions,andprovidetheCorporationwithrightsto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                876,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        876,
+                                        567
+                                    ],
+                                    "score": 0.997,
+                                    "content": "thenetassetsofthearrangement.Associatesandjointventuresareaccountedforusingtheequitymethodand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                561,
+                                866,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        561,
+                                        866,
+                                        588
+                                    ],
+                                    "score": 0.969,
+                                    "content": "arerecognizedinitiallyatcost.TheCorporation's investmentincludesanygoodwillidentifiedatacquisition,net",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                582,
+                                873,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        582,
+                                        873,
+                                        606
+                                    ],
+                                    "score": 0.992,
+                                    "content": "ofaccumulatedimpairmentlosses.TheconsolidatedfinancialstatementsincludetheCorporation'sshareofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                603,
+                                851,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        603,
+                                        851,
+                                        627
+                                    ],
+                                    "score": 0.992,
+                                    "content": "totalcomprehensiveincomeandequitymovementsofequityaccountedinvestees,afteradjustmentstoalign",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                622,
+                                851,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        622,
+                                        851,
+                                        645
+                                    ],
+                                    "score": 0.99,
+                                    "content": "theaccountingpolicieswiththoseoftheCorporation,fromthedatethatsignificantinfluenceorjointcontrol",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                642,
+                                842,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        642,
+                                        842,
+                                        666
+                                    ],
+                                    "score": 0.975,
+                                    "content": "commencesuntilthedate that significantinfluenceorjoint controlceases.Whenthe Corporation's shareof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                663,
+                                858,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        663,
+                                        858,
+                                        687
+                                    ],
+                                    "score": 0.993,
+                                    "content": "lossesexceedsitsinterestinequityaccountedinvestees,thecarryingamountofthatinterestisreducedtoNil",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                682,
+                                873,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        682,
+                                        873,
+                                        706
+                                    ],
+                                    "score": 0.993,
+                                    "content": "andtherecognitionoffurtherlossesisdiscontinuedexcepttotheextentthattheCorporationhasanobligation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                703,
+                                393,
+                                727
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        703,
+                                        393,
+                                        727
+                                    ],
+                                    "score": 0.984,
+                                    "content": "orhasmadepaymentsonbehalfoftheinvestee.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 17
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                737
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        8,
+                        880,
+                        722
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                20,
+                                800,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        20,
+                                        800,
+                                        45
+                                    ],
+                                    "score": 0.976,
+                                    "content": "84CICConsolidated Crown Investments Corporation of Saskatchewan Notesto Consolidated Financial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                873,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        873,
+                                        65
+                                    ],
+                                    "score": 0.991,
+                                    "content": "StatementsMarch31,2019474.SignificantaccountingpoliciesTheaccountingpoliciessetoutbelowhavebeen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                60,
+                                869,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        60,
+                                        869,
+                                        86
+                                    ],
+                                    "score": 0.992,
+                                    "content": "appliedconsistentlytoallperiodspresentedintheseconsolidatedfinancialstatements.Theaccountingpolicies",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                814,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        814,
+                                        105
+                                    ],
+                                    "score": 0.971,
+                                    "content": "havebeenconsistentlyapplied byCIC'ssubsidiaries.a) Basisof consolidation Subsidiaries Saskatchewan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                100,
+                                864,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        100,
+                                        864,
+                                        126
+                                    ],
+                                    "score": 0.99,
+                                    "content": "provincialCrowncorporationsareeitherdesignatedassubsidiaryCrowncorporationsofCICorcreatedas CIC",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                121,
+                                843,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        121,
+                                        843,
+                                        145
+                                    ],
+                                    "score": 0.992,
+                                    "content": "CrowncorporationsunderTheCrownCorporationsAct,1993(theAct).TheActassignsspecificfinancialand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                140,
+                                855,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        140,
+                                        855,
+                                        164
+                                    ],
+                                    "score": 0.991,
+                                    "content": "otherresponsibilitiesregardingthesecorporationstoCIC.InadditiontotheCrowncorporationslistedbelow,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                161,
+                                879,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        161,
+                                        879,
+                                        185
+                                    ],
+                                    "score": 0.979,
+                                    "content": "theCorporationalsoconsolidatestheaccountsofGradworksInc.,awholl-ownednon-profitsubsidiaryandthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                179,
+                                876,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        179,
+                                        876,
+                                        207
+                                    ],
+                                    "score": 0.981,
+                                    "content": "followingwholy-ownedsharecapitalsubsidiaries:CICAssetManagementInc.;FirstNationsandMetisFundInc.;",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                851,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        851,
+                                        226
+                                    ],
+                                    "score": 0.976,
+                                    "content": "CICEconomicHoldcoLtd.;andSaskatchewan Immigrant InvestorFundInc.(SIIF),allofwhicharedomiciledin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                221,
+                                870,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        221,
+                                        870,
+                                        246
+                                    ],
+                                    "score": 0.984,
+                                    "content": "Canada.AsatMarch31,2018,GradworksInc.wasdissolved.SeparateauditedfinancialstatementsforCIChave",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                243,
+                                831,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        243,
+                                        831,
+                                        267
+                                    ],
+                                    "score": 0.989,
+                                    "content": "beenpreparedtoshowthefinancialpositionand resultsofoperationsofthecorporateentity.Inaddition,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                264,
+                                855,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        264,
+                                        855,
+                                        285
+                                    ],
+                                    "score": 0.991,
+                                    "content": "auditedfinancialstatementsforeachoftheundernotedCrowncorporations,whichareconsolidatedinthese",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                283,
+                                818,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        283,
+                                        818,
+                                        307
+                                    ],
+                                    "score": 0.995,
+                                    "content": "financialstatements,arepreparedandreleasedpublicly:Wholly-ownedsubsidiariesdomiciledinCanada",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                300,
+                                874,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        300,
+                                        874,
+                                        329
+                                    ],
+                                    "score": 0.992,
+                                    "content": "PrincipalActivitySaskEnergyIncorporated(SaskEnergy)NaturalgasstorageanddeliverySaskatchewanGaming",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                846,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        846,
+                                        348
+                                    ],
+                                    "score": 0.982,
+                                    "content": "Corporation (SGC)EntertainmentSaskatchewanGovernment Insurance(SGICANADA)Propertyand casualty",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                343,
+                                861,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        343,
+                                        861,
+                                        366
+                                    ],
+                                    "score": 0.987,
+                                    "content": "insuranceSaskatchewanOpportunities Corporation(SOCO)ResearchparksSaskatchewanPowerCorporation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                777,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        777,
+                                        388
+                                    ],
+                                    "score": 0.98,
+                                    "content": "(SaskPower)ElectricitySaskatchewan Telecommunications Holding Corporationand Saskatchewan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                801,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        801,
+                                        407
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Telecommunications(colectivelySaskTel)InformationandcommunicationstechnologySaskatchewan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                403,
+                                879,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        403,
+                                        879,
+                                        426
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Transportation Company(STC)(Note10)PassengerandfreighttransportationSaskatchewanWaterCorporation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                423,
+                                877,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        423,
+                                        877,
+                                        446
+                                    ],
+                                    "score": 0.991,
+                                    "content": "(SaskWater)WaterandwastewatermanagementAssociatesandjointventures(investmentsinequityaccounted",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                440,
+                                861,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        440,
+                                        861,
+                                        468
+                                    ],
+                                    "score": 0.991,
+                                    "content": "investees)AssociatesarethoseentitiesinwhichtheCorporationhassignificantinfluence,butnotcontrolover",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                835,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        835,
+                                        486
+                                    ],
+                                    "score": 0.996,
+                                    "content": "strategicfinancialandoperatingdecisions.SignificantinfluenceispresumedtoexistwhentheCorporation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                482,
+                                878,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        482,
+                                        878,
+                                        507
+                                    ],
+                                    "score": 0.99,
+                                    "content": "holdsbetween20.0and50.0percentofthevotingpowerofanotherentity.Jointventuresarethoseentitiesover",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                801,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        801,
+                                        527
+                                    ],
+                                    "score": 0.988,
+                                    "content": "whoseactivitiestheCorporationhasjointcontrol,establishedbycontractualagreementandrequiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                522,
+                                860,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        522,
+                                        860,
+                                        548
+                                    ],
+                                    "score": 0.99,
+                                    "content": "unanimousconsentforstrategicfinancialandoperatingdecisions,andprovidetheCorporationwithrightsto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                876,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        876,
+                                        567
+                                    ],
+                                    "score": 0.997,
+                                    "content": "thenetassetsofthearrangement.Associatesandjointventuresareaccountedforusingtheequitymethodand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                561,
+                                866,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        561,
+                                        866,
+                                        588
+                                    ],
+                                    "score": 0.969,
+                                    "content": "arerecognizedinitiallyatcost.TheCorporation's investmentincludesanygoodwillidentifiedatacquisition,net",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                582,
+                                873,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        582,
+                                        873,
+                                        606
+                                    ],
+                                    "score": 0.992,
+                                    "content": "ofaccumulatedimpairmentlosses.TheconsolidatedfinancialstatementsincludetheCorporation'sshareofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                603,
+                                851,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        603,
+                                        851,
+                                        627
+                                    ],
+                                    "score": 0.992,
+                                    "content": "totalcomprehensiveincomeandequitymovementsofequityaccountedinvestees,afteradjustmentstoalign",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                622,
+                                851,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        622,
+                                        851,
+                                        645
+                                    ],
+                                    "score": 0.99,
+                                    "content": "theaccountingpolicieswiththoseoftheCorporation,fromthedatethatsignificantinfluenceorjointcontrol",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                642,
+                                842,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        642,
+                                        842,
+                                        666
+                                    ],
+                                    "score": 0.975,
+                                    "content": "commencesuntilthedate that significantinfluenceorjoint controlceases.Whenthe Corporation's shareof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                663,
+                                858,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        663,
+                                        858,
+                                        687
+                                    ],
+                                    "score": 0.993,
+                                    "content": "lossesexceedsitsinterestinequityaccountedinvestees,thecarryingamountofthatinterestisreducedtoNil",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                682,
+                                873,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        682,
+                                        873,
+                                        706
+                                    ],
+                                    "score": 0.993,
+                                    "content": "andtherecognitionoffurtherlossesisdiscontinuedexcepttotheextentthattheCorporationhasanobligation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                703,
+                                393,
+                                727
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        703,
+                                        393,
+                                        727
+                                    ],
+                                    "score": 0.984,
+                                    "content": "orhasmadepaymentsonbehalfoftheinvestee.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 17,
+                    "bbox_fs": [
+                        14,
+                        20,
+                        879,
+                        727
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

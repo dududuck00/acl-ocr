@@ -1,0 +1,1280 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        878,
+                        591
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                20,
+                                834,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        20,
+                                        834,
+                                        46
+                                    ],
+                                    "score": 0.871,
+                                    "content": "June10,201318WHEREAS,theLocalRedevelopmentandHousingLaw,N.J.S.A.40A:12A-1,etseq.(the\"Act\")，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                42,
+                                846,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        42,
+                                        846,
+                                        65
+                                    ],
+                                    "score": 0.99,
+                                    "content": "authorizesmunicipalitiestodeterminewhethercertainparcelsof landinthemunicipalityconstituteareas in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                867,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        867,
+                                        84
+                                    ],
+                                    "score": 0.991,
+                                    "content": "needofredevelopmentinaccordancewiththeAct,includingSection5thereof;andWHEREAS,theTownwishes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                79,
+                                878,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        79,
+                                        878,
+                                        108
+                                    ],
+                                    "score": 0.991,
+                                    "content": "toutilizethePlanning Board'sknowledgeandexpertiseinexploringwhetherthefollowingparcelswithfrontage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                102,
+                                860,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        102,
+                                        860,
+                                        125
+                                    ],
+                                    "score": 0.987,
+                                    "content": "oneitherUSRoute206orAdamsStreet,asdepictedonthemapattachedheretoasExhibitAandidentifiedon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                119,
+                                855,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        119,
+                                        855,
+                                        146
+                                    ],
+                                    "score": 0.78,
+                                    "content": "theofficiataxmapoftheTownasBock8.08,ots6,7,8,9,10,11,29,0and31(collectivelythe“Studyea)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                845,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        845,
+                                        165
+                                    ],
+                                    "score": 0.995,
+                                    "content": "meetthecriteriaestablishedbytheAct;andWHEREAS,theTownthereforeseekstoauthorizeanddirectthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                861,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        861,
+                                        185
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Planning BoardtoconductapreliminaryinvestigationoftheStudyAreaandtomakerecommendationsto the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                861,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        861,
+                                        205
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Town,allinaccordancewiththeAct;NOW,THEREFORE,BEITRESOLVEDbytheMayorandTownCouncilofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                198,
+                                870,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        198,
+                                        870,
+                                        227
+                                    ],
+                                    "score": 0.991,
+                                    "content": "TownofNewtonasfollows:I.GENERALTheaforementionedrecitalsareincorporatedhereinasthoughfullyset",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                854,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        854,
+                                        244
+                                    ],
+                                    "score": 0.988,
+                                    "content": "forthatlength.IIINVESTIGATIONOFSTUDYAREAAUTHORIZEDThePlanningBoardisherebyauthorizedand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                242,
+                                855,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        242,
+                                        855,
+                                        265
+                                    ],
+                                    "score": 0.987,
+                                    "content": "directedtoconductaninvestigationpursuanttoN.J.S.A.40A:12A-6todeterminewhetheralloraportionofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                847,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        847,
+                                        285
+                                    ],
+                                    "score": 0.98,
+                                    "content": "StudyAreasatisfiesthecriteriasetforthintheAct,includingN.J.S.A.40A:12A-5,tobedesignatedasanareain",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                280,
+                                875,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        280,
+                                        875,
+                                        307
+                                    ],
+                                    "score": 0.973,
+                                    "content": "needofredevelopment.II.MAPTOBEPREPAREDAspartofitsinvestigation,thePlanningBoardshallpreparea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                301,
+                                834,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        301,
+                                        834,
+                                        327
+                                    ],
+                                    "score": 0.986,
+                                    "content": "mapshowingtheboundariesof theproposedredevelopmentareasandthelocationofthevariousparcels",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                320,
+                                833,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        320,
+                                        833,
+                                        347
+                                    ],
+                                    "score": 0.978,
+                                    "content": "containedtherein.IV.PUBLICHEARING REQUIREDThePlanning Boardshallconductapublichearing,after",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                341,
+                                872,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        341,
+                                        872,
+                                        367
+                                    ],
+                                    "score": 0.997,
+                                    "content": "givingduenoticeoftheproposedboundariesoftheStudyAreaandthedateofthehearingtoanypersonswho",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                774,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        774,
+                                        385
+                                    ],
+                                    "score": 0.996,
+                                    "content": "areinterestedinorwouldbeaffectedbyadeterminationthatalloraportionoftheStudyAreaisa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                380,
+                                842,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        380,
+                                        842,
+                                        406
+                                    ],
+                                    "score": 0.989,
+                                    "content": "redevelopmentarea.Atthehearing,thePlanning Boardshallhearfromallpersonswhoareinterestedinor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                808,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        808,
+                                        425
+                                    ],
+                                    "score": 0.989,
+                                    "content": "wouldbeaffectedbyadeterminationthatalloraportionoftheStudyAreaisaredevelopmentarea.All",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                845,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        845,
+                                        444
+                                    ],
+                                    "score": 0.994,
+                                    "content": "objectionstoadeterminationthatalloraportionoftheStudyAreaisanareainneedofredevelopmentand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                865,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        865,
+                                        467
+                                    ],
+                                    "score": 0.996,
+                                    "content": "evidenceinsupportofthoseobjectionsshallbereceivedandconsideredbythePlanning Boardandmadepart",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                461,
+                                839,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        461,
+                                        839,
+                                        484
+                                    ],
+                                    "score": 0.993,
+                                    "content": "ofthepublicrecord.V.PLANNINGBOARDTOMAKERECOMMENDATIONSAfterconductingitsinvestigation,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                482,
+                                862,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        482,
+                                        862,
+                                        506
+                                    ],
+                                    "score": 0.992,
+                                    "content": "preparingamapoftheproposedredevelopmentarea,andconductingapublichearingatwhichallobjections",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                864,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        864,
+                                        524
+                                    ],
+                                    "score": 0.98,
+                                    "content": "tothedesignationarereceivedandconsidered,thePlanning BoardshallmakearecommendationtotheTown",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                521,
+                                862,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        521,
+                                        862,
+                                        545
+                                    ],
+                                    "score": 0.992,
+                                    "content": "astowhether theTownshoulddesignateallorpartoftheStudyAreaasanareainneedofredevelopment.VI.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                540,
+                                874,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        540,
+                                        874,
+                                        567
+                                    ],
+                                    "score": 0.981,
+                                    "content": "SEVERABILITYIfanypartofthisResolutionshallbedeemedinvalid,suchpartsshallbeseveredandtheinvalidity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                560,
+                                790,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        560,
+                                        790,
+                                        585
+                                    ],
+                                    "score": 0.985,
+                                    "content": "therebyshallnotaffecttheremainingpartsof thisResolution.VII.AVAILABILITYOFTHERESOLUTION",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 13.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                596
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        878,
+                        591
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                20,
+                                834,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        20,
+                                        834,
+                                        46
+                                    ],
+                                    "score": 0.871,
+                                    "content": "June10,201318WHEREAS,theLocalRedevelopmentandHousingLaw,N.J.S.A.40A:12A-1,etseq.(the\"Act\")，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                42,
+                                846,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        42,
+                                        846,
+                                        65
+                                    ],
+                                    "score": 0.99,
+                                    "content": "authorizesmunicipalitiestodeterminewhethercertainparcelsof landinthemunicipalityconstituteareas in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                867,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        867,
+                                        84
+                                    ],
+                                    "score": 0.991,
+                                    "content": "needofredevelopmentinaccordancewiththeAct,includingSection5thereof;andWHEREAS,theTownwishes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                79,
+                                878,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        79,
+                                        878,
+                                        108
+                                    ],
+                                    "score": 0.991,
+                                    "content": "toutilizethePlanning Board'sknowledgeandexpertiseinexploringwhetherthefollowingparcelswithfrontage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                102,
+                                860,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        102,
+                                        860,
+                                        125
+                                    ],
+                                    "score": 0.987,
+                                    "content": "oneitherUSRoute206orAdamsStreet,asdepictedonthemapattachedheretoasExhibitAandidentifiedon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                119,
+                                855,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        119,
+                                        855,
+                                        146
+                                    ],
+                                    "score": 0.78,
+                                    "content": "theofficiataxmapoftheTownasBock8.08,ots6,7,8,9,10,11,29,0and31(collectivelythe“Studyea)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                845,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        845,
+                                        165
+                                    ],
+                                    "score": 0.995,
+                                    "content": "meetthecriteriaestablishedbytheAct;andWHEREAS,theTownthereforeseekstoauthorizeanddirectthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                861,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        861,
+                                        185
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Planning BoardtoconductapreliminaryinvestigationoftheStudyAreaandtomakerecommendationsto the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                861,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        861,
+                                        205
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Town,allinaccordancewiththeAct;NOW,THEREFORE,BEITRESOLVEDbytheMayorandTownCouncilofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                198,
+                                870,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        198,
+                                        870,
+                                        227
+                                    ],
+                                    "score": 0.991,
+                                    "content": "TownofNewtonasfollows:I.GENERALTheaforementionedrecitalsareincorporatedhereinasthoughfullyset",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                854,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        854,
+                                        244
+                                    ],
+                                    "score": 0.988,
+                                    "content": "forthatlength.IIINVESTIGATIONOFSTUDYAREAAUTHORIZEDThePlanningBoardisherebyauthorizedand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                242,
+                                855,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        242,
+                                        855,
+                                        265
+                                    ],
+                                    "score": 0.987,
+                                    "content": "directedtoconductaninvestigationpursuanttoN.J.S.A.40A:12A-6todeterminewhetheralloraportionofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                847,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        847,
+                                        285
+                                    ],
+                                    "score": 0.98,
+                                    "content": "StudyAreasatisfiesthecriteriasetforthintheAct,includingN.J.S.A.40A:12A-5,tobedesignatedasanareain",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                280,
+                                875,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        280,
+                                        875,
+                                        307
+                                    ],
+                                    "score": 0.973,
+                                    "content": "needofredevelopment.II.MAPTOBEPREPAREDAspartofitsinvestigation,thePlanningBoardshallpreparea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                301,
+                                834,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        301,
+                                        834,
+                                        327
+                                    ],
+                                    "score": 0.986,
+                                    "content": "mapshowingtheboundariesof theproposedredevelopmentareasandthelocationofthevariousparcels",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                320,
+                                833,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        320,
+                                        833,
+                                        347
+                                    ],
+                                    "score": 0.978,
+                                    "content": "containedtherein.IV.PUBLICHEARING REQUIREDThePlanning Boardshallconductapublichearing,after",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                341,
+                                872,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        341,
+                                        872,
+                                        367
+                                    ],
+                                    "score": 0.997,
+                                    "content": "givingduenoticeoftheproposedboundariesoftheStudyAreaandthedateofthehearingtoanypersonswho",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                774,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        774,
+                                        385
+                                    ],
+                                    "score": 0.996,
+                                    "content": "areinterestedinorwouldbeaffectedbyadeterminationthatalloraportionoftheStudyAreaisa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                380,
+                                842,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        380,
+                                        842,
+                                        406
+                                    ],
+                                    "score": 0.989,
+                                    "content": "redevelopmentarea.Atthehearing,thePlanning Boardshallhearfromallpersonswhoareinterestedinor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                808,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        808,
+                                        425
+                                    ],
+                                    "score": 0.989,
+                                    "content": "wouldbeaffectedbyadeterminationthatalloraportionoftheStudyAreaisaredevelopmentarea.All",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                845,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        845,
+                                        444
+                                    ],
+                                    "score": 0.994,
+                                    "content": "objectionstoadeterminationthatalloraportionoftheStudyAreaisanareainneedofredevelopmentand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                865,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        865,
+                                        467
+                                    ],
+                                    "score": 0.996,
+                                    "content": "evidenceinsupportofthoseobjectionsshallbereceivedandconsideredbythePlanning Boardandmadepart",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                461,
+                                839,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        461,
+                                        839,
+                                        484
+                                    ],
+                                    "score": 0.993,
+                                    "content": "ofthepublicrecord.V.PLANNINGBOARDTOMAKERECOMMENDATIONSAfterconductingitsinvestigation,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                482,
+                                862,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        482,
+                                        862,
+                                        506
+                                    ],
+                                    "score": 0.992,
+                                    "content": "preparingamapoftheproposedredevelopmentarea,andconductingapublichearingatwhichallobjections",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                864,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        864,
+                                        524
+                                    ],
+                                    "score": 0.98,
+                                    "content": "tothedesignationarereceivedandconsidered,thePlanning BoardshallmakearecommendationtotheTown",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                521,
+                                862,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        521,
+                                        862,
+                                        545
+                                    ],
+                                    "score": 0.992,
+                                    "content": "astowhether theTownshoulddesignateallorpartoftheStudyAreaasanareainneedofredevelopment.VI.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                540,
+                                874,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        540,
+                                        874,
+                                        567
+                                    ],
+                                    "score": 0.981,
+                                    "content": "SEVERABILITYIfanypartofthisResolutionshallbedeemedinvalid,suchpartsshallbeseveredandtheinvalidity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                560,
+                                790,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        560,
+                                        790,
+                                        585
+                                    ],
+                                    "score": 0.985,
+                                    "content": "therebyshallnotaffecttheremainingpartsof thisResolution.VII.AVAILABILITYOFTHERESOLUTION",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 13.5,
+                    "bbox_fs": [
+                        14,
+                        20,
+                        878,
+                        585
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

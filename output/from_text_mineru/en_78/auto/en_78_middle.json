@@ -1,0 +1,1632 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        0,
+                        876,
+                        747
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                21,
+                                870,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        21,
+                                        870,
+                                        45
+                                    ],
+                                    "score": 0.976,
+                                    "content": "ThePictureFramesofStanfordWhite(1853-1906)WiliamAdair，GoldLeafStudiosWashingtonDCArtistssuch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                856,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        856,
+                                        65
+                                    ],
+                                    "score": 0.983,
+                                    "content": "asThomasWilmer Dewing,AugustusSt.GaudensandAbbotThayerhadapreferencefortheclassicallystyled",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                821,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        821,
+                                        85
+                                    ],
+                                    "score": 0.996,
+                                    "content": "framesdesignedbyStanfordWhite.TheprestigiousarchitecturalfirmofMcKim,MeadeandWhitewasa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                833,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        833,
+                                        105
+                                    ],
+                                    "score": 0.994,
+                                    "content": "staunchchampionoftheRenaissanceRevivalstyle.Notonlydidtheyreceivemanyimportant commissions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                103,
+                                810,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        103,
+                                        810,
+                                        124
+                                    ],
+                                    "score": 0.985,
+                                    "content": "(includingre-decorationofTheWhiteHouse),buttheyalsofoundedtheAmericanAcademyinRome,an",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                122,
+                                841,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        122,
+                                        841,
+                                        144
+                                    ],
+                                    "score": 0.967,
+                                    "content": "organizationdedicatedtothestudyof Classicalideals.Therevivalof theseaestheticsheldsacredduring the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                141,
+                                880,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        141,
+                                        880,
+                                        167
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Renaissance,AncientRomeandGreece,wereopenlypursuedbyWhiteandhiscollagues.Thepictureframeshe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                162,
+                                832,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        162,
+                                        832,
+                                        185
+                                    ],
+                                    "score": 0.983,
+                                    "content": "designedwerecarefullyconceivedtoblendintotheenvironment createdbythearchitecture.The interiors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                180,
+                                831,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        180,
+                                        831,
+                                        205
+                                    ],
+                                    "score": 0.99,
+                                    "content": "possessedclassicalornamentationofelaboratecornicesandrichdetail.Asaresult,White'sframeswerea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                845,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        845,
+                                        225
+                                    ],
+                                    "score": 0.997,
+                                    "content": "logicalchoiceforartistsaspiringtosimilarideals.Someofthepatternswereinspiredbythetabernaclestyle",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                869,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        869,
+                                        245
+                                    ],
+                                    "score": 0.996,
+                                    "content": "usedbyPierodellaFranc-escaduringtheRenaissance(Fig.1).Theprimarycharacteristicofthetabernaclestyle",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                241,
+                                857,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        241,
+                                        857,
+                                        265
+                                    ],
+                                    "score": 0.998,
+                                    "content": "isanentablaturesupportedbytwopilastersflankingtheperimeterofthepainting.Otherpatternshecreated",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                261,
+                                861,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        261,
+                                        861,
+                                        285
+                                    ],
+                                    "score": 0.981,
+                                    "content": "resemblea“Whistlerian”profile,butinsteadofsimpleflutedreeds,Whitedesignedavarietyofpatternswitha",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                282,
+                                871,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        282,
+                                        871,
+                                        306
+                                    ],
+                                    "score": 0.951,
+                                    "content": "Greekwavedesign,chevrons,twistedropeandribbon,allcombinedintooneflatprofile(Fig.2).AlthoughWhite",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                301,
+                                880,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        301,
+                                        880,
+                                        326
+                                    ],
+                                    "score": 0.992,
+                                    "content": "producedmanydesigns(Fig.3),themostinnovativeanddistinctivepatternwasthegrileframethatresemblesa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                321,
+                                859,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        321,
+                                        859,
+                                        345
+                                    ],
+                                    "score": 0.991,
+                                    "content": "gildedlaticeorlace,suspendedoneinchoverabrightlygildedpanel.Asaresultofthepanel'sreflectionfrom",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                879,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        879,
+                                        366
+                                    ],
+                                    "score": 0.978,
+                                    "content": "below,itproducesadalingeffectwithonlysmallamountsofavailablelight.Anopticalillusionisproducedthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                802,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        802,
+                                        385
+                                    ],
+                                    "score": 0.985,
+                                    "content": "makesitappearthatlightisemanatingfromwithintheframe.This“halo\"isparticularlyeffectivewhen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                380,
+                                852,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        380,
+                                        852,
+                                        407
+                                    ],
+                                    "score": 0.987,
+                                    "content": "combinedwiththeluminescentqualityofDewing'spaintings(Fig.4).Itmaybeforthesereasonsthat Dewing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                402,
+                                846,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        402,
+                                        846,
+                                        426
+                                    ],
+                                    "score": 0.988,
+                                    "content": "preferredthisstyleformanyofhispaintings.Unfortunately,theseframesareextremelyfragileandtheyare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                420,
+                                846,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        420,
+                                        846,
+                                        446
+                                    ],
+                                    "score": 0.991,
+                                    "content": "oftenfoundinabrokenanddeterioratedconditionasaresultofnormalwearandtearforalmostacentury.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                439,
+                                865,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        439,
+                                        865,
+                                        466
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Originally,theseframeswerewellconstructedandthemethodusedingildingfollowedtraditionaltechniques",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                831,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        831,
+                                        487
+                                    ],
+                                    "score": 0.987,
+                                    "content": "thatarepasseddownfrommastercraftsmentoapprenticeamong thegildingshopsof Europe.Thereare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                482,
+                                835,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        482,
+                                        835,
+                                        504
+                                    ],
+                                    "score": 0.983,
+                                    "content": "severalvariations inmanufacturingthegrillepatternoftheseframes.Onemethod consistsofawiremesh",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                499,
+                                877,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        499,
+                                        877,
+                                        527
+                                    ],
+                                    "score": 0.994,
+                                    "content": "coveredwithathickgesso(pastiglia)builtupanddrippedontothethinmetalwiretoformanornamentalshape",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                848,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        848,
+                                        546
+                                    ],
+                                    "score": 0.976,
+                                    "content": "(Fig.5).Asthismethodmust havebeenlaborious,anothertypeof grileappearsthatismadefrom“compo*",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                542,
+                                805,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        542,
+                                        805,
+                                        565
+                                    ],
+                                    "score": 0.993,
+                                    "content": "reinforcedwithapaperbacking(Fig.6).Thislattertypeisthesubjectofthefollowingconservationand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                866,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        866,
+                                        585
+                                    ],
+                                    "score": 0.982,
+                                    "content": "fabricationdiscussion.BriefSummaryoftheConservationofThomasDewinFramefor\"TheLutePlayer\"(1905);",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                580,
+                                846,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        580,
+                                        846,
+                                        606
+                                    ],
+                                    "score": 0.993,
+                                    "content": "FreerGalleryofArt;SmithsonianInstitution;Washington,D.C.ThisStanfordWhiteframehadbeendamaged",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                599,
+                                810,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        599,
+                                        810,
+                                        627
+                                    ],
+                                    "score": 0.979,
+                                    "content": "fromimpactduring shippingand handling.Asaresult,thegrillewas brokenand pieces weremissing in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                849,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        849,
+                                        645
+                                    ],
+                                    "score": 0.992,
+                                    "content": "numerousareaswhichrequiredtreatment.Anotherproblemwasthattheoriginalsurfacehadbeencovered",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                641,
+                                877,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        641,
+                                        877,
+                                        665
+                                    ],
+                                    "score": 0.983,
+                                    "content": "withabronzeor\"radiatorpaint\"asafeebleatempttorefurbishthegold.Inordertobringtheframeback toits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                661,
+                                860,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        661,
+                                        860,
+                                        685
+                                    ],
+                                    "score": 0.988,
+                                    "content": "originalcondition,thebronzepaintwasremovedusingchemicals,torevealtracesoftheoriginalgilding.Prior",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                681,
+                                846,
+                                707
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        681,
+                                        846,
+                                        707
+                                    ],
+                                    "score": 0.982,
+                                    "content": "tothisstrippingprocess,thegrillewasliftedfromtheframebycarefullyremoving thesmallbradsoriginally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                702,
+                                865,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        702,
+                                        865,
+                                        725
+                                    ],
+                                    "score": 0.994,
+                                    "content": "usedtoaffixittothepanel.Bytakinganimpressionwitharubbermoldandpressingcompointothemold,the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                721,
+                                123,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        721,
+                                        123,
+                                        744
+                                    ],
+                                    "score": 0.999,
+                                    "content": "brokenareas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                752
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        0,
+                        876,
+                        747
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                21,
+                                870,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        21,
+                                        870,
+                                        45
+                                    ],
+                                    "score": 0.976,
+                                    "content": "ThePictureFramesofStanfordWhite(1853-1906)WiliamAdair，GoldLeafStudiosWashingtonDCArtistssuch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                856,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        856,
+                                        65
+                                    ],
+                                    "score": 0.983,
+                                    "content": "asThomasWilmer Dewing,AugustusSt.GaudensandAbbotThayerhadapreferencefortheclassicallystyled",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                821,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        821,
+                                        85
+                                    ],
+                                    "score": 0.996,
+                                    "content": "framesdesignedbyStanfordWhite.TheprestigiousarchitecturalfirmofMcKim,MeadeandWhitewasa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                833,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        833,
+                                        105
+                                    ],
+                                    "score": 0.994,
+                                    "content": "staunchchampionoftheRenaissanceRevivalstyle.Notonlydidtheyreceivemanyimportant commissions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                103,
+                                810,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        103,
+                                        810,
+                                        124
+                                    ],
+                                    "score": 0.985,
+                                    "content": "(includingre-decorationofTheWhiteHouse),buttheyalsofoundedtheAmericanAcademyinRome,an",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                122,
+                                841,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        122,
+                                        841,
+                                        144
+                                    ],
+                                    "score": 0.967,
+                                    "content": "organizationdedicatedtothestudyof Classicalideals.Therevivalof theseaestheticsheldsacredduring the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                141,
+                                880,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        141,
+                                        880,
+                                        167
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Renaissance,AncientRomeandGreece,wereopenlypursuedbyWhiteandhiscollagues.Thepictureframeshe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                162,
+                                832,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        162,
+                                        832,
+                                        185
+                                    ],
+                                    "score": 0.983,
+                                    "content": "designedwerecarefullyconceivedtoblendintotheenvironment createdbythearchitecture.The interiors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                180,
+                                831,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        180,
+                                        831,
+                                        205
+                                    ],
+                                    "score": 0.99,
+                                    "content": "possessedclassicalornamentationofelaboratecornicesandrichdetail.Asaresult,White'sframeswerea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                845,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        845,
+                                        225
+                                    ],
+                                    "score": 0.997,
+                                    "content": "logicalchoiceforartistsaspiringtosimilarideals.Someofthepatternswereinspiredbythetabernaclestyle",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                869,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        869,
+                                        245
+                                    ],
+                                    "score": 0.996,
+                                    "content": "usedbyPierodellaFranc-escaduringtheRenaissance(Fig.1).Theprimarycharacteristicofthetabernaclestyle",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                241,
+                                857,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        241,
+                                        857,
+                                        265
+                                    ],
+                                    "score": 0.998,
+                                    "content": "isanentablaturesupportedbytwopilastersflankingtheperimeterofthepainting.Otherpatternshecreated",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                261,
+                                861,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        261,
+                                        861,
+                                        285
+                                    ],
+                                    "score": 0.981,
+                                    "content": "resemblea“Whistlerian”profile,butinsteadofsimpleflutedreeds,Whitedesignedavarietyofpatternswitha",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                282,
+                                871,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        282,
+                                        871,
+                                        306
+                                    ],
+                                    "score": 0.951,
+                                    "content": "Greekwavedesign,chevrons,twistedropeandribbon,allcombinedintooneflatprofile(Fig.2).AlthoughWhite",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                301,
+                                880,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        301,
+                                        880,
+                                        326
+                                    ],
+                                    "score": 0.992,
+                                    "content": "producedmanydesigns(Fig.3),themostinnovativeanddistinctivepatternwasthegrileframethatresemblesa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                321,
+                                859,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        321,
+                                        859,
+                                        345
+                                    ],
+                                    "score": 0.991,
+                                    "content": "gildedlaticeorlace,suspendedoneinchoverabrightlygildedpanel.Asaresultofthepanel'sreflectionfrom",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                879,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        879,
+                                        366
+                                    ],
+                                    "score": 0.978,
+                                    "content": "below,itproducesadalingeffectwithonlysmallamountsofavailablelight.Anopticalillusionisproducedthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                802,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        802,
+                                        385
+                                    ],
+                                    "score": 0.985,
+                                    "content": "makesitappearthatlightisemanatingfromwithintheframe.This“halo\"isparticularlyeffectivewhen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                380,
+                                852,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        380,
+                                        852,
+                                        407
+                                    ],
+                                    "score": 0.987,
+                                    "content": "combinedwiththeluminescentqualityofDewing'spaintings(Fig.4).Itmaybeforthesereasonsthat Dewing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                402,
+                                846,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        402,
+                                        846,
+                                        426
+                                    ],
+                                    "score": 0.988,
+                                    "content": "preferredthisstyleformanyofhispaintings.Unfortunately,theseframesareextremelyfragileandtheyare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                420,
+                                846,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        420,
+                                        846,
+                                        446
+                                    ],
+                                    "score": 0.991,
+                                    "content": "oftenfoundinabrokenanddeterioratedconditionasaresultofnormalwearandtearforalmostacentury.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                439,
+                                865,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        439,
+                                        865,
+                                        466
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Originally,theseframeswerewellconstructedandthemethodusedingildingfollowedtraditionaltechniques",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                831,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        831,
+                                        487
+                                    ],
+                                    "score": 0.987,
+                                    "content": "thatarepasseddownfrommastercraftsmentoapprenticeamong thegildingshopsof Europe.Thereare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                482,
+                                835,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        482,
+                                        835,
+                                        504
+                                    ],
+                                    "score": 0.983,
+                                    "content": "severalvariations inmanufacturingthegrillepatternoftheseframes.Onemethod consistsofawiremesh",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                499,
+                                877,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        499,
+                                        877,
+                                        527
+                                    ],
+                                    "score": 0.994,
+                                    "content": "coveredwithathickgesso(pastiglia)builtupanddrippedontothethinmetalwiretoformanornamentalshape",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                848,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        848,
+                                        546
+                                    ],
+                                    "score": 0.976,
+                                    "content": "(Fig.5).Asthismethodmust havebeenlaborious,anothertypeof grileappearsthatismadefrom“compo*",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                542,
+                                805,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        542,
+                                        805,
+                                        565
+                                    ],
+                                    "score": 0.993,
+                                    "content": "reinforcedwithapaperbacking(Fig.6).Thislattertypeisthesubjectofthefollowingconservationand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                866,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        866,
+                                        585
+                                    ],
+                                    "score": 0.982,
+                                    "content": "fabricationdiscussion.BriefSummaryoftheConservationofThomasDewinFramefor\"TheLutePlayer\"(1905);",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                580,
+                                846,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        580,
+                                        846,
+                                        606
+                                    ],
+                                    "score": 0.993,
+                                    "content": "FreerGalleryofArt;SmithsonianInstitution;Washington,D.C.ThisStanfordWhiteframehadbeendamaged",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                599,
+                                810,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        599,
+                                        810,
+                                        627
+                                    ],
+                                    "score": 0.979,
+                                    "content": "fromimpactduring shippingand handling.Asaresult,thegrillewas brokenand pieces weremissing in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                849,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        849,
+                                        645
+                                    ],
+                                    "score": 0.992,
+                                    "content": "numerousareaswhichrequiredtreatment.Anotherproblemwasthattheoriginalsurfacehadbeencovered",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                641,
+                                877,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        641,
+                                        877,
+                                        665
+                                    ],
+                                    "score": 0.983,
+                                    "content": "withabronzeor\"radiatorpaint\"asafeebleatempttorefurbishthegold.Inordertobringtheframeback toits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                661,
+                                860,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        661,
+                                        860,
+                                        685
+                                    ],
+                                    "score": 0.988,
+                                    "content": "originalcondition,thebronzepaintwasremovedusingchemicals,torevealtracesoftheoriginalgilding.Prior",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                681,
+                                846,
+                                707
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        681,
+                                        846,
+                                        707
+                                    ],
+                                    "score": 0.982,
+                                    "content": "tothisstrippingprocess,thegrillewasliftedfromtheframebycarefullyremoving thesmallbradsoriginally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                702,
+                                865,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        702,
+                                        865,
+                                        725
+                                    ],
+                                    "score": 0.994,
+                                    "content": "usedtoaffixittothepanel.Bytakinganimpressionwitharubbermoldandpressingcompointothemold,the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                721,
+                                123,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        721,
+                                        123,
+                                        744
+                                    ],
+                                    "score": 0.999,
+                                    "content": "brokenareas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5,
+                    "bbox_fs": [
+                        14,
+                        21,
+                        880,
+                        744
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

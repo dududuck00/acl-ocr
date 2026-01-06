@@ -1,0 +1,1588 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        7,
+                        884,
+                        709
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                19,
+                                868,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        19,
+                                        868,
+                                        47
+                                    ],
+                                    "score": 0.977,
+                                    "content": "geometries,e.g.handlingmultipleclassesofShapeNet[8]simultaneously.Theatentionmechanismatthecore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                41,
+                                844,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        41,
+                                        844,
+                                        65
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ofourarchitecturehasthepotentialtoenforcelocalcontroloftheinterpolation,asseeninFigure5.Further",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                821,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        821,
+                                        86
+                                    ],
+                                    "score": 0.992,
+                                    "content": "investigationisneededtoexplorethepossbilitytointroduceadditionalpriorsontheattentiontoforcea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                862,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        862,
+                                        106
+                                    ],
+                                    "score": 0.977,
+                                    "content": "semanticallymeaningfullocalizationandinterpolation behavior.Ourmethod sharesacommondrawback with",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                100,
+                                858,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        100,
+                                        858,
+                                        126
+                                    ],
+                                    "score": 0.99,
+                                    "content": "mosttransformed-basedarchitectures,requiringlongtrainingandpost-processingtimeduetothenatureof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                119,
+                                875,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        119,
+                                        875,
+                                        147
+                                    ],
+                                    "score": 0.987,
+                                    "content": "therefinementprocedure.Allcodeanddataispubliclyavailable1.7AcknowledgmentThisworkissupportedby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                803,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        712,
+                                        165
+                                    ],
+                                    "score": 0.993,
+                                    "content": "theERCGrantNo.802554(SPECGEO)andtheMIURundergrant“Dipartimentidieccellenza",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        712,
+                                        141,
+                                        798,
+                                        161
+                                    ],
+                                    "score": 0.32,
+                                    "content": "2 0 1 8 - 2 0 2 2 ^ { \\prime \\prime }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        798,
+                                        141,
+                                        803,
+                                        165
+                                    ],
+                                    "score": 0.854,
+                                    "content": ".",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                161,
+                                819,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        161,
+                                        819,
+                                        185
+                                    ],
+                                    "score": 0.992,
+                                    "content": "References[1]Scantheworldproject.https://www.myminifactory.com/scantheworld,[Online;ac-cessed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                807,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        807,
+                                        205
+                                    ],
+                                    "score": 0.954,
+                                    "content": "04-June-2021][2]Allen,B.Curless,B.,Popovic,Z.:Thespaceofhumanbodyshapes:reconstructionand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                851,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        851,
+                                        227
+                                    ],
+                                    "score": 0.971,
+                                    "content": "parameterizationfromrangescans.ACMtransactionsongraphics(TOG)22(3),587-594(2003)[3]Amberg,B.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                223,
+                                870,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        223,
+                                        870,
+                                        247
+                                    ],
+                                    "score": 0.938,
+                                    "content": "Romdhani,S.,Vetter,T.:Optimalstepnonrigidicpalgorithmsforsurfaceregis-tration.In:20o7IEEEconference",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                243,
+                                873,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        243,
+                                        873,
+                                        267
+                                    ],
+                                    "score": 0.773,
+                                    "content": "oncomputersiondpterrecognition.p.-8IEE(2o7)[4]Anguelov,D.nivasan,P.ollerD.u",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                258,
+                                856,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        258,
+                                        856,
+                                        290
+                                    ],
+                                    "score": 0.922,
+                                    "content": "S.Rodgers,J.，Davis,J.:Scape:shapecompletionandanimationofpeople.In:ACMSIGGRAPH205Papers,pp.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                858,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        858,
+                                        306
+                                    ],
+                                    "score": 0.873,
+                                    "content": "408-416(20o5)[5]Besl,P.J.，McKayN.D.:Amethodforregistrationof3-dsapes.IEEETransactionsonPattern",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                302,
+                                845,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        302,
+                                        845,
+                                        326
+                                    ],
+                                    "score": 0.942,
+                                    "content": "AnalysisandMachineInteligence14(2)，239-256(Feb1992)[6]Bhatnagar,B.L.,Sminchisescu,C.,Theobalt,C.,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                842,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        842,
+                                        348
+                                    ],
+                                    "score": 0.969,
+                                    "content": "Pons-Moll,G.:Loopreg:Self-supervisedlearningof implicitsurfacecorrespondences,poseandshapefor3d",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                341,
+                                876,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        341,
+                                        876,
+                                        367
+                                    ],
+                                    "score": 0.992,
+                                    "content": "humanmeshregistration.In:AdvancesinNeural InformationProcessingSystems(NeurIPS)(December2020)[7]",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                790,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        790,
+                                        388
+                                    ],
+                                    "score": 0.839,
+                                    "content": "Bogo,F.,Romero,J.,oper，M.,Black,M.J.:FAUT:Datasetandevaluationfor3Dmeshregistration.In:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                868,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        868,
+                                        406
+                                    ],
+                                    "score": 0.97,
+                                    "content": "ProceedingsIEEEConf.onComputerVisionandPatternRecognition(CVPR).IEEE,PiscatawayNJ,USA(Jun2014)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                881,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        881,
+                                        426
+                                    ],
+                                    "score": 0.809,
+                                    "content": "[8]Chang,A.X.,Funkhouser，T.Guibas,L.,Hanrahan,P.,Huang,Q.,Li,Z.,avarese,S.,awa,M.Song,S.,u,H.et",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                421,
+                                840,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        421,
+                                        840,
+                                        448
+                                    ],
+                                    "score": 0.968,
+                                    "content": "al.:Shapenet:Aninformation-rich3dmodelrepository.arXivpreprintarXiv:1512.03012(2015)[9]Charlier,B.，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                441,
+                                812,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        441,
+                                        812,
+                                        469
+                                    ],
+                                    "score": 0.725,
+                                    "content": "Feydy,j.,Gues,J.A.olinF.Durif,G.ernelopratiosoegithutoi,iotr",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                462,
+                                865,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        462,
+                                        865,
+                                        489
+                                    ],
+                                    "score": 0.924,
+                                    "content": "overflows.JournalofMachineLearningResearch22(74)1-6(2021)，http:/jmlr.org/papers/v22/20-275.html[10]",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                484,
+                                881,
+                                508
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        484,
+                                        881,
+                                        508
+                                    ],
+                                    "score": 0.701,
+                                    "content": "Cheng,.,oeinosi,iceio.gaoadbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                868,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        868,
+                                        528
+                                    ],
+                                    "score": 0.842,
+                                    "content": "faces.arXivpreprintarXiv:1903.10384(2019)[11]Devin,J,，Chang,M.W.,Lee,K.,Toutanova,K.:BER:Pretraing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                521,
+                                862,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        521,
+                                        862,
+                                        548
+                                    ],
+                                    "score": 0.972,
+                                    "content": "ofdeepbidirectionaltransformersfor languageunderstanding.In:Proceedingsof the2019Conferenceof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                541,
+                                830,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        541,
+                                        830,
+                                        569
+                                    ],
+                                    "score": 0.971,
+                                    "content": "NorthAmerican Chapterof theAssociation forComputational Linguistics:Human LanguageTechnologies,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                564,
+                                835,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        564,
+                                        835,
+                                        587
+                                    ],
+                                    "score": 0.969,
+                                    "content": "Volume1(LongandShortPapers).pp.4171-4186.AssociationforComputa-tionalLinguistics,Minneapolis,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                582,
+                                857,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        582,
+                                        857,
+                                        608
+                                    ],
+                                    "score": 0.976,
+                                    "content": "Minnesota(Jun2019).htps://doi.org/10.18653/v1/N19-1423,https://www.aclweb.org/anthology/N19-1423[12]",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                603,
+                                828,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        603,
+                                        828,
+                                        630
+                                    ],
+                                    "score": 0.872,
+                                    "content": "Donati,N.,harma,A.OvsjanikovM.Deepgeometricfunctionalmaps:Robustfeaturelearningforshape",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                622,
+                                822,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        622,
+                                        822,
+                                        649
+                                    ],
+                                    "score": 0.986,
+                                    "content": "correspondence.In:IEEConferenceonComputerVisionandPattern Recognition(CVPR)(June2020)[13]",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                643,
+                                846,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        643,
+                                        846,
+                                        667
+                                    ],
+                                    "score": 0.75,
+                                    "content": "Dosovitskiy，A.,eyer,LKolesnkov,A.,Weissenbor,D,ZaiX,Untertiner，T.DehghaniM.,nd",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                659,
+                                800,
+                                691
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        659,
+                                        800,
+                                        691
+                                    ],
+                                    "score": 0.76,
+                                    "content": "Heigold,G.GellSUoreit,JHousbyNAnagesorth66wodsaformersoge",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                682,
+                                622,
+                                709
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        682,
+                                        622,
+                                        709
+                                    ],
+                                    "score": 0.994,
+                                    "content": "recognitionatscale(2020)1https://github.com/GiovanniTRA/transmatching10",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                718
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        7,
+                        884,
+                        709
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                19,
+                                868,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        19,
+                                        868,
+                                        47
+                                    ],
+                                    "score": 0.977,
+                                    "content": "geometries,e.g.handlingmultipleclassesofShapeNet[8]simultaneously.Theatentionmechanismatthecore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                41,
+                                844,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        41,
+                                        844,
+                                        65
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ofourarchitecturehasthepotentialtoenforcelocalcontroloftheinterpolation,asseeninFigure5.Further",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                821,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        821,
+                                        86
+                                    ],
+                                    "score": 0.992,
+                                    "content": "investigationisneededtoexplorethepossbilitytointroduceadditionalpriorsontheattentiontoforcea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                862,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        862,
+                                        106
+                                    ],
+                                    "score": 0.977,
+                                    "content": "semanticallymeaningfullocalizationandinterpolation behavior.Ourmethod sharesacommondrawback with",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                100,
+                                858,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        100,
+                                        858,
+                                        126
+                                    ],
+                                    "score": 0.99,
+                                    "content": "mosttransformed-basedarchitectures,requiringlongtrainingandpost-processingtimeduetothenatureof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                119,
+                                875,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        119,
+                                        875,
+                                        147
+                                    ],
+                                    "score": 0.987,
+                                    "content": "therefinementprocedure.Allcodeanddataispubliclyavailable1.7AcknowledgmentThisworkissupportedby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                803,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        712,
+                                        165
+                                    ],
+                                    "score": 0.993,
+                                    "content": "theERCGrantNo.802554(SPECGEO)andtheMIURundergrant“Dipartimentidieccellenza",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        712,
+                                        141,
+                                        798,
+                                        161
+                                    ],
+                                    "score": 0.32,
+                                    "content": "2 0 1 8 - 2 0 2 2 ^ { \\prime \\prime }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        798,
+                                        141,
+                                        803,
+                                        165
+                                    ],
+                                    "score": 0.854,
+                                    "content": ".",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                161,
+                                819,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        161,
+                                        819,
+                                        185
+                                    ],
+                                    "score": 0.992,
+                                    "content": "References[1]Scantheworldproject.https://www.myminifactory.com/scantheworld,[Online;ac-cessed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                807,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        807,
+                                        205
+                                    ],
+                                    "score": 0.954,
+                                    "content": "04-June-2021][2]Allen,B.Curless,B.,Popovic,Z.:Thespaceofhumanbodyshapes:reconstructionand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                851,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        851,
+                                        227
+                                    ],
+                                    "score": 0.971,
+                                    "content": "parameterizationfromrangescans.ACMtransactionsongraphics(TOG)22(3),587-594(2003)[3]Amberg,B.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                223,
+                                870,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        223,
+                                        870,
+                                        247
+                                    ],
+                                    "score": 0.938,
+                                    "content": "Romdhani,S.,Vetter,T.:Optimalstepnonrigidicpalgorithmsforsurfaceregis-tration.In:20o7IEEEconference",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                243,
+                                873,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        243,
+                                        873,
+                                        267
+                                    ],
+                                    "score": 0.773,
+                                    "content": "oncomputersiondpterrecognition.p.-8IEE(2o7)[4]Anguelov,D.nivasan,P.ollerD.u",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                258,
+                                856,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        258,
+                                        856,
+                                        290
+                                    ],
+                                    "score": 0.922,
+                                    "content": "S.Rodgers,J.，Davis,J.:Scape:shapecompletionandanimationofpeople.In:ACMSIGGRAPH205Papers,pp.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                858,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        858,
+                                        306
+                                    ],
+                                    "score": 0.873,
+                                    "content": "408-416(20o5)[5]Besl,P.J.，McKayN.D.:Amethodforregistrationof3-dsapes.IEEETransactionsonPattern",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                302,
+                                845,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        302,
+                                        845,
+                                        326
+                                    ],
+                                    "score": 0.942,
+                                    "content": "AnalysisandMachineInteligence14(2)，239-256(Feb1992)[6]Bhatnagar,B.L.,Sminchisescu,C.,Theobalt,C.,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                842,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        842,
+                                        348
+                                    ],
+                                    "score": 0.969,
+                                    "content": "Pons-Moll,G.:Loopreg:Self-supervisedlearningof implicitsurfacecorrespondences,poseandshapefor3d",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                341,
+                                876,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        341,
+                                        876,
+                                        367
+                                    ],
+                                    "score": 0.992,
+                                    "content": "humanmeshregistration.In:AdvancesinNeural InformationProcessingSystems(NeurIPS)(December2020)[7]",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                790,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        790,
+                                        388
+                                    ],
+                                    "score": 0.839,
+                                    "content": "Bogo,F.,Romero,J.,oper，M.,Black,M.J.:FAUT:Datasetandevaluationfor3Dmeshregistration.In:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                868,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        868,
+                                        406
+                                    ],
+                                    "score": 0.97,
+                                    "content": "ProceedingsIEEEConf.onComputerVisionandPatternRecognition(CVPR).IEEE,PiscatawayNJ,USA(Jun2014)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                881,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        881,
+                                        426
+                                    ],
+                                    "score": 0.809,
+                                    "content": "[8]Chang,A.X.,Funkhouser，T.Guibas,L.,Hanrahan,P.,Huang,Q.,Li,Z.,avarese,S.,awa,M.Song,S.,u,H.et",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                421,
+                                840,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        421,
+                                        840,
+                                        448
+                                    ],
+                                    "score": 0.968,
+                                    "content": "al.:Shapenet:Aninformation-rich3dmodelrepository.arXivpreprintarXiv:1512.03012(2015)[9]Charlier,B.，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                441,
+                                812,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        441,
+                                        812,
+                                        469
+                                    ],
+                                    "score": 0.725,
+                                    "content": "Feydy,j.,Gues,J.A.olinF.Durif,G.ernelopratiosoegithutoi,iotr",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                462,
+                                865,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        462,
+                                        865,
+                                        489
+                                    ],
+                                    "score": 0.924,
+                                    "content": "overflows.JournalofMachineLearningResearch22(74)1-6(2021)，http:/jmlr.org/papers/v22/20-275.html[10]",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                484,
+                                881,
+                                508
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        484,
+                                        881,
+                                        508
+                                    ],
+                                    "score": 0.701,
+                                    "content": "Cheng,.,oeinosi,iceio.gaoadbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                868,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        868,
+                                        528
+                                    ],
+                                    "score": 0.842,
+                                    "content": "faces.arXivpreprintarXiv:1903.10384(2019)[11]Devin,J,，Chang,M.W.,Lee,K.,Toutanova,K.:BER:Pretraing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                521,
+                                862,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        521,
+                                        862,
+                                        548
+                                    ],
+                                    "score": 0.972,
+                                    "content": "ofdeepbidirectionaltransformersfor languageunderstanding.In:Proceedingsof the2019Conferenceof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                541,
+                                830,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        541,
+                                        830,
+                                        569
+                                    ],
+                                    "score": 0.971,
+                                    "content": "NorthAmerican Chapterof theAssociation forComputational Linguistics:Human LanguageTechnologies,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                564,
+                                835,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        564,
+                                        835,
+                                        587
+                                    ],
+                                    "score": 0.969,
+                                    "content": "Volume1(LongandShortPapers).pp.4171-4186.AssociationforComputa-tionalLinguistics,Minneapolis,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                582,
+                                857,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        582,
+                                        857,
+                                        608
+                                    ],
+                                    "score": 0.976,
+                                    "content": "Minnesota(Jun2019).htps://doi.org/10.18653/v1/N19-1423,https://www.aclweb.org/anthology/N19-1423[12]",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                603,
+                                828,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        603,
+                                        828,
+                                        630
+                                    ],
+                                    "score": 0.872,
+                                    "content": "Donati,N.,harma,A.OvsjanikovM.Deepgeometricfunctionalmaps:Robustfeaturelearningforshape",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                622,
+                                822,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        622,
+                                        822,
+                                        649
+                                    ],
+                                    "score": 0.986,
+                                    "content": "correspondence.In:IEEConferenceonComputerVisionandPattern Recognition(CVPR)(June2020)[13]",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                643,
+                                846,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        643,
+                                        846,
+                                        667
+                                    ],
+                                    "score": 0.75,
+                                    "content": "Dosovitskiy，A.,eyer,LKolesnkov,A.,Weissenbor,D,ZaiX,Untertiner，T.DehghaniM.,nd",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                659,
+                                800,
+                                691
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        659,
+                                        800,
+                                        691
+                                    ],
+                                    "score": 0.76,
+                                    "content": "Heigold,G.GellSUoreit,JHousbyNAnagesorth66wodsaformersoge",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                682,
+                                622,
+                                709
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        682,
+                                        622,
+                                        709
+                                    ],
+                                    "score": 0.994,
+                                    "content": "recognitionatscale(2020)1https://github.com/GiovanniTRA/transmatching10",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5,
+                    "bbox_fs": [
+                        13,
+                        19,
+                        881,
+                        709
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

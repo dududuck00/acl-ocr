@@ -1,0 +1,1412 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        880,
+                        645
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                20,
+                                811,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        20,
+                                        811,
+                                        47
+                                    ],
+                                    "score": 0.981,
+                                    "content": "(i)Amendthefacilityclosureplanandobtainthedepartment'swrittenapproval;and/or(ijCeasefacility",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                41,
+                                858,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        41,
+                                        858,
+                                        65
+                                    ],
+                                    "score": 0.989,
+                                    "content": "operationorclosureactivities inwholeorinpartuntilanapprovedclosureplanisobtained.(e)Each owneror",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                868,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        868,
+                                        85
+                                    ],
+                                    "score": 0.992,
+                                    "content": "operatorshallclosethefacilityinaccordancewiththeapprovedclosureplanandallapprovedamendments.(4)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                869,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        869,
+                                        105
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Closureprocedures.(a)Eachowneroroperatorshallnotifythedepartmentand,whereapplicable,thefinancial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                102,
+                                866,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        102,
+                                        866,
+                                        126
+                                    ],
+                                    "score": 0.989,
+                                    "content": "assuranceinstrumenttrustee,oftheintenttoimplementtheclosureplaninwholeorinpart,nolaterthanone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                122,
+                                863,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        122,
+                                        863,
+                                        145
+                                    ],
+                                    "score": 0.991,
+                                    "content": "hundredeightydaysbeforetheprojectedfinalreceiptofwasteatpartoforattheentirefacility.(b)Theowner",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                863,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        863,
+                                        166
+                                    ],
+                                    "score": 0.996,
+                                    "content": "oroperatorshallbeginimplementingtheclosureplaninpartorwholewithinthirtydaysafterreceiptofafinal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                864,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        864,
+                                        186
+                                    ],
+                                    "score": 0.993,
+                                    "content": "vol-umeofashand/oratiningthefinalmonofillelevationatpartoforattheentirefacilityasidentifiedinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                181,
+                                871,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        181,
+                                        871,
+                                        206
+                                    ],
+                                    "score": 0.987,
+                                    "content": "approvedfacilityclosureplan.(c)Ashmaynotbeacceptedforuseinclosureexceptasidenti-fiedintheclosure",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                203,
+                                837,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        203,
+                                        837,
+                                        226
+                                    ],
+                                    "score": 0.991,
+                                    "content": "planapprovedbythedepartment,asrequiredinsubsection(3)(a)ofthissection.(d)Whenfacilityclosureis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                834,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        834,
+                                        246
+                                    ],
+                                    "score": 0.995,
+                                    "content": "completedinpartorwhole,eachowneroroperatorshallsubmittothedepartment:(i)Facilityclosureplan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                878,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        878,
+                                        266
+                                    ],
+                                    "score": 0.992,
+                                    "content": "sheetssignedbyaprofessionalengi-neerregisteredinthestateofWashington.Theplanshallreflectallas-built",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                261,
+                                866,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        261,
+                                        866,
+                                        287
+                                    ],
+                                    "score": 0.988,
+                                    "content": "changestofinalclosureconstructionasapprovedintheclo-sureplan;and(i)Anaffidavitsignedbytheowner",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                282,
+                                867,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        282,
+                                        867,
+                                        306
+                                    ],
+                                    "score": 0.988,
+                                    "content": "oroperatorandaprofes-sionalengineerregisteredinthestateofWashingtonthatthesitehasbeenclosed in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                877,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        877,
+                                        326
+                                    ],
+                                    "score": 0.989,
+                                    "content": "accordancewiththeapprovedclosureplan.(e)Mapsandastatementoffactconcerningthelocationofthefinal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                853,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        853,
+                                        345
+                                    ],
+                                    "score": 0.999,
+                                    "content": "ashdisposalmustberecordedaspartofthedeedwiththecoun-tyauditornotlaterthanthreemonthsafter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                342,
+                                879,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        342,
+                                        879,
+                                        364
+                                    ],
+                                    "score": 0.989,
+                                    "content": "closure.Recordsandplansspecifyingashamounts,locationsandperiodsofoperationmustbesubmittdtothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                796,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        796,
+                                        384
+                                    ],
+                                    "score": 0.997,
+                                    "content": "localzoningauthorityortheauthoritywithju-risdictionoverlanduseandmustbemadeavailablefor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                861,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        861,
+                                        405
+                                    ],
+                                    "score": 0.997,
+                                    "content": "inspection.(f)Whenthedepartmentfindsthefacilityhasbeenclosedinac-cordancewiththespecificationsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                810,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        810,
+                                        425
+                                    ],
+                                    "score": 0.976,
+                                    "content": "theapproved closureplanand theclosurerequirementsofthissection,thedepartment shall:(i) Issuea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                419,
+                                831,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        419,
+                                        831,
+                                        447
+                                    ],
+                                    "score": 0.981,
+                                    "content": "certificateofclosureforthesitetotheowneroroperatorandthedepartment;and(i)Notifytheowneror",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                441,
+                                874,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        441,
+                                        874,
+                                        466
+                                    ],
+                                    "score": 0.993,
+                                    "content": "operatorandthedepartmentthatthefa-cilitypost-closureperiodhas beguninwholeorinpartonaspeci-fied",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                878,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        878,
+                                        485
+                                    ],
+                                    "score": 0.998,
+                                    "content": "date.(5)Post-closureperformancestandard.Monofillownersoropera-torsshallperformpost-closureactivities",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                480,
+                                850,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        480,
+                                        850,
+                                        504
+                                    ],
+                                    "score": 0.99,
+                                    "content": "as neededtoprotect humanhealthandtheenvironment.(6)Post-closureplanandamendment.Post-closure",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                806,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        806,
+                                        527
+                                    ],
+                                    "score": 0.978,
+                                    "content": "includesmoni-toringofgroundwater,surfacewater,andairquality;maintenanceofthefacility,facility",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                520,
+                                869,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        520,
+                                        869,
+                                        547
+                                    ],
+                                    "score": 0.992,
+                                    "content": "structures,andmonitoringsystems;andotheractivitiesdeemedappropriatebythedepartment.(a)Theowner",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                832,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        832,
+                                        567
+                                    ],
+                                    "score": 0.995,
+                                    "content": "oroperatorshalldevelopanduseapost-closureplanapprovedasapartofthepermitingprocessinWAC",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                562,
+                                871,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        562,
+                                        871,
+                                        586
+                                    ],
+                                    "score": 0.979,
+                                    "content": "173-306-310.Thepost-closureplanshalladdressfacilitymaintenanceandmonitor-ingactivitiesforathirty-year",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                582,
+                                783,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        582,
+                                        783,
+                                        605
+                                    ],
+                                    "score": 0.997,
+                                    "content": "period.(b)Thepost-closureplanshallprojecttimeintervalsatwhichpost-closureactivitiesaretobe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                601,
+                                825,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        601,
+                                        825,
+                                        627
+                                    ],
+                                    "score": 0.987,
+                                    "content": "implemented,andidentifypost-clo-surecostestimatesandprojectedfundwithdrawalintervalsfromthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                621,
+                                264,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        621,
+                                        264,
+                                        645
+                                    ],
+                                    "score": 0.997,
+                                    "content": "Certifiedon10/25/2019Page20",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 15
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                656
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        880,
+                        645
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                20,
+                                811,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        20,
+                                        811,
+                                        47
+                                    ],
+                                    "score": 0.981,
+                                    "content": "(i)Amendthefacilityclosureplanandobtainthedepartment'swrittenapproval;and/or(ijCeasefacility",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                41,
+                                858,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        41,
+                                        858,
+                                        65
+                                    ],
+                                    "score": 0.989,
+                                    "content": "operationorclosureactivities inwholeorinpartuntilanapprovedclosureplanisobtained.(e)Each owneror",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                868,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        868,
+                                        85
+                                    ],
+                                    "score": 0.992,
+                                    "content": "operatorshallclosethefacilityinaccordancewiththeapprovedclosureplanandallapprovedamendments.(4)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                869,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        869,
+                                        105
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Closureprocedures.(a)Eachowneroroperatorshallnotifythedepartmentand,whereapplicable,thefinancial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                102,
+                                866,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        102,
+                                        866,
+                                        126
+                                    ],
+                                    "score": 0.989,
+                                    "content": "assuranceinstrumenttrustee,oftheintenttoimplementtheclosureplaninwholeorinpart,nolaterthanone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                122,
+                                863,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        122,
+                                        863,
+                                        145
+                                    ],
+                                    "score": 0.991,
+                                    "content": "hundredeightydaysbeforetheprojectedfinalreceiptofwasteatpartoforattheentirefacility.(b)Theowner",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                863,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        863,
+                                        166
+                                    ],
+                                    "score": 0.996,
+                                    "content": "oroperatorshallbeginimplementingtheclosureplaninpartorwholewithinthirtydaysafterreceiptofafinal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                864,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        864,
+                                        186
+                                    ],
+                                    "score": 0.993,
+                                    "content": "vol-umeofashand/oratiningthefinalmonofillelevationatpartoforattheentirefacilityasidentifiedinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                181,
+                                871,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        181,
+                                        871,
+                                        206
+                                    ],
+                                    "score": 0.987,
+                                    "content": "approvedfacilityclosureplan.(c)Ashmaynotbeacceptedforuseinclosureexceptasidenti-fiedintheclosure",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                203,
+                                837,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        203,
+                                        837,
+                                        226
+                                    ],
+                                    "score": 0.991,
+                                    "content": "planapprovedbythedepartment,asrequiredinsubsection(3)(a)ofthissection.(d)Whenfacilityclosureis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                834,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        834,
+                                        246
+                                    ],
+                                    "score": 0.995,
+                                    "content": "completedinpartorwhole,eachowneroroperatorshallsubmittothedepartment:(i)Facilityclosureplan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                878,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        878,
+                                        266
+                                    ],
+                                    "score": 0.992,
+                                    "content": "sheetssignedbyaprofessionalengi-neerregisteredinthestateofWashington.Theplanshallreflectallas-built",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                261,
+                                866,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        261,
+                                        866,
+                                        287
+                                    ],
+                                    "score": 0.988,
+                                    "content": "changestofinalclosureconstructionasapprovedintheclo-sureplan;and(i)Anaffidavitsignedbytheowner",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                282,
+                                867,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        282,
+                                        867,
+                                        306
+                                    ],
+                                    "score": 0.988,
+                                    "content": "oroperatorandaprofes-sionalengineerregisteredinthestateofWashingtonthatthesitehasbeenclosed in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                877,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        877,
+                                        326
+                                    ],
+                                    "score": 0.989,
+                                    "content": "accordancewiththeapprovedclosureplan.(e)Mapsandastatementoffactconcerningthelocationofthefinal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                853,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        853,
+                                        345
+                                    ],
+                                    "score": 0.999,
+                                    "content": "ashdisposalmustberecordedaspartofthedeedwiththecoun-tyauditornotlaterthanthreemonthsafter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                342,
+                                879,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        342,
+                                        879,
+                                        364
+                                    ],
+                                    "score": 0.989,
+                                    "content": "closure.Recordsandplansspecifyingashamounts,locationsandperiodsofoperationmustbesubmittdtothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                796,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        796,
+                                        384
+                                    ],
+                                    "score": 0.997,
+                                    "content": "localzoningauthorityortheauthoritywithju-risdictionoverlanduseandmustbemadeavailablefor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                861,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        861,
+                                        405
+                                    ],
+                                    "score": 0.997,
+                                    "content": "inspection.(f)Whenthedepartmentfindsthefacilityhasbeenclosedinac-cordancewiththespecificationsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                810,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        810,
+                                        425
+                                    ],
+                                    "score": 0.976,
+                                    "content": "theapproved closureplanand theclosurerequirementsofthissection,thedepartment shall:(i) Issuea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                419,
+                                831,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        419,
+                                        831,
+                                        447
+                                    ],
+                                    "score": 0.981,
+                                    "content": "certificateofclosureforthesitetotheowneroroperatorandthedepartment;and(i)Notifytheowneror",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                441,
+                                874,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        441,
+                                        874,
+                                        466
+                                    ],
+                                    "score": 0.993,
+                                    "content": "operatorandthedepartmentthatthefa-cilitypost-closureperiodhas beguninwholeorinpartonaspeci-fied",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                878,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        878,
+                                        485
+                                    ],
+                                    "score": 0.998,
+                                    "content": "date.(5)Post-closureperformancestandard.Monofillownersoropera-torsshallperformpost-closureactivities",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                480,
+                                850,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        480,
+                                        850,
+                                        504
+                                    ],
+                                    "score": 0.99,
+                                    "content": "as neededtoprotect humanhealthandtheenvironment.(6)Post-closureplanandamendment.Post-closure",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                806,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        806,
+                                        527
+                                    ],
+                                    "score": 0.978,
+                                    "content": "includesmoni-toringofgroundwater,surfacewater,andairquality;maintenanceofthefacility,facility",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                520,
+                                869,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        520,
+                                        869,
+                                        547
+                                    ],
+                                    "score": 0.992,
+                                    "content": "structures,andmonitoringsystems;andotheractivitiesdeemedappropriatebythedepartment.(a)Theowner",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                832,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        832,
+                                        567
+                                    ],
+                                    "score": 0.995,
+                                    "content": "oroperatorshalldevelopanduseapost-closureplanapprovedasapartofthepermitingprocessinWAC",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                562,
+                                871,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        562,
+                                        871,
+                                        586
+                                    ],
+                                    "score": 0.979,
+                                    "content": "173-306-310.Thepost-closureplanshalladdressfacilitymaintenanceandmonitor-ingactivitiesforathirty-year",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                582,
+                                783,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        582,
+                                        783,
+                                        605
+                                    ],
+                                    "score": 0.997,
+                                    "content": "period.(b)Thepost-closureplanshallprojecttimeintervalsatwhichpost-closureactivitiesaretobe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                601,
+                                825,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        601,
+                                        825,
+                                        627
+                                    ],
+                                    "score": 0.987,
+                                    "content": "implemented,andidentifypost-clo-surecostestimatesandprojectedfundwithdrawalintervalsfromthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                621,
+                                264,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        621,
+                                        264,
+                                        645
+                                    ],
+                                    "score": 0.997,
+                                    "content": "Certifiedon10/25/2019Page20",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 15,
+                    "bbox_fs": [
+                        14,
+                        20,
+                        879,
+                        645
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

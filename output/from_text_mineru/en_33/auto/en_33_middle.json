@@ -1,0 +1,1808 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        38,
+                        880,
+                        848
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                41,
+                                841,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        41,
+                                        841,
+                                        65
+                                    ],
+                                    "score": 0.987,
+                                    "content": "HousiadasandR.I.Tanner,Ahigh-order perturbationsolutionforthesteadysedimentationofasphereina",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                59,
+                                880,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        59,
+                                        880,
+                                        87
+                                    ],
+                                    "score": 0.916,
+                                    "content": "viscoelasticfluid,J.Non-Newton.FluidMech233,166(2016).[2]G.McKinley,Steadytransientmotionofsperical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                80,
+                                837,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        80,
+                                        837,
+                                        106
+                                    ],
+                                    "score": 0.889,
+                                    "content": "particlesiniscoeasticliquids,inTansp.Process.Bubbles,Drops,Part.editedbyE.ChabraandD.D.Kee",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                101,
+                                869,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        101,
+                                        869,
+                                        125
+                                    ],
+                                    "score": 0.963,
+                                    "content": "(Taylor&Franics,2001)2nded.[3]K.D.HousiadasandR.I.Tanner，Perturbationsolutionfortheviscoelastic3D",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                875,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        875,
+                                        147
+                                    ],
+                                    "score": 0.93,
+                                    "content": "flowaroundarigidspheresubjecttosimpleshear，Phys.Fluids23,10.1063/1.361518(2011).[4]H.Giesekus,Die",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                864,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        864,
+                                        165
+                                    ],
+                                    "score": 0.989,
+                                    "content": "simultaneTranslations-undRotationsbewegungeinerKugelineinerelastoviskosenFlussigkeit,Rheol.Acta3,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                812,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        812,
+                                        187
+                                    ],
+                                    "score": 0.989,
+                                    "content": "59(1963).[5]K.D.HousiadasandR.I.Tanner，Theangularvelocityofafreelyrotatingsphereinaweakly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                876,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        876,
+                                        205
+                                    ],
+                                    "score": 0.974,
+                                    "content": "viscoelasticmatrixfluid(2011).[6]K.D.HousiadasandR.I.Tanner,Perturbationsolutionfortheviscoelasticflow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                840,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        840,
+                                        226
+                                    ],
+                                    "score": 0.989,
+                                    "content": "aroundarigidsphereunderpureuniaxialelongation,J.Non-Newton.FluidMech.167-168,75(2012).[7]S.D.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                222,
+                                871,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        222,
+                                        871,
+                                        245
+                                    ],
+                                    "score": 0.951,
+                                    "content": "Gkormpatsis,E.A.Gryparis,K.D.Housiadas,andA.N.Beris,Steadyspheretranslationinaviscoelasticfluidwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                238,
+                                859,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        238,
+                                        859,
+                                        267
+                                    ],
+                                    "score": 0.933,
+                                    "content": "sliponthesurfaceofthesphere,J.Non-Newton.FluidMech.275,104217(2020).[8]L.E.Becker，G.H.McKinley",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                811,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        811,
+                                        285
+                                    ],
+                                    "score": 0.992,
+                                    "content": "andH.A.Stone,Sedimentationofaspherenearaplanewal:Weaknon-Newtonianandinertialeffects,J.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                876,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        876,
+                                        304
+                                    ],
+                                    "score": 0.975,
+                                    "content": "Non-Newton.FluidMech.63,201(1996).[9]C.BodartandM.J.Crochet,Thetime-dependentflowofaviscoelastic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                303,
+                                849,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        303,
+                                        849,
+                                        324
+                                    ],
+                                    "score": 0.985,
+                                    "content": "fluidaroundasphere,J.Non-Newton.FluidMech.10.1016/0377-0257(94)80029-4(1994).[10]L.E.Becker，G.H.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                869,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        869,
+                                        345
+                                    ],
+                                    "score": 0.765,
+                                    "content": "McKinley，H..asmussendO.sagereteadymoioofsereinvsoelasticflud,Jol.8,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                339,
+                                874,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        339,
+                                        874,
+                                        367
+                                    ],
+                                    "score": 0.918,
+                                    "content": "377(1994).[11]M.ChilcottandJ.Rallson,Creepingflowofdiutepolymersolutionspastcyindersandsperes,J.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                359,
+                                822,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        359,
+                                        822,
+                                        387
+                                    ],
+                                    "score": 0.883,
+                                    "content": "Non-Newton.FuidMech.29,381(1988).[12]M.N.ooreandM.j.Shelley,Aweak-couplingexpansiofor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                866,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        866,
+                                        405
+                                    ],
+                                    "score": 0.98,
+                                    "content": "viscoelasticfluidsappliedtodynamicsetlingofabody,J.Non-Newton.FluidMech.183-184,25(2012).[13]A.M.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                399,
+                                867,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        399,
+                                        867,
+                                        427
+                                    ],
+                                    "score": 0.888,
+                                    "content": "Mollinger,E.C.CornelissenndB.H.VanDenBrule,Anunexpectedphenomenonobservedinparticleetling:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                875,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        875,
+                                        445
+                                    ],
+                                    "score": 0.966,
+                                    "content": "Oscilltingfalingspheres,J.Non-Newton.FluidMech.10.1016/S0377-0257(98)00187-6(1999).[14]Y.ZhangandS.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                442,
+                                721,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        442,
+                                        721,
+                                        465
+                                    ],
+                                    "score": 0.983,
+                                    "content": "J.Muller,Unsteadysedimentationofasphereinwormlikemicellarfluids,Phys.Rev.Fluids3,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                461,
+                                875,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        461,
+                                        875,
+                                        484
+                                    ],
+                                    "score": 0.975,
+                                    "content": "10.1103/PhysRevFluids.3.043301(2018).[15]L.G.WilsonandW.C.Poon,Smallworldrheology:anintroductionto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                863,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        863,
+                                        507
+                                    ],
+                                    "score": 0.903,
+                                    "content": "probe-basedactivemicrorheology,Phys.Chem.Chem.Phys.13,0617(2011).[16]P.Dhar，Y.Cao,T.M.Fischer",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                795,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        795,
+                                        527
+                                    ],
+                                    "score": 0.967,
+                                    "content": "andJ.A.Zasadzinski,Activeinterfacialshearmicrorheologyofagingproteinfilms,Phys.Rev.Lett104,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                522,
+                                810,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        522,
+                                        810,
+                                        545
+                                    ],
+                                    "score": 0.98,
+                                    "content": "https://doi.org/10.1103/PhysRevLett.104.016001(2010).[17]M.L.Gardel,M.T.Valentine,andD.A.Weitz,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                867,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        867,
+                                        567
+                                    ],
+                                    "score": 0.877,
+                                    "content": "Microrheology，MicroscaleDiagnosticTech.,1(205).[18]M.Guo,A.J.Ehrlicher，S.Mahammad,H.Fabich,.H.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                560,
+                                858,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        560,
+                                        858,
+                                        586
+                                    ],
+                                    "score": 0.747,
+                                    "content": "Jensen,J.R.oore,J.J.Fedbrg,R.GdmanndD.AWeitz,eroleovimntinintermeiteimtn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                581,
+                                826,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        581,
+                                        826,
+                                        605
+                                    ],
+                                    "score": 0.99,
+                                    "content": "corticalandcytoplasmicmechanics,Biophys.J.10.1016/j.bpj.2013.08.037(2013).[19]T.M.SquiresandT.G.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                600,
+                                863,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        600,
+                                        863,
+                                        627
+                                    ],
+                                    "score": 0.849,
+                                    "content": "Mason,FluidechancsoficrorheologyAnnu.Rev.Fuidech.10.1146/anurev-fluid-08-145608(2010).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                621,
+                                859,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        621,
+                                        859,
+                                        645
+                                    ],
+                                    "score": 0.991,
+                                    "content": "[20]R.M.Robertson-Anderson,OpticalTweezersMicrorheology:FromtheBasicstoAdvancedTechniquesand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                640,
+                                859,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        640,
+                                        859,
+                                        666
+                                    ],
+                                    "score": 0.898,
+                                    "content": "Applications,ACMacroLet.7968(2018).[21]A.MeyerA.Marshal,B.G.BushandE.M.Furst,Lasertweeer",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                660,
+                                866,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        660,
+                                        866,
+                                        687
+                                    ],
+                                    "score": 0.918,
+                                    "content": "microrheologyofacolloidalsuspension,J.Rheol.50,77(2006).[22]R.R.Brau,J.M.Ferrer，H.Lee,C.E.Castro,B.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                680,
+                                873,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        680,
+                                        873,
+                                        706
+                                    ],
+                                    "score": 0.804,
+                                    "content": "K.Tam,P.B.rsa,P.atsdaira,.C.oyce,R.D.ammndM.J.ang,assiveandactivemicrorheoogywith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                700,
+                                878,
+                                727
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        700,
+                                        878,
+                                        727
+                                    ],
+                                    "score": 0.865,
+                                    "content": "opticaltweezers,J.Opt.APureAppl.Opt.9,101088/1464-4258/9/8/S01(2007).[23]A.YaoM.Taieri，M.adgett",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                721,
+                                807,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        721,
+                                        807,
+                                        745
+                                    ],
+                                    "score": 0.959,
+                                    "content": "andJ.Cooper,Microrheologywithopticaltweezers,LabChip9,2568(2009).[24]S.K.GuptaandM.Guo,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                740,
+                                839,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        740,
+                                        839,
+                                        766
+                                    ],
+                                    "score": 0.974,
+                                    "content": "Equlibriumandout-of-equilibriummechanicsoflivingmammaliancytoplasm,J.Mech.Phys.Solids107,284",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                760,
+                                842,
+                                787
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        760,
+                                        842,
+                                        787
+                                    ],
+                                    "score": 0.808,
+                                    "content": "(2017).[25]F.Ambard,A.C.ags,B.urke,A.N.argelisndS.Leiblerubiusionandanomaooal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                781,
+                                814,
+                                805
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        781,
+                                        814,
+                                        805
+                                    ],
+                                    "score": 0.979,
+                                    "content": "viscoelas-ticityinactinnetworks,Phys.Rev.Lett10.1103/PhysRevLett.77.4470(1996).[26]A.R.Bausch,F.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                801,
+                                836,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        801,
+                                        836,
+                                        825
+                                    ],
+                                    "score": 0.833,
+                                    "content": "Ziemann,A.A.oubitch,.JacobsonandE.ckmann,ocalmeasurementsofvis-oelasticrameo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                821,
+                                864,
+                                845
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        821,
+                                        864,
+                                        845
+                                    ],
+                                    "score": 0.965,
+                                    "content": "adherentcellsurfacesbymagneticbeadmicrorheometryBiophys.J.10.1016/So006-3495(98)77646-5(1998).28",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                856
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        38,
+                        880,
+                        848
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                41,
+                                841,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        41,
+                                        841,
+                                        65
+                                    ],
+                                    "score": 0.987,
+                                    "content": "HousiadasandR.I.Tanner,Ahigh-order perturbationsolutionforthesteadysedimentationofasphereina",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                59,
+                                880,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        59,
+                                        880,
+                                        87
+                                    ],
+                                    "score": 0.916,
+                                    "content": "viscoelasticfluid,J.Non-Newton.FluidMech233,166(2016).[2]G.McKinley,Steadytransientmotionofsperical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                80,
+                                837,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        80,
+                                        837,
+                                        106
+                                    ],
+                                    "score": 0.889,
+                                    "content": "particlesiniscoeasticliquids,inTansp.Process.Bubbles,Drops,Part.editedbyE.ChabraandD.D.Kee",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                101,
+                                869,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        101,
+                                        869,
+                                        125
+                                    ],
+                                    "score": 0.963,
+                                    "content": "(Taylor&Franics,2001)2nded.[3]K.D.HousiadasandR.I.Tanner，Perturbationsolutionfortheviscoelastic3D",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                875,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        875,
+                                        147
+                                    ],
+                                    "score": 0.93,
+                                    "content": "flowaroundarigidspheresubjecttosimpleshear，Phys.Fluids23,10.1063/1.361518(2011).[4]H.Giesekus,Die",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                142,
+                                864,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        142,
+                                        864,
+                                        165
+                                    ],
+                                    "score": 0.989,
+                                    "content": "simultaneTranslations-undRotationsbewegungeinerKugelineinerelastoviskosenFlussigkeit,Rheol.Acta3,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                812,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        812,
+                                        187
+                                    ],
+                                    "score": 0.989,
+                                    "content": "59(1963).[5]K.D.HousiadasandR.I.Tanner，Theangularvelocityofafreelyrotatingsphereinaweakly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                876,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        876,
+                                        205
+                                    ],
+                                    "score": 0.974,
+                                    "content": "viscoelasticmatrixfluid(2011).[6]K.D.HousiadasandR.I.Tanner,Perturbationsolutionfortheviscoelasticflow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                840,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        840,
+                                        226
+                                    ],
+                                    "score": 0.989,
+                                    "content": "aroundarigidsphereunderpureuniaxialelongation,J.Non-Newton.FluidMech.167-168,75(2012).[7]S.D.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                222,
+                                871,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        222,
+                                        871,
+                                        245
+                                    ],
+                                    "score": 0.951,
+                                    "content": "Gkormpatsis,E.A.Gryparis,K.D.Housiadas,andA.N.Beris,Steadyspheretranslationinaviscoelasticfluidwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                238,
+                                859,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        238,
+                                        859,
+                                        267
+                                    ],
+                                    "score": 0.933,
+                                    "content": "sliponthesurfaceofthesphere,J.Non-Newton.FluidMech.275,104217(2020).[8]L.E.Becker，G.H.McKinley",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                811,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        811,
+                                        285
+                                    ],
+                                    "score": 0.992,
+                                    "content": "andH.A.Stone,Sedimentationofaspherenearaplanewal:Weaknon-Newtonianandinertialeffects,J.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                876,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        876,
+                                        304
+                                    ],
+                                    "score": 0.975,
+                                    "content": "Non-Newton.FluidMech.63,201(1996).[9]C.BodartandM.J.Crochet,Thetime-dependentflowofaviscoelastic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                303,
+                                849,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        303,
+                                        849,
+                                        324
+                                    ],
+                                    "score": 0.985,
+                                    "content": "fluidaroundasphere,J.Non-Newton.FluidMech.10.1016/0377-0257(94)80029-4(1994).[10]L.E.Becker，G.H.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                869,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        869,
+                                        345
+                                    ],
+                                    "score": 0.765,
+                                    "content": "McKinley，H..asmussendO.sagereteadymoioofsereinvsoelasticflud,Jol.8,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                339,
+                                874,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        339,
+                                        874,
+                                        367
+                                    ],
+                                    "score": 0.918,
+                                    "content": "377(1994).[11]M.ChilcottandJ.Rallson,Creepingflowofdiutepolymersolutionspastcyindersandsperes,J.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                359,
+                                822,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        359,
+                                        822,
+                                        387
+                                    ],
+                                    "score": 0.883,
+                                    "content": "Non-Newton.FuidMech.29,381(1988).[12]M.N.ooreandM.j.Shelley,Aweak-couplingexpansiofor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                866,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        866,
+                                        405
+                                    ],
+                                    "score": 0.98,
+                                    "content": "viscoelasticfluidsappliedtodynamicsetlingofabody,J.Non-Newton.FluidMech.183-184,25(2012).[13]A.M.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                399,
+                                867,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        399,
+                                        867,
+                                        427
+                                    ],
+                                    "score": 0.888,
+                                    "content": "Mollinger,E.C.CornelissenndB.H.VanDenBrule,Anunexpectedphenomenonobservedinparticleetling:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                875,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        875,
+                                        445
+                                    ],
+                                    "score": 0.966,
+                                    "content": "Oscilltingfalingspheres,J.Non-Newton.FluidMech.10.1016/S0377-0257(98)00187-6(1999).[14]Y.ZhangandS.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                442,
+                                721,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        442,
+                                        721,
+                                        465
+                                    ],
+                                    "score": 0.983,
+                                    "content": "J.Muller,Unsteadysedimentationofasphereinwormlikemicellarfluids,Phys.Rev.Fluids3,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                461,
+                                875,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        461,
+                                        875,
+                                        484
+                                    ],
+                                    "score": 0.975,
+                                    "content": "10.1103/PhysRevFluids.3.043301(2018).[15]L.G.WilsonandW.C.Poon,Smallworldrheology:anintroductionto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                863,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        863,
+                                        507
+                                    ],
+                                    "score": 0.903,
+                                    "content": "probe-basedactivemicrorheology,Phys.Chem.Chem.Phys.13,0617(2011).[16]P.Dhar，Y.Cao,T.M.Fischer",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                795,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        795,
+                                        527
+                                    ],
+                                    "score": 0.967,
+                                    "content": "andJ.A.Zasadzinski,Activeinterfacialshearmicrorheologyofagingproteinfilms,Phys.Rev.Lett104,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                522,
+                                810,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        522,
+                                        810,
+                                        545
+                                    ],
+                                    "score": 0.98,
+                                    "content": "https://doi.org/10.1103/PhysRevLett.104.016001(2010).[17]M.L.Gardel,M.T.Valentine,andD.A.Weitz,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                867,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        867,
+                                        567
+                                    ],
+                                    "score": 0.877,
+                                    "content": "Microrheology，MicroscaleDiagnosticTech.,1(205).[18]M.Guo,A.J.Ehrlicher，S.Mahammad,H.Fabich,.H.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                560,
+                                858,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        560,
+                                        858,
+                                        586
+                                    ],
+                                    "score": 0.747,
+                                    "content": "Jensen,J.R.oore,J.J.Fedbrg,R.GdmanndD.AWeitz,eroleovimntinintermeiteimtn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                581,
+                                826,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        581,
+                                        826,
+                                        605
+                                    ],
+                                    "score": 0.99,
+                                    "content": "corticalandcytoplasmicmechanics,Biophys.J.10.1016/j.bpj.2013.08.037(2013).[19]T.M.SquiresandT.G.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                600,
+                                863,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        600,
+                                        863,
+                                        627
+                                    ],
+                                    "score": 0.849,
+                                    "content": "Mason,FluidechancsoficrorheologyAnnu.Rev.Fuidech.10.1146/anurev-fluid-08-145608(2010).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                621,
+                                859,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        621,
+                                        859,
+                                        645
+                                    ],
+                                    "score": 0.991,
+                                    "content": "[20]R.M.Robertson-Anderson,OpticalTweezersMicrorheology:FromtheBasicstoAdvancedTechniquesand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                640,
+                                859,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        640,
+                                        859,
+                                        666
+                                    ],
+                                    "score": 0.898,
+                                    "content": "Applications,ACMacroLet.7968(2018).[21]A.MeyerA.Marshal,B.G.BushandE.M.Furst,Lasertweeer",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                660,
+                                866,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        660,
+                                        866,
+                                        687
+                                    ],
+                                    "score": 0.918,
+                                    "content": "microrheologyofacolloidalsuspension,J.Rheol.50,77(2006).[22]R.R.Brau,J.M.Ferrer，H.Lee,C.E.Castro,B.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                680,
+                                873,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        680,
+                                        873,
+                                        706
+                                    ],
+                                    "score": 0.804,
+                                    "content": "K.Tam,P.B.rsa,P.atsdaira,.C.oyce,R.D.ammndM.J.ang,assiveandactivemicrorheoogywith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                700,
+                                878,
+                                727
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        700,
+                                        878,
+                                        727
+                                    ],
+                                    "score": 0.865,
+                                    "content": "opticaltweezers,J.Opt.APureAppl.Opt.9,101088/1464-4258/9/8/S01(2007).[23]A.YaoM.Taieri，M.adgett",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                721,
+                                807,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        721,
+                                        807,
+                                        745
+                                    ],
+                                    "score": 0.959,
+                                    "content": "andJ.Cooper,Microrheologywithopticaltweezers,LabChip9,2568(2009).[24]S.K.GuptaandM.Guo,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                740,
+                                839,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        740,
+                                        839,
+                                        766
+                                    ],
+                                    "score": 0.974,
+                                    "content": "Equlibriumandout-of-equilibriummechanicsoflivingmammaliancytoplasm,J.Mech.Phys.Solids107,284",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                760,
+                                842,
+                                787
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        760,
+                                        842,
+                                        787
+                                    ],
+                                    "score": 0.808,
+                                    "content": "(2017).[25]F.Ambard,A.C.ags,B.urke,A.N.argelisndS.Leiblerubiusionandanomaooal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                781,
+                                814,
+                                805
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        781,
+                                        814,
+                                        805
+                                    ],
+                                    "score": 0.979,
+                                    "content": "viscoelas-ticityinactinnetworks,Phys.Rev.Lett10.1103/PhysRevLett.77.4470(1996).[26]A.R.Bausch,F.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                801,
+                                836,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        801,
+                                        836,
+                                        825
+                                    ],
+                                    "score": 0.833,
+                                    "content": "Ziemann,A.A.oubitch,.JacobsonandE.ckmann,ocalmeasurementsofvis-oelasticrameo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                821,
+                                864,
+                                845
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        821,
+                                        864,
+                                        845
+                                    ],
+                                    "score": 0.965,
+                                    "content": "adherentcellsurfacesbymagneticbeadmicrorheometryBiophys.J.10.1016/So006-3495(98)77646-5(1998).28",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5,
+                    "bbox_fs": [
+                        13,
+                        41,
+                        880,
+                        845
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

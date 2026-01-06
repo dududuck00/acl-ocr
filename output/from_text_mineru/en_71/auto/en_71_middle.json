@@ -1,0 +1,1984 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        15,
+                        112,
+                        865,
+                        1004
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                860,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        860,
+                                        145
+                                    ],
+                                    "score": 0.987,
+                                    "content": "necessaryformodelingbehavior.Roboticmodelsareatypeofsimulationmodel,butdotheydoanythingthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                141,
+                                844,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        141,
+                                        844,
+                                        165
+                                    ],
+                                    "score": 0.998,
+                                    "content": "computersimulationmodelsdonotdo?Onereasonoftensitedisthatmanyphysicalvariablesinfluencethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                161,
+                                806,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        161,
+                                        806,
+                                        186
+                                    ],
+                                    "score": 0.983,
+                                    "content": "behaviorofaphysicalsystemanditisdificultifnotpracticallyimpossibletorepresentallof thesewith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                870,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        870,
+                                        205
+                                    ],
+                                    "score": 0.99,
+                                    "content": "adequatelawsorrulesforphysicalinteractionsinacomputersimulation.Another,andperhapsmoreimportan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                788,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        788,
+                                        226
+                                    ],
+                                    "score": 0.98,
+                                    "content": "reason,isthattheprocessofdesigning,building,andtestingroboticmodelsleadstonewproblems,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                219,
+                                870,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        219,
+                                        870,
+                                        246
+                                    ],
+                                    "score": 0.984,
+                                    "content": "discoveries,andinterpretationspreciselybecauseoneisworkingwithaphysicalmodel.Toillustratethispoint,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                239,
+                                870,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        239,
+                                        870,
+                                        266
+                                    ],
+                                    "score": 0.982,
+                                    "content": "willdiscussexamplesandresultsofmodeling individualand groupsofratpupswithroboticmodels.TheCantol",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                258,
+                                867,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        258,
+                                        867,
+                                        287
+                                    ],
+                                    "score": 0.929,
+                                    "content": "DustofConflictMegSpohn,UniversityofDenver，Denver,COSCTPLSAnnualConferenceAugust,20o522From",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                844,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        844,
+                                        305
+                                    ],
+                                    "score": 0.984,
+                                    "content": "theclassicCantor Dust,weunderstandthat noiseindatatransmissiontendstoscaleinaprecisepattern.As",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                843,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        843,
+                                        325
+                                    ],
+                                    "score": 0.993,
+                                    "content": "describedbyGleickinhisclassicbook,acommonrepresentationoftheCantorDustisarepresentationofa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                832,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        832,
+                                        344
+                                    ],
+                                    "score": 0.964,
+                                    "content": "transmissionwithnoisein,forexample,itsmiddlethird,inascalediterationdowntothebits.imilarlythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                867,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        867,
+                                        364
+                                    ],
+                                    "score": 0.993,
+                                    "content": "intensityofhumanconflict,asmeasuredbybattledeathsovertimeseries,seemstofollowscalingpatternsnot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                361,
+                                868,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        361,
+                                        868,
+                                        385
+                                    ],
+                                    "score": 0.995,
+                                    "content": "unliketheCantorDust,withitsownpatternofteribleburstsandterriblesilence.Warisoftendescribedbythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                379,
+                                871,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        379,
+                                        871,
+                                        408
+                                    ],
+                                    "score": 0.982,
+                                    "content": "soldierswhowerethereasbeingcomposedofshortperiodsofintenseviolentconflictinterspersedwith longel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                400,
+                                863,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        400,
+                                        863,
+                                        427
+                                    ],
+                                    "score": 0.99,
+                                    "content": "periodsofquiettensionortedium.Thisprojectexaminesthesepatterns,andconsiderssomeofthequestions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                417,
+                                851,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        417,
+                                        851,
+                                        450
+                                    ],
+                                    "score": 0.984,
+                                    "content": "thatmustnecessarilyaccompanythem:Withadescriptivepattern,whataretherisksinherentinforecasting,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                847,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        847,
+                                        466
+                                    ],
+                                    "score": 0.851,
+                                    "content": "ethical,pilosopical,andotherwise?Whatarethemanandpolicymplicationsofpotentiallyngucha",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                461,
+                                838,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        461,
+                                        838,
+                                        486
+                                    ],
+                                    "score": 0.988,
+                                    "content": "pattern,orofallowingittobeused?NonlinearHypothesesinEducationResearchMethodologiesDimitrios",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                844,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        844,
+                                        507
+                                    ],
+                                    "score": 0.882,
+                                    "content": "Stamovlasis,ducationResearchenter,inistryofducationthens,GreeceTherapidngeoftoday",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                502,
+                                823,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        502,
+                                        823,
+                                        526
+                                    ],
+                                    "score": 0.997,
+                                    "content": "worldpresentnewchallengesonoureducationalsystem.Educationresearchdealingwithacomplexand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                848,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        848,
+                                        548
+                                    ],
+                                    "score": 0.99,
+                                    "content": "continuouslychanging systemmaynotbeabletoprovidethepropersupportbyimplementingconventional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                847,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        847,
+                                        567
+                                    ],
+                                    "score": 0.986,
+                                    "content": "linear,qualitativeorquantitative,approaches.NDStheoryandthescienceofcomplexitymightprovidemore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                561,
+                                851,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        561,
+                                        851,
+                                        586
+                                    ],
+                                    "score": 0.997,
+                                    "content": "solidfoundationforunderstandinganddecision-making.Thepresentworkexplorestheapplicabilityandthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                581,
+                                856,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        581,
+                                        856,
+                                        606
+                                    ],
+                                    "score": 0.995,
+                                    "content": "usefulnessofCatastropheTheoryfortestingnonlinearhypothesesineducationalresearch.Cuspcatastrophe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                601,
+                                851,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        601,
+                                        851,
+                                        626
+                                    ],
+                                    "score": 0.984,
+                                    "content": "modelsareproposed,whichaccountsfordiscontinuitiesinstudents'performance.Thesemodelsimplement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                621,
+                                806,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        621,
+                                        806,
+                                        646
+                                    ],
+                                    "score": 0.994,
+                                    "content": "psychometricvariablesfromneo-Piagetiantheoriesorinformationprocessingmodels,ascontrolsand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                638,
+                                843,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        638,
+                                        843,
+                                        668
+                                    ],
+                                    "score": 0.986,
+                                    "content": "demonstratenonlinearinteractions between students'mentalresourcesandmentaltasks.Inaddition,cusp",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                660,
+                                827,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        660,
+                                        827,
+                                        686
+                                    ],
+                                    "score": 0.998,
+                                    "content": "catastropheistestedinotherseducationresearchareasimplementingotherbehavioralvariablessuchas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                851,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        851,
+                                        705
+                                    ],
+                                    "score": 0.982,
+                                    "content": "studentsatitudesandchoices,orteachersselection inworkforcerecruitment.Measurementsweretakenat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                699,
+                                820,
+                                724
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        699,
+                                        820,
+                                        724
+                                    ],
+                                    "score": 0.994,
+                                    "content": "twopointsintime,andthedataanalysisinvolveddynamicdifferenceequationsandstatisticalregression",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                720,
+                                804,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        720,
+                                        804,
+                                        742
+                                    ],
+                                    "score": 0.992,
+                                    "content": "techniques.Thenonlinearmodelsprovedtobesuperiortothelinearcounterparts,andthatshowsthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                741,
+                                803,
+                                762
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        741,
+                                        803,
+                                        762
+                                    ],
+                                    "score": 0.993,
+                                    "content": "limitationsofstatisticalmodelingusedsofarineducation.Utilizingnonlinearmethodsandmaking the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                758,
+                                803,
+                                786
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        758,
+                                        803,
+                                        786
+                                    ],
+                                    "score": 0.991,
+                                    "content": "paradigmshiftrealizedinbehavioralscience,seemspromisingforeducationandpedagogy.Thiswork",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                779,
+                                843,
+                                804
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        779,
+                                        843,
+                                        804
+                                    ],
+                                    "score": 0.97,
+                                    "content": "demonstratesthefeasibilityof providingempirical evidences fornonlinearprocesses ineducationresearch,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                798,
+                                844,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        798,
+                                        844,
+                                        824
+                                    ],
+                                    "score": 0.992,
+                                    "content": "whichwillbuildbridgesbetweenNDS-theoryconceptsandpedagogicaltheories.TheMultidimensionalityof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                819,
+                                848,
+                                844
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        819,
+                                        848,
+                                        844
+                                    ],
+                                    "score": 0.983,
+                                    "content": "Health:Tools,OnetoEstimatetheStatusofHealthandAnotherOnetoEvaluateTherapeuticGoalsKarlToifl,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                839,
+                                864,
+                                864
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        839,
+                                        864,
+                                        864
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Neuropsychiatricclinic,MedicalUniversityofViennaBasedonadefinitiononillnessandhealth,Whichincludes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                857,
+                                858,
+                                885
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        857,
+                                        858,
+                                        885
+                                    ],
+                                    "score": 0.987,
+                                    "content": "bothindividualbio-sycho-socialcomplexityanddynamicsofdevelopment,twotoolswillbepresented,which",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                879,
+                                853,
+                                904
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        879,
+                                        853,
+                                        904
+                                    ],
+                                    "score": 0.996,
+                                    "content": "aredevelopedtobeusedindailyclinicalpractice.Thefirstoneshouldmakeposibletoshowtherelationship",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                900,
+                                823,
+                                922
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        900,
+                                        823,
+                                        922
+                                    ],
+                                    "score": 0.987,
+                                    "content": "betweentheestimated levelsof theamountofdemandsapersonisconfrontedwith,theeffectivenessof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                919,
+                                842,
+                                942
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        919,
+                                        842,
+                                        942
+                                    ],
+                                    "score": 0.987,
+                                    "content": "strategiestodealwiththesedemandsandtheactualstatusof health.Thesecondtoolalowsindailyclinical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                939,
+                                855,
+                                964
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        939,
+                                        855,
+                                        964
+                                    ],
+                                    "score": 0.984,
+                                    "content": "practiceononehandtodocumentthemultidimensionaldiagnosticandtherapeuticprocessand on theother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                959,
+                                867,
+                                984
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        959,
+                                        867,
+                                        984
+                                    ],
+                                    "score": 0.995,
+                                    "content": "handtoevaluatethetherapeuticgoals.Thistoolsupportstheprocessofpermanentqualitativeimprovemento",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                979,
+                                318,
+                                1004
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        979,
+                                        318,
+                                        1004
+                                    ],
+                                    "score": 0.974,
+                                    "content": "diagnosisand therapy.SCTPLS200514",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        }
+                    ],
+                    "index": 21.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                1014
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        15,
+                        112,
+                        865,
+                        1004
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                860,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        860,
+                                        145
+                                    ],
+                                    "score": 0.987,
+                                    "content": "necessaryformodelingbehavior.Roboticmodelsareatypeofsimulationmodel,butdotheydoanythingthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                141,
+                                844,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        141,
+                                        844,
+                                        165
+                                    ],
+                                    "score": 0.998,
+                                    "content": "computersimulationmodelsdonotdo?Onereasonoftensitedisthatmanyphysicalvariablesinfluencethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                161,
+                                806,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        161,
+                                        806,
+                                        186
+                                    ],
+                                    "score": 0.983,
+                                    "content": "behaviorofaphysicalsystemanditisdificultifnotpracticallyimpossibletorepresentallof thesewith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                870,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        870,
+                                        205
+                                    ],
+                                    "score": 0.99,
+                                    "content": "adequatelawsorrulesforphysicalinteractionsinacomputersimulation.Another,andperhapsmoreimportan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                788,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        788,
+                                        226
+                                    ],
+                                    "score": 0.98,
+                                    "content": "reason,isthattheprocessofdesigning,building,andtestingroboticmodelsleadstonewproblems,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                219,
+                                870,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        219,
+                                        870,
+                                        246
+                                    ],
+                                    "score": 0.984,
+                                    "content": "discoveries,andinterpretationspreciselybecauseoneisworkingwithaphysicalmodel.Toillustratethispoint,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                239,
+                                870,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        239,
+                                        870,
+                                        266
+                                    ],
+                                    "score": 0.982,
+                                    "content": "willdiscussexamplesandresultsofmodeling individualand groupsofratpupswithroboticmodels.TheCantol",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                258,
+                                867,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        258,
+                                        867,
+                                        287
+                                    ],
+                                    "score": 0.929,
+                                    "content": "DustofConflictMegSpohn,UniversityofDenver，Denver,COSCTPLSAnnualConferenceAugust,20o522From",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                844,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        844,
+                                        305
+                                    ],
+                                    "score": 0.984,
+                                    "content": "theclassicCantor Dust,weunderstandthat noiseindatatransmissiontendstoscaleinaprecisepattern.As",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                843,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        843,
+                                        325
+                                    ],
+                                    "score": 0.993,
+                                    "content": "describedbyGleickinhisclassicbook,acommonrepresentationoftheCantorDustisarepresentationofa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                832,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        832,
+                                        344
+                                    ],
+                                    "score": 0.964,
+                                    "content": "transmissionwithnoisein,forexample,itsmiddlethird,inascalediterationdowntothebits.imilarlythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                867,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        867,
+                                        364
+                                    ],
+                                    "score": 0.993,
+                                    "content": "intensityofhumanconflict,asmeasuredbybattledeathsovertimeseries,seemstofollowscalingpatternsnot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                361,
+                                868,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        361,
+                                        868,
+                                        385
+                                    ],
+                                    "score": 0.995,
+                                    "content": "unliketheCantorDust,withitsownpatternofteribleburstsandterriblesilence.Warisoftendescribedbythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                379,
+                                871,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        379,
+                                        871,
+                                        408
+                                    ],
+                                    "score": 0.982,
+                                    "content": "soldierswhowerethereasbeingcomposedofshortperiodsofintenseviolentconflictinterspersedwith longel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                400,
+                                863,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        400,
+                                        863,
+                                        427
+                                    ],
+                                    "score": 0.99,
+                                    "content": "periodsofquiettensionortedium.Thisprojectexaminesthesepatterns,andconsiderssomeofthequestions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                417,
+                                851,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        417,
+                                        851,
+                                        450
+                                    ],
+                                    "score": 0.984,
+                                    "content": "thatmustnecessarilyaccompanythem:Withadescriptivepattern,whataretherisksinherentinforecasting,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                847,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        847,
+                                        466
+                                    ],
+                                    "score": 0.851,
+                                    "content": "ethical,pilosopical,andotherwise?Whatarethemanandpolicymplicationsofpotentiallyngucha",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                461,
+                                838,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        461,
+                                        838,
+                                        486
+                                    ],
+                                    "score": 0.988,
+                                    "content": "pattern,orofallowingittobeused?NonlinearHypothesesinEducationResearchMethodologiesDimitrios",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                844,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        844,
+                                        507
+                                    ],
+                                    "score": 0.882,
+                                    "content": "Stamovlasis,ducationResearchenter,inistryofducationthens,GreeceTherapidngeoftoday",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                502,
+                                823,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        502,
+                                        823,
+                                        526
+                                    ],
+                                    "score": 0.997,
+                                    "content": "worldpresentnewchallengesonoureducationalsystem.Educationresearchdealingwithacomplexand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                848,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        848,
+                                        548
+                                    ],
+                                    "score": 0.99,
+                                    "content": "continuouslychanging systemmaynotbeabletoprovidethepropersupportbyimplementingconventional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                847,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        847,
+                                        567
+                                    ],
+                                    "score": 0.986,
+                                    "content": "linear,qualitativeorquantitative,approaches.NDStheoryandthescienceofcomplexitymightprovidemore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                561,
+                                851,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        561,
+                                        851,
+                                        586
+                                    ],
+                                    "score": 0.997,
+                                    "content": "solidfoundationforunderstandinganddecision-making.Thepresentworkexplorestheapplicabilityandthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                581,
+                                856,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        581,
+                                        856,
+                                        606
+                                    ],
+                                    "score": 0.995,
+                                    "content": "usefulnessofCatastropheTheoryfortestingnonlinearhypothesesineducationalresearch.Cuspcatastrophe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                601,
+                                851,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        601,
+                                        851,
+                                        626
+                                    ],
+                                    "score": 0.984,
+                                    "content": "modelsareproposed,whichaccountsfordiscontinuitiesinstudents'performance.Thesemodelsimplement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                621,
+                                806,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        621,
+                                        806,
+                                        646
+                                    ],
+                                    "score": 0.994,
+                                    "content": "psychometricvariablesfromneo-Piagetiantheoriesorinformationprocessingmodels,ascontrolsand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                638,
+                                843,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        638,
+                                        843,
+                                        668
+                                    ],
+                                    "score": 0.986,
+                                    "content": "demonstratenonlinearinteractions between students'mentalresourcesandmentaltasks.Inaddition,cusp",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                660,
+                                827,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        660,
+                                        827,
+                                        686
+                                    ],
+                                    "score": 0.998,
+                                    "content": "catastropheistestedinotherseducationresearchareasimplementingotherbehavioralvariablessuchas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                851,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        851,
+                                        705
+                                    ],
+                                    "score": 0.982,
+                                    "content": "studentsatitudesandchoices,orteachersselection inworkforcerecruitment.Measurementsweretakenat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                699,
+                                820,
+                                724
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        699,
+                                        820,
+                                        724
+                                    ],
+                                    "score": 0.994,
+                                    "content": "twopointsintime,andthedataanalysisinvolveddynamicdifferenceequationsandstatisticalregression",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                720,
+                                804,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        720,
+                                        804,
+                                        742
+                                    ],
+                                    "score": 0.992,
+                                    "content": "techniques.Thenonlinearmodelsprovedtobesuperiortothelinearcounterparts,andthatshowsthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                741,
+                                803,
+                                762
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        741,
+                                        803,
+                                        762
+                                    ],
+                                    "score": 0.993,
+                                    "content": "limitationsofstatisticalmodelingusedsofarineducation.Utilizingnonlinearmethodsandmaking the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                758,
+                                803,
+                                786
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        758,
+                                        803,
+                                        786
+                                    ],
+                                    "score": 0.991,
+                                    "content": "paradigmshiftrealizedinbehavioralscience,seemspromisingforeducationandpedagogy.Thiswork",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                779,
+                                843,
+                                804
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        779,
+                                        843,
+                                        804
+                                    ],
+                                    "score": 0.97,
+                                    "content": "demonstratesthefeasibilityof providingempirical evidences fornonlinearprocesses ineducationresearch,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                798,
+                                844,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        798,
+                                        844,
+                                        824
+                                    ],
+                                    "score": 0.992,
+                                    "content": "whichwillbuildbridgesbetweenNDS-theoryconceptsandpedagogicaltheories.TheMultidimensionalityof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                819,
+                                848,
+                                844
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        819,
+                                        848,
+                                        844
+                                    ],
+                                    "score": 0.983,
+                                    "content": "Health:Tools,OnetoEstimatetheStatusofHealthandAnotherOnetoEvaluateTherapeuticGoalsKarlToifl,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                839,
+                                864,
+                                864
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        839,
+                                        864,
+                                        864
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Neuropsychiatricclinic,MedicalUniversityofViennaBasedonadefinitiononillnessandhealth,Whichincludes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                857,
+                                858,
+                                885
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        857,
+                                        858,
+                                        885
+                                    ],
+                                    "score": 0.987,
+                                    "content": "bothindividualbio-sycho-socialcomplexityanddynamicsofdevelopment,twotoolswillbepresented,which",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                879,
+                                853,
+                                904
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        879,
+                                        853,
+                                        904
+                                    ],
+                                    "score": 0.996,
+                                    "content": "aredevelopedtobeusedindailyclinicalpractice.Thefirstoneshouldmakeposibletoshowtherelationship",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                900,
+                                823,
+                                922
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        900,
+                                        823,
+                                        922
+                                    ],
+                                    "score": 0.987,
+                                    "content": "betweentheestimated levelsof theamountofdemandsapersonisconfrontedwith,theeffectivenessof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                919,
+                                842,
+                                942
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        919,
+                                        842,
+                                        942
+                                    ],
+                                    "score": 0.987,
+                                    "content": "strategiestodealwiththesedemandsandtheactualstatusof health.Thesecondtoolalowsindailyclinical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                939,
+                                855,
+                                964
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        939,
+                                        855,
+                                        964
+                                    ],
+                                    "score": 0.984,
+                                    "content": "practiceononehandtodocumentthemultidimensionaldiagnosticandtherapeuticprocessand on theother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                959,
+                                867,
+                                984
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        959,
+                                        867,
+                                        984
+                                    ],
+                                    "score": 0.995,
+                                    "content": "handtoevaluatethetherapeuticgoals.Thistoolsupportstheprocessofpermanentqualitativeimprovemento",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                979,
+                                318,
+                                1004
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        979,
+                                        318,
+                                        1004
+                                    ],
+                                    "score": 0.974,
+                                    "content": "diagnosisand therapy.SCTPLS200514",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        }
+                    ],
+                    "index": 21.5,
+                    "bbox_fs": [
+                        12,
+                        121,
+                        871,
+                        1004
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

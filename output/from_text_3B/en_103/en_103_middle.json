@@ -1,0 +1,96 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        10,
+                        18,
+                        655,
+                        524
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                10,
+                                18,
+                                655,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        10,
+                                        18,
+                                        655,
+                                        524
+                                    ],
+                                    "score": 1.0,
+                                    "content": "thermal shock problems with a crack [47, 40, 58, 1, 48, 30], and rotating disks [33]. For finite strain thermoplasticity, FEM methods have been developed for simulating large deformation problems, such as necking processes [50, 3, 56, 7], modelling of welding [37], ballistic penetration of metallic targets [8], and orthogonal high-speed machining [41]. Other mesh-based methods also have been used to simulate the necking process, for example, the mixed finite element method [50] and the updated enhanced assumed strain finite element formalism [2]. Of course, these finite element-based methods suffer from mesh distortion issues under large deformations, and are ineffective at dealing with material flow and separation [36, 11]. Recently, meshfree approximations have been used to study the generalized thermoelasticity theories. Various methods have been used, for example, the Meshless local Petrov-Galerkin method [29] as well as methods using radial basis functions [57]. Meshfree methods have also been developed for finite-strain thermoplasticity. Simulations have included ductile fracture [49] and friction drilling [43, 54]. Based on variational thermomechanical constitutive updates and the optimal transportation meshfree (OTM) method [34], the hot OTM method (HOTM) [53] has been developed for modeling external heating and cooling behavior. The HOTM method has mostly been applied to laser cladding technology [23]. Yet, virtually none of these meshfree approaches to thermomechanical equations discussed consider any advanced domain integration techniques other than [43, 54], regardless of the use of classical or generalized equations. For a review of existing techniques and an in-depth discussion on meshfree quadrature including [43, 54], see Part I of this paper. In this work, the methods developed in the prequel are developed for generalized thermoelasticity, and generalized thermoplasticity. Namely, the variationally consistent naturally stabilized nodal integration (VC-NSNI) technique is extended to both of these problems. For generalized thermoelasticity, the extension of these two methods is straightforward. Strains and temperature gradients are expanded with implicit gradient approximations for stabilization as before, and the correction remains the same. In finite-strain thermoplasticity, the Cauchy stress and associated variation on strain are instead expanded to stabilize the results. Finally, since the propagation speed of temperature is not well-characterized for most engineering materials, and in most settings (typically this is reported near absolute zero for special materials such as superfluids), equating the second sound speed to the first is investigated. This yields a critical time step in explicit analysis that is the same as in pure solid mechanics problems, but meanwhile very small relaxation times such that the solution is close to the classical theory, which is widely accepted as a good model for thermomechanical problems. The remainder of this paper is organized as follows. The general governing equations of the coupled thermomechanical theory are discussed in Section 2. In Section 3 classical and generalized thermoelasticity are introduced as special cases, with the RKPM discretization of the weak form given. Section 4 develops thermoplasticity as another more general case, with the Lagrangian RKPM discretization given along with associated explicit algorithms. In Section 5 the time-step criteria is discussed. Benchmarks are then solved for generalized thermoelasticity and classical and generalized thermoplasticity in Section 6, where equating the first and second sound speed 3",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                675.0,
+                536.25
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        10,
+                        18,
+                        655,
+                        524
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                10,
+                                18,
+                                655,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        10,
+                                        18,
+                                        655,
+                                        524
+                                    ],
+                                    "score": 1.0,
+                                    "content": "thermal shock problems with a crack [47, 40, 58, 1, 48, 30], and rotating disks [33]. For finite strain thermoplasticity, FEM methods have been developed for simulating large deformation problems, such as necking processes [50, 3, 56, 7], modelling of welding [37], ballistic penetration of metallic targets [8], and orthogonal high-speed machining [41]. Other mesh-based methods also have been used to simulate the necking process, for example, the mixed finite element method [50] and the updated enhanced assumed strain finite element formalism [2]. Of course, these finite element-based methods suffer from mesh distortion issues under large deformations, and are ineffective at dealing with material flow and separation [36, 11]. Recently, meshfree approximations have been used to study the generalized thermoelasticity theories. Various methods have been used, for example, the Meshless local Petrov-Galerkin method [29] as well as methods using radial basis functions [57]. Meshfree methods have also been developed for finite-strain thermoplasticity. Simulations have included ductile fracture [49] and friction drilling [43, 54]. Based on variational thermomechanical constitutive updates and the optimal transportation meshfree (OTM) method [34], the hot OTM method (HOTM) [53] has been developed for modeling external heating and cooling behavior. The HOTM method has mostly been applied to laser cladding technology [23]. Yet, virtually none of these meshfree approaches to thermomechanical equations discussed consider any advanced domain integration techniques other than [43, 54], regardless of the use of classical or generalized equations. For a review of existing techniques and an in-depth discussion on meshfree quadrature including [43, 54], see Part I of this paper. In this work, the methods developed in the prequel are developed for generalized thermoelasticity, and generalized thermoplasticity. Namely, the variationally consistent naturally stabilized nodal integration (VC-NSNI) technique is extended to both of these problems. For generalized thermoelasticity, the extension of these two methods is straightforward. Strains and temperature gradients are expanded with implicit gradient approximations for stabilization as before, and the correction remains the same. In finite-strain thermoplasticity, the Cauchy stress and associated variation on strain are instead expanded to stabilize the results. Finally, since the propagation speed of temperature is not well-characterized for most engineering materials, and in most settings (typically this is reported near absolute zero for special materials such as superfluids), equating the second sound speed to the first is investigated. This yields a critical time step in explicit analysis that is the same as in pure solid mechanics problems, but meanwhile very small relaxation times such that the solution is close to the classical theory, which is widely accepted as a good model for thermomechanical problems. The remainder of this paper is organized as follows. The general governing equations of the coupled thermomechanical theory are discussed in Section 2. In Section 3 classical and generalized thermoelasticity are introduced as special cases, with the RKPM discretization of the weak form given. Section 4 develops thermoplasticity as another more general case, with the Lagrangian RKPM discretization given along with associated explicit algorithms. In Section 5 the time-step criteria is discussed. Benchmarks are then solved for generalized thermoelasticity and classical and generalized thermoplasticity in Section 6, where equating the first and second sound speed 3",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        675.0,
+                        536.25
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.1.0"
+}

@@ -1,0 +1,1852 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        63,
+                        879,
+                        845
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                61,
+                                860,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        61,
+                                        860,
+                                        84
+                                    ],
+                                    "score": 0.99,
+                                    "content": "overagesifnecessary.CarrieDouglassaskedwhatfactorsarecausingtheincreasecosts.Eastwoodsaidlabor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                839,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        839,
+                                        105
+                                    ],
+                                    "score": 0.993,
+                                    "content": "andmaterialshavesignificantlyincreasedinthepastyearsforalltypesofconstruction,andwithahard-bid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                861,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        861,
+                                        127
+                                    ],
+                                    "score": 0.992,
+                                    "content": "processtherereallyisnoroomfornegotiation.Henryexplainedhowthedistrictestimatesbondprojectcosts,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                122,
+                                846,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        122,
+                                        846,
+                                        145
+                                    ],
+                                    "score": 0.992,
+                                    "content": "whichincludesafactorforinflation.SuperintendentMikalsoncommentedonthegreatworkoftheFacilities",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                141,
+                                857,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        141,
+                                        857,
+                                        167
+                                    ],
+                                    "score": 0.981,
+                                    "content": "teamandtheireffortstobuildhighqualityfacilitiesinthemostcost-effectivewaypossible.Henotedwiththis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                161,
+                                828,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        161,
+                                        828,
+                                        185
+                                    ],
+                                    "score": 0.994,
+                                    "content": "project,thedistrictisbuildingwhatwasinitiallypromisedtovotersandwilldoitinthemostcost-effective",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                793,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        793,
+                                        205
+                                    ],
+                                    "score": 0.993,
+                                    "content": "manner.HeltaddedherappreciationtotheFacilitiesteamandwantsthedistrictomakesureweare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                834,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        834,
+                                        225
+                                    ],
+                                    "score": 0.988,
+                                    "content": "cognoscenteofcostswiththisbeingoneof thefirstlargeprojectsinthe2017bond.RonGalinatmovedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                833,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        833,
+                                        244
+                                    ],
+                                    "score": 0.993,
+                                    "content": "approvethataconstructioncontractbeawardedtothelowbidder,2KGContractorsInc.,intheamountof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                239,
+                                808,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        242,
+                                        124,
+                                        262
+                                    ],
+                                    "score": 0.28,
+                                    "content": "\\$ 6,269,200,00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        124,
+                                        239,
+                                        808,
+                                        267
+                                    ],
+                                    "score": 0.967,
+                                    "content": "Thiscontract exceedstheconstruction budget,including contingenciesand soft costs by",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                259,
+                                818,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        262,
+                                        111,
+                                        282
+                                    ],
+                                    "score": 0.51,
+                                    "content": "\\$ 283,126,00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        111,
+                                        259,
+                                        818,
+                                        287
+                                    ],
+                                    "score": 0.979,
+                                    "content": "JulieCraigsecondedthemotion.Unanimousapproval.ReportsFinancial UpdateRoy Burling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                280,
+                                875,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        280,
+                                        875,
+                                        307
+                                    ],
+                                    "score": 0.988,
+                                    "content": "reviewedthethirdquarterfinancialreportintheboardpacket,andsaidthedistrictisinagoodpositiontocarry",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                302,
+                                856,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        302,
+                                        856,
+                                        325
+                                    ],
+                                    "score": 0.996,
+                                    "content": "fundsforwardintothenextschoolyear.PeggyKinkadesaidsheappreciatedthelevelofdetailprovidedinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                840,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        840,
+                                        345
+                                    ],
+                                    "score": 0.994,
+                                    "content": "report.EL9-TechnologyPolicyMonitoring ReportSuperintendentMikalsonreviewedtheEL9reportinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                833,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        833,
+                                        365
+                                    ],
+                                    "score": 0.997,
+                                    "content": "boardpacketandthankedSkipOfenhauserandBenHansenfortheirworkandpreparation.Offenhauser",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                359,
+                                869,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        359,
+                                        869,
+                                        386
+                                    ],
+                                    "score": 0.985,
+                                    "content": "reviewedsections1-3ofthereportandnotedtheworkofBend-LaPineOnlineandtheincreaseinsupportand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                824,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        824,
+                                        405
+                                    ],
+                                    "score": 0.991,
+                                    "content": "coursesoferedtostudentsduringtheschoolyearandsummermonths.BLPOteachersareworkingwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                401,
+                                874,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        401,
+                                        874,
+                                        427
+                                    ],
+                                    "score": 0.973,
+                                    "content": "classroomteacherstohelpinterveneandsupport struggling studentsandareseeing greatsuccesswithefforts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                820,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        820,
+                                        445
+                                    ],
+                                    "score": 0.995,
+                                    "content": "inpreventingstudentfromfallingbehindorfailing.Henotedthatabigefforthasbeenmadethisyearto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                440,
+                                792,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        440,
+                                        792,
+                                        468
+                                    ],
+                                    "score": 0.978,
+                                    "content": "promoteandintroduce codingand computer scienceintoclassrooms;along with breaking down the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                874,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        874,
+                                        485
+                                    ],
+                                    "score": 0.998,
+                                    "content": "misconceptionsinstructionalcoachesaregivingteacherstheabilityandtoolstoteachthesecourses.ChairHigh",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                480,
+                                870,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        480,
+                                        870,
+                                        506
+                                    ],
+                                    "score": 0.99,
+                                    "content": "askedabout codingandbeingconsideredasecondlanguage.Offenhausersaidhejustdiscussedthistopicina",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                501,
+                                835,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        501,
+                                        835,
+                                        527
+                                    ],
+                                    "score": 0.994,
+                                    "content": "cohortmeetingtodayalongwithhowcodingdoesapplytovariousaspectsof learning.Offenhausernoted",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                874,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        874,
+                                        547
+                                    ],
+                                    "score": 0.992,
+                                    "content": "continualefortsbeingmadearounddigitalcitizenshipandthebestwaystodeliverdigitalcitizenshipmessages",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                878,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        878,
+                                        565
+                                    ],
+                                    "score": 0.997,
+                                    "content": "andinstructionstostudentsonamoreregularbasis.PeggyKinkadeaskedaboutequitableaccessandaskedfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                560,
+                                869,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        560,
+                                        869,
+                                        586
+                                    ],
+                                    "score": 0.982,
+                                    "content": "clarificationonpage20;thethirdbulletunder2018response;andifitshouldread\"summerclassesfororiginal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                579,
+                                855,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        579,
+                                        855,
+                                        605
+                                    ],
+                                    "score": 0.985,
+                                    "content": "ANDcreditrecoverywereofferedduringthesummerof2017andwillbeofferedagainduringsummer2018.\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                599,
+                                874,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        599,
+                                        874,
+                                        626
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Offenhausersaid thatnearlyallcurrculum,etc.onastudent'siPadcanbeaccessedwithoutinternetservice.He",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                620,
+                                831,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        620,
+                                        831,
+                                        645
+                                    ],
+                                    "score": 0.989,
+                                    "content": "alsonotedELLstudentsarebeingsupportedandhaveanopportunitytoearncreditswithandELLteacher",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                641,
+                                873,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        641,
+                                        873,
+                                        665
+                                    ],
+                                    "score": 0.987,
+                                    "content": "providedtosupportthem.HealsoagreedwithKinkade'scorrectiontothereport,hemeanttoinclude theword",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                660,
+                                824,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        660,
+                                        824,
+                                        683
+                                    ],
+                                    "score": 0.981,
+                                    "content": "‘and.'ThecorrectionwillbenotedintheEL9report.BenHansenreviewedsections4-6ofthereportand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                681,
+                                851,
+                                707
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        681,
+                                        645,
+                                        707
+                                    ],
+                                    "score": 0.977,
+                                    "content": "highlighted newefforts the technologyteam hasput intoplaceacrossthedistrict.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        645,
+                                        682,
+                                        688,
+                                        701
+                                    ],
+                                    "score": 0.83,
+                                    "content": "1 0 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        689,
+                                        681,
+                                        851,
+                                        707
+                                    ],
+                                    "score": 0.999,
+                                    "content": "ofthedistrictisnow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                701,
+                                870,
+                                727
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        701,
+                                        870,
+                                        727
+                                    ],
+                                    "score": 0.996,
+                                    "content": "usingdarkfiberandplansforthenewschoolsarebeingmadetohavethesamefiberconnectivity.Hansenalso",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                720,
+                                864,
+                                746
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        720,
+                                        864,
+                                        746
+                                    ],
+                                    "score": 0.99,
+                                    "content": "addressed studentdataprivacyandprocessesusedbythedistrictwithallvendorstoensuredataisprotected.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                741,
+                                838,
+                                765
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        741,
+                                        838,
+                                        765
+                                    ],
+                                    "score": 0.994,
+                                    "content": "KinkadeaskedhowthedistrictisreviewinganddecidingtostaywithiPadsormovetowardanothertypeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                761,
+                                860,
+                                784
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        761,
+                                        860,
+                                        784
+                                    ],
+                                    "score": 0.973,
+                                    "content": "device,oracombinationof devices.Offenhausersaid Chromebooks have beendemoed bysomeschools fora",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                781,
+                                834,
+                                804
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        781,
+                                        834,
+                                        804
+                                    ],
+                                    "score": 0.998,
+                                    "content": "varietyofcoursesandatthispoint,thedistrictcontinuestobeiPadcentric.Henotedthedistrictisopento",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                802,
+                                850,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        802,
+                                        850,
+                                        825
+                                    ],
+                                    "score": 0.989,
+                                    "content": "lookingatnewdeviceoptionsas theybecomeavailableandthereiscontinualconversationabout whatisthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                820,
+                                379,
+                                845
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        820,
+                                        379,
+                                        845
+                                    ],
+                                    "score": 0.972,
+                                    "content": "besttoolforstudents,teachersand programs.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        }
+                    ],
+                    "index": 19
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                856
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        63,
+                        879,
+                        845
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                61,
+                                860,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        61,
+                                        860,
+                                        84
+                                    ],
+                                    "score": 0.99,
+                                    "content": "overagesifnecessary.CarrieDouglassaskedwhatfactorsarecausingtheincreasecosts.Eastwoodsaidlabor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                839,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        839,
+                                        105
+                                    ],
+                                    "score": 0.993,
+                                    "content": "andmaterialshavesignificantlyincreasedinthepastyearsforalltypesofconstruction,andwithahard-bid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                861,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        861,
+                                        127
+                                    ],
+                                    "score": 0.992,
+                                    "content": "processtherereallyisnoroomfornegotiation.Henryexplainedhowthedistrictestimatesbondprojectcosts,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                122,
+                                846,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        122,
+                                        846,
+                                        145
+                                    ],
+                                    "score": 0.992,
+                                    "content": "whichincludesafactorforinflation.SuperintendentMikalsoncommentedonthegreatworkoftheFacilities",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                141,
+                                857,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        141,
+                                        857,
+                                        167
+                                    ],
+                                    "score": 0.981,
+                                    "content": "teamandtheireffortstobuildhighqualityfacilitiesinthemostcost-effectivewaypossible.Henotedwiththis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                161,
+                                828,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        161,
+                                        828,
+                                        185
+                                    ],
+                                    "score": 0.994,
+                                    "content": "project,thedistrictisbuildingwhatwasinitiallypromisedtovotersandwilldoitinthemostcost-effective",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                793,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        793,
+                                        205
+                                    ],
+                                    "score": 0.993,
+                                    "content": "manner.HeltaddedherappreciationtotheFacilitiesteamandwantsthedistrictomakesureweare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                834,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        834,
+                                        225
+                                    ],
+                                    "score": 0.988,
+                                    "content": "cognoscenteofcostswiththisbeingoneof thefirstlargeprojectsinthe2017bond.RonGalinatmovedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                833,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        833,
+                                        244
+                                    ],
+                                    "score": 0.993,
+                                    "content": "approvethataconstructioncontractbeawardedtothelowbidder,2KGContractorsInc.,intheamountof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                239,
+                                808,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        242,
+                                        124,
+                                        262
+                                    ],
+                                    "score": 0.28,
+                                    "content": "\\$ 6,269,200,00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        124,
+                                        239,
+                                        808,
+                                        267
+                                    ],
+                                    "score": 0.967,
+                                    "content": "Thiscontract exceedstheconstruction budget,including contingenciesand soft costs by",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                259,
+                                818,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        262,
+                                        111,
+                                        282
+                                    ],
+                                    "score": 0.51,
+                                    "content": "\\$ 283,126,00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        111,
+                                        259,
+                                        818,
+                                        287
+                                    ],
+                                    "score": 0.979,
+                                    "content": "JulieCraigsecondedthemotion.Unanimousapproval.ReportsFinancial UpdateRoy Burling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                280,
+                                875,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        280,
+                                        875,
+                                        307
+                                    ],
+                                    "score": 0.988,
+                                    "content": "reviewedthethirdquarterfinancialreportintheboardpacket,andsaidthedistrictisinagoodpositiontocarry",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                302,
+                                856,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        302,
+                                        856,
+                                        325
+                                    ],
+                                    "score": 0.996,
+                                    "content": "fundsforwardintothenextschoolyear.PeggyKinkadesaidsheappreciatedthelevelofdetailprovidedinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                840,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        840,
+                                        345
+                                    ],
+                                    "score": 0.994,
+                                    "content": "report.EL9-TechnologyPolicyMonitoring ReportSuperintendentMikalsonreviewedtheEL9reportinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                833,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        833,
+                                        365
+                                    ],
+                                    "score": 0.997,
+                                    "content": "boardpacketandthankedSkipOfenhauserandBenHansenfortheirworkandpreparation.Offenhauser",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                359,
+                                869,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        359,
+                                        869,
+                                        386
+                                    ],
+                                    "score": 0.985,
+                                    "content": "reviewedsections1-3ofthereportandnotedtheworkofBend-LaPineOnlineandtheincreaseinsupportand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                824,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        824,
+                                        405
+                                    ],
+                                    "score": 0.991,
+                                    "content": "coursesoferedtostudentsduringtheschoolyearandsummermonths.BLPOteachersareworkingwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                401,
+                                874,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        401,
+                                        874,
+                                        427
+                                    ],
+                                    "score": 0.973,
+                                    "content": "classroomteacherstohelpinterveneandsupport struggling studentsandareseeing greatsuccesswithefforts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                820,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        820,
+                                        445
+                                    ],
+                                    "score": 0.995,
+                                    "content": "inpreventingstudentfromfallingbehindorfailing.Henotedthatabigefforthasbeenmadethisyearto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                440,
+                                792,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        440,
+                                        792,
+                                        468
+                                    ],
+                                    "score": 0.978,
+                                    "content": "promoteandintroduce codingand computer scienceintoclassrooms;along with breaking down the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                874,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        874,
+                                        485
+                                    ],
+                                    "score": 0.998,
+                                    "content": "misconceptionsinstructionalcoachesaregivingteacherstheabilityandtoolstoteachthesecourses.ChairHigh",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                480,
+                                870,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        480,
+                                        870,
+                                        506
+                                    ],
+                                    "score": 0.99,
+                                    "content": "askedabout codingandbeingconsideredasecondlanguage.Offenhausersaidhejustdiscussedthistopicina",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                501,
+                                835,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        501,
+                                        835,
+                                        527
+                                    ],
+                                    "score": 0.994,
+                                    "content": "cohortmeetingtodayalongwithhowcodingdoesapplytovariousaspectsof learning.Offenhausernoted",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                874,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        874,
+                                        547
+                                    ],
+                                    "score": 0.992,
+                                    "content": "continualefortsbeingmadearounddigitalcitizenshipandthebestwaystodeliverdigitalcitizenshipmessages",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                878,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        878,
+                                        565
+                                    ],
+                                    "score": 0.997,
+                                    "content": "andinstructionstostudentsonamoreregularbasis.PeggyKinkadeaskedaboutequitableaccessandaskedfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                560,
+                                869,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        560,
+                                        869,
+                                        586
+                                    ],
+                                    "score": 0.982,
+                                    "content": "clarificationonpage20;thethirdbulletunder2018response;andifitshouldread\"summerclassesfororiginal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                579,
+                                855,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        579,
+                                        855,
+                                        605
+                                    ],
+                                    "score": 0.985,
+                                    "content": "ANDcreditrecoverywereofferedduringthesummerof2017andwillbeofferedagainduringsummer2018.\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                599,
+                                874,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        599,
+                                        874,
+                                        626
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Offenhausersaid thatnearlyallcurrculum,etc.onastudent'siPadcanbeaccessedwithoutinternetservice.He",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                620,
+                                831,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        620,
+                                        831,
+                                        645
+                                    ],
+                                    "score": 0.989,
+                                    "content": "alsonotedELLstudentsarebeingsupportedandhaveanopportunitytoearncreditswithandELLteacher",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                641,
+                                873,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        641,
+                                        873,
+                                        665
+                                    ],
+                                    "score": 0.987,
+                                    "content": "providedtosupportthem.HealsoagreedwithKinkade'scorrectiontothereport,hemeanttoinclude theword",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                660,
+                                824,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        660,
+                                        824,
+                                        683
+                                    ],
+                                    "score": 0.981,
+                                    "content": "‘and.'ThecorrectionwillbenotedintheEL9report.BenHansenreviewedsections4-6ofthereportand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                681,
+                                851,
+                                707
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        681,
+                                        645,
+                                        707
+                                    ],
+                                    "score": 0.977,
+                                    "content": "highlighted newefforts the technologyteam hasput intoplaceacrossthedistrict.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        645,
+                                        682,
+                                        688,
+                                        701
+                                    ],
+                                    "score": 0.83,
+                                    "content": "1 0 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        689,
+                                        681,
+                                        851,
+                                        707
+                                    ],
+                                    "score": 0.999,
+                                    "content": "ofthedistrictisnow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                701,
+                                870,
+                                727
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        701,
+                                        870,
+                                        727
+                                    ],
+                                    "score": 0.996,
+                                    "content": "usingdarkfiberandplansforthenewschoolsarebeingmadetohavethesamefiberconnectivity.Hansenalso",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                720,
+                                864,
+                                746
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        720,
+                                        864,
+                                        746
+                                    ],
+                                    "score": 0.99,
+                                    "content": "addressed studentdataprivacyandprocessesusedbythedistrictwithallvendorstoensuredataisprotected.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                741,
+                                838,
+                                765
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        741,
+                                        838,
+                                        765
+                                    ],
+                                    "score": 0.994,
+                                    "content": "KinkadeaskedhowthedistrictisreviewinganddecidingtostaywithiPadsormovetowardanothertypeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                761,
+                                860,
+                                784
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        761,
+                                        860,
+                                        784
+                                    ],
+                                    "score": 0.973,
+                                    "content": "device,oracombinationof devices.Offenhausersaid Chromebooks have beendemoed bysomeschools fora",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                781,
+                                834,
+                                804
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        781,
+                                        834,
+                                        804
+                                    ],
+                                    "score": 0.998,
+                                    "content": "varietyofcoursesandatthispoint,thedistrictcontinuestobeiPadcentric.Henotedthedistrictisopento",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                802,
+                                850,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        802,
+                                        850,
+                                        825
+                                    ],
+                                    "score": 0.989,
+                                    "content": "lookingatnewdeviceoptionsas theybecomeavailableandthereiscontinualconversationabout whatisthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                820,
+                                379,
+                                845
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        820,
+                                        379,
+                                        845
+                                    ],
+                                    "score": 0.972,
+                                    "content": "besttoolforstudents,teachersand programs.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        }
+                    ],
+                    "index": 19,
+                    "bbox_fs": [
+                        13,
+                        61,
+                        878,
+                        845
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

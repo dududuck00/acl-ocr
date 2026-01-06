@@ -1,0 +1,535 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    56,
+                    31,
+                    2440,
+                    31,
+                    2440,
+                    1633,
+                    56,
+                    1633
+                ],
+                "score": 0.939
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    2090,
+                    673,
+                    2362,
+                    673,
+                    2362,
+                    728,
+                    2090,
+                    728
+                ],
+                "score": 0.9,
+                "latex": "5 / 3 0 = 1 6 . 6 \\%"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    315,
+                    951,
+                    431,
+                    951,
+                    431,
+                    1004,
+                    315,
+                    1004
+                ],
+                "score": 0.83,
+                "latex": "100 \\%"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    304,
+                    785,
+                    403,
+                    785,
+                    403,
+                    838,
+                    304,
+                    838
+                ],
+                "score": 0.8,
+                "latex": "8 5 \\% ,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    58.0,
+                    2304.0,
+                    58.0,
+                    2304.0,
+                    128.0,
+                    45.0,
+                    128.0
+                ],
+                "score": 0.975,
+                "text": "biggestfragmentsandtrygluing themintoplace,andeventuallypiece together thevase.Atthispointsit's"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    117.0,
+                    2377.0,
+                    117.0,
+                    2377.0,
+                    182.0,
+                    48.0,
+                    182.0
+                ],
+                "score": 0.998,
+                "text": "importanttorealizethelimitationsofouranalogy.InarealLTcodingscheme,thebagoffragmentswouldbe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    171.0,
+                    2284.0,
+                    171.0,
+                    2284.0,
+                    236.0,
+                    45.0,
+                    236.0
+                ],
+                "score": 0.995,
+                "text": "bottomless,sothatwecouldalwaysreachinandgrabanewfistfuloffragments,eachdifferentfromthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    225.0,
+                    2315.0,
+                    225.0,
+                    2315.0,
+                    295.0,
+                    40.0,
+                    295.0
+                ],
+                "score": 0.978,
+                "text": "previousones,andeachcontaining newpieces of thevasethat wouldbeusefulinreconstructingit.Atthis"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    282.0,
+                    2390.0,
+                    282.0,
+                    2390.0,
+                    354.0,
+                    42.0,
+                    354.0
+                ],
+                "score": 0.984,
+                "text": "point,thereadermightbethinkingthatthisprocesssoundsprettywasteful,sinceitwouldendupgetinglots"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    336.0,
+                    2289.0,
+                    336.0,
+                    2289.0,
+                    400.0,
+                    45.0,
+                    400.0
+                ],
+                "score": 0.987,
+                "text": "ofduplicatefragments.Indeed,it'shardtoseehowthiswouldn'tleadtoalotofoverheadintheprotocol."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    392.0,
+                    2427.0,
+                    392.0,
+                    2427.0,
+                    464.0,
+                    42.0,
+                    464.0
+                ],
+                "score": 0.993,
+                "text": "Obviouslythereneedstobesomedegreeofredundancy/overheadinanyrobustsystemlikethis,butweshould"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    446.0,
+                    2377.0,
+                    446.0,
+                    2377.0,
+                    511.0,
+                    48.0,
+                    511.0
+                ],
+                "score": 0.993,
+                "text": "distinguishbetweenredundantdataandwastefuloverhead.Bywastefuloverhead,wemeanthatsomeof the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    506.0,
+                    2411.0,
+                    506.0,
+                    2411.0,
+                    570.0,
+                    45.0,
+                    570.0
+                ],
+                "score": 0.997,
+                "text": "bitswearesendingarenottheactualdataitself,butrathertheprotocolthatdescribesthefragmentsandhow"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    557.0,
+                    2440.0,
+                    557.0,
+                    2440.0,
+                    626.0,
+                    42.0,
+                    626.0
+                ],
+                "score": 0.989,
+                "text": "toassemblethem.Whilesuch informationisneededtomakethesystemwork,wewanttokeepittoanabsolute"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    614.0,
+                    2271.0,
+                    614.0,
+                    2271.0,
+                    680.0,
+                    42.0,
+                    680.0
+                ],
+                "score": 0.994,
+                "text": "minimum.Afterallifwehadtodownload30megabytesworthof3megabytechunksinordertoreliably"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    668.0,
+                    2089.0,
+                    668.0,
+                    2089.0,
+                    737.0,
+                    40.0,
+                    737.0
+                ],
+                "score": 0.989,
+                "text": "assemblea5megabytefile,thatwouldbeaprettybadoutcome,since thesystemwould onlybe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    2363.0,
+                    668.0,
+                    2369.0,
+                    668.0,
+                    2369.0,
+                    737.0,
+                    2363.0,
+                    737.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    722.0,
+                    2437.0,
+                    722.0,
+                    2437.0,
+                    796.0,
+                    42.0,
+                    796.0
+                ],
+                "score": 0.983,
+                "text": "efficient.ThisleadstothesecondsurprisingpropertyofLTcodes:inpractice,theycanachieveeficiencyratesof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    781.0,
+                    303.0,
+                    781.0,
+                    303.0,
+                    850.0,
+                    42.0,
+                    850.0
+                ],
+                "score": 0.954,
+                "text": "upwards of"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    404.0,
+                    781.0,
+                    2434.0,
+                    781.0,
+                    2434.0,
+                    850.0,
+                    404.0,
+                    850.0
+                ],
+                "score": 0.974,
+                "text": "asshowninthefollowingfigure,which showsthatinordertodownload2,048\"symbols\"worth"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    837.0,
+                    2356.0,
+                    837.0,
+                    2356.0,
+                    909.0,
+                    42.0,
+                    909.0
+                ],
+                "score": 0.966,
+                "text": "ofdatawithahighprobabilityofsuccess,wegenerallywillonlyneedtodownload2,300symbolsworthofLT"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    896.0,
+                    2276.0,
+                    896.0,
+                    2276.0,
+                    961.0,
+                    45.0,
+                    961.0
+                ],
+                "score": 0.995,
+                "text": "chunks.Aswecontinuetodownloadmorechunks,theprobabilityofsuccessfullydecoding theentirefile"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    948.0,
+                    314.0,
+                    948.0,
+                    314.0,
+                    1015.0,
+                    40.0,
+                    1015.0
+                ],
+                "score": 0.998,
+                "text": "approaches"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    432.0,
+                    948.0,
+                    2263.0,
+                    948.0,
+                    2263.0,
+                    1015.0,
+                    432.0,
+                    1015.0
+                ],
+                "score": 0.995,
+                "text": ".Thismeansthatthevastmajorityofourbandwidthisbeingputtowardsusefulwork:"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1007.0,
+                    2315.0,
+                    1007.0,
+                    2315.0,
+                    1071.0,
+                    45.0,
+                    1071.0
+                ],
+                "score": 0.975,
+                "text": "transferring thebitsofdatawewant,notuseless overheadthat usesupourbandwidthwithout getting us"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1058.0,
+                    2395.0,
+                    1058.0,
+                    2395.0,
+                    1125.0,
+                    42.0,
+                    1125.0
+                ],
+                "score": 0.994,
+                "text": "closertowhatwewant-recon-structingthefile.Andyet,westillgetthesealmostmiraculousbenefits:wecan"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1115.0,
+                    2388.0,
+                    1115.0,
+                    2388.0,
+                    1187.0,
+                    45.0,
+                    1187.0
+                ],
+                "score": 0.993,
+                "text": "getfilechunksfrommultiplesources,inanyorder,andeverychunkisjustasgood/usefulasanyotherchunk."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1172.0,
+                    2312.0,
+                    1172.0,
+                    2312.0,
+                    1236.0,
+                    45.0,
+                    1236.0
+                ],
+                "score": 0.986,
+                "text": "Nomorestuckdownloads,nomore“rare\"filechunksthatwehopesomeonewillmakeavailable-justdata"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1226.0,
+                    2395.0,
+                    1226.0,
+                    2395.0,
+                    1298.0,
+                    42.0,
+                    1298.0
+                ],
+                "score": 0.987,
+                "text": "droplets,likewaterfromafountain,thatwecanslurpupfromanywhereuntilourglassisfullandwehavethe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1280.0,
+                    2284.0,
+                    1280.0,
+                    2284.0,
+                    1352.0,
+                    42.0,
+                    1352.0
+                ],
+                "score": 0.985,
+                "text": "file!Buthowwillweknowthatwehavetherightfile?Thatpartiseasy:westoretheSHA3-256hashofthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    1339.0,
+                    2382.0,
+                    1339.0,
+                    2382.0,
+                    1403.0,
+                    48.0,
+                    1403.0
+                ],
+                "score": 0.983,
+                "text": "originalimagefileintheartregistrationticketontheblockchain,andwekeepgetingnewLTchunksuntilthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1390.0,
+                    1969.0,
+                    1390.0,
+                    1969.0,
+                    1460.0,
+                    42.0,
+                    1460.0
+                ],
+                "score": 0.993,
+                "text": "reconstructedfilehashestothisexactsamevalue.LTCodeswereoriginallydesignedfora"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1447.0,
+                    2406.0,
+                    1447.0,
+                    2406.0,
+                    1516.0,
+                    45.0,
+                    1516.0
+                ],
+                "score": 0.991,
+                "text": "broadcaster-subscribermodel,inwhichthebroadcaster(forexample,theNFLstreamingalivegame,orSteam"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1503.0,
+                    2440.0,
+                    1503.0,
+                    2440.0,
+                    1575.0,
+                    42.0,
+                    1575.0
+                ],
+                "score": 0.991,
+                "text": "servingavideogamedemotousers)hasafullcopyofthefile/stream,andgeneratesnewLTchunksontheflyin"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1560.0,
+                    866.0,
+                    1560.0,
+                    866.0,
+                    1624.0,
+                    45.0,
+                    1624.0
+                ],
+                "score": 0.961,
+                "text": "an\"endlessstream\"ofchunks,and99"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 1650
+        }
+    }
+]

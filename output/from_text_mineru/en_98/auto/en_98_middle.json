@@ -1,0 +1,1368 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        15,
+                        878,
+                        622
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                21,
+                                848,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        21,
+                                        848,
+                                        44
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2)Anoicebeareriseligibletoserveamaximumoftwo(2)termsinthesamecapacity，andiseligibletoseek",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                38,
+                                874,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        38,
+                                        874,
+                                        68
+                                    ],
+                                    "score": 0.996,
+                                    "content": "electioninadiferentcapacitybeyondthetwo(2)terms.3)Anycandidatewishingtocontestforelectionforany",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                62,
+                                842,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        62,
+                                        842,
+                                        84
+                                    ],
+                                    "score": 0.988,
+                                    "content": "officeshallbeproposedandsecondedbyfullmembersoftheSocietyatleastfourteen(14)dayspriortothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                861,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        861,
+                                        105
+                                    ],
+                                    "score": 0.977,
+                                    "content": "electiondate.Intheeventoftherebeingmorethanonenominationforanyparticularoffice,electionsshallbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                102,
+                                863,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        102,
+                                        863,
+                                        125
+                                    ],
+                                    "score": 0.995,
+                                    "content": "conducted.4)Electionsshallbebysecretbalotonthebasisofonememberonevotebyfullypaidupmembers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                120,
+                                811,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        120,
+                                        811,
+                                        146
+                                    ],
+                                    "score": 0.979,
+                                    "content": "physicallypresentatthe timeof thevoting.5)Theconductof electionsshallbebysimplemajority.6)An",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                141,
+                                814,
+                                163
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        141,
+                                        814,
+                                        163
+                                    ],
+                                    "score": 0.998,
+                                    "content": "observerwhoisnotamemberoftheSocietywillbeselectedtoobserveelectionstoensurefreeandfair",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                869,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        869,
+                                        185
+                                    ],
+                                    "score": 0.993,
+                                    "content": "electionsformembers.Thisindividualmustbeof highintegrityandarespectedmemberinsocietyandshallbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                867,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        867,
+                                        207
+                                    ],
+                                    "score": 0.996,
+                                    "content": "proposedbytheCouncilandratifiedbymembersataspecialorgeneralmeetingprecedingtheelection.7)The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                824,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        824,
+                                        227
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Councilmay electtoappointmorethanone(1)observertoobserveelectionsduring thegeneralmeeting.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                221,
+                                871,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        221,
+                                        871,
+                                        244
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ARTICLE18-SUPERVISIONOFELECTIONS1)TheelectionsforthemembershipoftheCouncilshallbeconducted",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                241,
+                                866,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        241,
+                                        866,
+                                        264
+                                    ],
+                                    "score": 0.983,
+                                    "content": "bysuchbodyasthe Councilmayproposeandapprovedbyaspecialorgeneralmeeting preceding theelection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                863,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        863,
+                                        286
+                                    ],
+                                    "score": 0.994,
+                                    "content": "2)Theelectoralbodyapprovedtosupervisetheelectionsshallbechargedwiththedutyofclearingcandidates",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                279,
+                                860,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        279,
+                                        860,
+                                        307
+                                    ],
+                                    "score": 0.991,
+                                    "content": "andissuanceofnominationcertificates.3)Thebodyshallalsosupervisethevotingandconductvotecounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                302,
+                                871,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        302,
+                                        871,
+                                        325
+                                    ],
+                                    "score": 0.994,
+                                    "content": "anddeclarationofthewinnersforthevariouspositions.ARTICLE19-ELECTIONSAPPEALSCOMMITTEE1)There",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                856,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        856,
+                                        347
+                                    ],
+                                    "score": 0.987,
+                                    "content": "shallbeanElectionsAppealCommitteeconsistingofthree(3)FellowsconstitutedbytheCollegeofFellows.2)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                340,
+                                863,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        340,
+                                        863,
+                                        365
+                                    ],
+                                    "score": 0.994,
+                                    "content": "ThefunctionsoftheElectionsAppealsCommiteeshallbe:a)Tohearanddetermineanypetitionsarisingfrom",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                362,
+                                870,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        362,
+                                        870,
+                                        385
+                                    ],
+                                    "score": 0.993,
+                                    "content": "elections.b)Tomediateandsettleanyconflictbetweenopposingpartiesarising fromtheelections.c)Dealwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                849,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        849,
+                                        406
+                                    ],
+                                    "score": 0.988,
+                                    "content": "anyotherissuesarisingfromtheelectionsthatshallbereferredtoit.ARTICLE20-ELECTIONAPPEALS1)Any",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                401,
+                                857,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        401,
+                                        857,
+                                        425
+                                    ],
+                                    "score": 0.978,
+                                    "content": "personwishing tochallengetheelectionofan OfceBearershalldosobysubmitingawrittenpetitionto the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                420,
+                                851,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        420,
+                                        851,
+                                        447
+                                    ],
+                                    "score": 0.986,
+                                    "content": "ElectionsAppealsCommiteewithinseven(7)daysof elections.2)Thepetitionshalayoutthegroundsupon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                871,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        871,
+                                        467
+                                    ],
+                                    "score": 0.983,
+                                    "content": "whichthepartyreliestochallngetheelection.3)Uponreceiptofthepetition,theElectionsAppealsCommite",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                850,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        850,
+                                        485
+                                    ],
+                                    "score": 0.991,
+                                    "content": "shallsitanddeterminethematterwithinseven(7)days.4)Indeterminingtheelectionappeal,theCommitee",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                862,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        862,
+                                        506
+                                    ],
+                                    "score": 0.995,
+                                    "content": "maycallforanyevidenceortestimoniesfrommembersasitdeemsfit.5)ThedecisionoftheElectionsAppeals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                850,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        850,
+                                        525
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Committeeshallbefinal.6)IftheElectionsAppealsCommitteecancelselectionsofanyposition,aby-election",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                522,
+                                865,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        522,
+                                        865,
+                                        545
+                                    ],
+                                    "score": 0.984,
+                                    "content": "shallbeheldinaspecialgeneralmeetingcalledwithin45daysofthecancelation.ARTICLE21-THECOUNCIL1)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                830,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        830,
+                                        565
+                                    ],
+                                    "score": 0.985,
+                                    "content": "TheCouncilshallconsistoftheoficebearersoftheSociety,andthree(3)representativecouncilmembers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                562,
+                                866,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        562,
+                                        866,
+                                        585
+                                    ],
+                                    "score": 0.991,
+                                    "content": "electedattheannualgeneralmeeting.2)TheCouncilshallmeet atsuchtimesandplacesasitshallresolve,but",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                582,
+                                834,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        582,
+                                        834,
+                                        605
+                                    ],
+                                    "score": 0.99,
+                                    "content": "shallnotmeetlessthanonceinanythreemonths.3)Anyofficebearerwhoshallmissthree(3)consecutive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                601,
+                                540,
+                                624
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        601,
+                                        540,
+                                        624
+                                    ],
+                                    "score": 0.972,
+                                    "content": "Councilmeetingsshall automaticallycease tobean office bearer.10",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 14.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                636
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        15,
+                        878,
+                        622
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                21,
+                                848,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        21,
+                                        848,
+                                        44
+                                    ],
+                                    "score": 0.98,
+                                    "content": "2)Anoicebeareriseligibletoserveamaximumoftwo(2)termsinthesamecapacity，andiseligibletoseek",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                38,
+                                874,
+                                68
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        38,
+                                        874,
+                                        68
+                                    ],
+                                    "score": 0.996,
+                                    "content": "electioninadiferentcapacitybeyondthetwo(2)terms.3)Anycandidatewishingtocontestforelectionforany",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                62,
+                                842,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        62,
+                                        842,
+                                        84
+                                    ],
+                                    "score": 0.988,
+                                    "content": "officeshallbeproposedandsecondedbyfullmembersoftheSocietyatleastfourteen(14)dayspriortothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                861,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        861,
+                                        105
+                                    ],
+                                    "score": 0.977,
+                                    "content": "electiondate.Intheeventoftherebeingmorethanonenominationforanyparticularoffice,electionsshallbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                102,
+                                863,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        102,
+                                        863,
+                                        125
+                                    ],
+                                    "score": 0.995,
+                                    "content": "conducted.4)Electionsshallbebysecretbalotonthebasisofonememberonevotebyfullypaidupmembers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                120,
+                                811,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        120,
+                                        811,
+                                        146
+                                    ],
+                                    "score": 0.979,
+                                    "content": "physicallypresentatthe timeof thevoting.5)Theconductof electionsshallbebysimplemajority.6)An",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                141,
+                                814,
+                                163
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        141,
+                                        814,
+                                        163
+                                    ],
+                                    "score": 0.998,
+                                    "content": "observerwhoisnotamemberoftheSocietywillbeselectedtoobserveelectionstoensurefreeandfair",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                869,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        869,
+                                        185
+                                    ],
+                                    "score": 0.993,
+                                    "content": "electionsformembers.Thisindividualmustbeof highintegrityandarespectedmemberinsocietyandshallbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                867,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        867,
+                                        207
+                                    ],
+                                    "score": 0.996,
+                                    "content": "proposedbytheCouncilandratifiedbymembersataspecialorgeneralmeetingprecedingtheelection.7)The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                824,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        824,
+                                        227
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Councilmay electtoappointmorethanone(1)observertoobserveelectionsduring thegeneralmeeting.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                221,
+                                871,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        221,
+                                        871,
+                                        244
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ARTICLE18-SUPERVISIONOFELECTIONS1)TheelectionsforthemembershipoftheCouncilshallbeconducted",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                241,
+                                866,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        241,
+                                        866,
+                                        264
+                                    ],
+                                    "score": 0.983,
+                                    "content": "bysuchbodyasthe Councilmayproposeandapprovedbyaspecialorgeneralmeeting preceding theelection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                863,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        863,
+                                        286
+                                    ],
+                                    "score": 0.994,
+                                    "content": "2)Theelectoralbodyapprovedtosupervisetheelectionsshallbechargedwiththedutyofclearingcandidates",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                279,
+                                860,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        279,
+                                        860,
+                                        307
+                                    ],
+                                    "score": 0.991,
+                                    "content": "andissuanceofnominationcertificates.3)Thebodyshallalsosupervisethevotingandconductvotecounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                302,
+                                871,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        302,
+                                        871,
+                                        325
+                                    ],
+                                    "score": 0.994,
+                                    "content": "anddeclarationofthewinnersforthevariouspositions.ARTICLE19-ELECTIONSAPPEALSCOMMITTEE1)There",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                856,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        856,
+                                        347
+                                    ],
+                                    "score": 0.987,
+                                    "content": "shallbeanElectionsAppealCommitteeconsistingofthree(3)FellowsconstitutedbytheCollegeofFellows.2)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                340,
+                                863,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        340,
+                                        863,
+                                        365
+                                    ],
+                                    "score": 0.994,
+                                    "content": "ThefunctionsoftheElectionsAppealsCommiteeshallbe:a)Tohearanddetermineanypetitionsarisingfrom",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                362,
+                                870,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        362,
+                                        870,
+                                        385
+                                    ],
+                                    "score": 0.993,
+                                    "content": "elections.b)Tomediateandsettleanyconflictbetweenopposingpartiesarising fromtheelections.c)Dealwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                849,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        849,
+                                        406
+                                    ],
+                                    "score": 0.988,
+                                    "content": "anyotherissuesarisingfromtheelectionsthatshallbereferredtoit.ARTICLE20-ELECTIONAPPEALS1)Any",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                401,
+                                857,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        401,
+                                        857,
+                                        425
+                                    ],
+                                    "score": 0.978,
+                                    "content": "personwishing tochallengetheelectionofan OfceBearershalldosobysubmitingawrittenpetitionto the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                420,
+                                851,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        420,
+                                        851,
+                                        447
+                                    ],
+                                    "score": 0.986,
+                                    "content": "ElectionsAppealsCommiteewithinseven(7)daysof elections.2)Thepetitionshalayoutthegroundsupon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                871,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        871,
+                                        467
+                                    ],
+                                    "score": 0.983,
+                                    "content": "whichthepartyreliestochallngetheelection.3)Uponreceiptofthepetition,theElectionsAppealsCommite",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                850,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        850,
+                                        485
+                                    ],
+                                    "score": 0.991,
+                                    "content": "shallsitanddeterminethematterwithinseven(7)days.4)Indeterminingtheelectionappeal,theCommitee",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                862,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        862,
+                                        506
+                                    ],
+                                    "score": 0.995,
+                                    "content": "maycallforanyevidenceortestimoniesfrommembersasitdeemsfit.5)ThedecisionoftheElectionsAppeals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                850,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        850,
+                                        525
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Committeeshallbefinal.6)IftheElectionsAppealsCommitteecancelselectionsofanyposition,aby-election",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                522,
+                                865,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        522,
+                                        865,
+                                        545
+                                    ],
+                                    "score": 0.984,
+                                    "content": "shallbeheldinaspecialgeneralmeetingcalledwithin45daysofthecancelation.ARTICLE21-THECOUNCIL1)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                830,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        830,
+                                        565
+                                    ],
+                                    "score": 0.985,
+                                    "content": "TheCouncilshallconsistoftheoficebearersoftheSociety,andthree(3)representativecouncilmembers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                562,
+                                866,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        562,
+                                        866,
+                                        585
+                                    ],
+                                    "score": 0.991,
+                                    "content": "electedattheannualgeneralmeeting.2)TheCouncilshallmeet atsuchtimesandplacesasitshallresolve,but",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                582,
+                                834,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        582,
+                                        834,
+                                        605
+                                    ],
+                                    "score": 0.99,
+                                    "content": "shallnotmeetlessthanonceinanythreemonths.3)Anyofficebearerwhoshallmissthree(3)consecutive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                601,
+                                540,
+                                624
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        601,
+                                        540,
+                                        624
+                                    ],
+                                    "score": 0.972,
+                                    "content": "Councilmeetingsshall automaticallycease tobean office bearer.10",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 14.5,
+                    "bbox_fs": [
+                        13,
+                        21,
+                        874,
+                        624
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

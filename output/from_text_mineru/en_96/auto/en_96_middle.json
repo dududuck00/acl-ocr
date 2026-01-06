@@ -1,0 +1,1456 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        13,
+                        878,
+                        665
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                20,
+                                861,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        20,
+                                        861,
+                                        45
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Therewerenomicrochipsinthosedaysandtheelectricalcomponentsgeneratedsomuch heatittook tonsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                39,
+                                878,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        39,
+                                        878,
+                                        66
+                                    ],
+                                    "score": 0.971,
+                                    "content": "ACbeingforcedthroughthecabinetsof themachinestokeepthemcool.Itwasmyjob,aswellasotherstokeep",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                60,
+                                866,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        60,
+                                        866,
+                                        87
+                                    ],
+                                    "score": 0.992,
+                                    "content": "allofthisequipmentrunning.Thesecomputerswereusedforvariousadministrativepurposessuchaspayroll,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                874,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        874,
+                                        106
+                                    ],
+                                    "score": 0.991,
+                                    "content": "etc.butwereheavilyusedforscientificpurposessuchasmisiledesign,etc.Oneoftheselargercomputerswas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                100,
+                                864,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        100,
+                                        864,
+                                        126
+                                    ],
+                                    "score": 0.98,
+                                    "content": "usedbyNORADtotrackmissiles,objectsinspace,etc.Averypowerfullargescalescientificdigitalcomputerat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                119,
+                                858,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        119,
+                                        858,
+                                        146
+                                    ],
+                                    "score": 0.975,
+                                    "content": "thetime.EventuallyIwaspromotedandputinchargeofasimilarcomputersiteat Chrysler MissileinWarren,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                139,
+                                843,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        139,
+                                        843,
+                                        167
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Michigan.IlatermovedbacktoCaliforniatoworkatanewcompanytryingtousesmallcomputersthathad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                825,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        825,
+                                        186
+                                    ],
+                                    "score": 0.996,
+                                    "content": "becomeobsoletefortheiroriginaldesign,foruseasapayrollsystemforsmallmanufacturingshops.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                857,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        857,
+                                        208
+                                    ],
+                                    "score": 0.992,
+                                    "content": "computerswereolddesignandneededlotsofACtostaycool.Thecustomerswouldnotspendthemoneyfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                861,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        861,
+                                        225
+                                    ],
+                                    "score": 0.987,
+                                    "content": "therequiredACsothemachineswouldoverheatandfail.TheCEOaskedmetopadtheamountof timeIspent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                219,
+                                865,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        219,
+                                        865,
+                                        247
+                                    ],
+                                    "score": 0.988,
+                                    "content": "atacustomer'ssitesohecouldbillthecustomerformoretimethanIspentthere.Isaidnoandbeganmyplan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                241,
+                                841,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        241,
+                                        841,
+                                        265
+                                    ],
+                                    "score": 0.993,
+                                    "content": "toexitthecompany.Rememberfatebeingrightaroundthecorner?Aroundthatsametime,Ireceivedacall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                259,
+                                858,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        259,
+                                        858,
+                                        286
+                                    ],
+                                    "score": 0.987,
+                                    "content": "fromaV.P.fromPhilcoaskingifIwouldconsiderreturningtoPhilco.WhenIaskedwhy，herelatedPhilcohad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                860,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        860,
+                                        304
+                                    ],
+                                    "score": 0.989,
+                                    "content": "seriousproblemsat theAeronutronicsite.Thepersoninchargewasunabletogetthesituationunder control.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                874,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        874,
+                                        325
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Hewantedmetocomebacktofixtheproblems,butIwouldneedtoreporttothepersonwhowasunabletofix",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                864,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        864,
+                                        345
+                                    ],
+                                    "score": 0.997,
+                                    "content": "theproblems.Aratherawkwardposition.Inthatdaycomputersrequired24-hourcoverage,sothetechnicians",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                339,
+                                853,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        339,
+                                        853,
+                                        365
+                                    ],
+                                    "score": 0.986,
+                                    "content": "wererotatedthroughthree3shifts:8amto4pm,4pmtomidnight,andmidnighto8am.Bythistime,Ihad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                876,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        876,
+                                        387
+                                    ],
+                                    "score": 0.972,
+                                    "content": "decidedtogotocollegefulltime,butIwouldstillneedtoaveaparttimejob.IsawanopportunitysoItoldthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                379,
+                                871,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        379,
+                                        871,
+                                        407
+                                    ],
+                                    "score": 0.988,
+                                    "content": "V.P.Iwouldgetthemoutoftroubleiftheymetmyconditions.Iwouldonlyworkthe4pmtomidnightshift,not",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                402,
+                                834,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        402,
+                                        834,
+                                        425
+                                    ],
+                                    "score": 0.988,
+                                    "content": "rotating shifts.Thepersoninchargedidnotrotate,butalwaysworked8amto4pm.Wecouldpretendthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                421,
+                                874,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        421,
+                                        874,
+                                        446
+                                    ],
+                                    "score": 0.987,
+                                    "content": "otherpersonwasincharge,andIcouldpretendIdidnotreportohimif heleftworkbefore4pmandIcamein",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                868,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        868,
+                                        467
+                                    ],
+                                    "score": 0.976,
+                                    "content": "at4pm.Somethingliketwoshipspassinginthedark.Theresponsewas,“WECANNOTDOTHAT!\"Myresponse",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                460,
+                                871,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        460,
+                                        871,
+                                        486
+                                    ],
+                                    "score": 0.951,
+                                    "content": "Was\"OK,GOODLUCK.THANKSFORCONSIDERINGME.\"Twodayslater，“OK!Howsooncanyoureport?”Iended",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                480,
+                                815,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        480,
+                                        815,
+                                        507
+                                    ],
+                                    "score": 0.982,
+                                    "content": "upwithaful-timejobwithbenefitswhileIwould begoing tocollege.InabouttwoweeksIhadallof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                877,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        877,
+                                        527
+                                    ],
+                                    "score": 0.944,
+                                    "content": "problemsresolved.Iknewatthatpoint,frommypastexperience,Icouldkeepeverythingpurringalongbarring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                521,
+                                876,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        521,
+                                        876,
+                                        546
+                                    ],
+                                    "score": 0.995,
+                                    "content": "anymajorequipmentfailure,bydoingtwohoursofpreventativemaintenanceeachshift.Thatleftme6hoursto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                861,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        861,
+                                        567
+                                    ],
+                                    "score": 0.977,
+                                    "content": "studyanddomyhomeworkassignments.Greatestjobeverforgoingtoschool!jJustasIwastobeginmyfinal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                560,
+                                856,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        560,
+                                        856,
+                                        588
+                                    ],
+                                    "score": 0.982,
+                                    "content": "yearatLong Beach State,Aeronutronicdecidedtodiscontinueusing thelargercomputer.Theyweregoingto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                579,
+                                840,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        579,
+                                        840,
+                                        606
+                                    ],
+                                    "score": 0.983,
+                                    "content": "continueusingthesmalercomputerIhadinstalledwhenIfirstcametothatsiteyearsago.PhilcotoldmeI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                601,
+                                776,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        601,
+                                        776,
+                                        627
+                                    ],
+                                    "score": 0.987,
+                                    "content": "wouldbeterminated,andthein-chargepersonwould remainuntilthesmallercomputerwastobe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                817,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        817,
+                                        645
+                                    ],
+                                    "score": 0.988,
+                                    "content": "discontinued.MostoftheproblemsIhadbeenbroughtbacktoresolvewereassociatedwiththesmaler",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                642,
+                                203,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        642,
+                                        203,
+                                        665
+                                    ],
+                                    "score": 0.992,
+                                    "content": "computersystem.DAH!",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 15.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                676
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        13,
+                        878,
+                        665
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                20,
+                                861,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        20,
+                                        861,
+                                        45
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Therewerenomicrochipsinthosedaysandtheelectricalcomponentsgeneratedsomuch heatittook tonsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                39,
+                                878,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        39,
+                                        878,
+                                        66
+                                    ],
+                                    "score": 0.971,
+                                    "content": "ACbeingforcedthroughthecabinetsof themachinestokeepthemcool.Itwasmyjob,aswellasotherstokeep",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                60,
+                                866,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        60,
+                                        866,
+                                        87
+                                    ],
+                                    "score": 0.992,
+                                    "content": "allofthisequipmentrunning.Thesecomputerswereusedforvariousadministrativepurposessuchaspayroll,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                874,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        874,
+                                        106
+                                    ],
+                                    "score": 0.991,
+                                    "content": "etc.butwereheavilyusedforscientificpurposessuchasmisiledesign,etc.Oneoftheselargercomputerswas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                100,
+                                864,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        100,
+                                        864,
+                                        126
+                                    ],
+                                    "score": 0.98,
+                                    "content": "usedbyNORADtotrackmissiles,objectsinspace,etc.Averypowerfullargescalescientificdigitalcomputerat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                119,
+                                858,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        119,
+                                        858,
+                                        146
+                                    ],
+                                    "score": 0.975,
+                                    "content": "thetime.EventuallyIwaspromotedandputinchargeofasimilarcomputersiteat Chrysler MissileinWarren,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                139,
+                                843,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        139,
+                                        843,
+                                        167
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Michigan.IlatermovedbacktoCaliforniatoworkatanewcompanytryingtousesmallcomputersthathad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                825,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        825,
+                                        186
+                                    ],
+                                    "score": 0.996,
+                                    "content": "becomeobsoletefortheiroriginaldesign,foruseasapayrollsystemforsmallmanufacturingshops.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                857,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        857,
+                                        208
+                                    ],
+                                    "score": 0.992,
+                                    "content": "computerswereolddesignandneededlotsofACtostaycool.Thecustomerswouldnotspendthemoneyfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                861,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        861,
+                                        225
+                                    ],
+                                    "score": 0.987,
+                                    "content": "therequiredACsothemachineswouldoverheatandfail.TheCEOaskedmetopadtheamountof timeIspent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                219,
+                                865,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        219,
+                                        865,
+                                        247
+                                    ],
+                                    "score": 0.988,
+                                    "content": "atacustomer'ssitesohecouldbillthecustomerformoretimethanIspentthere.Isaidnoandbeganmyplan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                241,
+                                841,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        241,
+                                        841,
+                                        265
+                                    ],
+                                    "score": 0.993,
+                                    "content": "toexitthecompany.Rememberfatebeingrightaroundthecorner?Aroundthatsametime,Ireceivedacall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                259,
+                                858,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        259,
+                                        858,
+                                        286
+                                    ],
+                                    "score": 0.987,
+                                    "content": "fromaV.P.fromPhilcoaskingifIwouldconsiderreturningtoPhilco.WhenIaskedwhy，herelatedPhilcohad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                860,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        860,
+                                        304
+                                    ],
+                                    "score": 0.989,
+                                    "content": "seriousproblemsat theAeronutronicsite.Thepersoninchargewasunabletogetthesituationunder control.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                874,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        874,
+                                        325
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Hewantedmetocomebacktofixtheproblems,butIwouldneedtoreporttothepersonwhowasunabletofix",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                864,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        864,
+                                        345
+                                    ],
+                                    "score": 0.997,
+                                    "content": "theproblems.Aratherawkwardposition.Inthatdaycomputersrequired24-hourcoverage,sothetechnicians",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                339,
+                                853,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        339,
+                                        853,
+                                        365
+                                    ],
+                                    "score": 0.986,
+                                    "content": "wererotatedthroughthree3shifts:8amto4pm,4pmtomidnight,andmidnighto8am.Bythistime,Ihad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                876,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        876,
+                                        387
+                                    ],
+                                    "score": 0.972,
+                                    "content": "decidedtogotocollegefulltime,butIwouldstillneedtoaveaparttimejob.IsawanopportunitysoItoldthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                379,
+                                871,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        379,
+                                        871,
+                                        407
+                                    ],
+                                    "score": 0.988,
+                                    "content": "V.P.Iwouldgetthemoutoftroubleiftheymetmyconditions.Iwouldonlyworkthe4pmtomidnightshift,not",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                402,
+                                834,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        402,
+                                        834,
+                                        425
+                                    ],
+                                    "score": 0.988,
+                                    "content": "rotating shifts.Thepersoninchargedidnotrotate,butalwaysworked8amto4pm.Wecouldpretendthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                421,
+                                874,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        421,
+                                        874,
+                                        446
+                                    ],
+                                    "score": 0.987,
+                                    "content": "otherpersonwasincharge,andIcouldpretendIdidnotreportohimif heleftworkbefore4pmandIcamein",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                868,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        868,
+                                        467
+                                    ],
+                                    "score": 0.976,
+                                    "content": "at4pm.Somethingliketwoshipspassinginthedark.Theresponsewas,“WECANNOTDOTHAT!\"Myresponse",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                460,
+                                871,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        460,
+                                        871,
+                                        486
+                                    ],
+                                    "score": 0.951,
+                                    "content": "Was\"OK,GOODLUCK.THANKSFORCONSIDERINGME.\"Twodayslater，“OK!Howsooncanyoureport?”Iended",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                480,
+                                815,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        480,
+                                        815,
+                                        507
+                                    ],
+                                    "score": 0.982,
+                                    "content": "upwithaful-timejobwithbenefitswhileIwould begoing tocollege.InabouttwoweeksIhadallof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                877,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        877,
+                                        527
+                                    ],
+                                    "score": 0.944,
+                                    "content": "problemsresolved.Iknewatthatpoint,frommypastexperience,Icouldkeepeverythingpurringalongbarring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                521,
+                                876,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        521,
+                                        876,
+                                        546
+                                    ],
+                                    "score": 0.995,
+                                    "content": "anymajorequipmentfailure,bydoingtwohoursofpreventativemaintenanceeachshift.Thatleftme6hoursto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                861,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        861,
+                                        567
+                                    ],
+                                    "score": 0.977,
+                                    "content": "studyanddomyhomeworkassignments.Greatestjobeverforgoingtoschool!jJustasIwastobeginmyfinal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                560,
+                                856,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        560,
+                                        856,
+                                        588
+                                    ],
+                                    "score": 0.982,
+                                    "content": "yearatLong Beach State,Aeronutronicdecidedtodiscontinueusing thelargercomputer.Theyweregoingto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                579,
+                                840,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        579,
+                                        840,
+                                        606
+                                    ],
+                                    "score": 0.983,
+                                    "content": "continueusingthesmalercomputerIhadinstalledwhenIfirstcametothatsiteyearsago.PhilcotoldmeI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                601,
+                                776,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        601,
+                                        776,
+                                        627
+                                    ],
+                                    "score": 0.987,
+                                    "content": "wouldbeterminated,andthein-chargepersonwould remainuntilthesmallercomputerwastobe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                817,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        817,
+                                        645
+                                    ],
+                                    "score": 0.988,
+                                    "content": "discontinued.MostoftheproblemsIhadbeenbroughtbacktoresolvewereassociatedwiththesmaler",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                642,
+                                203,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        642,
+                                        203,
+                                        665
+                                    ],
+                                    "score": 0.992,
+                                    "content": "computersystem.DAH!",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 15.5,
+                    "bbox_fs": [
+                        12,
+                        20,
+                        878,
+                        665
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

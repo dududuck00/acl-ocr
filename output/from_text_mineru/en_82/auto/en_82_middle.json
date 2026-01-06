@@ -1,0 +1,1676 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        0,
+                        877,
+                        742
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                22,
+                                842,
+                                43
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        22,
+                                        325,
+                                        43
+                                    ],
+                                    "score": 0.983,
+                                    "content": "ProducerLicensingModel ActMO-218-6",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        326,
+                                        24,
+                                        342,
+                                        41
+                                    ],
+                                    "score": 0.75,
+                                    "content": "\\mathfrak { O }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        343,
+                                        22,
+                                        842,
+                                        43
+                                    ],
+                                    "score": 0.983,
+                                    "content": "2005National Associationof InsuranceCommissionersSection8.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                42,
+                                854,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        42,
+                                        854,
+                                        65
+                                    ],
+                                    "score": 0.975,
+                                    "content": "Nonresident LicensingA.Unlessdeniedlicensurepursuantto Section12,anonresident personshallreceivea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                63,
+                                865,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        63,
+                                        865,
+                                        86
+                                    ],
+                                    "score": 0.997,
+                                    "content": "nonresidentproducerlicenseif:(1)Thepersoniscurrentlylicensedasaresidentandingoodstandinginhisor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                78,
+                                878,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        78,
+                                        878,
+                                        110
+                                    ],
+                                    "score": 0.982,
+                                    "content": "herhomestate;(2)Thepersonhassubmitedtheproperrequestforlicensureandhaspaid thefeesrequired by",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                103,
+                                841,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        103,
+                                        841,
+                                        124
+                                    ],
+                                    "score": 0.985,
+                                    "content": "[insertappropriatereferencetostatelaworregulation];(3)Thepersonhassubmitedortransmittedtothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                124,
+                                861,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        124,
+                                        861,
+                                        144
+                                    ],
+                                    "score": 0.997,
+                                    "content": "insurancecommissionertheapplicationforlicensurethatthepersonsubmittedtohisorherhomestate,orin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                817,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        817,
+                                        167
+                                    ],
+                                    "score": 0.981,
+                                    "content": "lieuof thesame,acompleted UniformApplication;and(4)Theperson'shomestateawardsnon-resident",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                865,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        865,
+                                        186
+                                    ],
+                                    "score": 0.983,
+                                    "content": "producerlicensestoresidentsofthisstateonthesamebasis.Drafting Note:Inaccordancewith Public LawNo.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                180,
+                                842,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        180,
+                                        842,
+                                        208
+                                    ],
+                                    "score": 0.988,
+                                    "content": "106-102(the“Gramm-Leach-BlileyAct\")statesshouldnotrequireanyadditionalatchmentstotheUniform",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                201,
+                                835,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        201,
+                                        835,
+                                        227
+                                    ],
+                                    "score": 0.976,
+                                    "content": "Applicationorimposeany otherconditions onapplicants that exceedtheinformationrequested withinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                834,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        834,
+                                        245
+                                    ],
+                                    "score": 0.991,
+                                    "content": "UniformApplication.B.Theinsurancecommissionermayverifytheproducer'slicensingstatusthroughthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                240,
+                                808,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        240,
+                                        808,
+                                        266
+                                    ],
+                                    "score": 0.974,
+                                    "content": "Producer DatabasemaintainedbytheNational Associationof InsuranceCommissioners,itsafiliatesor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                262,
+                                870,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        262,
+                                        870,
+                                        286
+                                    ],
+                                    "score": 0.998,
+                                    "content": "subsidiaries.C.Anonresidentproducerwhomovesfromonestatetoanotherstateoraresidentproducerwho",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                284,
+                                836,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        284,
+                                        836,
+                                        304
+                                    ],
+                                    "score": 0.987,
+                                    "content": "movesfromthisstatetoanotherstateshalfleachangeofaddressand providecertificationfromthenew",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                302,
+                                874,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        302,
+                                        874,
+                                        325
+                                    ],
+                                    "score": 0.996,
+                                    "content": "residentstatewithinthirty(30)daysofthechangeoflegalresidence.Nofeeorlicenseapplicationisrequired.D.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                875,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        875,
+                                        346
+                                    ],
+                                    "score": 0.988,
+                                    "content": "Notwithstandinganyotherprovisionof thisAct,apersonlicensedasasurpluslinesproducerinhisorher home",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                341,
+                                865,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        341,
+                                        865,
+                                        367
+                                    ],
+                                    "score": 0.987,
+                                    "content": "stateshallreceiveanonresidentsurpluslinesproducerlicensepursuanttoSubsectionAofthissection.Except",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                363,
+                                833,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        363,
+                                        833,
+                                        387
+                                    ],
+                                    "score": 0.988,
+                                    "content": "astoSubsectionA,nothing inthissectionotherwiseamendsorsupercedesanyprovisionof[refertostate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                383,
+                                837,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        383,
+                                        837,
+                                        406
+                                    ],
+                                    "score": 0.987,
+                                    "content": "excessandsurpluslinesstatutes].E.NotwithstandinganyotherprovisionofthisAct,apersonlicensedasa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                823,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        823,
+                                        426
+                                    ],
+                                    "score": 0.992,
+                                    "content": "limitedlinecredit insuranceorothertypeof limitedlinesproducerinhisorherhomestateshallreceivea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                423,
+                                871,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        423,
+                                        871,
+                                        445
+                                    ],
+                                    "score": 0.995,
+                                    "content": "nonresidentlimitedlinesproducerlicense,pursuanttoSubsectionAofthissection,grantingthesamescopeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                441,
+                                839,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        441,
+                                        839,
+                                        466
+                                    ],
+                                    "score": 0.959,
+                                    "content": "authorityas grantedunder thelicenseissued bytheproducer's homestate.Forthepurposes ofSection 8E,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                855,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        855,
+                                        485
+                                    ],
+                                    "score": 0.994,
+                                    "content": "limitedlineinsuranceisanyauthoritygrantedbythehomestatewhichrestrictstheauthorityofthelicenseto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                482,
+                                829,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        482,
+                                        829,
+                                        506
+                                    ],
+                                    "score": 0.99,
+                                    "content": "lessthanthetotalauthorityprescribedintheassociatedmajorlinespursuanttoSection7A(1)through (6).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                501,
+                                847,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        501,
+                                        847,
+                                        528
+                                    ],
+                                    "score": 0.997,
+                                    "content": "Section9.ExemptionfromExaminationA.Anindividualwhoappliesforaninsuranceproducerlicenseinthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                523,
+                                821,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        523,
+                                        821,
+                                        546
+                                    ],
+                                    "score": 0.998,
+                                    "content": "statewhowaspreviouslylicensedforthesamelinesofauthorityinanotherstateshallnotberequiredto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                542,
+                                858,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        542,
+                                        858,
+                                        567
+                                    ],
+                                    "score": 0.993,
+                                    "content": "completeanyprelicensingeducationorexamination.Thisexemptionisonlyavailableifthepersoniscurrently",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                563,
+                                867,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        563,
+                                        867,
+                                        586
+                                    ],
+                                    "score": 0.987,
+                                    "content": "licensedinthatstateoriftheapplicationisreceivedwithinninety(90)daysofthecancelationoftheapplicant's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                581,
+                                866,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        581,
+                                        866,
+                                        607
+                                    ],
+                                    "score": 0.992,
+                                    "content": "previouslicenseandifthepriorstateissuesacertificationthat,atthetimeofcancelation,theapplicantwasin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                602,
+                                872,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        602,
+                                        872,
+                                        626
+                                    ],
+                                    "score": 0.985,
+                                    "content": "goodstanding inthatstateorthestate'sProducer Databaserecords,maintainedbytheNational Associationof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                624,
+                                837,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        624,
+                                        837,
+                                        644
+                                    ],
+                                    "score": 0.982,
+                                    "content": "InsuranceCommissioners,itsafiliatesorsubsidiaries,indicatethattheproducerisorwaslicensedingood",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                642,
+                                873,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        642,
+                                        873,
+                                        666
+                                    ],
+                                    "score": 0.99,
+                                    "content": "standingfor thelineofauthorityrequested.B.Aperson licensedasaninsuranceproducerinanotherstatewho",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                663,
+                                847,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        663,
+                                        847,
+                                        687
+                                    ],
+                                    "score": 0.983,
+                                    "content": "movestothisstateshallmakeapplicationwithinninety(90)daysofestablishinglegalresidencetobecomea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                684,
+                                831,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        684,
+                                        831,
+                                        705
+                                    ],
+                                    "score": 0.995,
+                                    "content": "residentlicenseepursuanttoSection6.Noprelicensingeducationorexaminationshallberequiredof that",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                704,
+                                771,
+                                726
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        704,
+                                        771,
+                                        726
+                                    ],
+                                    "score": 0.999,
+                                    "content": "persontoobtainanylineofauthoritypreviouslyheldinthepriorstateexceptwheretheinsurance",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                725,
+                                410,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        725,
+                                        410,
+                                        745
+                                    ],
+                                    "score": 0.998,
+                                    "content": "commissionerdeterminesotherwisebyregulation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                757
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        0,
+                        877,
+                        742
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                22,
+                                842,
+                                43
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        22,
+                                        325,
+                                        43
+                                    ],
+                                    "score": 0.983,
+                                    "content": "ProducerLicensingModel ActMO-218-6",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        326,
+                                        24,
+                                        342,
+                                        41
+                                    ],
+                                    "score": 0.75,
+                                    "content": "\\mathfrak { O }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        343,
+                                        22,
+                                        842,
+                                        43
+                                    ],
+                                    "score": 0.983,
+                                    "content": "2005National Associationof InsuranceCommissionersSection8.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                42,
+                                854,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        42,
+                                        854,
+                                        65
+                                    ],
+                                    "score": 0.975,
+                                    "content": "Nonresident LicensingA.Unlessdeniedlicensurepursuantto Section12,anonresident personshallreceivea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                63,
+                                865,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        63,
+                                        865,
+                                        86
+                                    ],
+                                    "score": 0.997,
+                                    "content": "nonresidentproducerlicenseif:(1)Thepersoniscurrentlylicensedasaresidentandingoodstandinginhisor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                78,
+                                878,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        78,
+                                        878,
+                                        110
+                                    ],
+                                    "score": 0.982,
+                                    "content": "herhomestate;(2)Thepersonhassubmitedtheproperrequestforlicensureandhaspaid thefeesrequired by",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                103,
+                                841,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        103,
+                                        841,
+                                        124
+                                    ],
+                                    "score": 0.985,
+                                    "content": "[insertappropriatereferencetostatelaworregulation];(3)Thepersonhassubmitedortransmittedtothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                124,
+                                861,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        124,
+                                        861,
+                                        144
+                                    ],
+                                    "score": 0.997,
+                                    "content": "insurancecommissionertheapplicationforlicensurethatthepersonsubmittedtohisorherhomestate,orin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                817,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        817,
+                                        167
+                                    ],
+                                    "score": 0.981,
+                                    "content": "lieuof thesame,acompleted UniformApplication;and(4)Theperson'shomestateawardsnon-resident",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                865,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        865,
+                                        186
+                                    ],
+                                    "score": 0.983,
+                                    "content": "producerlicensestoresidentsofthisstateonthesamebasis.Drafting Note:Inaccordancewith Public LawNo.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                180,
+                                842,
+                                208
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        180,
+                                        842,
+                                        208
+                                    ],
+                                    "score": 0.988,
+                                    "content": "106-102(the“Gramm-Leach-BlileyAct\")statesshouldnotrequireanyadditionalatchmentstotheUniform",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                201,
+                                835,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        201,
+                                        835,
+                                        227
+                                    ],
+                                    "score": 0.976,
+                                    "content": "Applicationorimposeany otherconditions onapplicants that exceedtheinformationrequested withinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                834,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        834,
+                                        245
+                                    ],
+                                    "score": 0.991,
+                                    "content": "UniformApplication.B.Theinsurancecommissionermayverifytheproducer'slicensingstatusthroughthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                240,
+                                808,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        240,
+                                        808,
+                                        266
+                                    ],
+                                    "score": 0.974,
+                                    "content": "Producer DatabasemaintainedbytheNational Associationof InsuranceCommissioners,itsafiliatesor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                262,
+                                870,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        262,
+                                        870,
+                                        286
+                                    ],
+                                    "score": 0.998,
+                                    "content": "subsidiaries.C.Anonresidentproducerwhomovesfromonestatetoanotherstateoraresidentproducerwho",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                284,
+                                836,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        284,
+                                        836,
+                                        304
+                                    ],
+                                    "score": 0.987,
+                                    "content": "movesfromthisstatetoanotherstateshalfleachangeofaddressand providecertificationfromthenew",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                302,
+                                874,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        302,
+                                        874,
+                                        325
+                                    ],
+                                    "score": 0.996,
+                                    "content": "residentstatewithinthirty(30)daysofthechangeoflegalresidence.Nofeeorlicenseapplicationisrequired.D.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                875,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        875,
+                                        346
+                                    ],
+                                    "score": 0.988,
+                                    "content": "Notwithstandinganyotherprovisionof thisAct,apersonlicensedasasurpluslinesproducerinhisorher home",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                341,
+                                865,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        341,
+                                        865,
+                                        367
+                                    ],
+                                    "score": 0.987,
+                                    "content": "stateshallreceiveanonresidentsurpluslinesproducerlicensepursuanttoSubsectionAofthissection.Except",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                363,
+                                833,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        363,
+                                        833,
+                                        387
+                                    ],
+                                    "score": 0.988,
+                                    "content": "astoSubsectionA,nothing inthissectionotherwiseamendsorsupercedesanyprovisionof[refertostate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                383,
+                                837,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        383,
+                                        837,
+                                        406
+                                    ],
+                                    "score": 0.987,
+                                    "content": "excessandsurpluslinesstatutes].E.NotwithstandinganyotherprovisionofthisAct,apersonlicensedasa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                402,
+                                823,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        402,
+                                        823,
+                                        426
+                                    ],
+                                    "score": 0.992,
+                                    "content": "limitedlinecredit insuranceorothertypeof limitedlinesproducerinhisorherhomestateshallreceivea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                423,
+                                871,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        423,
+                                        871,
+                                        445
+                                    ],
+                                    "score": 0.995,
+                                    "content": "nonresidentlimitedlinesproducerlicense,pursuanttoSubsectionAofthissection,grantingthesamescopeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                441,
+                                839,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        441,
+                                        839,
+                                        466
+                                    ],
+                                    "score": 0.959,
+                                    "content": "authorityas grantedunder thelicenseissued bytheproducer's homestate.Forthepurposes ofSection 8E,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                855,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        855,
+                                        485
+                                    ],
+                                    "score": 0.994,
+                                    "content": "limitedlineinsuranceisanyauthoritygrantedbythehomestatewhichrestrictstheauthorityofthelicenseto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                482,
+                                829,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        482,
+                                        829,
+                                        506
+                                    ],
+                                    "score": 0.99,
+                                    "content": "lessthanthetotalauthorityprescribedintheassociatedmajorlinespursuanttoSection7A(1)through (6).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                501,
+                                847,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        501,
+                                        847,
+                                        528
+                                    ],
+                                    "score": 0.997,
+                                    "content": "Section9.ExemptionfromExaminationA.Anindividualwhoappliesforaninsuranceproducerlicenseinthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                523,
+                                821,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        523,
+                                        821,
+                                        546
+                                    ],
+                                    "score": 0.998,
+                                    "content": "statewhowaspreviouslylicensedforthesamelinesofauthorityinanotherstateshallnotberequiredto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                542,
+                                858,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        542,
+                                        858,
+                                        567
+                                    ],
+                                    "score": 0.993,
+                                    "content": "completeanyprelicensingeducationorexamination.Thisexemptionisonlyavailableifthepersoniscurrently",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                563,
+                                867,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        563,
+                                        867,
+                                        586
+                                    ],
+                                    "score": 0.987,
+                                    "content": "licensedinthatstateoriftheapplicationisreceivedwithinninety(90)daysofthecancelationoftheapplicant's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                581,
+                                866,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        581,
+                                        866,
+                                        607
+                                    ],
+                                    "score": 0.992,
+                                    "content": "previouslicenseandifthepriorstateissuesacertificationthat,atthetimeofcancelation,theapplicantwasin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                602,
+                                872,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        602,
+                                        872,
+                                        626
+                                    ],
+                                    "score": 0.985,
+                                    "content": "goodstanding inthatstateorthestate'sProducer Databaserecords,maintainedbytheNational Associationof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                624,
+                                837,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        624,
+                                        837,
+                                        644
+                                    ],
+                                    "score": 0.982,
+                                    "content": "InsuranceCommissioners,itsafiliatesorsubsidiaries,indicatethattheproducerisorwaslicensedingood",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                642,
+                                873,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        642,
+                                        873,
+                                        666
+                                    ],
+                                    "score": 0.99,
+                                    "content": "standingfor thelineofauthorityrequested.B.Aperson licensedasaninsuranceproducerinanotherstatewho",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                663,
+                                847,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        663,
+                                        847,
+                                        687
+                                    ],
+                                    "score": 0.983,
+                                    "content": "movestothisstateshallmakeapplicationwithinninety(90)daysofestablishinglegalresidencetobecomea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                684,
+                                831,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        684,
+                                        831,
+                                        705
+                                    ],
+                                    "score": 0.995,
+                                    "content": "residentlicenseepursuanttoSection6.Noprelicensingeducationorexaminationshallberequiredof that",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                704,
+                                771,
+                                726
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        704,
+                                        771,
+                                        726
+                                    ],
+                                    "score": 0.999,
+                                    "content": "persontoobtainanylineofauthoritypreviouslyheldinthepriorstateexceptwheretheinsurance",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                725,
+                                410,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        725,
+                                        410,
+                                        745
+                                    ],
+                                    "score": 0.998,
+                                    "content": "commissionerdeterminesotherwisebyregulation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5,
+                    "bbox_fs": [
+                        12,
+                        22,
+                        878,
+                        745
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

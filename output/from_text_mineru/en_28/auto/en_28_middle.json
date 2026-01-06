@@ -1,0 +1,1632 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        0,
+                        879,
+                        743
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                20,
+                                845,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        20,
+                                        845,
+                                        46
+                                    ],
+                                    "score": 0.953,
+                                    "content": "supplyexpressedasamountoffoodperbird,ispoor.Whetherornotwewillobservethepredictedpositive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                43,
+                                844,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        43,
+                                        844,
+                                        64
+                                    ],
+                                    "score": 0.993,
+                                    "content": "correlation betweenreturnrateandamountoffoodperbirddependsonthetimescaleoverwhichthelocal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                60,
+                                871,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        60,
+                                        871,
+                                        87
+                                    ],
+                                    "score": 0.995,
+                                    "content": "populationbecomesadjustedtoaloweredorincreasedfoodsupply.Ifthepopulationbecomesadjustedwithin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                78,
+                                857,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        78,
+                                        857,
+                                        108
+                                    ],
+                                    "score": 0.98,
+                                    "content": "asinglewinter,wewillnotobserveasignificantcorrelationbetweenreturnrateandfoodsupply.Inthatcase,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                100,
+                                819,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        100,
+                                        819,
+                                        126
+                                    ],
+                                    "score": 0.981,
+                                    "content": "thereturnratewillnotdependonthemismatch betweenthenumberofbirdsandthefoodsupplyinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                873,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        873,
+                                        144
+                                    ],
+                                    "score": 0.993,
+                                    "content": "currentyear,butonthedifferencebetweenthefoodstockinthecurrentyearandthenextyear.If,ontheother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                141,
+                                880,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        141,
+                                        880,
+                                        167
+                                    ],
+                                    "score": 0.968,
+                                    "content": "hand,adjustmenttakesmanyyears,asseemstobethecasefortheoystercatchersintheDutchWaddenSea,we",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                871,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        871,
+                                        185
+                                    ],
+                                    "score": 0.969,
+                                    "content": "maynotobserveacorrelationeither.Theslowresponseof theoystercatchersinthe DutchWaddenSeamaybe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                180,
+                                881,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        180,
+                                        881,
+                                        207
+                                    ],
+                                    "score": 0.996,
+                                    "content": "explainedbythefactthattheycomprisemorethanhalfofthecontinentalEuropeanpopulation(Goss-Custardet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                199,
+                                839,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        199,
+                                        839,
+                                        227
+                                    ],
+                                    "score": 0.971,
+                                    "content": "al.,1996a).Thus,changesintheWaddenSeapopulationwillbelargelydeterminedbynatalityandmortality",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                222,
+                                848,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        222,
+                                        848,
+                                        245
+                                    ],
+                                    "score": 0.986,
+                                    "content": "insteadofimmigrationandemigration.Bothnatalityandmortalityarelowinthelong-livedoystercatcher,so",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                241,
+                                846,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        241,
+                                        846,
+                                        265
+                                    ],
+                                    "score": 0.99,
+                                    "content": "adjustmentwillbeslow,exceptwhenextremeeventscausehighmortality.Thus,theabsenceofasignificant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                873,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        873,
+                                        286
+                                    ],
+                                    "score": 0.996,
+                                    "content": "correlationcannotbetakenasevidencethatthepopulationdoesnotrespondtochangesinthesizeofthefood",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                871,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        871,
+                                        306
+                                    ],
+                                    "score": 0.992,
+                                    "content": "stock.Uncertaintyintheestimatesofthepopulationsize,relatedtoimputing,posesanadditionalproblem.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                302,
+                                808,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        302,
+                                        808,
+                                        325
+                                    ],
+                                    "score": 0.996,
+                                    "content": "estimatedtrendinthetotalnumberofwinteringoystercatchersisquiterobusttotheprecisedetailsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                321,
+                                846,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        321,
+                                        846,
+                                        345
+                                    ],
+                                    "score": 0.991,
+                                    "content": "imputing.However,returnratedependsonthediferenceinnumbersbetweentwoconsecutiveyears.Since",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                342,
+                                870,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        342,
+                                        870,
+                                        366
+                                    ],
+                                    "score": 0.987,
+                                    "content": "oystercatcherspopulationnumbersgenerallychangeslowlyovertheyears,thisdiferenceisgenerallysmal.As",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                363,
+                                859,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        363,
+                                        859,
+                                        384
+                                    ],
+                                    "score": 0.991,
+                                    "content": "aresult,smalldifferencesintheestimatedtotalnumberofoystercatchers,whichdonotmatterfortheoverall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                382,
+                                832,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        382,
+                                        832,
+                                        405
+                                    ],
+                                    "score": 0.991,
+                                    "content": "trend,canhaveabigeffectontheestimatedreturnrate.Accordingtorecentinsightsitisbettertoimpute",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                399,
+                                844,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        399,
+                                        844,
+                                        427
+                                    ],
+                                    "score": 0.988,
+                                    "content": "missingdataonthebasisofindividualcountingsitesandnotfirstclustering thesecountingsitesinto larger",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                421,
+                                856,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        421,
+                                        856,
+                                        444
+                                    ],
+                                    "score": 0.976,
+                                    "content": "units(Soldaatetal.,2Oo4).Preliminarycalculationsindicatethatreturnrateisquitesensitivetothemethodof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                440,
+                                863,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        440,
+                                        863,
+                                        465
+                                    ],
+                                    "score": 0.991,
+                                    "content": "imputingandthatthenewmethodadoptedbySOvONleadstopoorercorrelationsfortheDutchWaddenSea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                873,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        873,
+                                        485
+                                    ],
+                                    "score": 0.99,
+                                    "content": "thanthecorrelationdepictedinFigure7411.Giventheuncertaintiessurroundingtheestimateofreturnratefor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                480,
+                                780,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        480,
+                                        780,
+                                        504
+                                    ],
+                                    "score": 0.991,
+                                    "content": "theDutchWaddenSea,itwasnecessarytoinvestmosteffortindevelopingamodeldescribing how",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                501,
+                                817,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        501,
+                                        817,
+                                        525
+                                    ],
+                                    "score": 0.999,
+                                    "content": "oystercatchersdepleteagivenfoodstockandwhethertheyarestressedforfoodintheprocess.Ashort",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                877,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        877,
+                                        546
+                                    ],
+                                    "score": 0.983,
+                                    "content": "descriptionof themodel,includingthemostimportantparametersandassumptionsisprovidedinsection1.5.7.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                539,
+                                868,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        539,
+                                        868,
+                                        566
+                                    ],
+                                    "score": 0.967,
+                                    "content": "Foradetailedaccountwereferto(Rappoldtetal.,2oo3d).Theamountoffoodstresscalculatedwiththemodel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                561,
+                                837,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        561,
+                                        837,
+                                        585
+                                    ],
+                                    "score": 0.988,
+                                    "content": "increaseswithadecreasingfoodsupply.Inaddition,andasexpected,thereturnrate11Theproblemswith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                582,
+                                773,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        582,
+                                        773,
+                                        606
+                                    ],
+                                    "score": 0.996,
+                                    "content": "estimatingreturnrateintheDutchWaddenSeadonotapplytotheOosterschelde.First,theentire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                873,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        873,
+                                        627
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Oosterscheldeiscounted everymonth,sotheextentofimputing neededissmallcomparedtotheWaddenSea.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                817,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        817,
+                                        645
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Second,theOosterscheldeismuchsmaller,sochangesinnumbersbetweenyearsmaydependmoreon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                640,
+                                861,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        640,
+                                        861,
+                                        668
+                                    ],
+                                    "score": 0.989,
+                                    "content": "immigrationandemigrationthanmortalityandreproduction.Thus,adjustmenttoachangedfoodsupplymay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                660,
+                                836,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        660,
+                                        836,
+                                        687
+                                    ],
+                                    "score": 0.991,
+                                    "content": "occuronashortertimescalecomparedtotheWaddenSea.Thismayexplainwhytherelationshipbetween",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                682,
+                                802,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        682,
+                                        802,
+                                        705
+                                    ],
+                                    "score": 0.986,
+                                    "content": "returnrateontheonehandandfood supplyandfoodstressontheotherhandismuchtighterforthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                699,
+                                804,
+                                726
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        699,
+                                        804,
+                                        726
+                                    ],
+                                    "score": 0.982,
+                                    "content": "OosterscheldethanfortheWaddenSea.114Alterra-rapport1011;RIVO-rapportC056/04;RIKZ-rapport",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                722,
+                                124,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        722,
+                                        124,
+                                        742
+                                    ],
+                                    "score": 0.999,
+                                    "content": "RKZ/2004.031",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                752
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        0,
+                        879,
+                        743
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                20,
+                                845,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        20,
+                                        845,
+                                        46
+                                    ],
+                                    "score": 0.953,
+                                    "content": "supplyexpressedasamountoffoodperbird,ispoor.Whetherornotwewillobservethepredictedpositive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                43,
+                                844,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        43,
+                                        844,
+                                        64
+                                    ],
+                                    "score": 0.993,
+                                    "content": "correlation betweenreturnrateandamountoffoodperbirddependsonthetimescaleoverwhichthelocal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                60,
+                                871,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        60,
+                                        871,
+                                        87
+                                    ],
+                                    "score": 0.995,
+                                    "content": "populationbecomesadjustedtoaloweredorincreasedfoodsupply.Ifthepopulationbecomesadjustedwithin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                78,
+                                857,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        78,
+                                        857,
+                                        108
+                                    ],
+                                    "score": 0.98,
+                                    "content": "asinglewinter,wewillnotobserveasignificantcorrelationbetweenreturnrateandfoodsupply.Inthatcase,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                100,
+                                819,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        100,
+                                        819,
+                                        126
+                                    ],
+                                    "score": 0.981,
+                                    "content": "thereturnratewillnotdependonthemismatch betweenthenumberofbirdsandthefoodsupplyinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                873,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        873,
+                                        144
+                                    ],
+                                    "score": 0.993,
+                                    "content": "currentyear,butonthedifferencebetweenthefoodstockinthecurrentyearandthenextyear.If,ontheother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                141,
+                                880,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        141,
+                                        880,
+                                        167
+                                    ],
+                                    "score": 0.968,
+                                    "content": "hand,adjustmenttakesmanyyears,asseemstobethecasefortheoystercatchersintheDutchWaddenSea,we",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                871,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        871,
+                                        185
+                                    ],
+                                    "score": 0.969,
+                                    "content": "maynotobserveacorrelationeither.Theslowresponseof theoystercatchersinthe DutchWaddenSeamaybe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                180,
+                                881,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        180,
+                                        881,
+                                        207
+                                    ],
+                                    "score": 0.996,
+                                    "content": "explainedbythefactthattheycomprisemorethanhalfofthecontinentalEuropeanpopulation(Goss-Custardet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                199,
+                                839,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        199,
+                                        839,
+                                        227
+                                    ],
+                                    "score": 0.971,
+                                    "content": "al.,1996a).Thus,changesintheWaddenSeapopulationwillbelargelydeterminedbynatalityandmortality",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                222,
+                                848,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        222,
+                                        848,
+                                        245
+                                    ],
+                                    "score": 0.986,
+                                    "content": "insteadofimmigrationandemigration.Bothnatalityandmortalityarelowinthelong-livedoystercatcher,so",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                241,
+                                846,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        241,
+                                        846,
+                                        265
+                                    ],
+                                    "score": 0.99,
+                                    "content": "adjustmentwillbeslow,exceptwhenextremeeventscausehighmortality.Thus,theabsenceofasignificant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                873,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        873,
+                                        286
+                                    ],
+                                    "score": 0.996,
+                                    "content": "correlationcannotbetakenasevidencethatthepopulationdoesnotrespondtochangesinthesizeofthefood",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                871,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        871,
+                                        306
+                                    ],
+                                    "score": 0.992,
+                                    "content": "stock.Uncertaintyintheestimatesofthepopulationsize,relatedtoimputing,posesanadditionalproblem.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                302,
+                                808,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        302,
+                                        808,
+                                        325
+                                    ],
+                                    "score": 0.996,
+                                    "content": "estimatedtrendinthetotalnumberofwinteringoystercatchersisquiterobusttotheprecisedetailsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                321,
+                                846,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        321,
+                                        846,
+                                        345
+                                    ],
+                                    "score": 0.991,
+                                    "content": "imputing.However,returnratedependsonthediferenceinnumbersbetweentwoconsecutiveyears.Since",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                342,
+                                870,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        342,
+                                        870,
+                                        366
+                                    ],
+                                    "score": 0.987,
+                                    "content": "oystercatcherspopulationnumbersgenerallychangeslowlyovertheyears,thisdiferenceisgenerallysmal.As",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                363,
+                                859,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        363,
+                                        859,
+                                        384
+                                    ],
+                                    "score": 0.991,
+                                    "content": "aresult,smalldifferencesintheestimatedtotalnumberofoystercatchers,whichdonotmatterfortheoverall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                382,
+                                832,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        382,
+                                        832,
+                                        405
+                                    ],
+                                    "score": 0.991,
+                                    "content": "trend,canhaveabigeffectontheestimatedreturnrate.Accordingtorecentinsightsitisbettertoimpute",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                399,
+                                844,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        399,
+                                        844,
+                                        427
+                                    ],
+                                    "score": 0.988,
+                                    "content": "missingdataonthebasisofindividualcountingsitesandnotfirstclustering thesecountingsitesinto larger",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                421,
+                                856,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        421,
+                                        856,
+                                        444
+                                    ],
+                                    "score": 0.976,
+                                    "content": "units(Soldaatetal.,2Oo4).Preliminarycalculationsindicatethatreturnrateisquitesensitivetothemethodof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                440,
+                                863,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        440,
+                                        863,
+                                        465
+                                    ],
+                                    "score": 0.991,
+                                    "content": "imputingandthatthenewmethodadoptedbySOvONleadstopoorercorrelationsfortheDutchWaddenSea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                873,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        873,
+                                        485
+                                    ],
+                                    "score": 0.99,
+                                    "content": "thanthecorrelationdepictedinFigure7411.Giventheuncertaintiessurroundingtheestimateofreturnratefor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                480,
+                                780,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        480,
+                                        780,
+                                        504
+                                    ],
+                                    "score": 0.991,
+                                    "content": "theDutchWaddenSea,itwasnecessarytoinvestmosteffortindevelopingamodeldescribing how",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                501,
+                                817,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        501,
+                                        817,
+                                        525
+                                    ],
+                                    "score": 0.999,
+                                    "content": "oystercatchersdepleteagivenfoodstockandwhethertheyarestressedforfoodintheprocess.Ashort",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                877,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        877,
+                                        546
+                                    ],
+                                    "score": 0.983,
+                                    "content": "descriptionof themodel,includingthemostimportantparametersandassumptionsisprovidedinsection1.5.7.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                539,
+                                868,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        539,
+                                        868,
+                                        566
+                                    ],
+                                    "score": 0.967,
+                                    "content": "Foradetailedaccountwereferto(Rappoldtetal.,2oo3d).Theamountoffoodstresscalculatedwiththemodel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                561,
+                                837,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        561,
+                                        837,
+                                        585
+                                    ],
+                                    "score": 0.988,
+                                    "content": "increaseswithadecreasingfoodsupply.Inaddition,andasexpected,thereturnrate11Theproblemswith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                582,
+                                773,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        582,
+                                        773,
+                                        606
+                                    ],
+                                    "score": 0.996,
+                                    "content": "estimatingreturnrateintheDutchWaddenSeadonotapplytotheOosterschelde.First,theentire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                873,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        873,
+                                        627
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Oosterscheldeiscounted everymonth,sotheextentofimputing neededissmallcomparedtotheWaddenSea.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                817,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        817,
+                                        645
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Second,theOosterscheldeismuchsmaller,sochangesinnumbersbetweenyearsmaydependmoreon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                640,
+                                861,
+                                668
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        640,
+                                        861,
+                                        668
+                                    ],
+                                    "score": 0.989,
+                                    "content": "immigrationandemigrationthanmortalityandreproduction.Thus,adjustmenttoachangedfoodsupplymay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                660,
+                                836,
+                                687
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        660,
+                                        836,
+                                        687
+                                    ],
+                                    "score": 0.991,
+                                    "content": "occuronashortertimescalecomparedtotheWaddenSea.Thismayexplainwhytherelationshipbetween",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                682,
+                                802,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        682,
+                                        802,
+                                        705
+                                    ],
+                                    "score": 0.986,
+                                    "content": "returnrateontheonehandandfood supplyandfoodstressontheotherhandismuchtighterforthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                699,
+                                804,
+                                726
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        699,
+                                        804,
+                                        726
+                                    ],
+                                    "score": 0.982,
+                                    "content": "OosterscheldethanfortheWaddenSea.114Alterra-rapport1011;RIVO-rapportC056/04;RIKZ-rapport",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                722,
+                                124,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        722,
+                                        124,
+                                        742
+                                    ],
+                                    "score": 0.999,
+                                    "content": "RKZ/2004.031",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5,
+                    "bbox_fs": [
+                        13,
+                        20,
+                        881,
+                        742
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

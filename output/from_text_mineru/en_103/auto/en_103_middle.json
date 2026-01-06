@@ -1,0 +1,1544 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        8,
+                        880,
+                        704
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                21,
+                                761,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        21,
+                                        761,
+                                        45
+                                    ],
+                                    "score": 0.945,
+                                    "content": "thermalshockproblemswithacrack[47,40,58,1,48,30]androtatingdisks[33].Forfinitestrain",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                42,
+                                829,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        42,
+                                        829,
+                                        65
+                                    ],
+                                    "score": 0.974,
+                                    "content": "thermoplasticity,FEMmethods havebeendevelopedforsimulat-ing largedeformationproblems,suchas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                817,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        817,
+                                        87
+                                    ],
+                                    "score": 0.861,
+                                    "content": "neckingprocesses[50,3,56,7],modellngofwelding37],alisticpenetrationofmetallicargets[8]nd",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                875,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        875,
+                                        106
+                                    ],
+                                    "score": 0.988,
+                                    "content": "orthogonalhigh-speedmachining[41].Othermesh-basedmethodsalso have beenusedtosimulatethenecking",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                101,
+                                844,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        101,
+                                        844,
+                                        125
+                                    ],
+                                    "score": 0.991,
+                                    "content": "process,forexample,themixedfiniteelementmethod[50]andtheupdatedenhancedassumedstrainfinite",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                875,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        875,
+                                        144
+                                    ],
+                                    "score": 0.98,
+                                    "content": "elementformalism[2].Ofcourse,thesefiniteelement-basedmethodssufer frommeshdistortion issuesunder",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                870,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        870,
+                                        164
+                                    ],
+                                    "score": 0.959,
+                                    "content": "largedeformations,andareineectiveatdealingwithmaterialflowandseparation[36,1].Recentlymesfree",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                159,
+                                879,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        159,
+                                        879,
+                                        186
+                                    ],
+                                    "score": 0.987,
+                                    "content": "approximationshavebeenusedtostudythegeneralizedther-moelasticitytheories.Variousmethods have been",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                812,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        812,
+                                        204
+                                    ],
+                                    "score": 0.993,
+                                    "content": "used,forexample,theMeshlesslocalPetrov-Galerkinmethod[29]aswellasmethodsusingradialbasis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                199,
+                                864,
+                                224
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        199,
+                                        864,
+                                        224
+                                    ],
+                                    "score": 0.998,
+                                    "content": "functions[57].Meshfreemethodshavealsobeendevelopedforfinite-strainthermoplasticity.Simulationshave",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                850,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        850,
+                                        244
+                                    ],
+                                    "score": 0.992,
+                                    "content": "includedductilefracture[49]andfrictiondrillng[43,54].Basedonvariationalthermomechanicalconstitutive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                240,
+                                844,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        240,
+                                        844,
+                                        265
+                                    ],
+                                    "score": 0.994,
+                                    "content": "updatesandtheoptimaltransportationmeshfree(OTM)method[34],thehotOTMmethod(HOTM)[53]has",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                260,
+                                830,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        260,
+                                        830,
+                                        286
+                                    ],
+                                    "score": 0.988,
+                                    "content": "beendevel-opedformodelingexternal heatingandcoolingbehavior.TheHOTMmethodhasmostlybeen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                280,
+                                877,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        280,
+                                        877,
+                                        304
+                                    ],
+                                    "score": 0.984,
+                                    "content": "appliedtolasercladdingtechnology[23].Yet,virtuallynoneofthesemeshfreeapproachestothermomechanical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                300,
+                                876,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        300,
+                                        876,
+                                        326
+                                    ],
+                                    "score": 0.967,
+                                    "content": "equationsdiscussedconsideranyadvanceddomainintegrationtechniquesotherthan[43,54],egardlessofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                319,
+                                835,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        319,
+                                        835,
+                                        348
+                                    ],
+                                    "score": 0.982,
+                                    "content": "useofclassicalorgeneralizedequations.Forareviewofexistingtechniquesandanin-depthdiscussionon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                339,
+                                833,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        339,
+                                        833,
+                                        365
+                                    ],
+                                    "score": 0.978,
+                                    "content": "meshfreequadratureincluding[43,54],seePartIofthispaper.Inthiswork,themethodsdevelopedinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                798,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        798,
+                                        385
+                                    ],
+                                    "score": 0.989,
+                                    "content": "prequelaredevelopedforgeneralizedthermoelasticity,and generalizedthermoplasticity.Namely,the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                864,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        864,
+                                        404
+                                    ],
+                                    "score": 0.985,
+                                    "content": "variationallyconsis-tentnaturallystabilizednodalintegration(VC-NSNI)techniqueisextendedtobothofthese",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                400,
+                                876,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        400,
+                                        876,
+                                        424
+                                    ],
+                                    "score": 0.996,
+                                    "content": "problems.Forgeneralizedthermoelasticity,theextensionofthesetwometh-odsisstraightforward.Strainsand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                859,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        859,
+                                        444
+                                    ],
+                                    "score": 0.997,
+                                    "content": "temperaturegradientsareexpandedwithimplicitgradientapproximationsforstabilizationasbefore,andthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                841,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        841,
+                                        464
+                                    ],
+                                    "score": 0.982,
+                                    "content": "correctionremainsthesame.Infinite-strain thermoplasticity,theCauchystressand associatedvariationon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                853,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        853,
+                                        483
+                                    ],
+                                    "score": 0.987,
+                                    "content": "strainareinsteadexpandedtostabilizetheresults.Finally,sincethepropagationspeedoftemperatureisnot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                865,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        865,
+                                        504
+                                    ],
+                                    "score": 0.983,
+                                    "content": "well-characterizedformostengineeringmaterials,andinmostsetings(typicallythisisreportednearabsolute",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                874,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        874,
+                                        525
+                                    ],
+                                    "score": 0.991,
+                                    "content": "zeroforspecialmaterialssuchassuperfluids),equatingthesecondsoundspeedtothefirstisinvestigated.This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                520,
+                                874,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        520,
+                                        874,
+                                        544
+                                    ],
+                                    "score": 0.994,
+                                    "content": "yieldsacriticaltimestepinexplicitanalysisthatisthesameasinpuresolidmechanicsproblems,butmeanwhile",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                540,
+                                853,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        540,
+                                        853,
+                                        565
+                                    ],
+                                    "score": 0.986,
+                                    "content": "verysmallrelaxationtimessuchthatthesolutionisclosetotheclassicaltheory,whichiswidelyacceptedasa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                559,
+                                865,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        559,
+                                        865,
+                                        586
+                                    ],
+                                    "score": 0.979,
+                                    "content": "goodmodelforthermomechanicalproblems.Theremainderofthispaperisorganizedasfollows.Thegeneral",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                580,
+                                868,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        580,
+                                        868,
+                                        605
+                                    ],
+                                    "score": 0.985,
+                                    "content": "governingequa-tionsofthecoupledthermomechanicaltheoryarediscussedinSection2.InSection3clasical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                874,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        874,
+                                        623
+                                    ],
+                                    "score": 0.989,
+                                    "content": "andgeneralizedthermoelasticityareintroducedasspecialcases,withtheRKPMdiscretizationoftheweakform",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                620,
+                                781,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        620,
+                                        781,
+                                        645
+                                    ],
+                                    "score": 0.988,
+                                    "content": "given.Section4developsthermoplasticityasanothermoregeneralcase,withtheLagrangianRKPM",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                641,
+                                842,
+                                664
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        641,
+                                        842,
+                                        664
+                                    ],
+                                    "score": 0.997,
+                                    "content": "discretizationgivenalongwithassociatedexplicitalgorithms.InSection5thetime-stepcriteriaisdiscussed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                660,
+                                866,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        660,
+                                        866,
+                                        686
+                                    ],
+                                    "score": 0.996,
+                                    "content": "Benchmarksarethensolvedforgeneralizedthermoelasticityandclassicalandgener-alizedthermoplasticityin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                491,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        491,
+                                        704
+                                    ],
+                                    "score": 0.966,
+                                    "content": "Section6,where equating the firstand second sound speed3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                715
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        8,
+                        880,
+                        704
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                21,
+                                761,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        21,
+                                        761,
+                                        45
+                                    ],
+                                    "score": 0.945,
+                                    "content": "thermalshockproblemswithacrack[47,40,58,1,48,30]androtatingdisks[33].Forfinitestrain",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                42,
+                                829,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        42,
+                                        829,
+                                        65
+                                    ],
+                                    "score": 0.974,
+                                    "content": "thermoplasticity,FEMmethods havebeendevelopedforsimulat-ing largedeformationproblems,suchas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                817,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        817,
+                                        87
+                                    ],
+                                    "score": 0.861,
+                                    "content": "neckingprocesses[50,3,56,7],modellngofwelding37],alisticpenetrationofmetallicargets[8]nd",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                875,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        875,
+                                        106
+                                    ],
+                                    "score": 0.988,
+                                    "content": "orthogonalhigh-speedmachining[41].Othermesh-basedmethodsalso have beenusedtosimulatethenecking",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                101,
+                                844,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        101,
+                                        844,
+                                        125
+                                    ],
+                                    "score": 0.991,
+                                    "content": "process,forexample,themixedfiniteelementmethod[50]andtheupdatedenhancedassumedstrainfinite",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                875,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        875,
+                                        144
+                                    ],
+                                    "score": 0.98,
+                                    "content": "elementformalism[2].Ofcourse,thesefiniteelement-basedmethodssufer frommeshdistortion issuesunder",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                870,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        870,
+                                        164
+                                    ],
+                                    "score": 0.959,
+                                    "content": "largedeformations,andareineectiveatdealingwithmaterialflowandseparation[36,1].Recentlymesfree",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                159,
+                                879,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        159,
+                                        879,
+                                        186
+                                    ],
+                                    "score": 0.987,
+                                    "content": "approximationshavebeenusedtostudythegeneralizedther-moelasticitytheories.Variousmethods have been",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                812,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        812,
+                                        204
+                                    ],
+                                    "score": 0.993,
+                                    "content": "used,forexample,theMeshlesslocalPetrov-Galerkinmethod[29]aswellasmethodsusingradialbasis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                199,
+                                864,
+                                224
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        199,
+                                        864,
+                                        224
+                                    ],
+                                    "score": 0.998,
+                                    "content": "functions[57].Meshfreemethodshavealsobeendevelopedforfinite-strainthermoplasticity.Simulationshave",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                850,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        850,
+                                        244
+                                    ],
+                                    "score": 0.992,
+                                    "content": "includedductilefracture[49]andfrictiondrillng[43,54].Basedonvariationalthermomechanicalconstitutive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                240,
+                                844,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        240,
+                                        844,
+                                        265
+                                    ],
+                                    "score": 0.994,
+                                    "content": "updatesandtheoptimaltransportationmeshfree(OTM)method[34],thehotOTMmethod(HOTM)[53]has",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                260,
+                                830,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        260,
+                                        830,
+                                        286
+                                    ],
+                                    "score": 0.988,
+                                    "content": "beendevel-opedformodelingexternal heatingandcoolingbehavior.TheHOTMmethodhasmostlybeen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                280,
+                                877,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        280,
+                                        877,
+                                        304
+                                    ],
+                                    "score": 0.984,
+                                    "content": "appliedtolasercladdingtechnology[23].Yet,virtuallynoneofthesemeshfreeapproachestothermomechanical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                300,
+                                876,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        300,
+                                        876,
+                                        326
+                                    ],
+                                    "score": 0.967,
+                                    "content": "equationsdiscussedconsideranyadvanceddomainintegrationtechniquesotherthan[43,54],egardlessofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                319,
+                                835,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        319,
+                                        835,
+                                        348
+                                    ],
+                                    "score": 0.982,
+                                    "content": "useofclassicalorgeneralizedequations.Forareviewofexistingtechniquesandanin-depthdiscussionon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                339,
+                                833,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        339,
+                                        833,
+                                        365
+                                    ],
+                                    "score": 0.978,
+                                    "content": "meshfreequadratureincluding[43,54],seePartIofthispaper.Inthiswork,themethodsdevelopedinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                798,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        798,
+                                        385
+                                    ],
+                                    "score": 0.989,
+                                    "content": "prequelaredevelopedforgeneralizedthermoelasticity,and generalizedthermoplasticity.Namely,the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                864,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        864,
+                                        404
+                                    ],
+                                    "score": 0.985,
+                                    "content": "variationallyconsis-tentnaturallystabilizednodalintegration(VC-NSNI)techniqueisextendedtobothofthese",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                400,
+                                876,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        400,
+                                        876,
+                                        424
+                                    ],
+                                    "score": 0.996,
+                                    "content": "problems.Forgeneralizedthermoelasticity,theextensionofthesetwometh-odsisstraightforward.Strainsand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                859,
+                                444
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        859,
+                                        444
+                                    ],
+                                    "score": 0.997,
+                                    "content": "temperaturegradientsareexpandedwithimplicitgradientapproximationsforstabilizationasbefore,andthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                841,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        841,
+                                        464
+                                    ],
+                                    "score": 0.982,
+                                    "content": "correctionremainsthesame.Infinite-strain thermoplasticity,theCauchystressand associatedvariationon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                853,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        853,
+                                        483
+                                    ],
+                                    "score": 0.987,
+                                    "content": "strainareinsteadexpandedtostabilizetheresults.Finally,sincethepropagationspeedoftemperatureisnot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                865,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        865,
+                                        504
+                                    ],
+                                    "score": 0.983,
+                                    "content": "well-characterizedformostengineeringmaterials,andinmostsetings(typicallythisisreportednearabsolute",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                874,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        874,
+                                        525
+                                    ],
+                                    "score": 0.991,
+                                    "content": "zeroforspecialmaterialssuchassuperfluids),equatingthesecondsoundspeedtothefirstisinvestigated.This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                520,
+                                874,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        520,
+                                        874,
+                                        544
+                                    ],
+                                    "score": 0.994,
+                                    "content": "yieldsacriticaltimestepinexplicitanalysisthatisthesameasinpuresolidmechanicsproblems,butmeanwhile",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                540,
+                                853,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        540,
+                                        853,
+                                        565
+                                    ],
+                                    "score": 0.986,
+                                    "content": "verysmallrelaxationtimessuchthatthesolutionisclosetotheclassicaltheory,whichiswidelyacceptedasa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                559,
+                                865,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        559,
+                                        865,
+                                        586
+                                    ],
+                                    "score": 0.979,
+                                    "content": "goodmodelforthermomechanicalproblems.Theremainderofthispaperisorganizedasfollows.Thegeneral",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                580,
+                                868,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        580,
+                                        868,
+                                        605
+                                    ],
+                                    "score": 0.985,
+                                    "content": "governingequa-tionsofthecoupledthermomechanicaltheoryarediscussedinSection2.InSection3clasical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                874,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        874,
+                                        623
+                                    ],
+                                    "score": 0.989,
+                                    "content": "andgeneralizedthermoelasticityareintroducedasspecialcases,withtheRKPMdiscretizationoftheweakform",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                620,
+                                781,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        620,
+                                        781,
+                                        645
+                                    ],
+                                    "score": 0.988,
+                                    "content": "given.Section4developsthermoplasticityasanothermoregeneralcase,withtheLagrangianRKPM",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                641,
+                                842,
+                                664
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        641,
+                                        842,
+                                        664
+                                    ],
+                                    "score": 0.997,
+                                    "content": "discretizationgivenalongwithassociatedexplicitalgorithms.InSection5thetime-stepcriteriaisdiscussed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                660,
+                                866,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        660,
+                                        866,
+                                        686
+                                    ],
+                                    "score": 0.996,
+                                    "content": "Benchmarksarethensolvedforgeneralizedthermoelasticityandclassicalandgener-alizedthermoplasticityin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                491,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        491,
+                                        704
+                                    ],
+                                    "score": 0.966,
+                                    "content": "Section6,where equating the firstand second sound speed3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5,
+                    "bbox_fs": [
+                        12,
+                        21,
+                        879,
+                        704
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

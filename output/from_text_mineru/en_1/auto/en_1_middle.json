@@ -1,0 +1,1896 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        78,
+                        876,
+                        881
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                78,
+                                878,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        78,
+                                        878,
+                                        108
+                                    ],
+                                    "score": 0.875,
+                                    "content": "argument;attorneys'feescostsnddisbrsements;ssessmentofaward;damages.Sec.10.(1)Ifapblicbody",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                102,
+                                810,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        102,
+                                        810,
+                                        126
+                                    ],
+                                    "score": 0.99,
+                                    "content": "makesafinaldeterminationtodenyalloraportionofarequest,therequestingpersonmaydo1ofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                121,
+                                858,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        121,
+                                        858,
+                                        145
+                                    ],
+                                    "score": 0.982,
+                                    "content": "followingathisor heroption:(a)Submittotheheadofthepublicbodyawrittenappealthat specificallystates",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                143,
+                                863,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        143,
+                                        863,
+                                        164
+                                    ],
+                                    "score": 0.991,
+                                    "content": "theword\"appeal\"andidentifiesthereasonorreasonsforreversalofthedenial.(b)Commenceacivilactionin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                163,
+                                836,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        163,
+                                        836,
+                                        184
+                                    ],
+                                    "score": 0.994,
+                                    "content": "thecircuitcourt,orifthedecisionofastatepublicbodyisatissue,thecourtofclaims,tocompelthepublic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                822,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        822,
+                                        205
+                                    ],
+                                    "score": 0.992,
+                                    "content": "body'sdisclosureofthepublicrecordswithin180daysafterapublicbody'sfinaldeterminationtodenya",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                868,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        868,
+                                        226
+                                    ],
+                                    "score": 0.99,
+                                    "content": "request.(2)Within10businessdaysafterreceivingawrittenappealpursuanttosubsection(1)(a),theheadofa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                808,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        808,
+                                        245
+                                    ],
+                                    "score": 0.996,
+                                    "content": "publicbodyshalldo1ofthefollowing:(a)Reversethedisclosuredenial.(b)Issueawrittennoticetothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                241,
+                                861,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        241,
+                                        861,
+                                        266
+                                    ],
+                                    "score": 0.993,
+                                    "content": "requestingpersonupholding thedisclosuredenial.(c)Reversethedisclosuredenialinpartandissueawriten",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                869,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        869,
+                                        288
+                                    ],
+                                    "score": 0.986,
+                                    "content": "noticetotherequestingpersonupholdingthedisclosuredenialinpart.(d)Underunusualcircumstances,issue",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                282,
+                                874,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        282,
+                                        874,
+                                        306
+                                    ],
+                                    "score": 0.998,
+                                    "content": "anoticeextendingfornotmorethan10businessdaystheperiodduringwhichtheheadofthepublicbodyshall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                302,
+                                853,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        302,
+                                        853,
+                                        325
+                                    ],
+                                    "score": 0.997,
+                                    "content": "respondtothewrittenappeal.Theheadofapublicbodyshallnotissuemorethan1noticeofextensionfora",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                321,
+                                862,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        321,
+                                        862,
+                                        345
+                                    ],
+                                    "score": 0.984,
+                                    "content": "particularwritenappeal.(3)Aboardorcommissionthatistheheadofapublicbodyisnotconsideredto have",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                342,
+                                823,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        342,
+                                        823,
+                                        365
+                                    ],
+                                    "score": 0.997,
+                                    "content": "receivedawrittenappealundersubsection(2)untilthefirstregularlyscheduledmeetingofthatboardor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                359,
+                                855,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        359,
+                                        855,
+                                        387
+                                    ],
+                                    "score": 0.992,
+                                    "content": "commissionfollowingsubmissionof thewrittenappealundersubsection(1)(a).Iftheheadofthepublicbody",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                867,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        867,
+                                        405
+                                    ],
+                                    "score": 0.986,
+                                    "content": "failstorespondtoawrittenappealpursuanttosubsection(2),oriftheheadofthepublicbodyupholdsallora",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                399,
+                                873,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        399,
+                                        873,
+                                        426
+                                    ],
+                                    "score": 0.996,
+                                    "content": "portionofthedisclosuredenialthatisthesubjectofthewritenappeal,therequestingpersonmayseekjudicial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                421,
+                                853,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        421,
+                                        853,
+                                        445
+                                    ],
+                                    "score": 0.993,
+                                    "content": "reviewofthenondisclosurebycommencingacivilactionundersubsection(1)(b).(4)Inanactioncommenced",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                852,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        852,
+                                        465
+                                    ],
+                                    "score": 0.997,
+                                    "content": "undersubsection(1)(b),acourtthatdeterminesapublicrecordisnotexemptfromdisclosureshallorderthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                797,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        797,
+                                        487
+                                    ],
+                                    "score": 0.99,
+                                    "content": "publicbodytoceasewithholdingortoproducealloraportionofapublicrecordwrongfullywithheld,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                482,
+                                853,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        482,
+                                        853,
+                                        505
+                                    ],
+                                    "score": 0.997,
+                                    "content": "regardlessofthelocationofthepublicrecord.Venueforanactionagainstalocalpublicbodyisproperinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                856,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        856,
+                                        525
+                                    ],
+                                    "score": 0.993,
+                                    "content": "circuitcourtforthecountyinwhichthepublicrecordoranofficeofthepublicbodyislocatedhasvenueover",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                522,
+                                835,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        522,
+                                        835,
+                                        545
+                                    ],
+                                    "score": 0.994,
+                                    "content": "theaction.Thecourtshalldeterminethematterdenovoandtheburdenisonthepublicbodytosustainits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                538,
+                                836,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        538,
+                                        836,
+                                        567
+                                    ],
+                                    "score": 0.985,
+                                    "content": "denial.Thecourt,onitsownmotion,mayviewthepublicrecordincontroversyinprivatebeforereachinga",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                826,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        826,
+                                        585
+                                    ],
+                                    "score": 0.994,
+                                    "content": "decision.Failuretocomplywithanorderof thecourtmaybepunishedascontemptofcourt.(5)Anaction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                581,
+                                857,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        581,
+                                        857,
+                                        604
+                                    ],
+                                    "score": 0.993,
+                                    "content": "commencedunderthissectionandanappealfromanactioncommencedunderthissectionshallbeassigned",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                601,
+                                860,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        601,
+                                        860,
+                                        625
+                                    ],
+                                    "score": 0.995,
+                                    "content": "forhearngandtrialorforargumentattheearliestpracticabledateandexpeditedineveryway.(6)Ifaperson",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                621,
+                                856,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        621,
+                                        856,
+                                        646
+                                    ],
+                                    "score": 0.979,
+                                    "content": "assertingtherighttoinspect,copy，orreceiveacopyofalloraportionofapublicrecordprevailsinanaction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                641,
+                                856,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        641,
+                                        856,
+                                        665
+                                    ],
+                                    "score": 0.989,
+                                    "content": "commencedunderthissection,thecourtshallawardreasonableattorneys'fees,costs,anddisbursements.If",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                661,
+                                873,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        661,
+                                        873,
+                                        685
+                                    ],
+                                    "score": 0.983,
+                                    "content": "thepersonorpublicbodyprevailsinpart,thecourtmay,initsdiscretion,awardalloranappropriateportionof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                680,
+                                875,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        680,
+                                        875,
+                                        704
+                                    ],
+                                    "score": 0.983,
+                                    "content": "reasonableattorneys'fees,costs,anddisbursements.Theawardshallbeassessedagainstthepublicbodyliable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                701,
+                                854,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        701,
+                                        854,
+                                        725
+                                    ],
+                                    "score": 0.991,
+                                    "content": "fordamagesundersubsection(7).（7)Ifthecourtdeterminesinanactioncommencedunderthissectionthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                718,
+                                840,
+                                748
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        718,
+                                        840,
+                                        748
+                                    ],
+                                    "score": 0.994,
+                                    "content": "thepublicbodyhasarbitrarilyandcapriciouslyviolatedthisactbyrefusalordelayindisclosingorproviding",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                740,
+                                836,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        740,
+                                        642,
+                                        767
+                                    ],
+                                    "score": 0.99,
+                                    "content": "copiesofapublicrecord,thecourtshallorderthepublicbodytopayacivilfineof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        643,
+                                        742,
+                                        717,
+                                        762
+                                    ],
+                                    "score": 0.78,
+                                    "content": "\\$ 1,000.00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        717,
+                                        740,
+                                        836,
+                                        767
+                                    ],
+                                    "score": 0.98,
+                                    "content": "whichshall be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                760,
+                                809,
+                                786
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        760,
+                                        809,
+                                        786
+                                    ],
+                                    "score": 0.996,
+                                    "content": "depositedintothegeneralfundofthestatetreasury.Thecourtshallaward,inadditiontoanyactualor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                780,
+                                876,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        780,
+                                        479,
+                                        806
+                                    ],
+                                    "score": 0.992,
+                                    "content": "compensatorydamages,punitivedamagesintheamountof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        480,
+                                        782,
+                                        553,
+                                        802
+                                    ],
+                                    "score": 0.8,
+                                    "content": "\\$ 1,000.00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        554,
+                                        780,
+                                        876,
+                                        806
+                                    ],
+                                    "score": 0.989,
+                                    "content": "tothepersonseeking therighttoinspect",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                800,
+                                822,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        800,
+                                        822,
+                                        825
+                                    ],
+                                    "score": 0.989,
+                                    "content": "orreceiveacopyofapublicrecord.Thedamagesshallnotbeassessedagainstanindividual,butshallbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                821,
+                                875,
+                                845
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        821,
+                                        875,
+                                        845
+                                    ],
+                                    "score": 0.992,
+                                    "content": "assessedagainstthenextsucceedingpublicbodythatisnotanindividualandthatkeptormaintainedthepublic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                841,
+                                875,
+                                865
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        841,
+                                        875,
+                                        865
+                                    ],
+                                    "score": 0.787,
+                                    "content": "recordasprtofitpubicuction.story976,Act442,Ef.Apr.13,977;-Am.978Act29,Imd.Eff.uly11",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                860,
+                                625,
+                                884
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        860,
+                                        625,
+                                        884
+                                    ],
+                                    "score": 0.922,
+                                    "content": "1978；--Am.1996,Act553，Eff.Mar.31,1997;--Am.2014，Act563,Eff.July1,2015",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                896
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        78,
+                        876,
+                        881
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                78,
+                                878,
+                                108
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        78,
+                                        878,
+                                        108
+                                    ],
+                                    "score": 0.875,
+                                    "content": "argument;attorneys'feescostsnddisbrsements;ssessmentofaward;damages.Sec.10.(1)Ifapblicbody",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                102,
+                                810,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        102,
+                                        810,
+                                        126
+                                    ],
+                                    "score": 0.99,
+                                    "content": "makesafinaldeterminationtodenyalloraportionofarequest,therequestingpersonmaydo1ofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                121,
+                                858,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        121,
+                                        858,
+                                        145
+                                    ],
+                                    "score": 0.982,
+                                    "content": "followingathisor heroption:(a)Submittotheheadofthepublicbodyawrittenappealthat specificallystates",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                143,
+                                863,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        143,
+                                        863,
+                                        164
+                                    ],
+                                    "score": 0.991,
+                                    "content": "theword\"appeal\"andidentifiesthereasonorreasonsforreversalofthedenial.(b)Commenceacivilactionin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                163,
+                                836,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        163,
+                                        836,
+                                        184
+                                    ],
+                                    "score": 0.994,
+                                    "content": "thecircuitcourt,orifthedecisionofastatepublicbodyisatissue,thecourtofclaims,tocompelthepublic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                822,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        822,
+                                        205
+                                    ],
+                                    "score": 0.992,
+                                    "content": "body'sdisclosureofthepublicrecordswithin180daysafterapublicbody'sfinaldeterminationtodenya",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                868,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        868,
+                                        226
+                                    ],
+                                    "score": 0.99,
+                                    "content": "request.(2)Within10businessdaysafterreceivingawrittenappealpursuanttosubsection(1)(a),theheadofa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                222,
+                                808,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        222,
+                                        808,
+                                        245
+                                    ],
+                                    "score": 0.996,
+                                    "content": "publicbodyshalldo1ofthefollowing:(a)Reversethedisclosuredenial.(b)Issueawrittennoticetothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                241,
+                                861,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        241,
+                                        861,
+                                        266
+                                    ],
+                                    "score": 0.993,
+                                    "content": "requestingpersonupholding thedisclosuredenial.(c)Reversethedisclosuredenialinpartandissueawriten",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                869,
+                                288
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        869,
+                                        288
+                                    ],
+                                    "score": 0.986,
+                                    "content": "noticetotherequestingpersonupholdingthedisclosuredenialinpart.(d)Underunusualcircumstances,issue",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                282,
+                                874,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        282,
+                                        874,
+                                        306
+                                    ],
+                                    "score": 0.998,
+                                    "content": "anoticeextendingfornotmorethan10businessdaystheperiodduringwhichtheheadofthepublicbodyshall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                302,
+                                853,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        302,
+                                        853,
+                                        325
+                                    ],
+                                    "score": 0.997,
+                                    "content": "respondtothewrittenappeal.Theheadofapublicbodyshallnotissuemorethan1noticeofextensionfora",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                321,
+                                862,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        321,
+                                        862,
+                                        345
+                                    ],
+                                    "score": 0.984,
+                                    "content": "particularwritenappeal.(3)Aboardorcommissionthatistheheadofapublicbodyisnotconsideredto have",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                342,
+                                823,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        342,
+                                        823,
+                                        365
+                                    ],
+                                    "score": 0.997,
+                                    "content": "receivedawrittenappealundersubsection(2)untilthefirstregularlyscheduledmeetingofthatboardor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                359,
+                                855,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        359,
+                                        855,
+                                        387
+                                    ],
+                                    "score": 0.992,
+                                    "content": "commissionfollowingsubmissionof thewrittenappealundersubsection(1)(a).Iftheheadofthepublicbody",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                867,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        867,
+                                        405
+                                    ],
+                                    "score": 0.986,
+                                    "content": "failstorespondtoawrittenappealpursuanttosubsection(2),oriftheheadofthepublicbodyupholdsallora",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                399,
+                                873,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        399,
+                                        873,
+                                        426
+                                    ],
+                                    "score": 0.996,
+                                    "content": "portionofthedisclosuredenialthatisthesubjectofthewritenappeal,therequestingpersonmayseekjudicial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                421,
+                                853,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        421,
+                                        853,
+                                        445
+                                    ],
+                                    "score": 0.993,
+                                    "content": "reviewofthenondisclosurebycommencingacivilactionundersubsection(1)(b).(4)Inanactioncommenced",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                852,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        852,
+                                        465
+                                    ],
+                                    "score": 0.997,
+                                    "content": "undersubsection(1)(b),acourtthatdeterminesapublicrecordisnotexemptfromdisclosureshallorderthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                797,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        797,
+                                        487
+                                    ],
+                                    "score": 0.99,
+                                    "content": "publicbodytoceasewithholdingortoproducealloraportionofapublicrecordwrongfullywithheld,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                482,
+                                853,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        482,
+                                        853,
+                                        505
+                                    ],
+                                    "score": 0.997,
+                                    "content": "regardlessofthelocationofthepublicrecord.Venueforanactionagainstalocalpublicbodyisproperinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                856,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        856,
+                                        525
+                                    ],
+                                    "score": 0.993,
+                                    "content": "circuitcourtforthecountyinwhichthepublicrecordoranofficeofthepublicbodyislocatedhasvenueover",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                522,
+                                835,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        522,
+                                        835,
+                                        545
+                                    ],
+                                    "score": 0.994,
+                                    "content": "theaction.Thecourtshalldeterminethematterdenovoandtheburdenisonthepublicbodytosustainits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                538,
+                                836,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        538,
+                                        836,
+                                        567
+                                    ],
+                                    "score": 0.985,
+                                    "content": "denial.Thecourt,onitsownmotion,mayviewthepublicrecordincontroversyinprivatebeforereachinga",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                826,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        826,
+                                        585
+                                    ],
+                                    "score": 0.994,
+                                    "content": "decision.Failuretocomplywithanorderof thecourtmaybepunishedascontemptofcourt.(5)Anaction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                581,
+                                857,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        581,
+                                        857,
+                                        604
+                                    ],
+                                    "score": 0.993,
+                                    "content": "commencedunderthissectionandanappealfromanactioncommencedunderthissectionshallbeassigned",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                601,
+                                860,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        601,
+                                        860,
+                                        625
+                                    ],
+                                    "score": 0.995,
+                                    "content": "forhearngandtrialorforargumentattheearliestpracticabledateandexpeditedineveryway.(6)Ifaperson",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                621,
+                                856,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        621,
+                                        856,
+                                        646
+                                    ],
+                                    "score": 0.979,
+                                    "content": "assertingtherighttoinspect,copy，orreceiveacopyofalloraportionofapublicrecordprevailsinanaction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                641,
+                                856,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        641,
+                                        856,
+                                        665
+                                    ],
+                                    "score": 0.989,
+                                    "content": "commencedunderthissection,thecourtshallawardreasonableattorneys'fees,costs,anddisbursements.If",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                661,
+                                873,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        661,
+                                        873,
+                                        685
+                                    ],
+                                    "score": 0.983,
+                                    "content": "thepersonorpublicbodyprevailsinpart,thecourtmay,initsdiscretion,awardalloranappropriateportionof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                680,
+                                875,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        680,
+                                        875,
+                                        704
+                                    ],
+                                    "score": 0.983,
+                                    "content": "reasonableattorneys'fees,costs,anddisbursements.Theawardshallbeassessedagainstthepublicbodyliable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                701,
+                                854,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        701,
+                                        854,
+                                        725
+                                    ],
+                                    "score": 0.991,
+                                    "content": "fordamagesundersubsection(7).（7)Ifthecourtdeterminesinanactioncommencedunderthissectionthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                718,
+                                840,
+                                748
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        718,
+                                        840,
+                                        748
+                                    ],
+                                    "score": 0.994,
+                                    "content": "thepublicbodyhasarbitrarilyandcapriciouslyviolatedthisactbyrefusalordelayindisclosingorproviding",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                740,
+                                836,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        740,
+                                        642,
+                                        767
+                                    ],
+                                    "score": 0.99,
+                                    "content": "copiesofapublicrecord,thecourtshallorderthepublicbodytopayacivilfineof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        643,
+                                        742,
+                                        717,
+                                        762
+                                    ],
+                                    "score": 0.78,
+                                    "content": "\\$ 1,000.00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        717,
+                                        740,
+                                        836,
+                                        767
+                                    ],
+                                    "score": 0.98,
+                                    "content": "whichshall be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                760,
+                                809,
+                                786
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        760,
+                                        809,
+                                        786
+                                    ],
+                                    "score": 0.996,
+                                    "content": "depositedintothegeneralfundofthestatetreasury.Thecourtshallaward,inadditiontoanyactualor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                780,
+                                876,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        780,
+                                        479,
+                                        806
+                                    ],
+                                    "score": 0.992,
+                                    "content": "compensatorydamages,punitivedamagesintheamountof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        480,
+                                        782,
+                                        553,
+                                        802
+                                    ],
+                                    "score": 0.8,
+                                    "content": "\\$ 1,000.00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        554,
+                                        780,
+                                        876,
+                                        806
+                                    ],
+                                    "score": 0.989,
+                                    "content": "tothepersonseeking therighttoinspect",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                800,
+                                822,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        800,
+                                        822,
+                                        825
+                                    ],
+                                    "score": 0.989,
+                                    "content": "orreceiveacopyofapublicrecord.Thedamagesshallnotbeassessedagainstanindividual,butshallbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                821,
+                                875,
+                                845
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        821,
+                                        875,
+                                        845
+                                    ],
+                                    "score": 0.992,
+                                    "content": "assessedagainstthenextsucceedingpublicbodythatisnotanindividualandthatkeptormaintainedthepublic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                841,
+                                875,
+                                865
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        841,
+                                        875,
+                                        865
+                                    ],
+                                    "score": 0.787,
+                                    "content": "recordasprtofitpubicuction.story976,Act442,Ef.Apr.13,977;-Am.978Act29,Imd.Eff.uly11",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                860,
+                                625,
+                                884
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        860,
+                                        625,
+                                        884
+                                    ],
+                                    "score": 0.922,
+                                    "content": "1978；--Am.1996,Act553，Eff.Mar.31,1997;--Am.2014，Act563,Eff.July1,2015",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5,
+                    "bbox_fs": [
+                        13,
+                        78,
+                        878,
+                        884
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

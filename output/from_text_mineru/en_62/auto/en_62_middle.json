@@ -1,0 +1,1456 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        12,
+                        879,
+                        653
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                19,
+                                870,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        19,
+                                        870,
+                                        44
+                                    ],
+                                    "score": 0.978,
+                                    "content": "4ProvideAditionalFlexibilityinDeliveringtheNoticeofInternetAvailabilitySection2520.104b-31(d)(4)requires",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                39,
+                                838,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        39,
+                                        838,
+                                        66
+                                    ],
+                                    "score": 0.985,
+                                    "content": "thatthenoticeof internetavailabilitybefurnishedelectronicall.Section2520.104b-31(g)requirestheinitial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                60,
+                                822,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        60,
+                                        822,
+                                        87
+                                    ],
+                                    "score": 0.998,
+                                    "content": "notificationofdefaultelectronicdeliveryandrightoopt-outbeprovidedinpaperversion.Forcontinued",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                79,
+                                850,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        79,
+                                        850,
+                                        106
+                                    ],
+                                    "score": 0.968,
+                                    "content": "reliance,2520.104b-31(d)(4)requiresanannualnoticeof\"internet\"availabilitybefurnished\"electronically\"to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                100,
+                                873,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        100,
+                                        873,
+                                        125
+                                    ],
+                                    "score": 0.974,
+                                    "content": "\"theaddress\"describedinthe“coveredindividual\"definition.Further,Footnote60statesthattheproposedsafe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                121,
+                                846,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        121,
+                                        846,
+                                        145
+                                    ],
+                                    "score": 0.972,
+                                    "content": "harborwould,ifadopted\"supersedetherelevantportionsofFAB20o6-03.\"10\"Internet\"-Withrespecttothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                142,
+                                840,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        142,
+                                        840,
+                                        164
+                                    ],
+                                    "score": 0.977,
+                                    "content": "provisionsuseoftheterm“internet,\"whilethe“internet\"maybetheinfrastructurebywhichinformationis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                873,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        873,
+                                        185
+                                    ],
+                                    "score": 0.991,
+                                    "content": "electronicallytransmittedandreceived,thattermmaybeviewedaslimiting.Theinformationcouldbeconveyed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                854,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        854,
+                                        207
+                                    ],
+                                    "score": 0.999,
+                                    "content": "andaccessiblethroughaweb-basedapplicationonasmartphoneorotherconnecteddevicethatpermitsthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                848,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        848,
+                                        225
+                                    ],
+                                    "score": 0.984,
+                                    "content": "usertoaccess informationwithouttheneedtoaccessawebsiteviaaweb browser.Werecommendthefinal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                218,
+                                812,
+                                241
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        218,
+                                        812,
+                                        241
+                                    ],
+                                    "score": 0.994,
+                                    "content": "ruleincludemoreflexiblelanguageregardingtheelectronicmediumormediumsbywhichthe“covered",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                239,
+                                830,
+                                259
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        239,
+                                        830,
+                                        259
+                                    ],
+                                    "score": 0.979,
+                                    "content": "individual”canaccesstheinformation.“FieldAssistanceBulletin2006-3”-Withrespectotherequirements",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                258,
+                                812,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        258,
+                                        812,
+                                        279
+                                    ],
+                                    "score": 0.989,
+                                    "content": "associatedwithboththeinitialandsubsequentNoticeofInternetAvailability,werecommendadditional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                279,
+                                865,
+                                300
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        279,
+                                        865,
+                                        300
+                                    ],
+                                    "score": 0.976,
+                                    "content": "flexibilityforplanadministrators.FieldAssistanceBuletin(\"FAB\")2006-3permitsthefurnishingofsuchanotice",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                298,
+                                815,
+                                321
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        298,
+                                        815,
+                                        321
+                                    ],
+                                    "score": 0.979,
+                                    "content": "inamannerpermittedunder Internal RevenueCodesection1.401(a)-21(\"TreasuryRegulation\").ForACLI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                317,
+                                871,
+                                341
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        317,
+                                        871,
+                                        341
+                                    ],
+                                    "score": 0.993,
+                                    "content": "membersthatprovideadministrativeservicestoERISAplans,manyoftheirplansponsorcustomersrelyonFAB",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                335,
+                                878,
+                                363
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        335,
+                                        878,
+                                        363
+                                    ],
+                                    "score": 0.994,
+                                    "content": "2006-3forthefurnishingofquarterlyplanbenefitstatements.Wenotethatapaperapproachprescribedforthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                358,
+                                816,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        358,
+                                        816,
+                                        381
+                                    ],
+                                    "score": 0.996,
+                                    "content": "initialnoticeisoneoftheapproachespermitedundertheTreasuryRegulation.Inadditiontopaper,the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                378,
+                                875,
+                                401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        378,
+                                        875,
+                                        401
+                                    ],
+                                    "score": 0.998,
+                                    "content": "TreasuryRegulationpermitssuchnoticestobemadeelectronicallywhentheelectronicmediumusedtoprovide",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                397,
+                                813,
+                                421
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        397,
+                                        813,
+                                        421
+                                    ],
+                                    "score": 0.997,
+                                    "content": "thenoticeisamediumthattherecipienthastheeffectiveabilitytoaccess.TheProposedRuleshouldbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                418,
+                                830,
+                                442
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        418,
+                                        830,
+                                        442
+                                    ],
+                                    "score": 0.992,
+                                    "content": "amendedtopermitplanadministratorstheoptiontoprovideaninitialnoticeorsubsequentnoticeseither",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                436,
+                                807,
+                                463
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        436,
+                                        807,
+                                        463
+                                    ],
+                                    "score": 0.984,
+                                    "content": "electronicallyoronpaper.TheguidancesetforthinFAB2oo6-03andintheproposalatparagraph(g)is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                456,
+                                858,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        456,
+                                        858,
+                                        483
+                                    ],
+                                    "score": 0.986,
+                                    "content": "reasonableandhasbeenusedformorethanadecade.Wearenot awareofanycontroversyregarding itsuse",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                475,
+                                827,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        475,
+                                        827,
+                                        505
+                                    ],
+                                    "score": 0.985,
+                                    "content": "oranyadverseimpactonplanparticipants.Formanyplansponsors,ashifttoapaperapproachforinitial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                498,
+                                874,
+                                521
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        498,
+                                        874,
+                                        521
+                                    ],
+                                    "score": 0.987,
+                                    "content": "noticesoranelectroniconlyapproachforsubsequentnoticeswillcomeatacost.Ifthe Departmentdetermines",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                516,
+                                880,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        516,
+                                        880,
+                                        543
+                                    ],
+                                    "score": 0.968,
+                                    "content": "nottoamendsection2520.104b-31(d)(4)toprovidesuchadditionalflexibilityweurgetheDepartmenttoprovide",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                536,
+                                873,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        536,
+                                        873,
+                                        563
+                                    ],
+                                    "score": 0.993,
+                                    "content": "atleasttwoyearsfromtheeffectivedateofanysupersessionofpriordisclosure-related guidanceduringwhich",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                556,
+                                833,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        556,
+                                        833,
+                                        583
+                                    ],
+                                    "score": 0.997,
+                                    "content": "plansponsorsandserviceprovidersmayrelyonthepriorguidancetoprovidetimetomakeanynecessary",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                578,
+                                855,
+                                601
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        578,
+                                        855,
+                                        601
+                                    ],
+                                    "score": 0.978,
+                                    "content": "changestoadministrativesystems.\"MultipleElectronicAddresses\"-Withrespecttothephrase“theaddress\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                595,
+                                854,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        595,
+                                        854,
+                                        623
+                                    ],
+                                    "score": 0.993,
+                                    "content": "whileitispossiblethataplanadministratorwillhavebutoneelectronicaddressforacoveredindividual,they",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                615,
+                                835,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        615,
+                                        835,
+                                        644
+                                    ],
+                                    "score": 0.986,
+                                    "content": "mayhavemorethanone.Forexample,aplanadministratormayhaveacoveredindividual's1084Fed.Reg.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                637,
+                                72,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        637,
+                                        72,
+                                        658
+                                    ],
+                                    "score": 0.99,
+                                    "content": "56900.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 15.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                668
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        12,
+                        879,
+                        653
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                19,
+                                870,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        19,
+                                        870,
+                                        44
+                                    ],
+                                    "score": 0.978,
+                                    "content": "4ProvideAditionalFlexibilityinDeliveringtheNoticeofInternetAvailabilitySection2520.104b-31(d)(4)requires",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                39,
+                                838,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        39,
+                                        838,
+                                        66
+                                    ],
+                                    "score": 0.985,
+                                    "content": "thatthenoticeof internetavailabilitybefurnishedelectronicall.Section2520.104b-31(g)requirestheinitial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                60,
+                                822,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        60,
+                                        822,
+                                        87
+                                    ],
+                                    "score": 0.998,
+                                    "content": "notificationofdefaultelectronicdeliveryandrightoopt-outbeprovidedinpaperversion.Forcontinued",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                79,
+                                850,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        79,
+                                        850,
+                                        106
+                                    ],
+                                    "score": 0.968,
+                                    "content": "reliance,2520.104b-31(d)(4)requiresanannualnoticeof\"internet\"availabilitybefurnished\"electronically\"to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                100,
+                                873,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        100,
+                                        873,
+                                        125
+                                    ],
+                                    "score": 0.974,
+                                    "content": "\"theaddress\"describedinthe“coveredindividual\"definition.Further,Footnote60statesthattheproposedsafe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                121,
+                                846,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        121,
+                                        846,
+                                        145
+                                    ],
+                                    "score": 0.972,
+                                    "content": "harborwould,ifadopted\"supersedetherelevantportionsofFAB20o6-03.\"10\"Internet\"-Withrespecttothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                142,
+                                840,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        142,
+                                        840,
+                                        164
+                                    ],
+                                    "score": 0.977,
+                                    "content": "provisionsuseoftheterm“internet,\"whilethe“internet\"maybetheinfrastructurebywhichinformationis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                873,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        873,
+                                        185
+                                    ],
+                                    "score": 0.991,
+                                    "content": "electronicallytransmittedandreceived,thattermmaybeviewedaslimiting.Theinformationcouldbeconveyed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                854,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        854,
+                                        207
+                                    ],
+                                    "score": 0.999,
+                                    "content": "andaccessiblethroughaweb-basedapplicationonasmartphoneorotherconnecteddevicethatpermitsthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                848,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        848,
+                                        225
+                                    ],
+                                    "score": 0.984,
+                                    "content": "usertoaccess informationwithouttheneedtoaccessawebsiteviaaweb browser.Werecommendthefinal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                218,
+                                812,
+                                241
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        218,
+                                        812,
+                                        241
+                                    ],
+                                    "score": 0.994,
+                                    "content": "ruleincludemoreflexiblelanguageregardingtheelectronicmediumormediumsbywhichthe“covered",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                239,
+                                830,
+                                259
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        239,
+                                        830,
+                                        259
+                                    ],
+                                    "score": 0.979,
+                                    "content": "individual”canaccesstheinformation.“FieldAssistanceBulletin2006-3”-Withrespectotherequirements",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                258,
+                                812,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        258,
+                                        812,
+                                        279
+                                    ],
+                                    "score": 0.989,
+                                    "content": "associatedwithboththeinitialandsubsequentNoticeofInternetAvailability,werecommendadditional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                279,
+                                865,
+                                300
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        279,
+                                        865,
+                                        300
+                                    ],
+                                    "score": 0.976,
+                                    "content": "flexibilityforplanadministrators.FieldAssistanceBuletin(\"FAB\")2006-3permitsthefurnishingofsuchanotice",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                298,
+                                815,
+                                321
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        298,
+                                        815,
+                                        321
+                                    ],
+                                    "score": 0.979,
+                                    "content": "inamannerpermittedunder Internal RevenueCodesection1.401(a)-21(\"TreasuryRegulation\").ForACLI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                317,
+                                871,
+                                341
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        317,
+                                        871,
+                                        341
+                                    ],
+                                    "score": 0.993,
+                                    "content": "membersthatprovideadministrativeservicestoERISAplans,manyoftheirplansponsorcustomersrelyonFAB",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                335,
+                                878,
+                                363
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        335,
+                                        878,
+                                        363
+                                    ],
+                                    "score": 0.994,
+                                    "content": "2006-3forthefurnishingofquarterlyplanbenefitstatements.Wenotethatapaperapproachprescribedforthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                358,
+                                816,
+                                381
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        358,
+                                        816,
+                                        381
+                                    ],
+                                    "score": 0.996,
+                                    "content": "initialnoticeisoneoftheapproachespermitedundertheTreasuryRegulation.Inadditiontopaper,the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                378,
+                                875,
+                                401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        378,
+                                        875,
+                                        401
+                                    ],
+                                    "score": 0.998,
+                                    "content": "TreasuryRegulationpermitssuchnoticestobemadeelectronicallywhentheelectronicmediumusedtoprovide",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                397,
+                                813,
+                                421
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        397,
+                                        813,
+                                        421
+                                    ],
+                                    "score": 0.997,
+                                    "content": "thenoticeisamediumthattherecipienthastheeffectiveabilitytoaccess.TheProposedRuleshouldbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                418,
+                                830,
+                                442
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        418,
+                                        830,
+                                        442
+                                    ],
+                                    "score": 0.992,
+                                    "content": "amendedtopermitplanadministratorstheoptiontoprovideaninitialnoticeorsubsequentnoticeseither",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                436,
+                                807,
+                                463
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        436,
+                                        807,
+                                        463
+                                    ],
+                                    "score": 0.984,
+                                    "content": "electronicallyoronpaper.TheguidancesetforthinFAB2oo6-03andintheproposalatparagraph(g)is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                456,
+                                858,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        456,
+                                        858,
+                                        483
+                                    ],
+                                    "score": 0.986,
+                                    "content": "reasonableandhasbeenusedformorethanadecade.Wearenot awareofanycontroversyregarding itsuse",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                475,
+                                827,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        475,
+                                        827,
+                                        505
+                                    ],
+                                    "score": 0.985,
+                                    "content": "oranyadverseimpactonplanparticipants.Formanyplansponsors,ashifttoapaperapproachforinitial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                498,
+                                874,
+                                521
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        498,
+                                        874,
+                                        521
+                                    ],
+                                    "score": 0.987,
+                                    "content": "noticesoranelectroniconlyapproachforsubsequentnoticeswillcomeatacost.Ifthe Departmentdetermines",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                516,
+                                880,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        516,
+                                        880,
+                                        543
+                                    ],
+                                    "score": 0.968,
+                                    "content": "nottoamendsection2520.104b-31(d)(4)toprovidesuchadditionalflexibilityweurgetheDepartmenttoprovide",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                536,
+                                873,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        536,
+                                        873,
+                                        563
+                                    ],
+                                    "score": 0.993,
+                                    "content": "atleasttwoyearsfromtheeffectivedateofanysupersessionofpriordisclosure-related guidanceduringwhich",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                556,
+                                833,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        556,
+                                        833,
+                                        583
+                                    ],
+                                    "score": 0.997,
+                                    "content": "plansponsorsandserviceprovidersmayrelyonthepriorguidancetoprovidetimetomakeanynecessary",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                578,
+                                855,
+                                601
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        578,
+                                        855,
+                                        601
+                                    ],
+                                    "score": 0.978,
+                                    "content": "changestoadministrativesystems.\"MultipleElectronicAddresses\"-Withrespecttothephrase“theaddress\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                595,
+                                854,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        595,
+                                        854,
+                                        623
+                                    ],
+                                    "score": 0.993,
+                                    "content": "whileitispossiblethataplanadministratorwillhavebutoneelectronicaddressforacoveredindividual,they",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                615,
+                                835,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        615,
+                                        835,
+                                        644
+                                    ],
+                                    "score": 0.986,
+                                    "content": "mayhavemorethanone.Forexample,aplanadministratormayhaveacoveredindividual's1084Fed.Reg.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                637,
+                                72,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        637,
+                                        72,
+                                        658
+                                    ],
+                                    "score": 0.99,
+                                    "content": "56900.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 15.5,
+                    "bbox_fs": [
+                        13,
+                        19,
+                        880,
+                        658
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

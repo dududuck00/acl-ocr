@@ -1,0 +1,1500 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        16,
+                        881,
+                        685
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                21,
+                                834,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        21,
+                                        834,
+                                        44
+                                    ],
+                                    "score": 0.98,
+                                    "content": "143areas.Inthefirstbidbook,however,itwasnoticeablethatwhatthewholeofGermanyassociatedwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                41,
+                                846,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        41,
+                                        846,
+                                        66
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Chemnitzduring theapplicationphase,i.e.fromAugust2018onward,hardlyplayedaroleintheapplication,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                61,
+                                842,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        61,
+                                        842,
+                                        87
+                                    ],
+                                    "score": 0.986,
+                                    "content": "namelytheriotsofright-wingextremistandpopulistsinAugust2018.Nevertheles,Chemnitzpresentedan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                861,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        861,
+                                        106
+                                    ],
+                                    "score": 0.987,
+                                    "content": "extensiveapplicationoverallanddemonstratedagoodnetworkofculturalactorsinthecityandtheregion,so",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                102,
+                                876,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        102,
+                                        876,
+                                        125
+                                    ],
+                                    "score": 0.997,
+                                    "content": "thattheselectionpanelrecommendedthecityforthenextround.Dresden(droppedoutofcompetitionin2019)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                119,
+                                838,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        119,
+                                        838,
+                                        146
+                                    ],
+                                    "score": 0.976,
+                                    "content": "Underthemoto“New HomeDresden\"(\"Neue Heimat Dresden\"),theSaxoncapitalpresentedconceptsand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                142,
+                                840,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        142,
+                                        840,
+                                        165
+                                    ],
+                                    "score": 0.995,
+                                    "content": "projectsinitsbidbookIthatwereintendedtocounteractthesocialdivisionofthecity.Innumerousartistic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                159,
+                                852,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        159,
+                                        852,
+                                        186
+                                    ],
+                                    "score": 0.984,
+                                    "content": "actions,someofwhichweresupportedbytheprojectoficewithmicrocredits,aswellasinpaneldiscussions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                181,
+                                845,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        181,
+                                        845,
+                                        206
+                                    ],
+                                    "score": 0.982,
+                                    "content": "andparticipativeprojectssuchasapostcardcampaign,theconceptof\"home\"(\"Heimat\")wasplayedwithin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                869,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        869,
+                                        227
+                                    ],
+                                    "score": 0.983,
+                                    "content": "ordertofindnewnarrativesforthecity.Thiswasnotonlyaboutanopenattitudetowardsimmigrants,but also",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                222,
+                                854,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        222,
+                                        854,
+                                        245
+                                    ],
+                                    "score": 0.989,
+                                    "content": "aboutmajorpresentandfuturetasksthatfundamentallchangepeople'slives,suchasdigitisation.Although",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                241,
+                                878,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        241,
+                                        878,
+                                        264
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Dresden'sapproachwashighlyinnovative,relevantandauthentic,variousinfluentialopinionmakerssuchasthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                263,
+                                855,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        263,
+                                        855,
+                                        283
+                                    ],
+                                    "score": 0.987,
+                                    "content": "GermanCulturalCouncil(DeutscherKulturrat2019:14)andtheSuddeutscheZeitung(Heidtmann/Nimz2019:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                280,
+                                838,
+                                309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        280,
+                                        838,
+                                        309
+                                    ],
+                                    "score": 0.982,
+                                    "content": "online)contrastedthetwo Saxoncompeting citiesinaquestionablysimplisticway:poor Chemnitz,whichis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                302,
+                                878,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        302,
+                                        878,
+                                        328
+                                    ],
+                                    "score": 0.975,
+                                    "content": "precededbyaproblematicreputation,versusdazling,privilegedDresden.WhetherDresdenreallydroppedout",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                323,
+                                851,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        323,
+                                        851,
+                                        347
+                                    ],
+                                    "score": 0.989,
+                                    "content": "ofthecompetitionatanearlystageagainstthebackgroundofthissimplisticblack-and-whiteportrayal inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                344,
+                                833,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        344,
+                                        833,
+                                        364
+                                    ],
+                                    "score": 0.986,
+                                    "content": "mediacannotbeproven.Inanycase,manycouldnotunderstandtheselectionpanel'sassessment(seethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                358,
+                                868,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        358,
+                                        868,
+                                        389
+                                    ],
+                                    "score": 0.977,
+                                    "content": "ExpertPanel'sReportofthePre-SelectionStage/Selectionof theEuropeanCapitalofCulture2025inGermany,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                381,
+                                843,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        381,
+                                        843,
+                                        408
+                                    ],
+                                    "score": 0.981,
+                                    "content": "https://ec.europa.eu/programmes/creative-europe/actions/capitals-culture_en,andacommentatJacobsen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                878,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        878,
+                                        428
+                                    ],
+                                    "score": 0.978,
+                                    "content": "2020:22).Gera(droppedoutofcompetitionin2019)TheThuringiancitywithonly95ooinhabitantsdaredtogo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                422,
+                                864,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        422,
+                                        864,
+                                        448
+                                    ],
+                                    "score": 0.99,
+                                    "content": "offthebeatentrack.Anassociationofcommittedcitizensinitiatedtheapplicationandpusheditforwardyears",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                442,
+                                820,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        442,
+                                        820,
+                                        468
+                                    ],
+                                    "score": 0.989,
+                                    "content": "beforethecitymadea-relativelymodest-contributiontotheapplication.Their bidbookIpresentedthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                462,
+                                841,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        462,
+                                        841,
+                                        488
+                                    ],
+                                    "score": 0.986,
+                                    "content": "historicalheritage,andperhapsthiscommonunderstandingoftheinterpretationof thepastwasalreadya",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                482,
+                                822,
+                                508
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        482,
+                                        822,
+                                        508
+                                    ],
+                                    "score": 0.978,
+                                    "content": "benefittothecitysociety.However,toofewfeasiblevisionsofthefuturewerepresented,whichcouldbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                501,
+                                870,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        501,
+                                        870,
+                                        528
+                                    ],
+                                    "score": 0.979,
+                                    "content": "achievedwiththeECoCtitle.Allinall,Gerahadprobablyshowntoolitlecommitmentintheapplicationprocess",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                521,
+                                868,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        521,
+                                        868,
+                                        548
+                                    ],
+                                    "score": 0.988,
+                                    "content": "tomeetthedemandingandfar-reachingrequirements,especiallywithregardtotheothertop-classcompeting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                543,
+                                859,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        543,
+                                        859,
+                                        566
+                                    ],
+                                    "score": 0.998,
+                                    "content": "cities.HanoverThecapitalofLowerSaxonyenteredthecompetitionrelativelylateandthenimmediatelyfaced",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                562,
+                                853,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        562,
+                                        853,
+                                        588
+                                    ],
+                                    "score": 0.978,
+                                    "content": "specialculturalpolicychallnges:anewmayorwaselectedduring thisperiod,andtherewasalsoachangein",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                582,
+                                876,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        582,
+                                        876,
+                                        608
+                                    ],
+                                    "score": 0.994,
+                                    "content": "theculturaladministrationafterafewsquabbles,whentheformerheadoftheculturedepartmentwasbrought",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                601,
+                                851,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        601,
+                                        851,
+                                        627
+                                    ],
+                                    "score": 0.973,
+                                    "content": "tocourt.Nevertheles,HanovermanagedtosubmitanexceptionallyartisticbidbookI,whichwasawardeda",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                622,
+                                810,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        622,
+                                        810,
+                                        647
+                                    ],
+                                    "score": 0.995,
+                                    "content": "prizenotleastforitsdesign.Positiveaspectsofthecontentwereitsdistinct Europeandimensionanda",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                640,
+                                857,
+                                670
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        640,
+                                        857,
+                                        670
+                                    ],
+                                    "score": 0.982,
+                                    "content": "professionallypositionedmanagement,which ledtotheexpectationthattheECoCprogrammewould bevery",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                659,
+                                267,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        659,
+                                        267,
+                                        689
+                                    ],
+                                    "score": 0.962,
+                                    "content": "feasibleinthefairand Expocity.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                697
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        16,
+                        881,
+                        685
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                21,
+                                834,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        21,
+                                        834,
+                                        44
+                                    ],
+                                    "score": 0.98,
+                                    "content": "143areas.Inthefirstbidbook,however,itwasnoticeablethatwhatthewholeofGermanyassociatedwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                41,
+                                846,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        41,
+                                        846,
+                                        66
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Chemnitzduring theapplicationphase,i.e.fromAugust2018onward,hardlyplayedaroleintheapplication,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                61,
+                                842,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        61,
+                                        842,
+                                        87
+                                    ],
+                                    "score": 0.986,
+                                    "content": "namelytheriotsofright-wingextremistandpopulistsinAugust2018.Nevertheles,Chemnitzpresentedan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                861,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        861,
+                                        106
+                                    ],
+                                    "score": 0.987,
+                                    "content": "extensiveapplicationoverallanddemonstratedagoodnetworkofculturalactorsinthecityandtheregion,so",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                102,
+                                876,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        102,
+                                        876,
+                                        125
+                                    ],
+                                    "score": 0.997,
+                                    "content": "thattheselectionpanelrecommendedthecityforthenextround.Dresden(droppedoutofcompetitionin2019)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                119,
+                                838,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        119,
+                                        838,
+                                        146
+                                    ],
+                                    "score": 0.976,
+                                    "content": "Underthemoto“New HomeDresden\"(\"Neue Heimat Dresden\"),theSaxoncapitalpresentedconceptsand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                142,
+                                840,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        142,
+                                        840,
+                                        165
+                                    ],
+                                    "score": 0.995,
+                                    "content": "projectsinitsbidbookIthatwereintendedtocounteractthesocialdivisionofthecity.Innumerousartistic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                159,
+                                852,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        159,
+                                        852,
+                                        186
+                                    ],
+                                    "score": 0.984,
+                                    "content": "actions,someofwhichweresupportedbytheprojectoficewithmicrocredits,aswellasinpaneldiscussions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                181,
+                                845,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        181,
+                                        845,
+                                        206
+                                    ],
+                                    "score": 0.982,
+                                    "content": "andparticipativeprojectssuchasapostcardcampaign,theconceptof\"home\"(\"Heimat\")wasplayedwithin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                869,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        869,
+                                        227
+                                    ],
+                                    "score": 0.983,
+                                    "content": "ordertofindnewnarrativesforthecity.Thiswasnotonlyaboutanopenattitudetowardsimmigrants,but also",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                222,
+                                854,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        222,
+                                        854,
+                                        245
+                                    ],
+                                    "score": 0.989,
+                                    "content": "aboutmajorpresentandfuturetasksthatfundamentallchangepeople'slives,suchasdigitisation.Although",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                241,
+                                878,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        241,
+                                        878,
+                                        264
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Dresden'sapproachwashighlyinnovative,relevantandauthentic,variousinfluentialopinionmakerssuchasthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                263,
+                                855,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        263,
+                                        855,
+                                        283
+                                    ],
+                                    "score": 0.987,
+                                    "content": "GermanCulturalCouncil(DeutscherKulturrat2019:14)andtheSuddeutscheZeitung(Heidtmann/Nimz2019:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                280,
+                                838,
+                                309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        280,
+                                        838,
+                                        309
+                                    ],
+                                    "score": 0.982,
+                                    "content": "online)contrastedthetwo Saxoncompeting citiesinaquestionablysimplisticway:poor Chemnitz,whichis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                302,
+                                878,
+                                328
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        302,
+                                        878,
+                                        328
+                                    ],
+                                    "score": 0.975,
+                                    "content": "precededbyaproblematicreputation,versusdazling,privilegedDresden.WhetherDresdenreallydroppedout",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                323,
+                                851,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        323,
+                                        851,
+                                        347
+                                    ],
+                                    "score": 0.989,
+                                    "content": "ofthecompetitionatanearlystageagainstthebackgroundofthissimplisticblack-and-whiteportrayal inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                344,
+                                833,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        344,
+                                        833,
+                                        364
+                                    ],
+                                    "score": 0.986,
+                                    "content": "mediacannotbeproven.Inanycase,manycouldnotunderstandtheselectionpanel'sassessment(seethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                358,
+                                868,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        358,
+                                        868,
+                                        389
+                                    ],
+                                    "score": 0.977,
+                                    "content": "ExpertPanel'sReportofthePre-SelectionStage/Selectionof theEuropeanCapitalofCulture2025inGermany,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                381,
+                                843,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        381,
+                                        843,
+                                        408
+                                    ],
+                                    "score": 0.981,
+                                    "content": "https://ec.europa.eu/programmes/creative-europe/actions/capitals-culture_en,andacommentatJacobsen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                878,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        878,
+                                        428
+                                    ],
+                                    "score": 0.978,
+                                    "content": "2020:22).Gera(droppedoutofcompetitionin2019)TheThuringiancitywithonly95ooinhabitantsdaredtogo",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                422,
+                                864,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        422,
+                                        864,
+                                        448
+                                    ],
+                                    "score": 0.99,
+                                    "content": "offthebeatentrack.Anassociationofcommittedcitizensinitiatedtheapplicationandpusheditforwardyears",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                442,
+                                820,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        442,
+                                        820,
+                                        468
+                                    ],
+                                    "score": 0.989,
+                                    "content": "beforethecitymadea-relativelymodest-contributiontotheapplication.Their bidbookIpresentedthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                462,
+                                841,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        462,
+                                        841,
+                                        488
+                                    ],
+                                    "score": 0.986,
+                                    "content": "historicalheritage,andperhapsthiscommonunderstandingoftheinterpretationof thepastwasalreadya",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                482,
+                                822,
+                                508
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        482,
+                                        822,
+                                        508
+                                    ],
+                                    "score": 0.978,
+                                    "content": "benefittothecitysociety.However,toofewfeasiblevisionsofthefuturewerepresented,whichcouldbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                501,
+                                870,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        501,
+                                        870,
+                                        528
+                                    ],
+                                    "score": 0.979,
+                                    "content": "achievedwiththeECoCtitle.Allinall,Gerahadprobablyshowntoolitlecommitmentintheapplicationprocess",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                521,
+                                868,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        521,
+                                        868,
+                                        548
+                                    ],
+                                    "score": 0.988,
+                                    "content": "tomeetthedemandingandfar-reachingrequirements,especiallywithregardtotheothertop-classcompeting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                543,
+                                859,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        543,
+                                        859,
+                                        566
+                                    ],
+                                    "score": 0.998,
+                                    "content": "cities.HanoverThecapitalofLowerSaxonyenteredthecompetitionrelativelylateandthenimmediatelyfaced",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                562,
+                                853,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        562,
+                                        853,
+                                        588
+                                    ],
+                                    "score": 0.978,
+                                    "content": "specialculturalpolicychallnges:anewmayorwaselectedduring thisperiod,andtherewasalsoachangein",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                582,
+                                876,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        582,
+                                        876,
+                                        608
+                                    ],
+                                    "score": 0.994,
+                                    "content": "theculturaladministrationafterafewsquabbles,whentheformerheadoftheculturedepartmentwasbrought",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                601,
+                                851,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        601,
+                                        851,
+                                        627
+                                    ],
+                                    "score": 0.973,
+                                    "content": "tocourt.Nevertheles,HanovermanagedtosubmitanexceptionallyartisticbidbookI,whichwasawardeda",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                622,
+                                810,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        622,
+                                        810,
+                                        647
+                                    ],
+                                    "score": 0.995,
+                                    "content": "prizenotleastforitsdesign.Positiveaspectsofthecontentwereitsdistinct Europeandimensionanda",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                640,
+                                857,
+                                670
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        640,
+                                        857,
+                                        670
+                                    ],
+                                    "score": 0.982,
+                                    "content": "professionallypositionedmanagement,which ledtotheexpectationthattheECoCprogrammewould bevery",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                659,
+                                267,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        659,
+                                        267,
+                                        689
+                                    ],
+                                    "score": 0.962,
+                                    "content": "feasibleinthefairand Expocity.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 16,
+                    "bbox_fs": [
+                        14,
+                        21,
+                        878,
+                        689
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

@@ -1,0 +1,520 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    57,
+                    46,
+                    2438,
+                    46,
+                    2438,
+                    1910,
+                    57,
+                    1910
+                ],
+                "score": 0.941
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    49.0,
+                    61.0,
+                    2363.0,
+                    61.0,
+                    2363.0,
+                    125.0,
+                    49.0,
+                    125.0
+                ],
+                "score": 0.995,
+                "text": "CorticalSpecificationandNeuronalMigration27Ingeneral,thesetheoriescanbesimplifiedasmechanisms"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    110.0,
+                    2386.0,
+                    110.0,
+                    2386.0,
+                    192.0,
+                    38.0,
+                    192.0
+                ],
+                "score": 0.988,
+                "text": "operatingatthelevelof theprecursorcelswithineachneocorticalareaandtothoseinfluencedbymigrating"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    166.0,
+                    2420.0,
+                    166.0,
+                    2420.0,
+                    244.0,
+                    41.0,
+                    244.0
+                ],
+                "score": 0.991,
+                "text": "anddifferentiatingneuronsandtoafferentcorticalprojections.Forexample,bothoftheexpansionhypotheses"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    228.0,
+                    2292.0,
+                    228.0,
+                    2292.0,
+                    293.0,
+                    43.0,
+                    293.0
+                ],
+                "score": 0.977,
+                "text": "restondifferentialcellpro-duction,eitherintheradialdomain(i.e.,laminardifferences)orthetangential"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    278.0,
+                    2376.0,
+                    278.0,
+                    2376.0,
+                    355.0,
+                    41.0,
+                    355.0
+                ],
+                "score": 0.979,
+                "text": "domain(i.e.corticalcolumnnumber).Both,therefore,suggestthatisolatedprogramsofneurogenesisalong"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    334.0,
+                    2290.0,
+                    334.0,
+                    2290.0,
+                    407.0,
+                    43.0,
+                    407.0
+                ],
+                "score": 0.985,
+                "text": "theprotomap-specifiedareas yieldtheresult-ingpatternof corticalfoldingmostappreciatedafter birth."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    389.0,
+                    2290.0,
+                    389.0,
+                    2290.0,
+                    461.0,
+                    43.0,
+                    461.0
+                ],
+                "score": 0.989,
+                "text": "Incidentaly,whiletheaxonaltensionhypothesisprimarilyfocusesonforcesgeneratedbydif-ferentiated"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    448.0,
+                    2295.0,
+                    448.0,
+                    2295.0,
+                    520.0,
+                    41.0,
+                    520.0
+                ],
+                "score": 0.993,
+                "text": "neurons,italsoinvokesthearea-specificprojectionandtargetingpatternsthatmustbeconferredtothe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    505.0,
+                    2394.0,
+                    505.0,
+                    2394.0,
+                    577.0,
+                    43.0,
+                    577.0
+                ],
+                "score": 0.996,
+                "text": "neocorticallayersupontheirgenerationfromtheunderlyingprecursorcells.Thus,alltheoriesforgyrification"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    559.0,
+                    2186.0,
+                    559.0,
+                    2186.0,
+                    632.0,
+                    43.0,
+                    632.0
+                ],
+                "score": 0.991,
+                "text": "requireasignificantroleforprecursorcelsinestablishing theregionsthatwilleventu-allyundergo"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    613.0,
+                    2282.0,
+                    613.0,
+                    2282.0,
+                    686.0,
+                    43.0,
+                    686.0
+                ],
+                "score": 0.991,
+                "text": "convolution.Recent studieshaveprovidedaroleforprecursorgeneexpressionanditsconsequenceson"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    668.0,
+                    2329.0,
+                    668.0,
+                    2329.0,
+                    740.0,
+                    43.0,
+                    740.0
+                ],
+                "score": 0.986,
+                "text": "neurogenesisasapredictorof gyrification.Inparticular,akeystudyidentifiedthecell-adhesionmolecules"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    722.0,
+                    2399.0,
+                    722.0,
+                    2399.0,
+                    797.0,
+                    41.0,
+                    797.0
+                ],
+                "score": 0.984,
+                "text": "FLRT1andFLRT3inregulat-ingarea-specificformationofgyriandsulci(DelToroetal.2017).Thesetwogenes"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    781.0,
+                    2365.0,
+                    781.0,
+                    2365.0,
+                    854.0,
+                    43.0,
+                    854.0
+                ],
+                "score": 0.989,
+                "text": "areupregulatedinthelissencephalicmouseneocorticalwallanddown-regulatedinthe gyrencephalicferret"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    838.0,
+                    2318.0,
+                    838.0,
+                    2318.0,
+                    910.0,
+                    43.0,
+                    910.0
+                ],
+                "score": 0.997,
+                "text": "andhumanneocorticalwallinregionsofincipientgyrusformation.Thisstudyshowsthatperturbationsto"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    892.0,
+                    2272.0,
+                    892.0,
+                    2272.0,
+                    965.0,
+                    43.0,
+                    965.0
+                ],
+                "score": 0.982,
+                "text": "lowerthelevelsofFLRT1/3expression leadtofasterneuronalmigrationratesandtoclustersof neurons"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    949.0,
+                    2394.0,
+                    949.0,
+                    2394.0,
+                    1022.0,
+                    46.0,
+                    1022.0
+                ],
+                "score": 0.992,
+                "text": "expressingasimilarleveloftheseadhesionmolecules.Theincreasedradialandtangentialpressurecausedby"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1006.0,
+                    2339.0,
+                    1006.0,
+                    2339.0,
+                    1071.0,
+                    46.0,
+                    1071.0
+                ],
+                "score": 0.988,
+                "text": "theseclusteredneuronsispostulatedto leadtolocalizedformationofagyrus,eveninthenormallysmooth"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    1055.0,
+                    2422.0,
+                    1055.0,
+                    2422.0,
+                    1133.0,
+                    38.0,
+                    1133.0
+                ],
+                "score": 0.993,
+                "text": "mouseneocortex.Anothergenerecentlyidentifiedinthegerminalzonesthatplaysaroleinneocorticalfolding"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1117.0,
+                    2402.0,
+                    1117.0,
+                    2402.0,
+                    1182.0,
+                    43.0,
+                    1182.0
+                ],
+                "score": 0.985,
+                "text": "isTrnp1,whichencodesanuclearproteinpotentiallyinvolvedinchromatinstate(Stahletal.2013).Knockdown"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1174.0,
+                    2209.0,
+                    1174.0,
+                    2209.0,
+                    1239.0,
+                    46.0,
+                    1239.0
+                ],
+                "score": 0.99,
+                "text": "ofTrnp1altersthepatternofcelldivisionintheVZ,causingoverproduc-tionofbIPCsandbRGCs.The"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1226.0,
+                    2300.0,
+                    1226.0,
+                    2300.0,
+                    1298.0,
+                    46.0,
+                    1298.0
+                ],
+                "score": 0.983,
+                "text": "hypothesisofthisstudyis thatincreasesinthenumbersof resultingneurons,andtheirtangentialspread"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1280.0,
+                    2433.0,
+                    1280.0,
+                    2433.0,
+                    1352.0,
+                    43.0,
+                    1352.0
+                ],
+                "score": 0.992,
+                "text": "affordedbytheincreasednumberofbRGCfibers,resultingyrusformationintheoverlyingneocorticalsheet.A"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1337.0,
+                    2222.0,
+                    1337.0,
+                    2222.0,
+                    1409.0,
+                    43.0,
+                    1409.0
+                ],
+                "score": 0.98,
+                "text": "studybydeJuanRomeroetal.(2015)offersperhapsthemost convincing argumentforalink between"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1394.0,
+                    2316.0,
+                    1394.0,
+                    2316.0,
+                    1466.0,
+                    46.0,
+                    1466.0
+                ],
+                "score": 0.981,
+                "text": "diferentialgeneregulationinthegerminalzones,expansionofbRGCs,andformationofoverlyingcortical"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1453.0,
+                    2399.0,
+                    1453.0,
+                    2399.0,
+                    1518.0,
+                    46.0,
+                    1518.0
+                ],
+                "score": 0.982,
+                "text": "convolutions.Inthisstudy,regionsoftheferretneocorticalwallwhichlaterdevelopeitheragyrusorasulcus,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1499.0,
+                    2420.0,
+                    1499.0,
+                    2420.0,
+                    1577.0,
+                    41.0,
+                    1577.0
+                ],
+                "score": 0.986,
+                "text": "wereisolatedatastageinearlydevelop-mentpriortotheformationofthesefolds.Uponmicroarrayprofiling,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1559.0,
+                    2404.0,
+                    1559.0,
+                    2404.0,
+                    1631.0,
+                    43.0,
+                    1631.0
+                ],
+                "score": 0.981,
+                "text": "manyhundredsof genesweredifferentiallyexpressedbetweenthesetwoareas,andclearexpressionofthese"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1616.0,
+                    2321.0,
+                    1616.0,
+                    2321.0,
+                    1683.0,
+                    41.0,
+                    1683.0
+                ],
+                "score": 0.991,
+                "text": "genesintheoSVZinthefuturegyrussitewascon-trastedtothelackoftheirexpressionintheoSVZofthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1673.0,
+                    2430.0,
+                    1673.0,
+                    2430.0,
+                    1737.0,
+                    46.0,
+                    1737.0
+                ],
+                "score": 0.979,
+                "text": "neighboringfuturesulcussite.Inaddition,ahumanRGC-specificgene,ARGAP11B,wasshowntoincreasebasal"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1729.0,
+                    2404.0,
+                    1729.0,
+                    2404.0,
+                    1794.0,
+                    46.0,
+                    1794.0
+                ],
+                "score": 0.994,
+                "text": "precursorproliferationandcorticalfoldingwhenintroducedintothedevelopingmousegerminalzones(Florio"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1781.0,
+                    2407.0,
+                    1781.0,
+                    2407.0,
+                    1851.0,
+                    43.0,
+                    1851.0
+                ],
+                "score": 0.955,
+                "text": "etal.2015).From“TheNeocortex,\"editedbyW.Singer，T.J.SejnowskiandP.Rakic.StrungmannForumReports,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1838.0,
+                    1791.0,
+                    1838.0,
+                    1791.0,
+                    1908.0,
+                    41.0,
+                    1908.0
+                ],
+                "score": 0.984,
+                "text": "vol.27,J.R.Lupp,serieseditor.Cambridge,MA:MITPress.ISBN978-0-262-04324-3"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 1937
+        }
+    }
+]

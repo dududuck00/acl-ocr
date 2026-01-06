@@ -1,0 +1,775 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    55,
+                    219,
+                    2451,
+                    219,
+                    2451,
+                    2452,
+                    55,
+                    2452
+                ],
+                "score": 0.9
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    301,
+                    2230,
+                    397,
+                    2230,
+                    397,
+                    2283,
+                    301,
+                    2283
+                ],
+                "score": 0.83,
+                "latex": "30 \\%"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    607,
+                    1674,
+                    701,
+                    1674,
+                    701,
+                    1726,
+                    607,
+                    1726
+                ],
+                "score": 0.82,
+                "latex": "3 6 \\%"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1269,
+                    1674,
+                    1363,
+                    1674,
+                    1363,
+                    1726,
+                    1269,
+                    1726
+                ],
+                "score": 0.77,
+                "latex": "1 6 \\%"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1574,
+                    1341,
+                    1646,
+                    1341,
+                    1646,
+                    1393,
+                    1574,
+                    1393
+                ],
+                "score": 0.52,
+                "latex": "( 7 \\%"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1370,
+                    1453,
+                    1483,
+                    1453,
+                    1483,
+                    1507,
+                    1370,
+                    1507
+                ],
+                "score": 0.51,
+                "latex": "( 7 5 \\% )"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    219.0,
+                    2418.0,
+                    219.0,
+                    2418.0,
+                    298.0,
+                    39.0,
+                    298.0
+                ],
+                "score": 0.976,
+                "text": "peremployee.Credit Unions Credit Unions(knownin Romaniaunderthename CasedeAjutor Reciproc Houses"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    283.0,
+                    2327.0,
+                    283.0,
+                    2327.0,
+                    349.0,
+                    47.0,
+                    349.0
+                ],
+                "score": 0.988,
+                "text": "ofMutualAid-CAR)areorganisationsofsocialeconomy,legallyestablishedasnon-profitassociations,and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    335.0,
+                    2413.0,
+                    335.0,
+                    2413.0,
+                    409.0,
+                    41.0,
+                    409.0
+                ],
+                "score": 0.979,
+                "text": "havingthepurposeofprovidingsmallinterestloanstoitsmembers,especiallyforconsumerneeds,butalsoto"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    391.0,
+                    2431.0,
+                    391.0,
+                    2431.0,
+                    462.0,
+                    39.0,
+                    462.0
+                ],
+                "score": 0.99,
+                "text": "supportorcoverspecialsituations(i.e.funeralexpenses,mariagecostsetc).Therearetwomaintypesofcredit"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    449.0,
+                    2371.0,
+                    449.0,
+                    2371.0,
+                    515.0,
+                    44.0,
+                    515.0
+                ],
+                "score": 0.984,
+                "text": "unions-of theemployees-CARSCasadeAjutor ReciprocaSalariatilor(whichnowincludealsoself-employed"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    510.0,
+                    2418.0,
+                    510.0,
+                    2418.0,
+                    568.0,
+                    47.0,
+                    568.0
+                ],
+                "score": 0.992,
+                "text": "persons)andoftheretired-CARPCasadeAjutorReciprocaPensionarilor,withtwoseparatelawsthatregulate"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    552.0,
+                    2444.0,
+                    552.0,
+                    2444.0,
+                    632.0,
+                    39.0,
+                    632.0
+                ],
+                "score": 0.993,
+                "text": "them.Thecreditunionsoftheemployeescanonlyconductcreditrelatedactivitieswhilethoseoftheretiredmay"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    610.0,
+                    2314.0,
+                    610.0,
+                    2314.0,
+                    684.0,
+                    41.0,
+                    684.0
+                ],
+                "score": 0.994,
+                "text": "engageinotherservicesfortheirmembers.CARPsplayasignificantroleinthedevelopmentofassociative"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    666.0,
+                    2361.0,
+                    666.0,
+                    2361.0,
+                    743.0,
+                    39.0,
+                    743.0
+                ],
+                "score": 0.994,
+                "text": "feelingforageingpeople,andtheycanbeviablesocio-economicalternativesforcoveringriskslikeexclusion"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    724.0,
+                    2319.0,
+                    724.0,
+                    2319.0,
+                    795.0,
+                    41.0,
+                    795.0
+                ],
+                "score": 0.995,
+                "text": "fromthecreditmarketofpeoplewithlowincome,difficultaccesstohealthandproximityservicesforpoor"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    779.0,
+                    2345.0,
+                    779.0,
+                    2345.0,
+                    853.0,
+                    44.0,
+                    853.0
+                ],
+                "score": 0.975,
+                "text": "elderlypeopleandsupportforpoorpeopleindificultsituations.InRomania,Pensioners'Credit Unionsalso"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    840.0,
+                    2389.0,
+                    840.0,
+                    2389.0,
+                    906.0,
+                    47.0,
+                    906.0
+                ],
+                "score": 0.983,
+                "text": "provideaccesstocertaintypesofsocialservices,someCARPsbeingaccreditedforthispurpose.CARoperates"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    893.0,
+                    2402.0,
+                    893.0,
+                    2402.0,
+                    959.0,
+                    44.0,
+                    959.0
+                ],
+                "score": 0.928,
+                "text": "withitsownfunds,whichunlikecooperatives,arecollctiveandindivisible,withnocapitaldividedintodistinct"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    951.0,
+                    2428.0,
+                    951.0,
+                    2428.0,
+                    1017.0,
+                    44.0,
+                    1017.0
+                ],
+                "score": 0.993,
+                "text": "partsbetweenmembers.Sourceofloansgrantedbycreditunionsisrepresentedbythedepositionofmembers"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    1009.0,
+                    2262.0,
+                    1009.0,
+                    2262.0,
+                    1068.0,
+                    47.0,
+                    1068.0
+                ],
+                "score": 0.986,
+                "text": "intoapersonalaccountcalled\"socialfund\",bearing interest,butwhichdoesnothaveadepositaccount"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1057.0,
+                    2428.0,
+                    1057.0,
+                    2428.0,
+                    1128.0,
+                    44.0,
+                    1128.0
+                ],
+                "score": 0.993,
+                "text": "character.Creditunionsarenon-bankfinancialinstitutions,buttheyhavenotastatusofinstitutionsengagedin"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    1118.0,
+                    2413.0,
+                    1118.0,
+                    2413.0,
+                    1184.0,
+                    47.0,
+                    1184.0
+                ],
+                "score": 0.926,
+                "text": "lendingactivities,onaprofessionalbasis.Theyarinancial,butnotcreditinstitutionsandthelegalframework"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    1173.0,
+                    2288.0,
+                    1173.0,
+                    2288.0,
+                    1239.0,
+                    47.0,
+                    1239.0
+                ],
+                "score": 0.993,
+                "text": "prohibitsgrantingcreditstolegalentitiesandcolectingdeposits.Theyarerequiredtoberegisteredwith"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1226.0,
+                    2389.0,
+                    1226.0,
+                    2389.0,
+                    1292.0,
+                    44.0,
+                    1292.0
+                ],
+                "score": 0.987,
+                "text": "NationalBankofRomaniaRegister,andtheirbusinessissupervisedbytheCentralBank.Activityrelatedtothe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1284.0,
+                    2441.0,
+                    1284.0,
+                    2441.0,
+                    1350.0,
+                    44.0,
+                    1350.0
+                ],
+                "score": 0.989,
+                "text": "workperformedbythecreditunionsisexemptfromtaxesandfees.IntheNBRRegister,attheendof2010were"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1334.0,
+                    1573.0,
+                    1334.0,
+                    1573.0,
+                    1406.0,
+                    41.0,
+                    1406.0
+                ],
+                "score": 0.971,
+                "text": "recorded2983credit unions,fromwhich203Pensioners'Credit Unions("
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1647.0,
+                    1334.0,
+                    2335.0,
+                    1334.0,
+                    2335.0,
+                    1406.0,
+                    1647.0,
+                    1406.0
+                ],
+                "score": 0.993,
+                "text": "fromtotal)and2780Employees"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    1393.0,
+                    2431.0,
+                    1393.0,
+                    2431.0,
+                    1459.0,
+                    47.0,
+                    1459.0
+                ],
+                "score": 0.992,
+                "text": "CreditUnions.TherecordsoftheNationalAssociationofEmployees'CreditUnions(UNCARS)includedanumber"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    1443.0,
+                    1369.0,
+                    1443.0,
+                    1369.0,
+                    1520.0,
+                    39.0,
+                    1520.0
+                ],
+                "score": 0.972,
+                "text": "of2083credit unionsbelongingtoUNCARSattheendof2010"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1484.0,
+                    1443.0,
+                    2439.0,
+                    1443.0,
+                    2439.0,
+                    1520.0,
+                    1484.0,
+                    1520.0
+                ],
+                "score": 0.984,
+                "text": ",therestof 697creditunionsbeingaffiliated"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1506.0,
+                    2433.0,
+                    1506.0,
+                    2433.0,
+                    1572.0,
+                    44.0,
+                    1572.0
+                ],
+                "score": 0.974,
+                "text": "tootherfederations,ornoafiliated,andmostofthembelongingtotheemployeesfrommilitaryunits,policeor"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    1562.0,
+                    2397.0,
+                    1562.0,
+                    2397.0,
+                    1628.0,
+                    47.0,
+                    1628.0
+                ],
+                "score": 0.988,
+                "text": "otherstructuresofcentraladministration.Oneofthemostremarkableissueregardingcreditunions,itis that"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1617.0,
+                    2402.0,
+                    1617.0,
+                    2402.0,
+                    1683.0,
+                    44.0,
+                    1683.0
+                ],
+                "score": 0.989,
+                "text": "fromalltheassociativeformsofsocialeconomytheyhavethebiggestnumberofmembers(around3,2million"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    1670.0,
+                    606.0,
+                    1670.0,
+                    606.0,
+                    1739.0,
+                    39.0,
+                    1739.0
+                ],
+                "score": 0.998,
+                "text": "persons).Apercentageof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    702.0,
+                    1670.0,
+                    1268.0,
+                    1670.0,
+                    1268.0,
+                    1739.0,
+                    702.0,
+                    1739.0
+                ],
+                "score": 0.987,
+                "text": "fromtotal pensionersand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1364.0,
+                    1670.0,
+                    2386.0,
+                    1670.0,
+                    2386.0,
+                    1739.0,
+                    1364.0,
+                    1739.0
+                ],
+                "score": 0.984,
+                "text": "fromtotal employeesweremembersinacredit"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    1726.0,
+                    2371.0,
+                    1726.0,
+                    2371.0,
+                    1797.0,
+                    39.0,
+                    1797.0
+                ],
+                "score": 0.997,
+                "text": "unionattheendof2010inRomania.ShelteredworkshopsShelteredworkshopsareconsideredtobepartof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1784.0,
+                    2444.0,
+                    1784.0,
+                    2444.0,
+                    1850.0,
+                    44.0,
+                    1850.0
+                ],
+                "score": 0.991,
+                "text": "socialeconomy,inparticularthosefunctioningintheframeworkofassociationsandfoundationsthatthusmeet"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1839.0,
+                    2249.0,
+                    1839.0,
+                    2249.0,
+                    1905.0,
+                    44.0,
+                    1905.0
+                ],
+                "score": 0.997,
+                "text": "thesocialeconomy/socialenterprisecriteria.TheyareinmanywayssimilartoWorkIntegrationSocial"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1887.0,
+                    2345.0,
+                    1887.0,
+                    2345.0,
+                    1964.0,
+                    41.0,
+                    1964.0
+                ],
+                "score": 0.976,
+                "text": "Enterprises-WISEandassuch havebeenalsoincludedinCIRIECreport201217for Romaniacase(under the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1950.0,
+                    2277.0,
+                    1950.0,
+                    2277.0,
+                    2016.0,
+                    44.0,
+                    2016.0
+                ],
+                "score": 0.992,
+                "text": "nameofauthorizedprotectedunits).Shelteredworkshops,organizationswithanimportantroleinwork"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    2006.0,
+                    2322.0,
+                    2006.0,
+                    2322.0,
+                    2072.0,
+                    44.0,
+                    2072.0
+                ],
+                "score": 0.991,
+                "text": "integrationofpeoplewithdisabilities,areorganizationalformsveryclosetothemodelofworkintegration"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    2061.0,
+                    2350.0,
+                    2061.0,
+                    2350.0,
+                    2127.0,
+                    44.0,
+                    2127.0
+                ],
+                "score": 0.995,
+                "text": "socialenterprise.Theyareestablished,authorizedandfunctionaccordingtotheLaw448/6December2006"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    2114.0,
+                    2327.0,
+                    2114.0,
+                    2327.0,
+                    2185.0,
+                    39.0,
+                    2185.0
+                ],
+                "score": 0.984,
+                "text": "regarding theprotectionandthepromotionof therightsofpersonswithdisabilities.According tothislaw,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    2172.0,
+                    2423.0,
+                    2172.0,
+                    2423.0,
+                    2238.0,
+                    47.0,
+                    2238.0
+                ],
+                "score": 0.995,
+                "text": "shelteredworkshopsareindependentorganizationsorsectionswithownmanagementinorganizations,which"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    2228.0,
+                    300.0,
+                    2228.0,
+                    300.0,
+                    2294.0,
+                    47.0,
+                    2294.0
+                ],
+                "score": 0.964,
+                "text": "hasat least"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    398.0,
+                    2228.0,
+                    2270.0,
+                    2228.0,
+                    2270.0,
+                    2294.0,
+                    398.0,
+                    2294.0
+                ],
+                "score": 0.99,
+                "text": "employeeswithdisabilitiesworkingwithindividuallaborcontractinthetotalnumberof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    2283.0,
+                    2439.0,
+                    2283.0,
+                    2439.0,
+                    2349.0,
+                    47.0,
+                    2349.0
+                ],
+                "score": 0.989,
+                "text": "employees.Shelteredworkshopsareaccessibletodifferentlegalforms(forprofitcompanies,17CIRIEC-Centre"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    2331.0,
+                    2433.0,
+                    2331.0,
+                    2433.0,
+                    2410.0,
+                    39.0,
+                    2410.0
+                ],
+                "score": 0.976,
+                "text": "Internationalderecherchesetd'informationsurl'économiepublique,socialeetcooperative(2012):LuisMonzon"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    2397.0,
+                    1768.0,
+                    2397.0,
+                    1768.0,
+                    2463.0,
+                    47.0,
+                    2463.0
+                ],
+                "score": 0.976,
+                "text": "Campos&RafaelChavesAvila,ThesocialeconomyintheEuropeanUnion\",p.42."
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 2492
+        }
+    }
+]

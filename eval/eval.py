@@ -54,15 +54,13 @@ def cal_per_metrics(image, pred, gt):
     hypothesis = set(hypothesis)
     metrics["f_measure"] = f_measure(reference, hypothesis)
 
-    metrics["precision"] = precision(reference, hypothesis)
-    metrics["recall"] = recall(reference, hypothesis)
-    metrics["edit_dist"] = nltk.edit_distance(pred, gt) / max(len(pred), len(gt))
-    
-    # print(f"Image: {image}, BLEU: {metrics['bleu']:.4f}, METEOR: {metrics['meteor']:.4f}, F-measure: {metrics['f_measure']:.4f}, Precision: {metrics['precision']:.4f}, Recall: {metrics['recall']:.4f}, Edit Distance: {metrics['edit_dist']:.4f}")
+    metrics["precision"] = precision(reference, hypothesis) or 0.0
+    metrics["recall"] = recall(reference, hypothesis) or 0.0
+    metrics["f_measure"] = f_measure(reference, hypothesis) or 0.0
     
     return metrics
 
-def eval(predicts, max_workers=8):
+def eval(predicts, max_workers=8, predict_file=""):
     """
     对预测结果文件进行评估，计算整体的评估指标
     批量评估OCR预测结果并计算平均指标
@@ -81,10 +79,17 @@ def eval(predicts, max_workers=8):
     
     with ProcessPoolExecutor(max_workers=max_workers) as executor:
         # 提交所有任务，并保存 future 到 image 的映射
-        future_to_pred = {
-            executor.submit(cal_per_metrics, pred["image"], pred["ocr_text"], pred["gt_text"]): pred
-            for pred in predicts
-        }
+        if "distort" in predict_file or "replace" in predict_file:
+            future_to_pred = {
+                executor.submit(cal_per_metrics, pred["image"], pred["ocr_text"], pred["distorted_text"]): pred
+                for pred in predicts
+            }
+        else:
+            future_to_pred = {
+                executor.submit(cal_per_metrics, pred["image"], pred["ocr_text"], pred["gt_text"]): pred
+                for pred in predicts
+            }
+
         # 使用 as_completed 配合 tqdm 显示进度
         for future in tqdm(as_completed(future_to_pred), total=len(predicts), desc="评估进度", unit="样本"):
             try:
@@ -99,7 +104,6 @@ def eval(predicts, max_workers=8):
         eval_results,
         key=lambda x: int(x["image"].split("_")[-1].split(".")[0])
     )
-    
     
     mean_dict = {}
     mean_dict["eval question num"] = len(eval_results)
@@ -141,7 +145,7 @@ def main(args):
     # TODO debug only
     # predict_data = predict_data[:8] # 测试代码, 运行时删除此行
         
-    results, mean_dict = eval(predict_data, max_workers=args.max_workers)
+    results, mean_dict = eval(predict_data, max_workers=args.max_workers, predict_file=args.predict_file)
     # 将image相同的评估结果保存到原始预测结果中
     for item in predict_data:
         image = item["image"]
@@ -160,10 +164,12 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Evaluate OCR Predictions")
     parser.add_argument("--predict_file", type=str, required=True, help="Path to the OCR predictions JSON file")
-    parser.add_argument("--output_file", type=str, required=True, help="Path to save the evaluation results JSON file")
-    parser.add_argument("--max_workers", type=int, default=32, help="Number of parallel workers for evaluation")
+    parser.add_argument("--output_file", type=str, required=False, help="Path to save the evaluation results JSON file")
+    parser.add_argument("--max_workers", type=int, default=64, help="Number of parallel workers for evaluation")
     
     args = parser.parse_args()
+    if args.output_file is None:
+        args.output_file = args.predict_file.replace(".json", "_eval.json")
     main(args)
     
 # python eval/eval.py --predict_file ./results/fox/en_png_tiny.json --output_file ./results/eval/en_png_tiny_eval.json

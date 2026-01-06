@@ -1,0 +1,1720 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        0,
+                        880,
+                        744
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                21,
+                                848,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        21,
+                                        848,
+                                        45
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Compartmentalising thetankcansignificantlyreducetheeffectofslosh byallowingthecompartmentstobe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                43,
+                                811,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        43,
+                                        811,
+                                        64
+                                    ],
+                                    "score": 0.991,
+                                    "content": "unloadedoneatatime.Onlyaproportionoftheloadisfreetosloshatanyonetimeandsotheeffect is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                61,
+                                858,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        61,
+                                        497,
+                                        85
+                                    ],
+                                    "score": 0.978,
+                                    "content": "reduced.Ithasbeenshown(UMTRI,20o1)thatifnomorethan",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        498,
+                                        62,
+                                        532,
+                                        81
+                                    ],
+                                    "score": 0.83,
+                                    "content": "20 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        533,
+                                        61,
+                                        858,
+                                        85
+                                    ],
+                                    "score": 0.996,
+                                    "content": "ofthetotalloadisfreetosloshatanyone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                864,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        864,
+                                        105
+                                    ],
+                                    "score": 0.981,
+                                    "content": "timetherolloverstabilityofthepartiallyloadedvehiclewillalwaysbegreaterthanthatofafullyloadedvehicle.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                101,
+                                837,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        101,
+                                        837,
+                                        125
+                                    ],
+                                    "score": 0.984,
+                                    "content": "CurrentNewZealandregulationsforhazardousgoodstransportrequirecompartmentsoflessthan10,000",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                823,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        823,
+                                        144
+                                    ],
+                                    "score": 0.98,
+                                    "content": "litresiffittedwithbaffles(thesearetransversebafes)orlessthan7,oolitresifnotfitedwithbaffles.In",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                816,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        816,
+                                        165
+                                    ],
+                                    "score": 0.997,
+                                    "content": "practicethismeansthattypicalpetroltankersemi-trailershavemorethanfivecompartmentsandthus,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                850,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        850,
+                                        185
+                                    ],
+                                    "score": 0.978,
+                                    "content": "providedtheyareunloadedcorrectly,willalwayshavebetterrolloverstabilitywhenpartiallyladenthanwhen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                867,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        867,
+                                        205
+                                    ],
+                                    "score": 0.98,
+                                    "content": "fullladen.Thisisnotnecessarilythecasefortankersnotcarryinghazardousgoods.Tofacilitatecleaning,milk",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                198,
+                                834,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        198,
+                                        834,
+                                        226
+                                    ],
+                                    "score": 0.989,
+                                    "content": "tankersaregenerallynotcompartmentalised.Theyareusuallyfitedwith bafflesbutonlyinthetransverse",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                220,
+                                867,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        220,
+                                        867,
+                                        245
+                                    ],
+                                    "score": 0.992,
+                                    "content": "direction.Intheirfavourmostoftheirtraveldistanceisdonewiththetankeitheremptyorfullladen.Hanging",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                240,
+                                872,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        240,
+                                        872,
+                                        264
+                                    ],
+                                    "score": 0.992,
+                                    "content": "MeatLoadsInhangingmeatloads,themeatissuspendedbyhooksonrailssuspendedfromtheceiling orwalls",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                259,
+                                794,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        259,
+                                        794,
+                                        286
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ofarefrigeratedvanbody.InNew Zealandtherearetwobasictypesofvehicleconfigurationusedfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                838,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        838,
+                                        304
+                                    ],
+                                    "score": 0.995,
+                                    "content": "transportinghangingmeat.Thefirstoftheseisadedicatedvehicleinwhichcasetherailsrunlongitudinally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                299,
+                                876,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        299,
+                                        876,
+                                        326
+                                    ],
+                                    "score": 0.979,
+                                    "content": "alongthelengthofthevehiclewith,typically，fiverailsacrossthewidthofthevehicle.Thesevehiclesaretypically",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                871,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        871,
+                                        346
+                                    ],
+                                    "score": 0.983,
+                                    "content": "alitleover2mfromfloortoceiling becausethedriverhastobeabletoreachtherailstotakecarcassesonand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                338,
+                                861,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        338,
+                                        861,
+                                        367
+                                    ],
+                                    "score": 0.984,
+                                    "content": "off.Twoof thevehicle/loadsweinspectedwereofthistype(seeFigure4andFigure5).Inboththesecasesthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                359,
+                                794,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        359,
+                                        220,
+                                        384
+                                    ],
+                                    "score": 0.974,
+                                    "content": "floor-to-ceiling height was",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        221,
+                                        361,
+                                        261,
+                                        380
+                                    ],
+                                    "score": 0.35,
+                                    "content": "2 . 1 \\mathsf { m }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        261,
+                                        359,
+                                        794,
+                                        384
+                                    ],
+                                    "score": 0.997,
+                                    "content": "Thealternativeisageneral-purposevehicleinwhichcaseremovable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                860,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        860,
+                                        404
+                                    ],
+                                    "score": 0.993,
+                                    "content": "cross-beamsarefitedwithslotsthatactastransverserails.Asinglelongitudinalrailisusedasafeedertothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                399,
+                                873,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        399,
+                                        873,
+                                        424
+                                    ],
+                                    "score": 0.984,
+                                    "content": "transverserails.Thethirdloadweinspectedwasof this typeasshowninFigure6.Thefeederrailrunsalong the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                419,
+                                865,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        419,
+                                        865,
+                                        446
+                                    ],
+                                    "score": 0.987,
+                                    "content": "lefthandsideofthevehicle.General-purposevehiclestypicallyhaveagreaterinternalheightoalowforother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                441,
+                                875,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        441,
+                                        875,
+                                        465
+                                    ],
+                                    "score": 0.995,
+                                    "content": "highvolumeloadsbutthehangingmeatrailsarehungataheightwherethedrivercanreachthemandsothere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                867,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        867,
+                                        484
+                                    ],
+                                    "score": 0.988,
+                                    "content": "isrelativelylittedifferenceinpayloadheightbetweenthesevehicleswhencarryingahangingmeatload.Inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                480,
+                                844,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        480,
+                                        844,
+                                        506
+                                    ],
+                                    "score": 0.995,
+                                    "content": "particularexampleshowninFigure6thetransversebeamsare2.25mabovethefloor.Broadlyspeaking,the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                499,
+                                844,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        499,
+                                        844,
+                                        525
+                                    ],
+                                    "score": 0.987,
+                                    "content": "transportof hangingmeatcanbecategorisedasinvolvingoneoftwofreighttasks;thelinehaultaskwhere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                521,
+                                854,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        521,
+                                        854,
+                                        545
+                                    ],
+                                    "score": 0.995,
+                                    "content": "meatismovedfromameatprocessingfacilitytoacoolstoreordistributioncentreandthelocaldeliverytask",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                862,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        862,
+                                        564
+                                    ],
+                                    "score": 0.995,
+                                    "content": "wheremeatismovedfromadistributioncentretoretailoutletssuchassupermarketsorbutchers'shops.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                557,
+                                868,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        557,
+                                        868,
+                                        588
+                                    ],
+                                    "score": 0.983,
+                                    "content": "linehaultask generallyinvolvesfullvehicleloadsofasinglespecieswhilelocaldeliveryvehiclesmaycarryamix",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                579,
+                                830,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        579,
+                                        830,
+                                        605
+                                    ],
+                                    "score": 0.986,
+                                    "content": "ofspeciesandmaymakemultiplestopssothat,atleastsomeofthetime,theyareonlypartiallyloaded.In",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                878,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        878,
+                                        627
+                                    ],
+                                    "score": 0.991,
+                                    "content": "practicethisdistinctionisnotsoclearcut.Linehauloadsmayinvolvemultipledrop-offpointssothatsignificant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                616,
+                                875,
+                                650
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        616,
+                                        875,
+                                        650
+                                    ],
+                                    "score": 0.994,
+                                    "content": "partsofthejourneyaredonewithpart-loads.Localdeliveryoperationsarenotlimitedtourbandrivingandmay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                639,
+                                845,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        639,
+                                        845,
+                                        665
+                                    ],
+                                    "score": 0.984,
+                                    "content": "involveopen-roadspeedswithhigh-speedcorneringsorolloverstabilityis importantfor theseloadsas well.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                659,
+                                876,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        659,
+                                        876,
+                                        686
+                                    ],
+                                    "score": 0.996,
+                                    "content": "Figure4showsalinehaulloadofpigcarcasseswhichwastransportedfromtheSouthIslandtoAuckland.Inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                878,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        878,
+                                        705
+                                    ],
+                                    "score": 0.992,
+                                    "content": "casepartsoftheloadweredeliveredtoseveralNorth Islandcentreen-routesothattheloadasphotographedis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                700,
+                                876,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        700,
+                                        876,
+                                        725
+                                    ],
+                                    "score": 0.996,
+                                    "content": "onlyapart-load.Figure5showsatypicallocaldeliveryhangingmeatloadshowingthelesstightpackingandthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                721,
+                                483,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        721,
+                                        483,
+                                        744
+                                    ],
+                                    "score": 0.969,
+                                    "content": "mixtureofspecies,whileFigure6isalsoa linehaul part load.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                755
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        0,
+                        880,
+                        744
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                21,
+                                848,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        21,
+                                        848,
+                                        45
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Compartmentalising thetankcansignificantlyreducetheeffectofslosh byallowingthecompartmentstobe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                43,
+                                811,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        43,
+                                        811,
+                                        64
+                                    ],
+                                    "score": 0.991,
+                                    "content": "unloadedoneatatime.Onlyaproportionoftheloadisfreetosloshatanyonetimeandsotheeffect is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                61,
+                                858,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        61,
+                                        497,
+                                        85
+                                    ],
+                                    "score": 0.978,
+                                    "content": "reduced.Ithasbeenshown(UMTRI,20o1)thatifnomorethan",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        498,
+                                        62,
+                                        532,
+                                        81
+                                    ],
+                                    "score": 0.83,
+                                    "content": "20 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        533,
+                                        61,
+                                        858,
+                                        85
+                                    ],
+                                    "score": 0.996,
+                                    "content": "ofthetotalloadisfreetosloshatanyone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                864,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        864,
+                                        105
+                                    ],
+                                    "score": 0.981,
+                                    "content": "timetherolloverstabilityofthepartiallyloadedvehiclewillalwaysbegreaterthanthatofafullyloadedvehicle.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                101,
+                                837,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        101,
+                                        837,
+                                        125
+                                    ],
+                                    "score": 0.984,
+                                    "content": "CurrentNewZealandregulationsforhazardousgoodstransportrequirecompartmentsoflessthan10,000",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                823,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        823,
+                                        144
+                                    ],
+                                    "score": 0.98,
+                                    "content": "litresiffittedwithbaffles(thesearetransversebafes)orlessthan7,oolitresifnotfitedwithbaffles.In",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                816,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        816,
+                                        165
+                                    ],
+                                    "score": 0.997,
+                                    "content": "practicethismeansthattypicalpetroltankersemi-trailershavemorethanfivecompartmentsandthus,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                850,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        850,
+                                        185
+                                    ],
+                                    "score": 0.978,
+                                    "content": "providedtheyareunloadedcorrectly,willalwayshavebetterrolloverstabilitywhenpartiallyladenthanwhen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                867,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        867,
+                                        205
+                                    ],
+                                    "score": 0.98,
+                                    "content": "fullladen.Thisisnotnecessarilythecasefortankersnotcarryinghazardousgoods.Tofacilitatecleaning,milk",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                198,
+                                834,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        198,
+                                        834,
+                                        226
+                                    ],
+                                    "score": 0.989,
+                                    "content": "tankersaregenerallynotcompartmentalised.Theyareusuallyfitedwith bafflesbutonlyinthetransverse",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                220,
+                                867,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        220,
+                                        867,
+                                        245
+                                    ],
+                                    "score": 0.992,
+                                    "content": "direction.Intheirfavourmostoftheirtraveldistanceisdonewiththetankeitheremptyorfullladen.Hanging",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                240,
+                                872,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        240,
+                                        872,
+                                        264
+                                    ],
+                                    "score": 0.992,
+                                    "content": "MeatLoadsInhangingmeatloads,themeatissuspendedbyhooksonrailssuspendedfromtheceiling orwalls",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                259,
+                                794,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        259,
+                                        794,
+                                        286
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ofarefrigeratedvanbody.InNew Zealandtherearetwobasictypesofvehicleconfigurationusedfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                281,
+                                838,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        281,
+                                        838,
+                                        304
+                                    ],
+                                    "score": 0.995,
+                                    "content": "transportinghangingmeat.Thefirstoftheseisadedicatedvehicleinwhichcasetherailsrunlongitudinally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                299,
+                                876,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        299,
+                                        876,
+                                        326
+                                    ],
+                                    "score": 0.979,
+                                    "content": "alongthelengthofthevehiclewith,typically，fiverailsacrossthewidthofthevehicle.Thesevehiclesaretypically",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                871,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        871,
+                                        346
+                                    ],
+                                    "score": 0.983,
+                                    "content": "alitleover2mfromfloortoceiling becausethedriverhastobeabletoreachtherailstotakecarcassesonand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                338,
+                                861,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        338,
+                                        861,
+                                        367
+                                    ],
+                                    "score": 0.984,
+                                    "content": "off.Twoof thevehicle/loadsweinspectedwereofthistype(seeFigure4andFigure5).Inboththesecasesthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                359,
+                                794,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        359,
+                                        220,
+                                        384
+                                    ],
+                                    "score": 0.974,
+                                    "content": "floor-to-ceiling height was",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        221,
+                                        361,
+                                        261,
+                                        380
+                                    ],
+                                    "score": 0.35,
+                                    "content": "2 . 1 \\mathsf { m }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        261,
+                                        359,
+                                        794,
+                                        384
+                                    ],
+                                    "score": 0.997,
+                                    "content": "Thealternativeisageneral-purposevehicleinwhichcaseremovable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                860,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        860,
+                                        404
+                                    ],
+                                    "score": 0.993,
+                                    "content": "cross-beamsarefitedwithslotsthatactastransverserails.Asinglelongitudinalrailisusedasafeedertothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                399,
+                                873,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        399,
+                                        873,
+                                        424
+                                    ],
+                                    "score": 0.984,
+                                    "content": "transverserails.Thethirdloadweinspectedwasof this typeasshowninFigure6.Thefeederrailrunsalong the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                419,
+                                865,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        419,
+                                        865,
+                                        446
+                                    ],
+                                    "score": 0.987,
+                                    "content": "lefthandsideofthevehicle.General-purposevehiclestypicallyhaveagreaterinternalheightoalowforother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                441,
+                                875,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        441,
+                                        875,
+                                        465
+                                    ],
+                                    "score": 0.995,
+                                    "content": "highvolumeloadsbutthehangingmeatrailsarehungataheightwherethedrivercanreachthemandsothere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                867,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        867,
+                                        484
+                                    ],
+                                    "score": 0.988,
+                                    "content": "isrelativelylittedifferenceinpayloadheightbetweenthesevehicleswhencarryingahangingmeatload.Inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                480,
+                                844,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        480,
+                                        844,
+                                        506
+                                    ],
+                                    "score": 0.995,
+                                    "content": "particularexampleshowninFigure6thetransversebeamsare2.25mabovethefloor.Broadlyspeaking,the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                499,
+                                844,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        499,
+                                        844,
+                                        525
+                                    ],
+                                    "score": 0.987,
+                                    "content": "transportof hangingmeatcanbecategorisedasinvolvingoneoftwofreighttasks;thelinehaultaskwhere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                521,
+                                854,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        521,
+                                        854,
+                                        545
+                                    ],
+                                    "score": 0.995,
+                                    "content": "meatismovedfromameatprocessingfacilitytoacoolstoreordistributioncentreandthelocaldeliverytask",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                862,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        862,
+                                        564
+                                    ],
+                                    "score": 0.995,
+                                    "content": "wheremeatismovedfromadistributioncentretoretailoutletssuchassupermarketsorbutchers'shops.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                557,
+                                868,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        557,
+                                        868,
+                                        588
+                                    ],
+                                    "score": 0.983,
+                                    "content": "linehaultask generallyinvolvesfullvehicleloadsofasinglespecieswhilelocaldeliveryvehiclesmaycarryamix",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                579,
+                                830,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        579,
+                                        830,
+                                        605
+                                    ],
+                                    "score": 0.986,
+                                    "content": "ofspeciesandmaymakemultiplestopssothat,atleastsomeofthetime,theyareonlypartiallyloaded.In",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                878,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        878,
+                                        627
+                                    ],
+                                    "score": 0.991,
+                                    "content": "practicethisdistinctionisnotsoclearcut.Linehauloadsmayinvolvemultipledrop-offpointssothatsignificant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                616,
+                                875,
+                                650
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        616,
+                                        875,
+                                        650
+                                    ],
+                                    "score": 0.994,
+                                    "content": "partsofthejourneyaredonewithpart-loads.Localdeliveryoperationsarenotlimitedtourbandrivingandmay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                639,
+                                845,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        639,
+                                        845,
+                                        665
+                                    ],
+                                    "score": 0.984,
+                                    "content": "involveopen-roadspeedswithhigh-speedcorneringsorolloverstabilityis importantfor theseloadsas well.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                659,
+                                876,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        659,
+                                        876,
+                                        686
+                                    ],
+                                    "score": 0.996,
+                                    "content": "Figure4showsalinehaulloadofpigcarcasseswhichwastransportedfromtheSouthIslandtoAuckland.Inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                878,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        878,
+                                        705
+                                    ],
+                                    "score": 0.992,
+                                    "content": "casepartsoftheloadweredeliveredtoseveralNorth Islandcentreen-routesothattheloadasphotographedis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                700,
+                                876,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        700,
+                                        876,
+                                        725
+                                    ],
+                                    "score": 0.996,
+                                    "content": "onlyapart-load.Figure5showsatypicallocaldeliveryhangingmeatloadshowingthelesstightpackingandthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                721,
+                                483,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        721,
+                                        483,
+                                        744
+                                    ],
+                                    "score": 0.969,
+                                    "content": "mixtureofspecies,whileFigure6isalsoa linehaul part load.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 17.5,
+                    "bbox_fs": [
+                        12,
+                        21,
+                        878,
+                        744
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

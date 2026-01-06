@@ -1,0 +1,2204 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        16,
+                        136,
+                        880,
+                        1105
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                140,
+                                836,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        140,
+                                        836,
+                                        164
+                                    ],
+                                    "score": 0.983,
+                                    "content": "thantheonetheBSOuses,butitssoundwasasprominentinthehallasitisinTelarcrecordings.Thehall's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                790,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        790,
+                                        185
+                                    ],
+                                    "score": 0.988,
+                                    "content": "soundiswarmandbass-heavy,andthestageshellactsasagiantmegaphone.Telarc'sprincipalbass",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                844,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        844,
+                                        204
+                                    ],
+                                    "score": 0.989,
+                                    "content": "contributionseemstobepreciseplacementandorientationofthebassdrumatstagecentertoensurethat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                202,
+                                808,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        202,
+                                        808,
+                                        225
+                                    ],
+                                    "score": 0.987,
+                                    "content": "stage-areareflectionsrein-forcerather thancancelitsoutput.Thedrumwas hitonitsreardiaphragm,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                220,
+                                845,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        220,
+                                        845,
+                                        246
+                                    ],
+                                    "score": 0.988,
+                                    "content": "launchingpositive-pressurewavesintothehall(Whenabassdrumisstruckonthefront,muchoftheinitial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                855,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        855,
+                                        267
+                                    ],
+                                    "score": 0.992,
+                                    "content": "wavefrontisararefaction.)Ambience-wise,thehallisabittoodeadwithanau-diencebutisvirtuallyidealfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                865,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        865,
+                                        286
+                                    ],
+                                    "score": 0.993,
+                                    "content": "recordingwhenempty.MusicHallhasheavilyupholsteredseatswithasoft,ab-sorbentexterior;consequently",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                280,
+                                840,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        280,
+                                        840,
+                                        307
+                                    ],
+                                    "score": 0.966,
+                                    "content": "theacoustics,unlikeBoston'sSymphonyHallandSandersTheater,don'tbe-comeexcessivelylivewhenthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                301,
+                                865,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        301,
+                                        865,
+                                        325
+                                    ],
+                                    "score": 0.992,
+                                    "content": "audiencegoeshome.JackRennerandconductorErichKunzelcreditthehal'sacousticsforthesuccessoftheir",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                836,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        836,
+                                        345
+                                    ],
+                                    "score": 0.992,
+                                    "content": "recordings,andTelarcwantstoinstallapermanentmonitoringroominCincinnati'sMusicHallforusewith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                860,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        860,
+                                        367
+                                    ],
+                                    "score": 0.998,
+                                    "content": "recordingprojectsotherthanthePops.Theorchestrawasrecordedwiththreeomnidirec-tionalmikesontall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                360,
+                                867,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        360,
+                                        867,
+                                        387
+                                    ],
+                                    "score": 0.99,
+                                    "content": "standsatthelipofthestage(surprisinglyclosetothefrontoftheorchestra),plustwoambiencemikesonvery",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                378,
+                                870,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        378,
+                                        870,
+                                        407
+                                    ],
+                                    "score": 0.977,
+                                    "content": "tallstandsinthecross-aisle,halfwaybackinthehallForpopsrepertoirethemainmikesaremountedrelatively",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                398,
+                                848,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        398,
+                                        848,
+                                        426
+                                    ],
+                                    "score": 0.99,
+                                    "content": "lowandclose,eightorninefeetabovethestagefloorandjustbehindthecon-ductor,toenhancedetail.For",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                420,
+                                856,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        420,
+                                        856,
+                                        445
+                                    ],
+                                    "score": 0.988,
+                                    "content": "al-classicalrepertoiretheyaremovedafoothigherandafewinchesfartheraway,toachieveamoreblended",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                440,
+                                800,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        440,
+                                        800,
+                                        465
+                                    ],
+                                    "score": 0.97,
+                                    "content": "sound.Spotmikesmaybeaddedto bring out certain instrumentsinsomemovie/TVmusic.For recent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                871,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        871,
+                                        484
+                                    ],
+                                    "score": 0.994,
+                                    "content": "recordingswithchorus(e.g.TheSoundofMusic),thechoruswasplacedinaudienceseats,justbehindthemain",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                479,
+                                852,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        479,
+                                        852,
+                                        507
+                                    ],
+                                    "score": 0.978,
+                                    "content": "mikes,sonoaccentmikeswereneededforthechorus.Renneragreesthatsomeof hisEuropeanrecordings,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                500,
+                                874,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        500,
+                                        874,
+                                        525
+                                    ],
+                                    "score": 0.978,
+                                    "content": "especiallyinEngland,aretooreverberantanddifuse;thehalshadsomuchreverbthattheycouldn'tbetamed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                519,
+                                868,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        519,
+                                        868,
+                                        546
+                                    ],
+                                    "score": 0.99,
+                                    "content": "(Thosehalsworkbetterwiththecardioidandfigure-eightmikesthat Britishen-gineersfavor).Themonitoring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                539,
+                                852,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        539,
+                                        852,
+                                        567
+                                    ],
+                                    "score": 0.978,
+                                    "content": "roomwasaconvertedladies'lounge,abouttwicethesizeofatypicalivingroom(andwithdoubletheceiling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                560,
+                                874,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        560,
+                                        874,
+                                        586
+                                    ],
+                                    "score": 0.978,
+                                    "content": "height).ADS1530speakerswerelo-catedafootortwofromthefrontwall,withASCTubeTrapsstanding inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                580,
+                                871,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        580,
+                                        871,
+                                        606
+                                    ],
+                                    "score": 0.993,
+                                    "content": "frontcorners.Absorptivepanelsweremountedbetweenthespeakersandonthesidewalstokillreflections.A",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                600,
+                                873,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        600,
+                                        873,
+                                        627
+                                    ],
+                                    "score": 0.991,
+                                    "content": "six-foottallarrayofRPGdif-fusorsspannedthewidthoftheroombehindtheengi-neers,afewfeetinfrontof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                620,
+                                876,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        620,
+                                        876,
+                                        647
+                                    ],
+                                    "score": 0.981,
+                                    "content": "thebackwall.ThedigitalprocessorsandwhiringVTRswereinstalledbehindthewallofdifusers.Theyincluded",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                641,
+                                848,
+                                664
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        641,
+                                        848,
+                                        664
+                                    ],
+                                    "score": 0.979,
+                                    "content": "aSoundstream,aSonyPCM-1630withUMaticVCR,aPCM-F1withBeta,andanexperimentalmachine.TheF1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                660,
+                                823,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        660,
+                                        823,
+                                        686
+                                    ],
+                                    "score": 0.998,
+                                    "content": "tapehasactuallybeenusedinseveralrecordingswhenboththemainandbackuptapesfailed.(Andafter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                681,
+                                830,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        681,
+                                        830,
+                                        705
+                                    ],
+                                    "score": 0.992,
+                                    "content": "successfullusingtheColossusdigitalrecordertwice,Telarctrieditseveralmoretimesbutfounditssonic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                11,
+                                699,
+                                850,
+                                728
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        11,
+                                        699,
+                                        850,
+                                        728
+                                    ],
+                                    "score": 0.986,
+                                    "content": "performanceerratic.)EngineerJackRennerisresponsiblefortheentireset-up;then hejustmonitorsduring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                722,
+                                874,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        722,
+                                        874,
+                                        745
+                                    ],
+                                    "score": 0.985,
+                                    "content": "recording,whilepro-ducer BobWoodsandconductorKunzelmakealldeci-sionsonretakes.Rennerandeditor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                739,
+                                851,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        739,
+                                        851,
+                                        767
+                                    ],
+                                    "score": 0.989,
+                                    "content": "ElaineMartonemonitoredviaspeakerstojudgeoverallbalanceandpacing,whileWoodsmonitoredviaSony",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                762,
+                                879,
+                                785
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        762,
+                                        879,
+                                        785
+                                    ],
+                                    "score": 0.988,
+                                    "content": "headphones todetecttinyperformanceflaws.Formostoftherecordingjustfivemikeinputswereused,andthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                781,
+                                840,
+                                804
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        781,
+                                        840,
+                                        804
+                                    ],
+                                    "score": 0.992,
+                                    "content": "rearambienceweremixedinataverylowlevel.Theonlychangedur-ingthemusicwasanoccasionalslight",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                799,
+                                876,
+                                827
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        799,
+                                        876,
+                                        827
+                                    ],
+                                    "score": 0.982,
+                                    "content": "tweakingoftheleft-channellevelandhigh-frequencyEQ(tokeepvio-linsfrombeingdrownedoutduringheavy",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                820,
+                                848,
+                                845
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        820,
+                                        848,
+                                        845
+                                    ],
+                                    "score": 0.986,
+                                    "content": "brasspas-sages).Howgoodwasthesound?Likeaverygoodhi-fisystem;itdidnothavethemagically\"real\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                841,
+                                860,
+                                864
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        841,
+                                        860,
+                                        864
+                                    ],
+                                    "score": 0.99,
+                                    "content": "felingthatissometimesobtainedwithastate-of-the-artaudiophilesystem.Traditionallyithasbeenassumed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                859,
+                                857,
+                                887
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        859,
+                                        857,
+                                        887
+                                    ],
+                                    "score": 0.994,
+                                    "content": "thatrecordingengineersheartheirrecordingsbetterthanconsumersdo,buttheoppositeismoreandmore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                880,
+                                876,
+                                906
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        880,
+                                        876,
+                                        906
+                                    ],
+                                    "score": 0.945,
+                                    "content": "thecase.MostofthePopsselections,suchasTVscoresandrelativelybriefclasicalitems,wererecordedinone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                902,
+                                871,
+                                925
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        902,
+                                        871,
+                                        925
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ortwotakesapiece.ComplexclassicalmaterialikeMus-sorgsky'sNightonBaldMountaintookabout40takes,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                921,
+                                876,
+                                945
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        921,
+                                        876,
+                                        945
+                                    ],
+                                    "score": 0.977,
+                                    "content": "manyinthedificult sectionneartheendwhereinstru-ments enterinpairsandWoodswanted exact intonation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                939,
+                                854,
+                                966
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        939,
+                                        854,
+                                        966
+                                    ],
+                                    "score": 0.991,
+                                    "content": "andensembletimingforeachentry.LotsofworkwillbedoneonadigitaleditorbyElaineMartonetoputthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                961,
+                                843,
+                                984
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        961,
+                                        843,
+                                        984
+                                    ],
+                                    "score": 0.982,
+                                    "content": "recording intofinalshape.-PeterMitchell(California)December1988BASMeeting DavidMorancalledthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                981,
+                                853,
+                                1005
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        981,
+                                        853,
+                                        1005
+                                    ],
+                                    "score": 0.998,
+                                    "content": "meetingtoorderattheTrans-portationSystemsCenterinCambridgewithawelcometoseveralnewcomers.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1000,
+                                842,
+                                1027
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1000,
+                                        842,
+                                        1027
+                                    ],
+                                    "score": 0.975,
+                                    "content": "Thepresentationplannedfortheevening:anewsubwooferdesign byPoh Ser Hsu(withapairof dbx2500s",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1020,
+                                875,
+                                1047
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1020,
+                                        875,
+                                        1047
+                                    ],
+                                    "score": 0.942,
+                                    "content": "usedassatelites).dbxisnotcompletelygoingoutofbusiness,bytheway;theconsumer,speakerndprolines",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1042,
+                                870,
+                                1065
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1042,
+                                        870,
+                                        1065
+                                    ],
+                                    "score": 0.966,
+                                    "content": "willcontinue.TheOEMcomponent businesshas beensold(sincethismeeting)toTHATCorporation(named for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                1059,
+                                867,
+                                1086
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        1059,
+                                        867,
+                                        1086
+                                    ],
+                                    "score": 0.963,
+                                    "content": "theprinci-palswhoareLesTyler,GaryHebert,andPaulTrava-line),andthesaleofprotoAKG(lesstheRTA-1!)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1082,
+                                605,
+                                1105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1082,
+                                        431,
+                                        1105
+                                    ],
+                                    "score": 0.976,
+                                    "content": "isinching towardcompletion.page8The BASSpeaker",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        431,
+                                        1086,
+                                        442,
+                                        1097
+                                    ],
+                                    "score": 0.3,
+                                    "content": "\\cdot",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        443,
+                                        1082,
+                                        605,
+                                        1105
+                                    ],
+                                    "score": 0.996,
+                                    "content": "volume17number2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        }
+                    ],
+                    "index": 23.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                1116
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        16,
+                        136,
+                        880,
+                        1105
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                140,
+                                836,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        140,
+                                        836,
+                                        164
+                                    ],
+                                    "score": 0.983,
+                                    "content": "thantheonetheBSOuses,butitssoundwasasprominentinthehallasitisinTelarcrecordings.Thehall's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                790,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        790,
+                                        185
+                                    ],
+                                    "score": 0.988,
+                                    "content": "soundiswarmandbass-heavy,andthestageshellactsasagiantmegaphone.Telarc'sprincipalbass",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                844,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        844,
+                                        204
+                                    ],
+                                    "score": 0.989,
+                                    "content": "contributionseemstobepreciseplacementandorientationofthebassdrumatstagecentertoensurethat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                202,
+                                808,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        202,
+                                        808,
+                                        225
+                                    ],
+                                    "score": 0.987,
+                                    "content": "stage-areareflectionsrein-forcerather thancancelitsoutput.Thedrumwas hitonitsreardiaphragm,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                220,
+                                845,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        220,
+                                        845,
+                                        246
+                                    ],
+                                    "score": 0.988,
+                                    "content": "launchingpositive-pressurewavesintothehall(Whenabassdrumisstruckonthefront,muchoftheinitial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                240,
+                                855,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        240,
+                                        855,
+                                        267
+                                    ],
+                                    "score": 0.992,
+                                    "content": "wavefrontisararefaction.)Ambience-wise,thehallisabittoodeadwithanau-diencebutisvirtuallyidealfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                865,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        865,
+                                        286
+                                    ],
+                                    "score": 0.993,
+                                    "content": "recordingwhenempty.MusicHallhasheavilyupholsteredseatswithasoft,ab-sorbentexterior;consequently",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                280,
+                                840,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        280,
+                                        840,
+                                        307
+                                    ],
+                                    "score": 0.966,
+                                    "content": "theacoustics,unlikeBoston'sSymphonyHallandSandersTheater,don'tbe-comeexcessivelylivewhenthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                301,
+                                865,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        301,
+                                        865,
+                                        325
+                                    ],
+                                    "score": 0.992,
+                                    "content": "audiencegoeshome.JackRennerandconductorErichKunzelcreditthehal'sacousticsforthesuccessoftheir",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                836,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        836,
+                                        345
+                                    ],
+                                    "score": 0.992,
+                                    "content": "recordings,andTelarcwantstoinstallapermanentmonitoringroominCincinnati'sMusicHallforusewith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                860,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        860,
+                                        367
+                                    ],
+                                    "score": 0.998,
+                                    "content": "recordingprojectsotherthanthePops.Theorchestrawasrecordedwiththreeomnidirec-tionalmikesontall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                360,
+                                867,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        360,
+                                        867,
+                                        387
+                                    ],
+                                    "score": 0.99,
+                                    "content": "standsatthelipofthestage(surprisinglyclosetothefrontoftheorchestra),plustwoambiencemikesonvery",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                378,
+                                870,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        378,
+                                        870,
+                                        407
+                                    ],
+                                    "score": 0.977,
+                                    "content": "tallstandsinthecross-aisle,halfwaybackinthehallForpopsrepertoirethemainmikesaremountedrelatively",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                398,
+                                848,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        398,
+                                        848,
+                                        426
+                                    ],
+                                    "score": 0.99,
+                                    "content": "lowandclose,eightorninefeetabovethestagefloorandjustbehindthecon-ductor,toenhancedetail.For",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                420,
+                                856,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        420,
+                                        856,
+                                        445
+                                    ],
+                                    "score": 0.988,
+                                    "content": "al-classicalrepertoiretheyaremovedafoothigherandafewinchesfartheraway,toachieveamoreblended",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                440,
+                                800,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        440,
+                                        800,
+                                        465
+                                    ],
+                                    "score": 0.97,
+                                    "content": "sound.Spotmikesmaybeaddedto bring out certain instrumentsinsomemovie/TVmusic.For recent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                461,
+                                871,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        461,
+                                        871,
+                                        484
+                                    ],
+                                    "score": 0.994,
+                                    "content": "recordingswithchorus(e.g.TheSoundofMusic),thechoruswasplacedinaudienceseats,justbehindthemain",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                479,
+                                852,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        479,
+                                        852,
+                                        507
+                                    ],
+                                    "score": 0.978,
+                                    "content": "mikes,sonoaccentmikeswereneededforthechorus.Renneragreesthatsomeof hisEuropeanrecordings,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                500,
+                                874,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        500,
+                                        874,
+                                        525
+                                    ],
+                                    "score": 0.978,
+                                    "content": "especiallyinEngland,aretooreverberantanddifuse;thehalshadsomuchreverbthattheycouldn'tbetamed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                519,
+                                868,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        519,
+                                        868,
+                                        546
+                                    ],
+                                    "score": 0.99,
+                                    "content": "(Thosehalsworkbetterwiththecardioidandfigure-eightmikesthat Britishen-gineersfavor).Themonitoring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                539,
+                                852,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        539,
+                                        852,
+                                        567
+                                    ],
+                                    "score": 0.978,
+                                    "content": "roomwasaconvertedladies'lounge,abouttwicethesizeofatypicalivingroom(andwithdoubletheceiling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                560,
+                                874,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        560,
+                                        874,
+                                        586
+                                    ],
+                                    "score": 0.978,
+                                    "content": "height).ADS1530speakerswerelo-catedafootortwofromthefrontwall,withASCTubeTrapsstanding inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                580,
+                                871,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        580,
+                                        871,
+                                        606
+                                    ],
+                                    "score": 0.993,
+                                    "content": "frontcorners.Absorptivepanelsweremountedbetweenthespeakersandonthesidewalstokillreflections.A",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                600,
+                                873,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        600,
+                                        873,
+                                        627
+                                    ],
+                                    "score": 0.991,
+                                    "content": "six-foottallarrayofRPGdif-fusorsspannedthewidthoftheroombehindtheengi-neers,afewfeetinfrontof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                620,
+                                876,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        620,
+                                        876,
+                                        647
+                                    ],
+                                    "score": 0.981,
+                                    "content": "thebackwall.ThedigitalprocessorsandwhiringVTRswereinstalledbehindthewallofdifusers.Theyincluded",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                641,
+                                848,
+                                664
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        641,
+                                        848,
+                                        664
+                                    ],
+                                    "score": 0.979,
+                                    "content": "aSoundstream,aSonyPCM-1630withUMaticVCR,aPCM-F1withBeta,andanexperimentalmachine.TheF1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                660,
+                                823,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        660,
+                                        823,
+                                        686
+                                    ],
+                                    "score": 0.998,
+                                    "content": "tapehasactuallybeenusedinseveralrecordingswhenboththemainandbackuptapesfailed.(Andafter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                681,
+                                830,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        681,
+                                        830,
+                                        705
+                                    ],
+                                    "score": 0.992,
+                                    "content": "successfullusingtheColossusdigitalrecordertwice,Telarctrieditseveralmoretimesbutfounditssonic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                11,
+                                699,
+                                850,
+                                728
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        11,
+                                        699,
+                                        850,
+                                        728
+                                    ],
+                                    "score": 0.986,
+                                    "content": "performanceerratic.)EngineerJackRennerisresponsiblefortheentireset-up;then hejustmonitorsduring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                722,
+                                874,
+                                745
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        722,
+                                        874,
+                                        745
+                                    ],
+                                    "score": 0.985,
+                                    "content": "recording,whilepro-ducer BobWoodsandconductorKunzelmakealldeci-sionsonretakes.Rennerandeditor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                739,
+                                851,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        739,
+                                        851,
+                                        767
+                                    ],
+                                    "score": 0.989,
+                                    "content": "ElaineMartonemonitoredviaspeakerstojudgeoverallbalanceandpacing,whileWoodsmonitoredviaSony",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                762,
+                                879,
+                                785
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        762,
+                                        879,
+                                        785
+                                    ],
+                                    "score": 0.988,
+                                    "content": "headphones todetecttinyperformanceflaws.Formostoftherecordingjustfivemikeinputswereused,andthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                781,
+                                840,
+                                804
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        781,
+                                        840,
+                                        804
+                                    ],
+                                    "score": 0.992,
+                                    "content": "rearambienceweremixedinataverylowlevel.Theonlychangedur-ingthemusicwasanoccasionalslight",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                799,
+                                876,
+                                827
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        799,
+                                        876,
+                                        827
+                                    ],
+                                    "score": 0.982,
+                                    "content": "tweakingoftheleft-channellevelandhigh-frequencyEQ(tokeepvio-linsfrombeingdrownedoutduringheavy",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                820,
+                                848,
+                                845
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        820,
+                                        848,
+                                        845
+                                    ],
+                                    "score": 0.986,
+                                    "content": "brasspas-sages).Howgoodwasthesound?Likeaverygoodhi-fisystem;itdidnothavethemagically\"real\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                841,
+                                860,
+                                864
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        841,
+                                        860,
+                                        864
+                                    ],
+                                    "score": 0.99,
+                                    "content": "felingthatissometimesobtainedwithastate-of-the-artaudiophilesystem.Traditionallyithasbeenassumed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                859,
+                                857,
+                                887
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        859,
+                                        857,
+                                        887
+                                    ],
+                                    "score": 0.994,
+                                    "content": "thatrecordingengineersheartheirrecordingsbetterthanconsumersdo,buttheoppositeismoreandmore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                880,
+                                876,
+                                906
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        880,
+                                        876,
+                                        906
+                                    ],
+                                    "score": 0.945,
+                                    "content": "thecase.MostofthePopsselections,suchasTVscoresandrelativelybriefclasicalitems,wererecordedinone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                902,
+                                871,
+                                925
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        902,
+                                        871,
+                                        925
+                                    ],
+                                    "score": 0.99,
+                                    "content": "ortwotakesapiece.ComplexclassicalmaterialikeMus-sorgsky'sNightonBaldMountaintookabout40takes,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                921,
+                                876,
+                                945
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        921,
+                                        876,
+                                        945
+                                    ],
+                                    "score": 0.977,
+                                    "content": "manyinthedificult sectionneartheendwhereinstru-ments enterinpairsandWoodswanted exact intonation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                939,
+                                854,
+                                966
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        939,
+                                        854,
+                                        966
+                                    ],
+                                    "score": 0.991,
+                                    "content": "andensembletimingforeachentry.LotsofworkwillbedoneonadigitaleditorbyElaineMartonetoputthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                961,
+                                843,
+                                984
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        961,
+                                        843,
+                                        984
+                                    ],
+                                    "score": 0.982,
+                                    "content": "recording intofinalshape.-PeterMitchell(California)December1988BASMeeting DavidMorancalledthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                981,
+                                853,
+                                1005
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        981,
+                                        853,
+                                        1005
+                                    ],
+                                    "score": 0.998,
+                                    "content": "meetingtoorderattheTrans-portationSystemsCenterinCambridgewithawelcometoseveralnewcomers.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1000,
+                                842,
+                                1027
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1000,
+                                        842,
+                                        1027
+                                    ],
+                                    "score": 0.975,
+                                    "content": "Thepresentationplannedfortheevening:anewsubwooferdesign byPoh Ser Hsu(withapairof dbx2500s",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1020,
+                                875,
+                                1047
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1020,
+                                        875,
+                                        1047
+                                    ],
+                                    "score": 0.942,
+                                    "content": "usedassatelites).dbxisnotcompletelygoingoutofbusiness,bytheway;theconsumer,speakerndprolines",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1042,
+                                870,
+                                1065
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1042,
+                                        870,
+                                        1065
+                                    ],
+                                    "score": 0.966,
+                                    "content": "willcontinue.TheOEMcomponent businesshas beensold(sincethismeeting)toTHATCorporation(named for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                1059,
+                                867,
+                                1086
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        1059,
+                                        867,
+                                        1086
+                                    ],
+                                    "score": 0.963,
+                                    "content": "theprinci-palswhoareLesTyler,GaryHebert,andPaulTrava-line),andthesaleofprotoAKG(lesstheRTA-1!)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1082,
+                                605,
+                                1105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1082,
+                                        431,
+                                        1105
+                                    ],
+                                    "score": 0.976,
+                                    "content": "isinching towardcompletion.page8The BASSpeaker",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        431,
+                                        1086,
+                                        442,
+                                        1097
+                                    ],
+                                    "score": 0.3,
+                                    "content": "\\cdot",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        443,
+                                        1082,
+                                        605,
+                                        1105
+                                    ],
+                                    "score": 0.996,
+                                    "content": "volume17number2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        }
+                    ],
+                    "index": 23.5,
+                    "bbox_fs": [
+                        11,
+                        140,
+                        879,
+                        1105
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

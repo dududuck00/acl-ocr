@@ -1,0 +1,96 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        10,
+                        17,
+                        653,
+                        615
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                10,
+                                17,
+                                653,
+                                615
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        10,
+                                        17,
+                                        653,
+                                        615
+                                    ],
+                                    "score": 1.0,
+                                    "content": "236 C. D. Randazzo and H. P. L. Luna and P. Mahey will follow the notation given in [BMM94b] and will denote the two kinds of links by \"primary links\" (optical fiber) and \"secondary links\" (copper). The copper cable has a fixed cost smaller than that of the optical fiber, but its variable cost is greater than the variable cost of the optical fiber. We also work with primary connectivity constraints that require that primary links be connected to the origin node by a path consisting of primary links only. The reason for using such constraints is that a message which flows from one technology link to another technology link has to undergo some kind of data transformation which implies that a switching device has to be installed at every node where a change of technology takes place. In our problem, the primary connectivity constraints ensure that the number of such devices will be small and the cost of installing these devices is not considered. Another reason for requiring the primary connectivity constraints is that they imply that more paths can benefit from the higher quality of the primary links. There are many possible variations of the LAND-2T problem that result in new problems. Balakrishnan et al. [BMM94a] have worked with a problem similar to the LAND-2T where a minimum cost spanning tree that contains an embedded primary subtree connecting all the primary nodes (and optionally including secondary nodes) has to be found. As in the LAND-2T, one can install one of two available cable technologies for each arc. Note that they divide the set of nodes into primary and secondary nodes. The primary nodes have to be connected to the origin node by primary arcs. The secondary nodes can be linked to the origin node by primary or secondary arcs. They have proposed a dual-ascent algorithm to find an approximate solution. Gouveia and Janssen [GJ98] have worked with a similar problem that is an extension of the minimal spanning tree problem, but with two cable technologies too. The model that they explore has generalized hop constraints and primary connectivity constraints. Hop constraints limit the number of links (hops) between the root node and any terminal and measure in a certain way the reliability of the tree network. The primary connectivity constraints are the same that we described above. The problem is shown to be NP-hard and procedures to obtain lower and upper bounds are presented. They formulate the problem as a directed multicommodity flow model. To derive lower bounds they use Lagrangean relaxation with subgradient optimization. A Lagrangean heuristic is developed to construct feasible solutions. Moreover, they discuss several different ways of modeling the primary connectivity constraints. One outcome of their discussion is that an extended and compact representation of the convex hull of directed rooted subtrees when the underlying graph is series-parallel can be derived. De Jongh et al. [dJGL99] have also worked with a closely related problem in which a pair of nodes has to be linked by two node disjoint paths with minimum total cost and two cable technologies. This problem is a little different from the LAND-2T since for each arc of the network there is only one available technology, that is, each arc has a specified technology and there are arcs of type 1 and arcs of type 2. In the LAND-2T problem, for each arc we have two available technologies. They also consider a transition cost that is associated with each node. This cost is incurred only when a flow enters and leaves the corresponding node on arcs of different types. Two heuristics were proposed in [dJGL99] and a lower bounding procedure based on Lagrangean relaxation is provided. These procedures are used in a branch- and-bound strategy to solve the problem. In a previous paper, we worked with the local access network design problem [LRM98]. In this article, we studied two formulations of the problem: single commodity flow formulation; multicommodity flow formulation. The problem was solved exactly by CPLEX(with the two formulations), by a branch-and- bound algorithm, by a branch-and-cut algorithm and by a Benders decomposition. The success obtained by Benders decomposition to solve this problem has induced us to extend the algorithm developed to the",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                675.0,
+                627.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        10,
+                        17,
+                        653,
+                        615
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                10,
+                                17,
+                                653,
+                                615
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        10,
+                                        17,
+                                        653,
+                                        615
+                                    ],
+                                    "score": 1.0,
+                                    "content": "236 C. D. Randazzo and H. P. L. Luna and P. Mahey will follow the notation given in [BMM94b] and will denote the two kinds of links by \"primary links\" (optical fiber) and \"secondary links\" (copper). The copper cable has a fixed cost smaller than that of the optical fiber, but its variable cost is greater than the variable cost of the optical fiber. We also work with primary connectivity constraints that require that primary links be connected to the origin node by a path consisting of primary links only. The reason for using such constraints is that a message which flows from one technology link to another technology link has to undergo some kind of data transformation which implies that a switching device has to be installed at every node where a change of technology takes place. In our problem, the primary connectivity constraints ensure that the number of such devices will be small and the cost of installing these devices is not considered. Another reason for requiring the primary connectivity constraints is that they imply that more paths can benefit from the higher quality of the primary links. There are many possible variations of the LAND-2T problem that result in new problems. Balakrishnan et al. [BMM94a] have worked with a problem similar to the LAND-2T where a minimum cost spanning tree that contains an embedded primary subtree connecting all the primary nodes (and optionally including secondary nodes) has to be found. As in the LAND-2T, one can install one of two available cable technologies for each arc. Note that they divide the set of nodes into primary and secondary nodes. The primary nodes have to be connected to the origin node by primary arcs. The secondary nodes can be linked to the origin node by primary or secondary arcs. They have proposed a dual-ascent algorithm to find an approximate solution. Gouveia and Janssen [GJ98] have worked with a similar problem that is an extension of the minimal spanning tree problem, but with two cable technologies too. The model that they explore has generalized hop constraints and primary connectivity constraints. Hop constraints limit the number of links (hops) between the root node and any terminal and measure in a certain way the reliability of the tree network. The primary connectivity constraints are the same that we described above. The problem is shown to be NP-hard and procedures to obtain lower and upper bounds are presented. They formulate the problem as a directed multicommodity flow model. To derive lower bounds they use Lagrangean relaxation with subgradient optimization. A Lagrangean heuristic is developed to construct feasible solutions. Moreover, they discuss several different ways of modeling the primary connectivity constraints. One outcome of their discussion is that an extended and compact representation of the convex hull of directed rooted subtrees when the underlying graph is series-parallel can be derived. De Jongh et al. [dJGL99] have also worked with a closely related problem in which a pair of nodes has to be linked by two node disjoint paths with minimum total cost and two cable technologies. This problem is a little different from the LAND-2T since for each arc of the network there is only one available technology, that is, each arc has a specified technology and there are arcs of type 1 and arcs of type 2. In the LAND-2T problem, for each arc we have two available technologies. They also consider a transition cost that is associated with each node. This cost is incurred only when a flow enters and leaves the corresponding node on arcs of different types. Two heuristics were proposed in [dJGL99] and a lower bounding procedure based on Lagrangean relaxation is provided. These procedures are used in a branch- and-bound strategy to solve the problem. In a previous paper, we worked with the local access network design problem [LRM98]. In this article, we studied two formulations of the problem: single commodity flow formulation; multicommodity flow formulation. The problem was solved exactly by CPLEX(with the two formulations), by a branch-and- bound algorithm, by a branch-and-cut algorithm and by a Benders decomposition. The success obtained by Benders decomposition to solve this problem has induced us to extend the algorithm developed to the",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        675.0,
+                        627.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.1.0"
+}

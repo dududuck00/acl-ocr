@@ -1,0 +1,595 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    54,
+                    14,
+                    2442,
+                    14,
+                    2442,
+                    1955,
+                    54,
+                    1955
+                ],
+                "score": 0.922
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    259,
+                    1440,
+                    488,
+                    1440,
+                    488,
+                    1495,
+                    259,
+                    1495
+                ],
+                "score": 0.8,
+                "latex": "\\$ 5,800,000"
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1302,
+                    1274,
+                    1534,
+                    1274,
+                    1534,
+                    1328,
+                    1302,
+                    1328
+                ],
+                "score": 0.55,
+                "latex": "\\$ 2,655,000"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    61.0,
+                    2227.0,
+                    61.0,
+                    2227.0,
+                    125.0,
+                    46.0,
+                    125.0
+                ],
+                "score": 0.984,
+                "text": "4benefitonlythosepropertieswithinthat specificCommunityPropertyDistrict.Anexampleof District"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    110.0,
+                    2422.0,
+                    110.0,
+                    2422.0,
+                    184.0,
+                    40.0,
+                    184.0
+                ],
+                "score": 0.943,
+                "text": "Infrastructurewouldbetheinternalstrets,water,seweranddrainageforstreetswithinspecificCommunity"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    171.0,
+                    2425.0,
+                    171.0,
+                    2425.0,
+                    235.0,
+                    48.0,
+                    235.0
+                ],
+                "score": 0.986,
+                "text": "PropertyDistrict.Thisclassofstreetwouldtypicallyhaveresidentiallotsoneachsideanddirectaccessontothe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    228.0,
+                    2412.0,
+                    228.0,
+                    2412.0,
+                    292.0,
+                    46.0,
+                    292.0
+                ],
+                "score": 0.973,
+                "text": "streetwouldbeallowed.BothCommunityInfrastructure(CI)andDistrict Infrastructure(DI),(colectively\"Public"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    279.0,
+                    2204.0,
+                    279.0,
+                    2204.0,
+                    345.0,
+                    43.0,
+                    345.0
+                ],
+                "score": 0.995,
+                "text": "Infrastructure\")aretobeconstructedforthebenefitofthepublic.Onlythoseimprovementsthatare"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    330.0,
+                    2339.0,
+                    330.0,
+                    2339.0,
+                    407.0,
+                    41.0,
+                    407.0
+                ],
+                "score": 0.982,
+                "text": "determinedtobeeligiblefortax-exemptfinancing havebeen,orwillbe,fundedbytheCommunityProperty"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    394.0,
+                    2430.0,
+                    394.0,
+                    2430.0,
+                    458.0,
+                    46.0,
+                    458.0
+                ],
+                "score": 0.982,
+                "text": "Districts.Pursuanttoawriteninterlocalagreement(the\"InterlocalAgreement\"),theDistrictshaveprovidedfor"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    450.0,
+                    2378.0,
+                    450.0,
+                    2378.0,
+                    514.0,
+                    46.0,
+                    514.0
+                ],
+                "score": 0.989,
+                "text": "theimplementationoftheCommunityInfrastructurebydelegatingtooneoftheDistricts(the“Issuer\"),inthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    507.0,
+                    2386.0,
+                    507.0,
+                    2386.0,
+                    571.0,
+                    43.0,
+                    571.0
+                ],
+                "score": 0.981,
+                "text": "mannersetforthintheInterlocalAgreement,theauthoritytofinance,acquireandconstructsuchCommunity"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    560.0,
+                    2315.0,
+                    560.0,
+                    2315.0,
+                    624.0,
+                    46.0,
+                    624.0
+                ],
+                "score": 0.99,
+                "text": "InfrastructurewithintheboundariesoftheDistricts.TheInterlocalAgreementalsoprovidesforoneof the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    617.0,
+                    2383.0,
+                    617.0,
+                    2383.0,
+                    681.0,
+                    46.0,
+                    681.0
+                ],
+                "score": 0.985,
+                "text": "Districts(the“AdministrationDistrict\")tooperateandmaintain,onbehalfoftheIssuerforthebenefitofallof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    665.0,
+                    2386.0,
+                    665.0,
+                    2386.0,
+                    740.0,
+                    38.0,
+                    740.0
+                ],
+                "score": 0.997,
+                "text": "theDistricts,anyportionsoftheCommunityInfrastructurenotconveyedtoanothergovernmentalentity.The"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    724.0,
+                    2341.0,
+                    724.0,
+                    2341.0,
+                    796.0,
+                    40.0,
+                    796.0
+                ],
+                "score": 0.987,
+                "text": "Issuermayalsofinance,acquireandconstructtheinfrastructurenecessarytoservethepropertywithinthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    781.0,
+                    2383.0,
+                    781.0,
+                    2383.0,
+                    852.0,
+                    43.0,
+                    852.0
+                ],
+                "score": 0.987,
+                "text": "boundariesofaspecificDistrict(the“DistrictInfrastructure\"),subjecttothereservedrightsofeachDistrictto"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    840.0,
+                    2261.0,
+                    840.0,
+                    2261.0,
+                    904.0,
+                    46.0,
+                    904.0
+                ],
+                "score": 0.997,
+                "text": "financetheacquisitionandconstructionofitsownDistrictInfrastructure.DistrictInfrastructuremaybe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    891.0,
+                    2227.0,
+                    891.0,
+                    2227.0,
+                    957.0,
+                    43.0,
+                    957.0
+                ],
+                "score": 0.979,
+                "text": "operatedandmaintainedbythe Administration Districtor theapplicable Districtinwhich such District"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    38.0,
+                    939.0,
+                    2383.0,
+                    939.0,
+                    2383.0,
+                    1021.0,
+                    38.0,
+                    1021.0
+                ],
+                "score": 0.995,
+                "text": "Infrastructureislocatedtotheextentnotconveyedtoanothergovernmentalentity.TheCommunityProperty"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1006.0,
+                    2388.0,
+                    1006.0,
+                    2388.0,
+                    1070.0,
+                    43.0,
+                    1070.0
+                ],
+                "score": 0.993,
+                "text": "willbeassessedcostsassociatedwiththePublicInfrastructurebasedonitsrelativebenefitasidentifiedinthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1052.0,
+                    2196.0,
+                    1052.0,
+                    2196.0,
+                    1116.0,
+                    43.0,
+                    1116.0
+                ],
+                "score": 0.992,
+                "text": "masterassessmentmethodologyreportpreparedbyFishkind&Associates,Inc.andapprovedbythe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1103.0,
+                    2432.0,
+                    1103.0,
+                    2432.0,
+                    1175.0,
+                    46.0,
+                    1175.0
+                ],
+                "score": 0.982,
+                "text": "CommunityPropertyDistricts,assupplementedfromtimetotime,includingassupplementedbyareportdated"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1162.0,
+                    2432.0,
+                    1162.0,
+                    2432.0,
+                    1226.0,
+                    46.0,
+                    1226.0
+                ],
+                "score": 0.908,
+                "text": "August1,2019preparedbySpecialDistrictervices,Inc.thecurrentassessmentmethodologyconsultanttothe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1213.0,
+                    2412.0,
+                    1213.0,
+                    2412.0,
+                    1282.0,
+                    46.0,
+                    1282.0
+                ],
+                "score": 0.986,
+                "text": "Districts.SouthernGroveCommunityDevelopmentDistrictNo.5(\"CDDNo.5”)iscurrentlyservingastheIssuer"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1270.0,
+                    1301.0,
+                    1270.0,
+                    1301.0,
+                    1341.0,
+                    46.0,
+                    1341.0
+                ],
+                "score": 0.986,
+                "text": "underthe Interlocal Agreement.Ithaspreviouslyissued its"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1535.0,
+                    1270.0,
+                    2198.0,
+                    1270.0,
+                    2198.0,
+                    1341.0,
+                    1535.0,
+                    1341.0
+                ],
+                "score": 0.967,
+                "text": "inoriginalprincipal of its Bond"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1328.0,
+                    2269.0,
+                    1328.0,
+                    2269.0,
+                    1392.0,
+                    46.0,
+                    1392.0
+                ],
+                "score": 0.986,
+                "text": "AnticipationNote,Series2014(CommunityInfrastructure)(the“2014CINote\")tofinanceaportionofthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1382.0,
+                    2360.0,
+                    1382.0,
+                    2360.0,
+                    1446.0,
+                    46.0,
+                    1446.0
+                ],
+                "score": 0.989,
+                "text": "CommunityInfrastructure,asdescribedintheSecondSupplement(the“2014CIProject\").CDDNo.5hasalso"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1439.0,
+                    258.0,
+                    1439.0,
+                    258.0,
+                    1503.0,
+                    46.0,
+                    1503.0
+                ],
+                "score": 0.969,
+                "text": "issued its"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    489.0,
+                    1439.0,
+                    2149.0,
+                    1439.0,
+                    2149.0,
+                    1503.0,
+                    489.0,
+                    1503.0
+                ],
+                "score": 0.992,
+                "text": "inoriginalprincipalamountofitsBondAnticipationNote,Series2014(District"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1495.0,
+                    2412.0,
+                    1495.0,
+                    2412.0,
+                    1559.0,
+                    46.0,
+                    1559.0
+                ],
+                "score": 0.977,
+                "text": "Infrastructure)(the\"2014DINote\")tofinanceaportionofitsown DistrictInfrastructure(the\"2014DIProject\")."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1549.0,
+                    2430.0,
+                    1549.0,
+                    2430.0,
+                    1620.0,
+                    43.0,
+                    1620.0
+                ],
+                "score": 0.995,
+                "text": "SubsequenttotheapprovaloftheOriginalEngineer'sReport,theDistrictsapprovedcertainsupplementstothe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1600.0,
+                    2432.0,
+                    1600.0,
+                    2432.0,
+                    1672.0,
+                    46.0,
+                    1672.0
+                ],
+                "score": 0.984,
+                "text": "OriginalEngineer'sReport,which,byrecentactionofthegoverningboardsoftheDistricts,havebeenrescinded"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1659.0,
+                    2230.0,
+                    1659.0,
+                    2230.0,
+                    1728.0,
+                    43.0,
+                    1728.0
+                ],
+                "score": 0.99,
+                "text": "asofthedatehereof.SubsequenttotheSecondSupplement,achangeoccurredintheownershipofa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1712.0,
+                    2386.0,
+                    1712.0,
+                    2386.0,
+                    1787.0,
+                    43.0,
+                    1787.0
+                ],
+                "score": 0.978,
+                "text": "significantportionoftheundevelopedlandintheDistricts(the\"Significant UndevelopedLand\").CDDNo.5,as"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1774.0,
+                    2240.0,
+                    1774.0,
+                    2240.0,
+                    1838.0,
+                    46.0,
+                    1838.0
+                ],
+                "score": 0.98,
+                "text": "thecurrent“Issuer,”theownersoftheSignificantUndevelopedLandandtheConsultingEngineerhave"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1828.0,
+                    2404.0,
+                    1828.0,
+                    2404.0,
+                    1892.0,
+                    46.0,
+                    1892.0
+                ],
+                "score": 0.981,
+                "text": "formulatedarevised CommunityInfrastructureprogram,basedonthecurrentexpecteddevelopmentplanfor"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1884.0,
+                    1515.0,
+                    1884.0,
+                    1515.0,
+                    1948.0,
+                    46.0,
+                    1948.0
+                ],
+                "score": 0.982,
+                "text": "theCommunityProperty(the“CurrentDevelopmentPlan”),which18"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 1978
+        }
+    }
+]

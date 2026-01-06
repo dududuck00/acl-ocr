@@ -1,0 +1,550 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    56,
+                    14,
+                    2448,
+                    14,
+                    2448,
+                    1918,
+                    56,
+                    1918
+                ],
+                "score": 0.922
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    1466,
+                    729,
+                    1598,
+                    729,
+                    1598,
+                    782,
+                    1466,
+                    782
+                ],
+                "score": 0.58,
+                "latex": "2 0 ~ \\mathsf { m l }"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    59.0,
+                    2252.0,
+                    59.0,
+                    2252.0,
+                    123.0,
+                    45.0,
+                    123.0
+                ],
+                "score": 0.98,
+                "text": "Molecules2010,156822AntioxidativeDietDietandnutritionmayaffecttheonsetandcourseofchronic"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    118.0,
+                    2432.0,
+                    118.0,
+                    2432.0,
+                    182.0,
+                    45.0,
+                    182.0
+                ],
+                "score": 0.985,
+                "text": "inflammatoryairwaydiseases.SerumlycopeneandvitaminAconcentrations havebeen foundtobesignificantly"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    169.0,
+                    2437.0,
+                    169.0,
+                    2437.0,
+                    238.0,
+                    42.0,
+                    238.0
+                ],
+                "score": 0.978,
+                "text": "lowerinasthmaticsthaninthosewithoutasthma[132,133].Incontrast,vitaminEintakeisgenerallyunrelatedto"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    228.0,
+                    2229.0,
+                    228.0,
+                    2229.0,
+                    292.0,
+                    45.0,
+                    292.0
+                ],
+                "score": 0.992,
+                "text": "asthmastatusbutthelevelofvitaminEinserumissignificantlylowerinsevereasthmaticsthan inmild"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    284.0,
+                    2336.0,
+                    284.0,
+                    2336.0,
+                    348.0,
+                    45.0,
+                    348.0
+                ],
+                "score": 0.979,
+                "text": "asthmatics[133].Amongchildren,consumptionoffreshfruits,particularlyfruitshighinvitaminC,hasbeen"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    37.0,
+                    327.0,
+                    2138.0,
+                    327.0,
+                    2138.0,
+                    412.0,
+                    37.0,
+                    412.0
+                ],
+                "score": 0.981,
+                "text": "relatedtoalowerprevalenceofasthmasymptomsandimprovedlungfunctions[132,133].Dietary"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    392.0,
+                    2252.0,
+                    392.0,
+                    2252.0,
+                    461.0,
+                    40.0,
+                    461.0
+                ],
+                "score": 0.987,
+                "text": "supplementationoradequateintakeoflycopene,vitaminA,flavonoids,andvitaminCrichfoodsmaybe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    448.0,
+                    2445.0,
+                    448.0,
+                    2445.0,
+                    514.0,
+                    42.0,
+                    514.0
+                ],
+                "score": 0.982,
+                "text": "beneficialinasthmaticsubjects.Asforthepreventionoftheairwaydisease,manyfoodsmayafectdevelopment"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    504.0,
+                    2224.0,
+                    504.0,
+                    2224.0,
+                    576.0,
+                    42.0,
+                    576.0
+                ],
+                "score": 0.996,
+                "text": "ofCOPD[132].FoodrichinvitaminCandEmayplayanespeciallyimportantroleinthepreventionand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    560.0,
+                    2312.0,
+                    560.0,
+                    2312.0,
+                    624.0,
+                    45.0,
+                    624.0
+                ],
+                "score": 0.982,
+                "text": "treatmentof bronchialasthma.Infact,studieson lung functiondecrementand bronchialasthmainadults"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    619.0,
+                    2278.0,
+                    619.0,
+                    2278.0,
+                    678.0,
+                    42.0,
+                    678.0
+                ],
+                "score": 0.993,
+                "text": "suggestthatdailyintakeofvitaminCatlevelsexceedingthecurrentrecommendeddietaryallowance(60"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    671.0,
+                    2398.0,
+                    671.0,
+                    2398.0,
+                    740.0,
+                    40.0,
+                    740.0
+                ],
+                "score": 0.98,
+                "text": "mg/dayamong nonsmokersand100mg/dayamongsmokers)mayhaveaprotectiveeffect[132].Inonestudy,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    724.0,
+                    1465.0,
+                    724.0,
+                    1465.0,
+                    796.0,
+                    40.0,
+                    796.0
+                ],
+                "score": 0.988,
+                "text": "anincreaseof40mg/dayinvitaminCintakeledtoanapproximate"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1599.0,
+                    724.0,
+                    2148.0,
+                    724.0,
+                    2148.0,
+                    796.0,
+                    1599.0,
+                    796.0
+                ],
+                "score": 0.992,
+                "text": "increaseinFEV1[132].An"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    778.0,
+                    2315.0,
+                    778.0,
+                    2315.0,
+                    852.0,
+                    42.0,
+                    852.0
+                ],
+                "score": 0.99,
+                "text": "epidemiologicalstudyontheimpactof dietaryseleniumandcarotenoidsonmajorcausesofmortalityand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    840.0,
+                    2372.0,
+                    840.0,
+                    2372.0,
+                    903.0,
+                    42.0,
+                    903.0
+                ],
+                "score": 0.998,
+                "text": "morbidity(includingasthma)inelderlywomenshowedalowerriskofmortalityinsubjectswithhigherserum"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    891.0,
+                    2346.0,
+                    891.0,
+                    2346.0,
+                    960.0,
+                    40.0,
+                    960.0
+                ],
+                "score": 0.987,
+                "text": "seleniumandserumtotalcarotenoidslevels[175].VolatileCompoundsPhytoncidesPhytoncidesarenatural"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    950.0,
+                    2320.0,
+                    950.0,
+                    2320.0,
+                    1014.0,
+                    42.0,
+                    1014.0
+                ],
+                "score": 0.986,
+                "text": "volatilecompoundsemitedbytreesandplantsasaprotectivemechanismagainsttheharmfulinsectsand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1003.0,
+                    2416.0,
+                    1003.0,
+                    2416.0,
+                    1075.0,
+                    42.0,
+                    1075.0
+                ],
+                "score": 0.991,
+                "text": "animalsormicroorganism.Themajoringredientsofphytoncidearehighlyvolatileterpenoidssuchas-pinene,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1060.0,
+                    2414.0,
+                    1060.0,
+                    2414.0,
+                    1131.0,
+                    42.0,
+                    1131.0
+                ],
+                "score": 0.992,
+                "text": "carene,andmyrcene[176].Terpenoidsarefrequentlyfoundinessentialoilsfromplants.Monoterpenoidshave"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1111.0,
+                    2403.0,
+                    1111.0,
+                    2403.0,
+                    1188.0,
+                    40.0,
+                    1188.0
+                ],
+                "score": 0.997,
+                "text": "beenisolatedfromtheoilsofmanyhigherplantsandarevaluableintheperfumeryandflavorindustries.They"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1170.0,
+                    2380.0,
+                    1170.0,
+                    2380.0,
+                    1239.0,
+                    42.0,
+                    1239.0
+                ],
+                "score": 0.996,
+                "text": "arealsofoundinnatureasinsectpheromonesanddefensesecretionsandinmanymarineorganisms,where"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1223.0,
+                    2341.0,
+                    1223.0,
+                    2341.0,
+                    1298.0,
+                    42.0,
+                    1298.0
+                ],
+                "score": 0.984,
+                "text": "theyareusuallyhalogenated.TherearefourdifferenttypesofphytoncidesolutionsintroducedbyJapanese"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1275.0,
+                    2380.0,
+                    1275.0,
+                    2380.0,
+                    1357.0,
+                    40.0,
+                    1357.0
+                ],
+                "score": 0.89,
+                "text": "researchers;chemicalcomponentsreleasedfromtrees(A-type),ighlybactericidalplants(ABtype),flowering"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1339.0,
+                    2440.0,
+                    1339.0,
+                    2440.0,
+                    1405.0,
+                    45.0,
+                    1405.0
+                ],
+                "score": 0.973,
+                "text": "grass(D-type),andnon-alergicplants(G-type)[176].Inhalationofphytoncidesisreportedasforestbathingand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1395.0,
+                    2091.0,
+                    1395.0,
+                    2091.0,
+                    1459.0,
+                    45.0,
+                    1459.0
+                ],
+                "score": 0.983,
+                "text": "aromatherapy(relaxingeffects)[177,178]aswellasantibacterialeffects[179,180].Chemicaland"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    1449.0,
+                    2393.0,
+                    1449.0,
+                    2393.0,
+                    1520.0,
+                    48.0,
+                    1520.0
+                ],
+                "score": 0.983,
+                "text": "pharmacologicalstudies haveshownthatsomespeciesproduceactiveprinciplesthat exertanti-gastropathic,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1500.0,
+                    2432.0,
+                    1500.0,
+                    2432.0,
+                    1574.0,
+                    40.0,
+                    1574.0
+                ],
+                "score": 0.902,
+                "text": "anti-inflammatoryantioidantandradicalscavengingactivity181-183j.Ithasbeenreportedtatpysiological"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1556.0,
+                    2440.0,
+                    1556.0,
+                    2440.0,
+                    1631.0,
+                    45.0,
+                    1631.0
+                ],
+                "score": 0.982,
+                "text": "effectsofphytoncidescontributetotheimprovementofvariousdisordersincludingacceleratedagingallergies,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    1615.0,
+                    2336.0,
+                    1615.0,
+                    2336.0,
+                    1679.0,
+                    48.0,
+                    1679.0
+                ],
+                "score": 0.992,
+                "text": "multiplesclerosis,andParkinsondisease[176].Inaddition,phytoncideisreportedtoenhancetheactivityof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1669.0,
+                    2398.0,
+                    1669.0,
+                    2398.0,
+                    1736.0,
+                    45.0,
+                    1736.0
+                ],
+                "score": 0.968,
+                "text": "humanNKcels[184].Ithasalsobeenintroducedthatfragrancefromtrees hasaregulatoryeffectonimmune"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1725.0,
+                    2414.0,
+                    1725.0,
+                    2414.0,
+                    1794.0,
+                    42.0,
+                    1794.0
+                ],
+                "score": 0.989,
+                "text": "functioninhumansandarestorativeeffectonthestress-inducedimmunesuppressioninmice[185,186].There"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1784.0,
+                    2432.0,
+                    1784.0,
+                    2432.0,
+                    1848.0,
+                    45.0,
+                    1848.0
+                ],
+                "score": 0.988,
+                "text": "isnoreportabouttherolesofphytoncideinasthma.However,wehavefoundthatadministrationofphytoncide"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1840.0,
+                    1553.0,
+                    1840.0,
+                    1553.0,
+                    1904.0,
+                    45.0,
+                    1904.0
+                ],
+                "score": 0.993,
+                "text": "solutionreducesasthmaticphenotypesofananimalmodelofasthma,"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 1934
+        }
+    }
+]

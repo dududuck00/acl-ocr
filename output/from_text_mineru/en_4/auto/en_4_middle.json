@@ -1,0 +1,1544 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        5,
+                        879,
+                        704
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                20,
+                                862,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        20,
+                                        862,
+                                        47
+                                    ],
+                                    "score": 0.98,
+                                    "content": "PoliticalAnthropology:ACross-CulturalComparison5centerofthecampandcriticizetheindividuals byname,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                803,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        803,
+                                        65
+                                    ],
+                                    "score": 0.982,
+                                    "content": "usinghumortosoftentheircriticism-thegroup,afterall,must getalong.14WarfareinBandSocieties",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                850,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        850,
+                                        84
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Nevertheless,conflictdoessometimesbreakoutintowarbetweenbandsand,sometimes,withinthem.Such",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                78,
+                                838,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        78,
+                                        838,
+                                        104
+                                    ],
+                                    "score": 0.997,
+                                    "content": "warfareisusuallysporadicandshort-livedsincebandsdonothaveformalleadershipstructuresorenough",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                100,
+                                869,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        100,
+                                        869,
+                                        123
+                                    ],
+                                    "score": 0.993,
+                                    "content": "warriorstosustainconflictforlong.Mostoftheconflictarisesfrominter-personalarguments.AmongtheTiwi",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                119,
+                                829,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        119,
+                                        829,
+                                        143
+                                    ],
+                                    "score": 0.984,
+                                    "content": "ofAustralia,forexample,failureofonebandtoreciprocateanotherband'swife-givingwithoneofitsown",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                137,
+                                839,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        137,
+                                        839,
+                                        164
+                                    ],
+                                    "score": 0.977,
+                                    "content": "femalerelativeledtoabductionofwomenbytheag-grievedband,precipitatinga“war\"thatinvolvedsome",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                874,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        874,
+                                        182
+                                    ],
+                                    "score": 0.992,
+                                    "content": "spear-throwing(manydidnotshootstraightandevensomeoftheonlookerswerewounded)butmostlyviolent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                180,
+                                820,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        180,
+                                        820,
+                                        203
+                                    ],
+                                    "score": 0.986,
+                                    "content": "talkandverbalabuse.15FortheDobe!Kung,Leefound22casesof homicidebymalesandotherperiodic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                198,
+                                841,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        198,
+                                        841,
+                                        223
+                                    ],
+                                    "score": 0.983,
+                                    "content": "episodesofviolence,mostlyindisputesoverwomen—notquitethegentlesoulsElizabethMarshallThomas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                219,
+                                825,
+                                242
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        219,
+                                        825,
+                                        242
+                                    ],
+                                    "score": 0.989,
+                                    "content": "depictedinher HarmlessPeople(1959).16TRIBALPOLITICALORGANIZATIONWhereasbandsinvolvesmall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                238,
+                                863,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        238,
+                                        863,
+                                        265
+                                    ],
+                                    "score": 0.998,
+                                    "content": "populationswithoutstructure,tribalsocietiesinvolveatleasttwowell-definedgroupslinkedtogetherinsome",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                260,
+                                869,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        260,
+                                        869,
+                                        283
+                                    ],
+                                    "score": 0.973,
+                                    "content": "wayandrangeinpopulationfromabout100toasmanyas5,0oopeople.Thoughtheirsocialinstitutionscanbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                280,
+                                849,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        280,
+                                        849,
+                                        305
+                                    ],
+                                    "score": 0.993,
+                                    "content": "fairlycomplex,therearenocentralizedpoliticalstructuresoroficesinthestrictsenseofthoseterms.There",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                302,
+                                852,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        302,
+                                        852,
+                                        322
+                                    ],
+                                    "score": 0.988,
+                                    "content": "maybeheadmen,buttherearenorulesofsuccessionandsonsdonotnecessarilysucceedtheirfathersasis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                320,
+                                853,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        320,
+                                        853,
+                                        343
+                                    ],
+                                    "score": 0.988,
+                                    "content": "thecasewithchiefdoms.Triballeadershiprolesareopentoanyone—inpractice,usuallymen,especiallyelder",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                340,
+                                872,
+                                363
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        340,
+                                        872,
+                                        363
+                                    ],
+                                    "score": 0.982,
+                                    "content": "menwhoac-quireleadershippositions becauseoftheirpersonalabilitiesandqualities.Leadersintribesdonot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                361,
+                                870,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        361,
+                                        870,
+                                        384
+                                    ],
+                                    "score": 0.998,
+                                    "content": "haveameansofcoercingothersorformalpowersassociatedwiththeirpositions.Instead,theymustpersuade",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                380,
+                                872,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        380,
+                                        872,
+                                        403
+                                    ],
+                                    "score": 0.983,
+                                    "content": "otherstotakeactionstheyfeelareneeded.AYanomamiheadsman,forinstance,saidthathewouldneverissue",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                397,
+                                840,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        397,
+                                        840,
+                                        425
+                                    ],
+                                    "score": 0.994,
+                                    "content": "anorderunlessheknewitwouldbeobeyed.TheheadmanKaobawaexercisedinfluencebyexampleandby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                420,
+                                848,
+                                443
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        420,
+                                        848,
+                                        443
+                                    ],
+                                    "score": 0.995,
+                                    "content": "makingsuggestionsandwarningofconsequencesoftakingornottakinganaction.17Likebands,tribesare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                440,
+                                838,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        440,
+                                        838,
+                                        466
+                                    ],
+                                    "score": 0.995,
+                                    "content": "egalitariansocieties.Someindividualsinatribedosometimesaccumulatepersonalpropertybutnottothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                459,
+                                847,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        459,
+                                        847,
+                                        485
+                                    ],
+                                    "score": 0.996,
+                                    "content": "extentthatothertribemembersaredeprived.Andevery(almostalwaysmale)personhastheopportunityto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                860,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        860,
+                                        504
+                                    ],
+                                    "score": 0.993,
+                                    "content": "becomeaheadmanorleaderand,likebands,one'slead-ershippositioncanbesituational.Onemanmaybea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                500,
+                                876,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        500,
+                                        876,
+                                        525
+                                    ],
+                                    "score": 0.978,
+                                    "content": "goodmediator,anotheranexemplarywarior,andathirdcapableofleadingahuntorfindingamoreidealarea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                875,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        875,
+                                        545
+                                    ],
+                                    "score": 0.985,
+                                    "content": "forcultivationorgrazing herds.AnexampleillustratingthiskindofleadershipisthebigmanofNewGuinea;the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                540,
+                                866,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        540,
+                                        866,
+                                        563
+                                    ],
+                                    "score": 0.985,
+                                    "content": "termisderivedfromthelanguagesofNewGuineantribes(literallymeaning“manofinfluence\").Thebigmanis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                560,
+                                830,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        560,
+                                        830,
+                                        585
+                                    ],
+                                    "score": 0.974,
+                                    "content": "onewho hasacquiredfollowers bydoingfavors theycannotpossiblyrepaysuchassetling theirdebtsor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                824,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        824,
+                                        605
+                                    ],
+                                    "score": 0.984,
+                                    "content": "providingbride-wealth.Hemightalsoacquireasmanywivesaspossibletocreatealianceswithhiswives'",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                601,
+                                840,
+                                624
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        601,
+                                        840,
+                                        624
+                                    ],
+                                    "score": 0.989,
+                                    "content": "families.Hiswivescouldworktocareforasmanypigsaspossible,forexample,andinduecourse,hecould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                621,
+                                839,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        621,
+                                        839,
+                                        644
+                                    ],
+                                    "score": 0.994,
+                                    "content": "sponsorapigfeastthatwouldservetoputmoretribemembersinhisdebtandshamehisrivals.Itisworth",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                640,
+                                861,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        640,
+                                        861,
+                                        666
+                                    ],
+                                    "score": 0.983,
+                                    "content": "notingthatthefollowers,incapableofrepayingtheBigMan'sgifts,standmetaphoricallyasbeggarstohim.18",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                661,
+                                863,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        661,
+                                        863,
+                                        684
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Still,abigmandoesnothavethepowerofamonarch.Hisroleisnothereditary.Hissonmustdemonstratehis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                680,
+                                646,
+                                703
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        680,
+                                        646,
+                                        703
+                                    ],
+                                    "score": 0.959,
+                                    "content": "worthandacquire hisown following-hemust becomeabigman in hisown right.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                715
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        5,
+                        879,
+                        704
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                20,
+                                862,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        20,
+                                        862,
+                                        47
+                                    ],
+                                    "score": 0.98,
+                                    "content": "PoliticalAnthropology:ACross-CulturalComparison5centerofthecampandcriticizetheindividuals byname,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                803,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        803,
+                                        65
+                                    ],
+                                    "score": 0.982,
+                                    "content": "usinghumortosoftentheircriticism-thegroup,afterall,must getalong.14WarfareinBandSocieties",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                850,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        850,
+                                        84
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Nevertheless,conflictdoessometimesbreakoutintowarbetweenbandsand,sometimes,withinthem.Such",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                78,
+                                838,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        78,
+                                        838,
+                                        104
+                                    ],
+                                    "score": 0.997,
+                                    "content": "warfareisusuallysporadicandshort-livedsincebandsdonothaveformalleadershipstructuresorenough",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                100,
+                                869,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        100,
+                                        869,
+                                        123
+                                    ],
+                                    "score": 0.993,
+                                    "content": "warriorstosustainconflictforlong.Mostoftheconflictarisesfrominter-personalarguments.AmongtheTiwi",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                119,
+                                829,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        119,
+                                        829,
+                                        143
+                                    ],
+                                    "score": 0.984,
+                                    "content": "ofAustralia,forexample,failureofonebandtoreciprocateanotherband'swife-givingwithoneofitsown",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                137,
+                                839,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        137,
+                                        839,
+                                        164
+                                    ],
+                                    "score": 0.977,
+                                    "content": "femalerelativeledtoabductionofwomenbytheag-grievedband,precipitatinga“war\"thatinvolvedsome",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                874,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        874,
+                                        182
+                                    ],
+                                    "score": 0.992,
+                                    "content": "spear-throwing(manydidnotshootstraightandevensomeoftheonlookerswerewounded)butmostlyviolent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                180,
+                                820,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        180,
+                                        820,
+                                        203
+                                    ],
+                                    "score": 0.986,
+                                    "content": "talkandverbalabuse.15FortheDobe!Kung,Leefound22casesof homicidebymalesandotherperiodic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                198,
+                                841,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        198,
+                                        841,
+                                        223
+                                    ],
+                                    "score": 0.983,
+                                    "content": "episodesofviolence,mostlyindisputesoverwomen—notquitethegentlesoulsElizabethMarshallThomas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                219,
+                                825,
+                                242
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        219,
+                                        825,
+                                        242
+                                    ],
+                                    "score": 0.989,
+                                    "content": "depictedinher HarmlessPeople(1959).16TRIBALPOLITICALORGANIZATIONWhereasbandsinvolvesmall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                238,
+                                863,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        238,
+                                        863,
+                                        265
+                                    ],
+                                    "score": 0.998,
+                                    "content": "populationswithoutstructure,tribalsocietiesinvolveatleasttwowell-definedgroupslinkedtogetherinsome",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                260,
+                                869,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        260,
+                                        869,
+                                        283
+                                    ],
+                                    "score": 0.973,
+                                    "content": "wayandrangeinpopulationfromabout100toasmanyas5,0oopeople.Thoughtheirsocialinstitutionscanbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                280,
+                                849,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        280,
+                                        849,
+                                        305
+                                    ],
+                                    "score": 0.993,
+                                    "content": "fairlycomplex,therearenocentralizedpoliticalstructuresoroficesinthestrictsenseofthoseterms.There",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                302,
+                                852,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        302,
+                                        852,
+                                        322
+                                    ],
+                                    "score": 0.988,
+                                    "content": "maybeheadmen,buttherearenorulesofsuccessionandsonsdonotnecessarilysucceedtheirfathersasis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                320,
+                                853,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        320,
+                                        853,
+                                        343
+                                    ],
+                                    "score": 0.988,
+                                    "content": "thecasewithchiefdoms.Triballeadershiprolesareopentoanyone—inpractice,usuallymen,especiallyelder",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                340,
+                                872,
+                                363
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        340,
+                                        872,
+                                        363
+                                    ],
+                                    "score": 0.982,
+                                    "content": "menwhoac-quireleadershippositions becauseoftheirpersonalabilitiesandqualities.Leadersintribesdonot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                361,
+                                870,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        361,
+                                        870,
+                                        384
+                                    ],
+                                    "score": 0.998,
+                                    "content": "haveameansofcoercingothersorformalpowersassociatedwiththeirpositions.Instead,theymustpersuade",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                380,
+                                872,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        380,
+                                        872,
+                                        403
+                                    ],
+                                    "score": 0.983,
+                                    "content": "otherstotakeactionstheyfeelareneeded.AYanomamiheadsman,forinstance,saidthathewouldneverissue",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                397,
+                                840,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        397,
+                                        840,
+                                        425
+                                    ],
+                                    "score": 0.994,
+                                    "content": "anorderunlessheknewitwouldbeobeyed.TheheadmanKaobawaexercisedinfluencebyexampleandby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                420,
+                                848,
+                                443
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        420,
+                                        848,
+                                        443
+                                    ],
+                                    "score": 0.995,
+                                    "content": "makingsuggestionsandwarningofconsequencesoftakingornottakinganaction.17Likebands,tribesare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                440,
+                                838,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        440,
+                                        838,
+                                        466
+                                    ],
+                                    "score": 0.995,
+                                    "content": "egalitariansocieties.Someindividualsinatribedosometimesaccumulatepersonalpropertybutnottothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                459,
+                                847,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        459,
+                                        847,
+                                        485
+                                    ],
+                                    "score": 0.996,
+                                    "content": "extentthatothertribemembersaredeprived.Andevery(almostalwaysmale)personhastheopportunityto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                480,
+                                860,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        480,
+                                        860,
+                                        504
+                                    ],
+                                    "score": 0.993,
+                                    "content": "becomeaheadmanorleaderand,likebands,one'slead-ershippositioncanbesituational.Onemanmaybea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                500,
+                                876,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        500,
+                                        876,
+                                        525
+                                    ],
+                                    "score": 0.978,
+                                    "content": "goodmediator,anotheranexemplarywarior,andathirdcapableofleadingahuntorfindingamoreidealarea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                520,
+                                875,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        520,
+                                        875,
+                                        545
+                                    ],
+                                    "score": 0.985,
+                                    "content": "forcultivationorgrazing herds.AnexampleillustratingthiskindofleadershipisthebigmanofNewGuinea;the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                540,
+                                866,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        540,
+                                        866,
+                                        563
+                                    ],
+                                    "score": 0.985,
+                                    "content": "termisderivedfromthelanguagesofNewGuineantribes(literallymeaning“manofinfluence\").Thebigmanis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                560,
+                                830,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        560,
+                                        830,
+                                        585
+                                    ],
+                                    "score": 0.974,
+                                    "content": "onewho hasacquiredfollowers bydoingfavors theycannotpossiblyrepaysuchassetling theirdebtsor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                824,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        824,
+                                        605
+                                    ],
+                                    "score": 0.984,
+                                    "content": "providingbride-wealth.Hemightalsoacquireasmanywivesaspossibletocreatealianceswithhiswives'",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                601,
+                                840,
+                                624
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        601,
+                                        840,
+                                        624
+                                    ],
+                                    "score": 0.989,
+                                    "content": "families.Hiswivescouldworktocareforasmanypigsaspossible,forexample,andinduecourse,hecould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                621,
+                                839,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        621,
+                                        839,
+                                        644
+                                    ],
+                                    "score": 0.994,
+                                    "content": "sponsorapigfeastthatwouldservetoputmoretribemembersinhisdebtandshamehisrivals.Itisworth",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                640,
+                                861,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        640,
+                                        861,
+                                        666
+                                    ],
+                                    "score": 0.983,
+                                    "content": "notingthatthefollowers,incapableofrepayingtheBigMan'sgifts,standmetaphoricallyasbeggarstohim.18",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                661,
+                                863,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        661,
+                                        863,
+                                        684
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Still,abigmandoesnothavethepowerofamonarch.Hisroleisnothereditary.Hissonmustdemonstratehis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                680,
+                                646,
+                                703
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        680,
+                                        646,
+                                        703
+                                    ],
+                                    "score": 0.959,
+                                    "content": "worthandacquire hisown following-hemust becomeabigman in hisown right.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5,
+                    "bbox_fs": [
+                        13,
+                        20,
+                        876,
+                        703
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

@@ -1,0 +1,3476 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        20,
+                        22,
+                        210,
+                        41
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                18,
+                                212,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        18,
+                                        212,
+                                        44
+                                    ],
+                                    "score": 0.998,
+                                    "content": "1/30/2017-CampusLabs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        43,
+                        895,
+                        142
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                40,
+                                898,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        40,
+                                        898,
+                                        66
+                                    ],
+                                    "score": 0.982,
+                                    "content": "https://bufalo.campuslabs.com/faculty/FacultyReports/PrintableReports?courseSectionId=b2dbc681-b2d5-e511-80",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                58,
+                                837,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        58,
+                                        837,
+                                        87
+                                    ],
+                                    "score": 0.996,
+                                    "content": "10/13Pleasecommentonhowexectivetheinstructorwasinteachingthiscourse.-Theinstructorwasvery",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                82,
+                                871,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        82,
+                                        871,
+                                        105
+                                    ],
+                                    "score": 0.972,
+                                    "content": "exectiveinexplainingthecoursematerial,butnotveryexectiveinmakingaconnectiontothepractical,howthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                101,
+                                867,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        101,
+                                        867,
+                                        128
+                                    ],
+                                    "score": 0.981,
+                                    "content": "lecturepertaintotheprogrammingaspectofthecourse.Heisawesome,greatpersonalityknowledgableand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                119,
+                                862,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        119,
+                                        862,
+                                        147
+                                    ],
+                                    "score": 0.986,
+                                    "content": "enthusiasticaboutthematerial.Ibelievesomeaspectsof hisclassaretoodiOcultthough.MaybeIjustdidnot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        145,
+                        876,
+                        346
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                144,
+                                877,
+                                170
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        144,
+                                        877,
+                                        170
+                                    ],
+                                    "score": 0.995,
+                                    "content": "preparemyselffortheworkloadthissemester,butIwasundertheimpressiona4creditclasswouldreasonably",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                165,
+                                868,
+                                190
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        165,
+                                        868,
+                                        190
+                                    ],
+                                    "score": 0.997,
+                                    "content": "take8-12hoursofpreparationoutsideofclassperweek.Therequiredtimetocompletetheassignmentseasily",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                185,
+                                799,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        185,
+                                        799,
+                                        207
+                                    ],
+                                    "score": 0.97,
+                                    "content": "doubledor tripledthat eachweek.IunderstandthatinGeox'smind,aninsaneamountof timeisnot a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                203,
+                                834,
+                                230
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        203,
+                                        834,
+                                        230
+                                    ],
+                                    "score": 0.979,
+                                    "content": "requirementtocompletingtheassignments,butwhentheonlyundergraduategroupsIknowthatgotfull",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                223,
+                                864,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        223,
+                                        864,
+                                        251
+                                    ],
+                                    "score": 0.989,
+                                    "content": "pointsbeforethedeadlinesadmittedtospending hundredsof hoursonthem,itmayaswellbearequirement.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                245,
+                                842,
+                                271
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        245,
+                                        842,
+                                        271
+                                    ],
+                                    "score": 0.996,
+                                    "content": "Inasituationlikethat,itiseasytofeelikeyourperformanceisnotbeingjudgedbyyourabilitytograspthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                263,
+                                851,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        263,
+                                        851,
+                                        289
+                                    ],
+                                    "score": 0.989,
+                                    "content": "conceptsexpectedbythecoursesyllabus,butbyyourwillingnessandabilitytospendinordinateamountsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                284,
+                                865,
+                                309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        284,
+                                        865,
+                                        309
+                                    ],
+                                    "score": 0.985,
+                                    "content": "timeonasinglecourse.However,IdounderstandthatGeoxwantsthecoursetobechallngingandworththe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                305,
+                                864,
+                                332
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        305,
+                                        864,
+                                        332
+                                    ],
+                                    "score": 0.989,
+                                    "content": "exort.Icansaythateveryhourputintothisclassisworthitintermsofpersonalgrowthandlearning,justnot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                324,
+                                877,
+                                351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        324,
+                                        122,
+                                        351
+                                    ],
+                                    "score": 0.995,
+                                    "content": "everyonecan",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        122,
+                                        327,
+                                        171,
+                                        346
+                                    ],
+                                    "score": 0.28,
+                                    "content": "\\mathsf { a x o r d }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        171,
+                                        324,
+                                        877,
+                                        351
+                                    ],
+                                    "score": 0.971,
+                                    "content": "toputinalotof hours.GeoxwasOexibleinallowinglatesubmissions,andthecurve(based",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 10.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        16,
+                        256,
+                        879,
+                        1560
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                348,
+                                841,
+                                371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        348,
+                                        841,
+                                        371
+                                    ],
+                                    "score": 0.985,
+                                    "content": "onthemidtermgrades)was generous.OverallthoughIfeelas though studentswouldbemorereceptiveto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                368,
+                                815,
+                                393
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        368,
+                                        815,
+                                        393
+                                    ],
+                                    "score": 0.969,
+                                    "content": "learningwhenmoremanageable goalsarelaid out before them.Geoxrey Challen beyond surpasses the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                389,
+                                881,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        389,
+                                        881,
+                                        412
+                                    ],
+                                    "score": 0.991,
+                                    "content": "cumulativequalityoftheCSEfaculty.Hisintegrationofhumorwithincoursematerialwasprofound;indicativeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                408,
+                                830,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        408,
+                                        830,
+                                        435
+                                    ],
+                                    "score": 0.968,
+                                    "content": "ahumble,superiorlevelof intellgence.Ican'tarticulatehowappreciativeIamfortheaccessbilityeaseof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                429,
+                                851,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        429,
+                                        851,
+                                        452
+                                    ],
+                                    "score": 0.983,
+                                    "content": "lecturematerial.Somepeoplearenotfortunateenoughtolivethe\"full-timeresidentialstudent\"life,andit's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                448,
+                                860,
+                                474
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        448,
+                                        860,
+                                        474
+                                    ],
+                                    "score": 0.98,
+                                    "content": "extremelydiscouragingwhenatending toresponsibilitiesresultsinfalling behind/missingannouncements in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                467,
+                                840,
+                                495
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        467,
+                                        840,
+                                        495
+                                    ],
+                                    "score": 0.989,
+                                    "content": "classes.TLDR:10/10wouldrecommendwouldtellafriend.Dr.Challen(orgwaasheprefers)presentedthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                488,
+                                867,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        488,
+                                        867,
+                                        515
+                                    ],
+                                    "score": 0.988,
+                                    "content": "materialofthecourseinawaythatwasengaging,memorable,andfunny(farmorethanatopicasdreadfulas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                508,
+                                871,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        508,
+                                        871,
+                                        535
+                                    ],
+                                    "score": 0.991,
+                                    "content": "OSstructuralimplementationhasanyrighttobe),whichgreatlyhelpedonexaminations.Enthusiasticandclear",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                531,
+                                863,
+                                554
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        531,
+                                        863,
+                                        554
+                                    ],
+                                    "score": 0.994,
+                                    "content": "professor.Clearlyspenttimeputing togethercoursematerialsanddesigning infrastructureofcoursesothat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                549,
+                                850,
+                                572
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        549,
+                                        850,
+                                        572
+                                    ],
+                                    "score": 0.997,
+                                    "content": "technicalissueswouldnotholdusbackfromworkingonassignments.Hispersonalassistancewasaccurate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                568,
+                                863,
+                                595
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        568,
+                                        863,
+                                        595
+                                    ],
+                                    "score": 0.987,
+                                    "content": "withoutgivingawayanswers.Ifeltlikeonlysmartquestionsshouldbeasked,andIfeltveryinsecureinasking",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                588,
+                                878,
+                                615
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        588,
+                                        878,
+                                        615
+                                    ],
+                                    "score": 0.989,
+                                    "content": "dumbquestions,thisisageneralfelinginthecomputersciencedepartmentandIbelieveshouldbeaddressed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                608,
+                                843,
+                                635
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        608,
+                                        843,
+                                        635
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Somestudentswhofeltliketheywerebehind,onlygotmorebehind,becauseoffearofscrutinyoftheTA's,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                629,
+                                873,
+                                652
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        629,
+                                        873,
+                                        652
+                                    ],
+                                    "score": 0.992,
+                                    "content": "otherstudents,andtheProfessor.Thereare2sidestoGeoxeitherheisinagreatmoodorheisinabadmood.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                648,
+                                852,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        648,
+                                        852,
+                                        675
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Ithinkthat heisgenerallyareallyniceguybutyoudonotwhattogetonhis badside.Hemadestudentsfeel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                671,
+                                864,
+                                693
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        671,
+                                        864,
+                                        693
+                                    ],
+                                    "score": 0.992,
+                                    "content": "veryunwelcomeduringoOcehours,heseemedhostileandrudeattimestostudentswhowerestrugglingbut",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                689,
+                                860,
+                                719
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        689,
+                                        860,
+                                        719
+                                    ],
+                                    "score": 0.981,
+                                    "content": "nicetootherswhohadabetterunderstanding.Iwaspersonallyscaredofinteractingwith himdueto theway",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                710,
+                                857,
+                                739
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        710,
+                                        857,
+                                        739
+                                    ],
+                                    "score": 0.953,
+                                    "content": "hetreatedstudents duringoOce hours.instructor assumeseveryonehas basic OS knowledgewhen teaching",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                738,
+                                867,
+                                761
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        738,
+                                        867,
+                                        761
+                                    ],
+                                    "score": 0.99,
+                                    "content": "whilethatisnotalwaystrue.Theprofwasreallygood.Hadloadsoffun.VeryexectiveVeryexective.Ilikedhow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                758,
+                                865,
+                                781
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        758,
+                                        865,
+                                        781
+                                    ],
+                                    "score": 0.993,
+                                    "content": "heusedanecdotesthroughoutthelectures.IfoundnofaultsinthiscourseotherthanitbeingdiOcult,butina",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                779,
+                                881,
+                                805
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        779,
+                                        100,
+                                        805
+                                    ],
+                                    "score": 0.974,
+                                    "content": "goodway.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        100,
+                                        782,
+                                        143,
+                                        801
+                                    ],
+                                    "score": 0.37,
+                                    "content": "\\mathsf { G e o x }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        144,
+                                        779,
+                                        881,
+                                        805
+                                    ],
+                                    "score": 0.989,
+                                    "content": "mademewanttocometo lecturebecauseof hisengaging teachingstyle.Heisentertainingand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                802,
+                                863,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        802,
+                                        863,
+                                        825
+                                    ],
+                                    "score": 0.992,
+                                    "content": "cramstonsofinformationintoeachlecture,butitisveryeasytodigest.TheenthusiasmthatChallnexhibited",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                822,
+                                868,
+                                845
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        822,
+                                        868,
+                                        845
+                                    ],
+                                    "score": 0.991,
+                                    "content": "wasamazing,IreallyfeltbadwhenImissedeverysingleclass.Ineverfeltboredinclass.Theassignmentswere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                842,
+                                865,
+                                865
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        842,
+                                        865,
+                                        865
+                                    ],
+                                    "score": 0.985,
+                                    "content": "wellsupportedbythecoursestax,theopportunitytosubmitmultipletimesallowedustoexperimentalot.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                862,
+                                825,
+                                885
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        862,
+                                        825,
+                                        885
+                                    ],
+                                    "score": 0.992,
+                                    "content": "3rdassignmentcould'vegivenlesstimeforcoremapandmoretimeforothertwoparts.Also,thetargets",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                882,
+                                875,
+                                905
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        882,
+                                        875,
+                                        905
+                                    ],
+                                    "score": 0.991,
+                                    "content": "could'vebeenreleasedearlysothatpeoplecould'vegotmoretimetotest.Thelectureswereamongmyfavorite",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                902,
+                                867,
+                                925
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        902,
+                                        867,
+                                        925
+                                    ],
+                                    "score": 0.978,
+                                    "content": "duringmytimeatUB.But,theasignmentswereamongmyworstandmosttimeconsumingassignments.Itis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                918,
+                                863,
+                                948
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        918,
+                                        863,
+                                        948
+                                    ],
+                                    "score": 0.968,
+                                    "content": "sohardforme.butthethingisinstallingos was noteasyHeisbasedontheslides thathemade.Anditisvery",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                942,
+                                863,
+                                965
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        942,
+                                        863,
+                                        965
+                                    ],
+                                    "score": 0.978,
+                                    "content": "exective!:)ThisisbyfarthebestprofessorI'vehadatUBandreallymakesthecourseanenjoyableexperience.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                958,
+                                878,
+                                986
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        958,
+                                        878,
+                                        986
+                                    ],
+                                    "score": 0.98,
+                                    "content": "He'ssuperknowledgeablewhenitcomestocoursematerial,andyoucantellheenjoysteachingit.Thecourseis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                979,
+                                881,
+                                1007
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        979,
+                                        881,
+                                        1007
+                                    ],
+                                    "score": 0.97,
+                                    "content": "deOnitelyhard,buthisoocehoursareinvitingandhelpful,andhe'salwayspositiveandfunny.He'sdedicatedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1002,
+                                858,
+                                1031
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1002,
+                                        858,
+                                        1031
+                                    ],
+                                    "score": 0.982,
+                                    "content": "thelearningof hisstudentsaswellastheentireCSEdepartment.Geoxwasexcellentinthiscourse.Givingme",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1024,
+                                838,
+                                1051
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1024,
+                                        838,
+                                        1051
+                                    ],
+                                    "score": 0.969,
+                                    "content": "thecorrect balanceofwellpresentedmaterial,welldeOned goals,andsolidguidancewhenseekinghelpin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1047,
+                                850,
+                                1075
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1047,
+                                        850,
+                                        1075
+                                    ],
+                                    "score": 0.976,
+                                    "content": "oOcehours.Theinstructorpresentedthematerialinanorganized,easy-to-follw,andentertainingmanner.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                1074,
+                                864,
+                                1097
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        1074,
+                                        864,
+                                        1097
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Good,likestosay\"right\"alotbuthegotbetteratit.Enthusiastic,likestomakejokesandfunnyduringlecture.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1091,
+                                840,
+                                1118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1091,
+                                        840,
+                                        1118
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Hewasveryexective.Maybetheonlythingwouldbetogivemoreofabackgroundontheassignmentsand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 52
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1112,
+                                852,
+                                1140
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1112,
+                                        852,
+                                        1140
+                                    ],
+                                    "score": 0.984,
+                                    "content": "moredirectionindoing them.Giventhesizeoftheasignments,itseemedverydioculttohavetorelyon the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 53
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1135,
+                                830,
+                                1162
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1135,
+                                        830,
+                                        1162
+                                    ],
+                                    "score": 0.969,
+                                    "content": "TAsforinstructiononhowtodo themeven withaplethoraofoOce hours.Hetaughtwellandmadeclass",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 54
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1162,
+                                875,
+                                1185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1162,
+                                        875,
+                                        1185
+                                    ],
+                                    "score": 0.991,
+                                    "content": "exciting.Hewasverygoodinhisteachings.Also,heIScute:)Challenwasveryexectiveandknowledgeableinhis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 55
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1182,
+                                835,
+                                1205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1182,
+                                        835,
+                                        1205
+                                    ],
+                                    "score": 0.994,
+                                    "content": "explanationofconcepts.Hisenthusiasmshowedineveryclass.HetrulylikestoteachOperatingSystems.I",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 56
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1203,
+                                856,
+                                1225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1203,
+                                        856,
+                                        1225
+                                    ],
+                                    "score": 0.99,
+                                    "content": "enjoyedhaving Geoxasaprofessorforthiscourse!Tome,Geoxwasveryexectiveinteachingtheconceptual",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 57
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1220,
+                                820,
+                                1247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1220,
+                                        820,
+                                        1247
+                                    ],
+                                    "score": 0.983,
+                                    "content": "aspectsofthecourse,andIenjoyedattendingthelectures.Therewasadisconnectinthediocultyof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 58
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1244,
+                                877,
+                                1270
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1244,
+                                        877,
+                                        1270
+                                    ],
+                                    "score": 0.992,
+                                    "content": "conceptualaspectsofthecourseandtheprogrammingaspects.Thisdisconnectcould havebeenaleviatedbya",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 59
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1267,
+                                877,
+                                1290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1267,
+                                        877,
+                                        1290
+                                    ],
+                                    "score": 0.982,
+                                    "content": "moredirectedsetofassignmentdescriptions,asstatedearlierinmyevaluation.Thisismyonly\"complaint\",and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 60
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1285,
+                                858,
+                                1308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1285,
+                                        858,
+                                        1308
+                                    ],
+                                    "score": 0.99,
+                                    "content": "itstemsfromtheamountofstrugglingIdidontheassignments.Ihaveheardthat CSE421/521isalittleabove",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 61
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1304,
+                                878,
+                                1331
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1304,
+                                        878,
+                                        1331
+                                    ],
+                                    "score": 0.985,
+                                    "content": "thelevelofmanyUBstudentsREGARDLESSofwhoteachesit.Ithink thereisasystemicproblemhere:eitherthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 62
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1324,
+                                873,
+                                1351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1324,
+                                        873,
+                                        1351
+                                    ],
+                                    "score": 0.986,
+                                    "content": "421/521courseitself,orthewayUB'scurriculumuptothispointhas(not)preparedusforthisclass.Everything",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 63
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1344,
+                                868,
+                                1371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1344,
+                                        868,
+                                        1371
+                                    ],
+                                    "score": 0.769,
+                                    "content": "beingsaid,Ioldmletelyecommedonyass.Hstuiamillnsstoelpdeay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 64
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1365,
+                                856,
+                                1388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1365,
+                                        856,
+                                        1388
+                                    ],
+                                    "score": 0.987,
+                                    "content": "thathemakestheentirecourse(notes,lectures,recitations,etc.)availableonlineshowthatheisdedicatedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 65
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1385,
+                                856,
+                                1408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1385,
+                                        856,
+                                        1408
+                                    ],
+                                    "score": 0.998,
+                                    "content": "students!HeisthebestcomputerscienceteacherIhavecomeacrossinmylifesofar!Hisenthusiasmforthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 66
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1403,
+                                877,
+                                1431
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1403,
+                                        877,
+                                        1431
+                                    ],
+                                    "score": 0.996,
+                                    "content": "topicwasgreatlyreOectedinhismethodofinstruction;heexplainedtopicsquitethoroughlyandmadelearning",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 67
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1427,
+                                875,
+                                1454
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1427,
+                                        875,
+                                        1454
+                                    ],
+                                    "score": 0.98,
+                                    "content": "thematerialquiteenjoyableProxGWAisrealygoodandknowshisstux.Hisnotesandlectureslidesandvideos",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 68
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1450,
+                                848,
+                                1472
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1450,
+                                        848,
+                                        1472
+                                    ],
+                                    "score": 0.993,
+                                    "content": "reallhelpedmelearnthesubject.:)Unapproachable.Veryknowledgablethough.Butexpectsyoutoalready",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 69
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1467,
+                                848,
+                                1494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1467,
+                                        848,
+                                        1494
+                                    ],
+                                    "score": 0.978,
+                                    "content": "knowtoomanythings.Heisawesome!Iloved histeachingstyle,IwasalreadyinterestedinsystemsandOS,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 70
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1487,
+                                878,
+                                1514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1487,
+                                        878,
+                                        1514
+                                    ],
+                                    "score": 0.996,
+                                    "content": "haveworkedindevicedriversbefore.Butheprovidedanotherangletohowtodesignsystemsandtradeoxs.He",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 71
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1505,
+                                841,
+                                1534
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1505,
+                                        841,
+                                        1534
+                                    ],
+                                    "score": 0.996,
+                                    "content": "isoneofthebestteachersIhavelistenedtothedate.Greatprofessor.He'saliteintimidatingbutthatjust",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 72
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1529,
+                                522,
+                                1553
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1529,
+                                        522,
+                                        1553
+                                    ],
+                                    "score": 0.981,
+                                    "content": "mademeuseeveryotherpossible resourcebefore going forhelp",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 73
+                        }
+                    ],
+                    "index": 44.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                1563
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        20,
+                        22,
+                        210,
+                        41
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                18,
+                                212,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        18,
+                                        212,
+                                        44
+                                    ],
+                                    "score": 0.998,
+                                    "content": "1/30/2017-CampusLabs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        43,
+                        895,
+                        142
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                40,
+                                898,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        40,
+                                        898,
+                                        66
+                                    ],
+                                    "score": 0.982,
+                                    "content": "https://bufalo.campuslabs.com/faculty/FacultyReports/PrintableReports?courseSectionId=b2dbc681-b2d5-e511-80",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                58,
+                                837,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        58,
+                                        837,
+                                        87
+                                    ],
+                                    "score": 0.996,
+                                    "content": "10/13Pleasecommentonhowexectivetheinstructorwasinteachingthiscourse.-Theinstructorwasvery",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                82,
+                                871,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        82,
+                                        871,
+                                        105
+                                    ],
+                                    "score": 0.972,
+                                    "content": "exectiveinexplainingthecoursematerial,butnotveryexectiveinmakingaconnectiontothepractical,howthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                101,
+                                867,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        101,
+                                        867,
+                                        128
+                                    ],
+                                    "score": 0.981,
+                                    "content": "lecturepertaintotheprogrammingaspectofthecourse.Heisawesome,greatpersonalityknowledgableand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                119,
+                                862,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        119,
+                                        862,
+                                        147
+                                    ],
+                                    "score": 0.986,
+                                    "content": "enthusiasticaboutthematerial.Ibelievesomeaspectsof hisclassaretoodiOcultthough.MaybeIjustdidnot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 3,
+                    "bbox_fs": [
+                        15,
+                        40,
+                        898,
+                        147
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        145,
+                        876,
+                        346
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                144,
+                                877,
+                                170
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        144,
+                                        877,
+                                        170
+                                    ],
+                                    "score": 0.995,
+                                    "content": "preparemyselffortheworkloadthissemester,butIwasundertheimpressiona4creditclasswouldreasonably",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                165,
+                                868,
+                                190
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        165,
+                                        868,
+                                        190
+                                    ],
+                                    "score": 0.997,
+                                    "content": "take8-12hoursofpreparationoutsideofclassperweek.Therequiredtimetocompletetheassignmentseasily",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                185,
+                                799,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        185,
+                                        799,
+                                        207
+                                    ],
+                                    "score": 0.97,
+                                    "content": "doubledor tripledthat eachweek.IunderstandthatinGeox'smind,aninsaneamountof timeisnot a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                203,
+                                834,
+                                230
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        203,
+                                        834,
+                                        230
+                                    ],
+                                    "score": 0.979,
+                                    "content": "requirementtocompletingtheassignments,butwhentheonlyundergraduategroupsIknowthatgotfull",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                223,
+                                864,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        223,
+                                        864,
+                                        251
+                                    ],
+                                    "score": 0.989,
+                                    "content": "pointsbeforethedeadlinesadmittedtospending hundredsof hoursonthem,itmayaswellbearequirement.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                245,
+                                842,
+                                271
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        245,
+                                        842,
+                                        271
+                                    ],
+                                    "score": 0.996,
+                                    "content": "Inasituationlikethat,itiseasytofeelikeyourperformanceisnotbeingjudgedbyyourabilitytograspthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                263,
+                                851,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        263,
+                                        851,
+                                        289
+                                    ],
+                                    "score": 0.989,
+                                    "content": "conceptsexpectedbythecoursesyllabus,butbyyourwillingnessandabilitytospendinordinateamountsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                284,
+                                865,
+                                309
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        284,
+                                        865,
+                                        309
+                                    ],
+                                    "score": 0.985,
+                                    "content": "timeonasinglecourse.However,IdounderstandthatGeoxwantsthecoursetobechallngingandworththe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                305,
+                                864,
+                                332
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        305,
+                                        864,
+                                        332
+                                    ],
+                                    "score": 0.989,
+                                    "content": "exort.Icansaythateveryhourputintothisclassisworthitintermsofpersonalgrowthandlearning,justnot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                324,
+                                877,
+                                351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        324,
+                                        122,
+                                        351
+                                    ],
+                                    "score": 0.995,
+                                    "content": "everyonecan",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        122,
+                                        327,
+                                        171,
+                                        346
+                                    ],
+                                    "score": 0.28,
+                                    "content": "\\mathsf { a x o r d }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        171,
+                                        324,
+                                        877,
+                                        351
+                                    ],
+                                    "score": 0.971,
+                                    "content": "toputinalotof hours.GeoxwasOexibleinallowinglatesubmissions,andthecurve(based",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                348,
+                                841,
+                                371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        348,
+                                        841,
+                                        371
+                                    ],
+                                    "score": 0.985,
+                                    "content": "onthemidtermgrades)was generous.OverallthoughIfeelas though studentswouldbemorereceptiveto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                368,
+                                815,
+                                393
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        368,
+                                        815,
+                                        393
+                                    ],
+                                    "score": 0.969,
+                                    "content": "learningwhenmoremanageable goalsarelaid out before them.Geoxrey Challen beyond surpasses the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                389,
+                                881,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        389,
+                                        881,
+                                        412
+                                    ],
+                                    "score": 0.991,
+                                    "content": "cumulativequalityoftheCSEfaculty.Hisintegrationofhumorwithincoursematerialwasprofound;indicativeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                408,
+                                830,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        408,
+                                        830,
+                                        435
+                                    ],
+                                    "score": 0.968,
+                                    "content": "ahumble,superiorlevelof intellgence.Ican'tarticulatehowappreciativeIamfortheaccessbilityeaseof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                429,
+                                851,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        429,
+                                        851,
+                                        452
+                                    ],
+                                    "score": 0.983,
+                                    "content": "lecturematerial.Somepeoplearenotfortunateenoughtolivethe\"full-timeresidentialstudent\"life,andit's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                448,
+                                860,
+                                474
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        448,
+                                        860,
+                                        474
+                                    ],
+                                    "score": 0.98,
+                                    "content": "extremelydiscouragingwhenatending toresponsibilitiesresultsinfalling behind/missingannouncements in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                467,
+                                840,
+                                495
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        467,
+                                        840,
+                                        495
+                                    ],
+                                    "score": 0.989,
+                                    "content": "classes.TLDR:10/10wouldrecommendwouldtellafriend.Dr.Challen(orgwaasheprefers)presentedthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                488,
+                                867,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        488,
+                                        867,
+                                        515
+                                    ],
+                                    "score": 0.988,
+                                    "content": "materialofthecourseinawaythatwasengaging,memorable,andfunny(farmorethanatopicasdreadfulas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                508,
+                                871,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        508,
+                                        871,
+                                        535
+                                    ],
+                                    "score": 0.991,
+                                    "content": "OSstructuralimplementationhasanyrighttobe),whichgreatlyhelpedonexaminations.Enthusiasticandclear",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                531,
+                                863,
+                                554
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        531,
+                                        863,
+                                        554
+                                    ],
+                                    "score": 0.994,
+                                    "content": "professor.Clearlyspenttimeputing togethercoursematerialsanddesigning infrastructureofcoursesothat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                549,
+                                850,
+                                572
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        549,
+                                        850,
+                                        572
+                                    ],
+                                    "score": 0.997,
+                                    "content": "technicalissueswouldnotholdusbackfromworkingonassignments.Hispersonalassistancewasaccurate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                568,
+                                863,
+                                595
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        568,
+                                        863,
+                                        595
+                                    ],
+                                    "score": 0.987,
+                                    "content": "withoutgivingawayanswers.Ifeltlikeonlysmartquestionsshouldbeasked,andIfeltveryinsecureinasking",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                588,
+                                878,
+                                615
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        588,
+                                        878,
+                                        615
+                                    ],
+                                    "score": 0.989,
+                                    "content": "dumbquestions,thisisageneralfelinginthecomputersciencedepartmentandIbelieveshouldbeaddressed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                608,
+                                843,
+                                635
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        608,
+                                        843,
+                                        635
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Somestudentswhofeltliketheywerebehind,onlygotmorebehind,becauseoffearofscrutinyoftheTA's,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                629,
+                                873,
+                                652
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        629,
+                                        873,
+                                        652
+                                    ],
+                                    "score": 0.992,
+                                    "content": "otherstudents,andtheProfessor.Thereare2sidestoGeoxeitherheisinagreatmoodorheisinabadmood.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                648,
+                                852,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        648,
+                                        852,
+                                        675
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Ithinkthat heisgenerallyareallyniceguybutyoudonotwhattogetonhis badside.Hemadestudentsfeel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                671,
+                                864,
+                                693
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        671,
+                                        864,
+                                        693
+                                    ],
+                                    "score": 0.992,
+                                    "content": "veryunwelcomeduringoOcehours,heseemedhostileandrudeattimestostudentswhowerestrugglingbut",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                689,
+                                860,
+                                719
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        689,
+                                        860,
+                                        719
+                                    ],
+                                    "score": 0.981,
+                                    "content": "nicetootherswhohadabetterunderstanding.Iwaspersonallyscaredofinteractingwith himdueto theway",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                710,
+                                857,
+                                739
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        710,
+                                        857,
+                                        739
+                                    ],
+                                    "score": 0.953,
+                                    "content": "hetreatedstudents duringoOce hours.instructor assumeseveryonehas basic OS knowledgewhen teaching",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                738,
+                                867,
+                                761
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        738,
+                                        867,
+                                        761
+                                    ],
+                                    "score": 0.99,
+                                    "content": "whilethatisnotalwaystrue.Theprofwasreallygood.Hadloadsoffun.VeryexectiveVeryexective.Ilikedhow",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                758,
+                                865,
+                                781
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        758,
+                                        865,
+                                        781
+                                    ],
+                                    "score": 0.993,
+                                    "content": "heusedanecdotesthroughoutthelectures.IfoundnofaultsinthiscourseotherthanitbeingdiOcult,butina",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                779,
+                                881,
+                                805
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        779,
+                                        100,
+                                        805
+                                    ],
+                                    "score": 0.974,
+                                    "content": "goodway.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        100,
+                                        782,
+                                        143,
+                                        801
+                                    ],
+                                    "score": 0.37,
+                                    "content": "\\mathsf { G e o x }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        144,
+                                        779,
+                                        881,
+                                        805
+                                    ],
+                                    "score": 0.989,
+                                    "content": "mademewanttocometo lecturebecauseof hisengaging teachingstyle.Heisentertainingand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                802,
+                                863,
+                                825
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        802,
+                                        863,
+                                        825
+                                    ],
+                                    "score": 0.992,
+                                    "content": "cramstonsofinformationintoeachlecture,butitisveryeasytodigest.TheenthusiasmthatChallnexhibited",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                822,
+                                868,
+                                845
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        822,
+                                        868,
+                                        845
+                                    ],
+                                    "score": 0.991,
+                                    "content": "wasamazing,IreallyfeltbadwhenImissedeverysingleclass.Ineverfeltboredinclass.Theassignmentswere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                842,
+                                865,
+                                865
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        842,
+                                        865,
+                                        865
+                                    ],
+                                    "score": 0.985,
+                                    "content": "wellsupportedbythecoursestax,theopportunitytosubmitmultipletimesallowedustoexperimentalot.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                862,
+                                825,
+                                885
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        862,
+                                        825,
+                                        885
+                                    ],
+                                    "score": 0.992,
+                                    "content": "3rdassignmentcould'vegivenlesstimeforcoremapandmoretimeforothertwoparts.Also,thetargets",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                882,
+                                875,
+                                905
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        882,
+                                        875,
+                                        905
+                                    ],
+                                    "score": 0.991,
+                                    "content": "could'vebeenreleasedearlysothatpeoplecould'vegotmoretimetotest.Thelectureswereamongmyfavorite",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                902,
+                                867,
+                                925
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        902,
+                                        867,
+                                        925
+                                    ],
+                                    "score": 0.978,
+                                    "content": "duringmytimeatUB.But,theasignmentswereamongmyworstandmosttimeconsumingassignments.Itis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                918,
+                                863,
+                                948
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        918,
+                                        863,
+                                        948
+                                    ],
+                                    "score": 0.968,
+                                    "content": "sohardforme.butthethingisinstallingos was noteasyHeisbasedontheslides thathemade.Anditisvery",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                942,
+                                863,
+                                965
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        942,
+                                        863,
+                                        965
+                                    ],
+                                    "score": 0.978,
+                                    "content": "exective!:)ThisisbyfarthebestprofessorI'vehadatUBandreallymakesthecourseanenjoyableexperience.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                958,
+                                878,
+                                986
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        958,
+                                        878,
+                                        986
+                                    ],
+                                    "score": 0.98,
+                                    "content": "He'ssuperknowledgeablewhenitcomestocoursematerial,andyoucantellheenjoysteachingit.Thecourseis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                979,
+                                881,
+                                1007
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        979,
+                                        881,
+                                        1007
+                                    ],
+                                    "score": 0.97,
+                                    "content": "deOnitelyhard,buthisoocehoursareinvitingandhelpful,andhe'salwayspositiveandfunny.He'sdedicatedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1002,
+                                858,
+                                1031
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1002,
+                                        858,
+                                        1031
+                                    ],
+                                    "score": 0.982,
+                                    "content": "thelearningof hisstudentsaswellastheentireCSEdepartment.Geoxwasexcellentinthiscourse.Givingme",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1024,
+                                838,
+                                1051
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1024,
+                                        838,
+                                        1051
+                                    ],
+                                    "score": 0.969,
+                                    "content": "thecorrect balanceofwellpresentedmaterial,welldeOned goals,andsolidguidancewhenseekinghelpin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1047,
+                                850,
+                                1075
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1047,
+                                        850,
+                                        1075
+                                    ],
+                                    "score": 0.976,
+                                    "content": "oOcehours.Theinstructorpresentedthematerialinanorganized,easy-to-follw,andentertainingmanner.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                1074,
+                                864,
+                                1097
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        1074,
+                                        864,
+                                        1097
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Good,likestosay\"right\"alotbuthegotbetteratit.Enthusiastic,likestomakejokesandfunnyduringlecture.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1091,
+                                840,
+                                1118
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1091,
+                                        840,
+                                        1118
+                                    ],
+                                    "score": 0.991,
+                                    "content": "Hewasveryexective.Maybetheonlythingwouldbetogivemoreofabackgroundontheassignmentsand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 52
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1112,
+                                852,
+                                1140
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1112,
+                                        852,
+                                        1140
+                                    ],
+                                    "score": 0.984,
+                                    "content": "moredirectionindoing them.Giventhesizeoftheasignments,itseemedverydioculttohavetorelyon the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 53
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1135,
+                                830,
+                                1162
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1135,
+                                        830,
+                                        1162
+                                    ],
+                                    "score": 0.969,
+                                    "content": "TAsforinstructiononhowtodo themeven withaplethoraofoOce hours.Hetaughtwellandmadeclass",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 54
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1162,
+                                875,
+                                1185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1162,
+                                        875,
+                                        1185
+                                    ],
+                                    "score": 0.991,
+                                    "content": "exciting.Hewasverygoodinhisteachings.Also,heIScute:)Challenwasveryexectiveandknowledgeableinhis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 55
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1182,
+                                835,
+                                1205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1182,
+                                        835,
+                                        1205
+                                    ],
+                                    "score": 0.994,
+                                    "content": "explanationofconcepts.Hisenthusiasmshowedineveryclass.HetrulylikestoteachOperatingSystems.I",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 56
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1203,
+                                856,
+                                1225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1203,
+                                        856,
+                                        1225
+                                    ],
+                                    "score": 0.99,
+                                    "content": "enjoyedhaving Geoxasaprofessorforthiscourse!Tome,Geoxwasveryexectiveinteachingtheconceptual",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 57
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1220,
+                                820,
+                                1247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1220,
+                                        820,
+                                        1247
+                                    ],
+                                    "score": 0.983,
+                                    "content": "aspectsofthecourse,andIenjoyedattendingthelectures.Therewasadisconnectinthediocultyof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 58
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1244,
+                                877,
+                                1270
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1244,
+                                        877,
+                                        1270
+                                    ],
+                                    "score": 0.992,
+                                    "content": "conceptualaspectsofthecourseandtheprogrammingaspects.Thisdisconnectcould havebeenaleviatedbya",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 59
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1267,
+                                877,
+                                1290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1267,
+                                        877,
+                                        1290
+                                    ],
+                                    "score": 0.982,
+                                    "content": "moredirectedsetofassignmentdescriptions,asstatedearlierinmyevaluation.Thisismyonly\"complaint\",and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 60
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1285,
+                                858,
+                                1308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1285,
+                                        858,
+                                        1308
+                                    ],
+                                    "score": 0.99,
+                                    "content": "itstemsfromtheamountofstrugglingIdidontheassignments.Ihaveheardthat CSE421/521isalittleabove",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 61
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1304,
+                                878,
+                                1331
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1304,
+                                        878,
+                                        1331
+                                    ],
+                                    "score": 0.985,
+                                    "content": "thelevelofmanyUBstudentsREGARDLESSofwhoteachesit.Ithink thereisasystemicproblemhere:eitherthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 62
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1324,
+                                873,
+                                1351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1324,
+                                        873,
+                                        1351
+                                    ],
+                                    "score": 0.986,
+                                    "content": "421/521courseitself,orthewayUB'scurriculumuptothispointhas(not)preparedusforthisclass.Everything",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 63
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1344,
+                                868,
+                                1371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1344,
+                                        868,
+                                        1371
+                                    ],
+                                    "score": 0.769,
+                                    "content": "beingsaid,Ioldmletelyecommedonyass.Hstuiamillnsstoelpdeay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 64
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1365,
+                                856,
+                                1388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1365,
+                                        856,
+                                        1388
+                                    ],
+                                    "score": 0.987,
+                                    "content": "thathemakestheentirecourse(notes,lectures,recitations,etc.)availableonlineshowthatheisdedicatedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 65
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1385,
+                                856,
+                                1408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1385,
+                                        856,
+                                        1408
+                                    ],
+                                    "score": 0.998,
+                                    "content": "students!HeisthebestcomputerscienceteacherIhavecomeacrossinmylifesofar!Hisenthusiasmforthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 66
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1403,
+                                877,
+                                1431
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1403,
+                                        877,
+                                        1431
+                                    ],
+                                    "score": 0.996,
+                                    "content": "topicwasgreatlyreOectedinhismethodofinstruction;heexplainedtopicsquitethoroughlyandmadelearning",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 67
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1427,
+                                875,
+                                1454
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1427,
+                                        875,
+                                        1454
+                                    ],
+                                    "score": 0.98,
+                                    "content": "thematerialquiteenjoyableProxGWAisrealygoodandknowshisstux.Hisnotesandlectureslidesandvideos",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 68
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1450,
+                                848,
+                                1472
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1450,
+                                        848,
+                                        1472
+                                    ],
+                                    "score": 0.993,
+                                    "content": "reallhelpedmelearnthesubject.:)Unapproachable.Veryknowledgablethough.Butexpectsyoutoalready",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 69
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1467,
+                                848,
+                                1494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1467,
+                                        848,
+                                        1494
+                                    ],
+                                    "score": 0.978,
+                                    "content": "knowtoomanythings.Heisawesome!Iloved histeachingstyle,IwasalreadyinterestedinsystemsandOS,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 70
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1487,
+                                878,
+                                1514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1487,
+                                        878,
+                                        1514
+                                    ],
+                                    "score": 0.996,
+                                    "content": "haveworkedindevicedriversbefore.Butheprovidedanotherangletohowtodesignsystemsandtradeoxs.He",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 71
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1505,
+                                841,
+                                1534
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1505,
+                                        841,
+                                        1534
+                                    ],
+                                    "score": 0.996,
+                                    "content": "isoneofthebestteachersIhavelistenedtothedate.Greatprofessor.He'saliteintimidatingbutthatjust",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 72
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1529,
+                                522,
+                                1553
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1529,
+                                        522,
+                                        1553
+                                    ],
+                                    "score": 0.981,
+                                    "content": "mademeuseeveryotherpossible resourcebefore going forhelp",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 73
+                        }
+                    ],
+                    "index": 10.5,
+                    "bbox_fs": [
+                        12,
+                        144,
+                        877,
+                        351
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        16,
+                        256,
+                        879,
+                        1560
+                    ],
+                    "lines": [],
+                    "index": 44.5,
+                    "bbox_fs": [
+                        12,
+                        348,
+                        881,
+                        1553
+                    ],
+                    "lines_deleted": true
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

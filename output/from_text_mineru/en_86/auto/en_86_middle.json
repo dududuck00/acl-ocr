@@ -1,0 +1,1786 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        16,
+                        879,
+                        684
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                20,
+                                858,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        20,
+                                        858,
+                                        46
+                                    ],
+                                    "score": 0.986,
+                                    "content": "atsomepointintimeImadeitapolicytointervieweveryperson hiredthatwasnotatradesperson.If theydid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                40,
+                                872,
+                                67
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        40,
+                                        872,
+                                        67
+                                    ],
+                                    "score": 0.988,
+                                    "content": "notmeetmyculturetest,theywerenothired.BythetimeIwasrunning thecompanyIhadbeeninvolved hiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                60,
+                                875,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        60,
+                                        875,
+                                        87
+                                    ],
+                                    "score": 0.988,
+                                    "content": "mostofthenon-fieldpersonnel.OneotherthingIamproudofdoingatRaymond,fornumerousreasons,wasa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                872,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        872,
+                                        105
+                                    ],
+                                    "score": 0.994,
+                                    "content": "safetyprogram.Ididnotknowmuchaboutinsuranceotherthanitwassomethingacompanyhadtohave.One",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                865,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        865,
+                                        126
+                                    ],
+                                    "score": 0.995,
+                                    "content": "dayshortlyafterIstartedworkingatRaymondtheinsuranceagentcametomeetwithCarlandJimPecoraand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                857,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        857,
+                                        146
+                                    ],
+                                    "score": 0.991,
+                                    "content": "theyaskedmetocomemeettheagent.Theagentsaidhehadrenewedtheinsuranceandneededacheck for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                865,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        865,
+                                        167
+                                    ],
+                                    "score": 0.924,
+                                    "content": "$xxxxx.Myjawdropped,butIkeptquiet.Aftertheagentleft,Iaskedhowtheprocessworked.Forthedollars",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                808,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        808,
+                                        185
+                                    ],
+                                    "score": 0.999,
+                                    "content": "involvedIthoughtweshouldhavegottencompetitivebids.FromthatdayonIusedariskmanagement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                859,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        859,
+                                        207
+                                    ],
+                                    "score": 0.988,
+                                    "content": "consultanttorenewinsuranceeveryyear.Threebrokerswerechosentogivequotes.Wechosethebrokerwe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                200,
+                                840,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        200,
+                                        840,
+                                        225
+                                    ],
+                                    "score": 0.983,
+                                    "content": "thoughtwould giveusthemostforourdolarthroughout thepolicyperiod.Thatwas not alwaysthelowest",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                221,
+                                874,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        221,
+                                        874,
+                                        245
+                                    ],
+                                    "score": 0.985,
+                                    "content": "quoteatrenewaltime.Result:Bettercoverage,betterserviceandlowercost.Ididsomeresearchandfoundthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                241,
+                                875,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        241,
+                                        705,
+                                        266
+                                    ],
+                                    "score": 0.954,
+                                    "content": "workmen'scompensation (WC)was the bigdollar insurance.Ifound outWC premiumwas",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        705,
+                                        243,
+                                        727,
+                                        261
+                                    ],
+                                    "score": 0.79,
+                                    "content": "\\$ \\times",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        727,
+                                        241,
+                                        756,
+                                        266
+                                    ],
+                                    "score": 0.998,
+                                    "content": "per",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        757,
+                                        242,
+                                        796,
+                                        261
+                                    ],
+                                    "score": 0.87,
+                                    "content": "\\$ 100",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        797,
+                                        241,
+                                        875,
+                                        266
+                                    ],
+                                    "score": 0.999,
+                                    "content": "ofpayroll",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                852,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        852,
+                                        287
+                                    ],
+                                    "score": 0.974,
+                                    "content": "modifiedbyanexperiencemodification(Xmod)basedonacident losses.Wow,thiscanbeaforevergrowing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                870,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        870,
+                                        304
+                                    ],
+                                    "score": 0.976,
+                                    "content": "costasunionwages wentup,thecompanygrew,andespeciallyifyoudidnotcontrolaccidentlosses.ItoldCarl",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                301,
+                                849,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        301,
+                                        849,
+                                        325
+                                    ],
+                                    "score": 0.987,
+                                    "content": "andJimIwasgoingtostartasafetyprogram.Theychuckledandsaid,“Goaheadbutitwon'twork.\"Istarted",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                319,
+                                860,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        319,
+                                        860,
+                                        346
+                                    ],
+                                    "score": 0.99,
+                                    "content": "holdingsafetymeetingsinMontebellin1978andledalmosteverysafetymeeting,eventhoughIhadtodrive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                866,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        866,
+                                        367
+                                    ],
+                                    "score": 0.973,
+                                    "content": "orflytotheremoteoficestodoso,untilIretiredin2004.Irantheforemansafetymeetings,thentheforemen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                359,
+                                848,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        359,
+                                        848,
+                                        386
+                                    ],
+                                    "score": 0.984,
+                                    "content": "heldasafetymeetingattheir jobsite.BecauseRaymond'sprojectswerealloverthegreaterLAbasin,Ihada",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                380,
+                                866,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        380,
+                                        866,
+                                        407
+                                    ],
+                                    "score": 0.986,
+                                    "content": "youngwomanthatkeptrackofinsurance,safetyetc.setupforemenmeetingplacesindiferentareassothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                400,
+                                870,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        400,
+                                        870,
+                                        426
+                                    ],
+                                    "score": 0.991,
+                                    "content": "foremendidnothavetoalwaysdrivetoourofice.Wehadfoodandsoftdrinks,wealwayshadasafetytopicto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                421,
+                                874,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        421,
+                                        874,
+                                        448
+                                    ],
+                                    "score": 0.991,
+                                    "content": "talkabout,andweacknowledgedsafetyachievementswithpersonalrecognitionandasmallnon-monetarygift,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                440,
+                                870,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        440,
+                                        870,
+                                        467
+                                    ],
+                                    "score": 0.985,
+                                    "content": "usuallyapersonalizedcofeecup.Thegreatestrewardformeinthisprocesswasgettingtoknowtheforemen.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                461,
+                                857,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        461,
+                                        857,
+                                        487
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Everyoneinthecompanyisimportant,butifyoudon'thaveforemenwhocanorganizeacrewtoexecutethat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                481,
+                                851,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        481,
+                                        851,
+                                        506
+                                    ],
+                                    "score": 0.986,
+                                    "content": "setofplanswithinthe“estimate\"theofficeturnedout,youareintrouble.Theseguys(notenough gals)were",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                502,
+                                837,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        502,
+                                        837,
+                                        526
+                                    ],
+                                    "score": 0.975,
+                                    "content": "smart,creative,talented,greatsupervisorsandmanagers.Ihavethegreatestrespectforthem,andIreally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                521,
+                                880,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        521,
+                                        880,
+                                        546
+                                    ],
+                                    "score": 0.979,
+                                    "content": "enjoyedbeingamong thematthesemetingsandonthejobsites.Itwas,andis,amazingwhattheycanachieve.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                540,
+                                869,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        540,
+                                        869,
+                                        566
+                                    ],
+                                    "score": 0.988,
+                                    "content": "WhenIbeganthesafetyprogramRaymond'sXmodwassay1.15foranexample.Thatmeansif theWCratewas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                560,
+                                880,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        562,
+                                        48,
+                                        582
+                                    ],
+                                    "score": 0.86,
+                                    "content": "\\$ 10",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        48,
+                                        560,
+                                        78,
+                                        585
+                                    ],
+                                    "score": 0.997,
+                                    "content": "per",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        79,
+                                        562,
+                                        118,
+                                        581
+                                    ],
+                                    "score": 0.88,
+                                    "content": "\\$ 100",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        118,
+                                        560,
+                                        416,
+                                        585
+                                    ],
+                                    "score": 0.965,
+                                    "content": "of payroll,Raymondwould have topay",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        417,
+                                        562,
+                                        469,
+                                        582
+                                    ],
+                                    "score": 0.85,
+                                    "content": "\\$ 1230",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        469,
+                                        560,
+                                        880,
+                                        585
+                                    ],
+                                    "score": 0.975,
+                                    "content": "because ofaccident losses.Inacoupleofyears,Ihad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                582,
+                                874,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        582,
+                                        279,
+                                        605
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Raymond'sXmoddownto0.39,or",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        582,
+                                        323,
+                                        601
+                                    ],
+                                    "score": 0.86,
+                                    "content": "\\$ 3.90",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        324,
+                                        582,
+                                        353,
+                                        605
+                                    ],
+                                    "score": 0.992,
+                                    "content": "per",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        354,
+                                        582,
+                                        393,
+                                        601
+                                    ],
+                                    "score": 0.89,
+                                    "content": "\\$ 100",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        582,
+                                        874,
+                                        605
+                                    ],
+                                    "score": 0.994,
+                                    "content": "ofpayroll.ItwasimpossibletoholdtheXmodthatlow,butthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                602,
+                                853,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        602,
+                                        853,
+                                        625
+                                    ],
+                                    "score": 0.986,
+                                    "content": "safetyprogrammadeitpossibletokeepRaymond'sXmodbelow1.00mostof thetimeafterthat.Itwasgood",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                621,
+                                852,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        621,
+                                        852,
+                                        646
+                                    ],
+                                    "score": 0.997,
+                                    "content": "forthemenbecausetherewerefewerinjuries.ItwasgoodforthecompanybecauseitmadeRaymondmore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                641,
+                                874,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        641,
+                                        874,
+                                        667
+                                    ],
+                                    "score": 0.975,
+                                    "content": "competitive,ormoreprofitable,howeveryouplayedthecostadvantage.DuringmytimeatRaymond,thesafety",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                660,
+                                718,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        660,
+                                        718,
+                                        686
+                                    ],
+                                    "score": 0.989,
+                                    "content": "programsavedseveralmilliondollarsof insurancepremiums.Isuspectthatisstillthecase.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                696
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        16,
+                        879,
+                        684
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                20,
+                                858,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        20,
+                                        858,
+                                        46
+                                    ],
+                                    "score": 0.986,
+                                    "content": "atsomepointintimeImadeitapolicytointervieweveryperson hiredthatwasnotatradesperson.If theydid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                40,
+                                872,
+                                67
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        40,
+                                        872,
+                                        67
+                                    ],
+                                    "score": 0.988,
+                                    "content": "notmeetmyculturetest,theywerenothired.BythetimeIwasrunning thecompanyIhadbeeninvolved hiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                60,
+                                875,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        60,
+                                        875,
+                                        87
+                                    ],
+                                    "score": 0.988,
+                                    "content": "mostofthenon-fieldpersonnel.OneotherthingIamproudofdoingatRaymond,fornumerousreasons,wasa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                82,
+                                872,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        82,
+                                        872,
+                                        105
+                                    ],
+                                    "score": 0.994,
+                                    "content": "safetyprogram.Ididnotknowmuchaboutinsuranceotherthanitwassomethingacompanyhadtohave.One",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                865,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        865,
+                                        126
+                                    ],
+                                    "score": 0.995,
+                                    "content": "dayshortlyafterIstartedworkingatRaymondtheinsuranceagentcametomeetwithCarlandJimPecoraand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                857,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        857,
+                                        146
+                                    ],
+                                    "score": 0.991,
+                                    "content": "theyaskedmetocomemeettheagent.Theagentsaidhehadrenewedtheinsuranceandneededacheck for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                865,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        865,
+                                        167
+                                    ],
+                                    "score": 0.924,
+                                    "content": "$xxxxx.Myjawdropped,butIkeptquiet.Aftertheagentleft,Iaskedhowtheprocessworked.Forthedollars",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                808,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        808,
+                                        185
+                                    ],
+                                    "score": 0.999,
+                                    "content": "involvedIthoughtweshouldhavegottencompetitivebids.FromthatdayonIusedariskmanagement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                859,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        859,
+                                        207
+                                    ],
+                                    "score": 0.988,
+                                    "content": "consultanttorenewinsuranceeveryyear.Threebrokerswerechosentogivequotes.Wechosethebrokerwe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                200,
+                                840,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        200,
+                                        840,
+                                        225
+                                    ],
+                                    "score": 0.983,
+                                    "content": "thoughtwould giveusthemostforourdolarthroughout thepolicyperiod.Thatwas not alwaysthelowest",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                221,
+                                874,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        221,
+                                        874,
+                                        245
+                                    ],
+                                    "score": 0.985,
+                                    "content": "quoteatrenewaltime.Result:Bettercoverage,betterserviceandlowercost.Ididsomeresearchandfoundthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                241,
+                                875,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        241,
+                                        705,
+                                        266
+                                    ],
+                                    "score": 0.954,
+                                    "content": "workmen'scompensation (WC)was the bigdollar insurance.Ifound outWC premiumwas",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        705,
+                                        243,
+                                        727,
+                                        261
+                                    ],
+                                    "score": 0.79,
+                                    "content": "\\$ \\times",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        727,
+                                        241,
+                                        756,
+                                        266
+                                    ],
+                                    "score": 0.998,
+                                    "content": "per",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        757,
+                                        242,
+                                        796,
+                                        261
+                                    ],
+                                    "score": 0.87,
+                                    "content": "\\$ 100",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        797,
+                                        241,
+                                        875,
+                                        266
+                                    ],
+                                    "score": 0.999,
+                                    "content": "ofpayroll",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                260,
+                                852,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        260,
+                                        852,
+                                        287
+                                    ],
+                                    "score": 0.974,
+                                    "content": "modifiedbyanexperiencemodification(Xmod)basedonacident losses.Wow,thiscanbeaforevergrowing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                870,
+                                304
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        870,
+                                        304
+                                    ],
+                                    "score": 0.976,
+                                    "content": "costasunionwages wentup,thecompanygrew,andespeciallyifyoudidnotcontrolaccidentlosses.ItoldCarl",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                301,
+                                849,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        301,
+                                        849,
+                                        325
+                                    ],
+                                    "score": 0.987,
+                                    "content": "andJimIwasgoingtostartasafetyprogram.Theychuckledandsaid,“Goaheadbutitwon'twork.\"Istarted",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                319,
+                                860,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        319,
+                                        860,
+                                        346
+                                    ],
+                                    "score": 0.99,
+                                    "content": "holdingsafetymeetingsinMontebellin1978andledalmosteverysafetymeeting,eventhoughIhadtodrive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                866,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        866,
+                                        367
+                                    ],
+                                    "score": 0.973,
+                                    "content": "orflytotheremoteoficestodoso,untilIretiredin2004.Irantheforemansafetymeetings,thentheforemen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                359,
+                                848,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        359,
+                                        848,
+                                        386
+                                    ],
+                                    "score": 0.984,
+                                    "content": "heldasafetymeetingattheir jobsite.BecauseRaymond'sprojectswerealloverthegreaterLAbasin,Ihada",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                380,
+                                866,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        380,
+                                        866,
+                                        407
+                                    ],
+                                    "score": 0.986,
+                                    "content": "youngwomanthatkeptrackofinsurance,safetyetc.setupforemenmeetingplacesindiferentareassothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                400,
+                                870,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        400,
+                                        870,
+                                        426
+                                    ],
+                                    "score": 0.991,
+                                    "content": "foremendidnothavetoalwaysdrivetoourofice.Wehadfoodandsoftdrinks,wealwayshadasafetytopicto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                421,
+                                874,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        421,
+                                        874,
+                                        448
+                                    ],
+                                    "score": 0.991,
+                                    "content": "talkabout,andweacknowledgedsafetyachievementswithpersonalrecognitionandasmallnon-monetarygift,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                440,
+                                870,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        440,
+                                        870,
+                                        467
+                                    ],
+                                    "score": 0.985,
+                                    "content": "usuallyapersonalizedcofeecup.Thegreatestrewardformeinthisprocesswasgettingtoknowtheforemen.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                461,
+                                857,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        461,
+                                        857,
+                                        487
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Everyoneinthecompanyisimportant,butifyoudon'thaveforemenwhocanorganizeacrewtoexecutethat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                481,
+                                851,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        481,
+                                        851,
+                                        506
+                                    ],
+                                    "score": 0.986,
+                                    "content": "setofplanswithinthe“estimate\"theofficeturnedout,youareintrouble.Theseguys(notenough gals)were",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                502,
+                                837,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        502,
+                                        837,
+                                        526
+                                    ],
+                                    "score": 0.975,
+                                    "content": "smart,creative,talented,greatsupervisorsandmanagers.Ihavethegreatestrespectforthem,andIreally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                521,
+                                880,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        521,
+                                        880,
+                                        546
+                                    ],
+                                    "score": 0.979,
+                                    "content": "enjoyedbeingamong thematthesemetingsandonthejobsites.Itwas,andis,amazingwhattheycanachieve.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                540,
+                                869,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        540,
+                                        869,
+                                        566
+                                    ],
+                                    "score": 0.988,
+                                    "content": "WhenIbeganthesafetyprogramRaymond'sXmodwassay1.15foranexample.Thatmeansif theWCratewas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                560,
+                                880,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        562,
+                                        48,
+                                        582
+                                    ],
+                                    "score": 0.86,
+                                    "content": "\\$ 10",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        48,
+                                        560,
+                                        78,
+                                        585
+                                    ],
+                                    "score": 0.997,
+                                    "content": "per",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        79,
+                                        562,
+                                        118,
+                                        581
+                                    ],
+                                    "score": 0.88,
+                                    "content": "\\$ 100",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        118,
+                                        560,
+                                        416,
+                                        585
+                                    ],
+                                    "score": 0.965,
+                                    "content": "of payroll,Raymondwould have topay",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        417,
+                                        562,
+                                        469,
+                                        582
+                                    ],
+                                    "score": 0.85,
+                                    "content": "\\$ 1230",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        469,
+                                        560,
+                                        880,
+                                        585
+                                    ],
+                                    "score": 0.975,
+                                    "content": "because ofaccident losses.Inacoupleofyears,Ihad",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                582,
+                                874,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        582,
+                                        279,
+                                        605
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Raymond'sXmoddownto0.39,or",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        582,
+                                        323,
+                                        601
+                                    ],
+                                    "score": 0.86,
+                                    "content": "\\$ 3.90",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        324,
+                                        582,
+                                        353,
+                                        605
+                                    ],
+                                    "score": 0.992,
+                                    "content": "per",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        354,
+                                        582,
+                                        393,
+                                        601
+                                    ],
+                                    "score": 0.89,
+                                    "content": "\\$ 100",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        582,
+                                        874,
+                                        605
+                                    ],
+                                    "score": 0.994,
+                                    "content": "ofpayroll.ItwasimpossibletoholdtheXmodthatlow,butthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                602,
+                                853,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        602,
+                                        853,
+                                        625
+                                    ],
+                                    "score": 0.986,
+                                    "content": "safetyprogrammadeitpossibletokeepRaymond'sXmodbelow1.00mostof thetimeafterthat.Itwasgood",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                621,
+                                852,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        621,
+                                        852,
+                                        646
+                                    ],
+                                    "score": 0.997,
+                                    "content": "forthemenbecausetherewerefewerinjuries.ItwasgoodforthecompanybecauseitmadeRaymondmore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                641,
+                                874,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        641,
+                                        874,
+                                        667
+                                    ],
+                                    "score": 0.975,
+                                    "content": "competitive,ormoreprofitable,howeveryouplayedthecostadvantage.DuringmytimeatRaymond,thesafety",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                660,
+                                718,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        660,
+                                        718,
+                                        686
+                                    ],
+                                    "score": 0.989,
+                                    "content": "programsavedseveralmilliondollarsof insurancepremiums.Isuspectthatisstillthecase.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 16,
+                    "bbox_fs": [
+                        13,
+                        20,
+                        880,
+                        686
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

@@ -1,0 +1,2644 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        16,
+                        144,
+                        880,
+                        1194
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                141,
+                                855,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        141,
+                                        855,
+                                        166
+                                    ],
+                                    "score": 0.989,
+                                    "content": "regulatedbyepithelialbarrerintegrity[17].Diffusionoftheluminalmaterialsintolaminapropriapromotesa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                161,
+                                839,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        161,
+                                        839,
+                                        187
+                                    ],
+                                    "score": 0.992,
+                                    "content": "localinflammatoryresponsecausingreleaseofproinflammatorycytokines,releaseofMMPs,andepithelial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                872,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        681,
+                                        206
+                                    ],
+                                    "score": 0.987,
+                                    "content": "degradationandinflammation[18].Expressionofpro-inflammatorycytokines:IL-1a,IL-",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        681,
+                                        182,
+                                        701,
+                                        203
+                                    ],
+                                    "score": 0.49,
+                                    "content": "1 \\beta",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        702,
+                                        181,
+                                        872,
+                                        206
+                                    ],
+                                    "score": 0.948,
+                                    "content": "TNFa,andIL-15were",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                858,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        858,
+                                        226
+                                    ],
+                                    "score": 0.989,
+                                    "content": "increasedinIL-1rn-/-mice,andtheseresultsareinagreementwiththoseobtainedfrompatientswithCrohn's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                848,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        208,
+                                        246
+                                    ],
+                                    "score": 0.955,
+                                    "content": "disease[19].IL-1aandIL-",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        208,
+                                        223,
+                                        229,
+                                        244
+                                    ],
+                                    "score": 0.72,
+                                    "content": "\\cdot 1 \\beta",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        229,
+                                        221,
+                                        848,
+                                        246
+                                    ],
+                                    "score": 0.983,
+                                    "content": "arealsoexpressedinhumanintestinalepithelialcells[20].IL-1αisreleasedwhen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                243,
+                                862,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        243,
+                                        862,
+                                        268
+                                    ],
+                                    "score": 0.965,
+                                    "content": "thesehumanintestinalcelsaredamagedordestroyed,andIL-1awascommonlydetectedintheepitheliumof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                262,
+                                813,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        262,
+                                        813,
+                                        289
+                                    ],
+                                    "score": 0.994,
+                                    "content": "IBD,releasedfromnecroticintestinalepithelialcellsandplaysacrucialroleinintestinalinflammationby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                284,
+                                822,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        285,
+                                        753,
+                                        306
+                                    ],
+                                    "score": 0.981,
+                                    "content": "inducing human intestinalfibroblaststoproduceIL-6andIL-8[21].ThehighconcentrationsofIL-",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        753,
+                                        284,
+                                        774,
+                                        305
+                                    ],
+                                    "score": 0.66,
+                                    "content": "\\boldsymbol { \\cdot } \\boldsymbol { 1 } \\beta",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        774,
+                                        285,
+                                        822,
+                                        306
+                                    ],
+                                    "score": 0.996,
+                                    "content": "inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                305,
+                                863,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        305,
+                                        863,
+                                        327
+                                    ],
+                                    "score": 0.982,
+                                    "content": "intestineofpatientswithCrohn'sdiseasearemainlyattributedtolocalmononuclearcellinfiltration[22],which",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                324,
+                                861,
+                                349
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        324,
+                                        483,
+                                        349
+                                    ],
+                                    "score": 0.972,
+                                    "content": "werealsoobservedinthismodel.Increasedproductionof IL-",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        483,
+                                        325,
+                                        504,
+                                        347
+                                    ],
+                                    "score": 0.61,
+                                    "content": "1 \\beta",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        504,
+                                        324,
+                                        861,
+                                        349
+                                    ],
+                                    "score": 0.985,
+                                    "content": "andTNFaininflamedCrohn'sdiseasemucosa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                343,
+                                851,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        343,
+                                        851,
+                                        370
+                                    ],
+                                    "score": 0.996,
+                                    "content": "inducesthesynthesisofIL-8,whichisaneffectiveneutrophilchemoattractant[23].Thesefindingsagreewith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                365,
+                                873,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        365,
+                                        873,
+                                        389
+                                    ],
+                                    "score": 0.993,
+                                    "content": "previouswork,whichshowedincreasednumbersofTNFapositivecelsinthelaminapropriaandsubmucosaof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                385,
+                                858,
+                                410
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        385,
+                                        858,
+                                        410
+                                    ],
+                                    "score": 0.977,
+                                    "content": "patientswith Crohn'sdisease.Furthermore,TNFaproducedbysubepithelialmacrophages has beenshownto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                404,
+                                855,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        404,
+                                        855,
+                                        430
+                                    ],
+                                    "score": 0.995,
+                                    "content": "contributetodecreasedepithelialintegrity[24].TNFaactsasanimportantmediatorofinflammationthrough",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                425,
+                                837,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        425,
+                                        837,
+                                        450
+                                    ],
+                                    "score": 0.977,
+                                    "content": "MAPKandNF-KBactivation,increasingcellproliferationandalteringepithelialbarrierpermeability[25].The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                443,
+                                824,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        443,
+                                        824,
+                                        469
+                                    ],
+                                    "score": 0.988,
+                                    "content": "productionofTNFaisalsohigh inculturedmucosalmononuclearcellsfromCrohn'sdiseasepatients[26].",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                465,
+                                861,
+                                491
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        465,
+                                        861,
+                                        491
+                                    ],
+                                    "score": 0.992,
+                                    "content": "However,incontrastapreviousstudyobservednodiferencesinTNFamRNAexpressionbetweencontroland",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                485,
+                                835,
+                                510
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        485,
+                                        835,
+                                        510
+                                    ],
+                                    "score": 0.958,
+                                    "content": "IBDmucosalbiopsies[27].IL-1RIisexpressedonmanycelltypesincludingTcels,fibroblasts,andintestinal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                504,
+                                826,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        504,
+                                        826,
+                                        531
+                                    ],
+                                    "score": 0.982,
+                                    "content": "epithelialcels.Despitethe increasedexpressionofIL-1βintheIL-1rn-/-mice,theexpressionof IL-1R1was",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                527,
+                                809,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        527,
+                                        809,
+                                        548
+                                    ],
+                                    "score": 0.984,
+                                    "content": "reduced;thiscouldsuggestanegativefedbackloopdecreasingexpressionofIL-1RIinthepresenceof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                546,
+                                818,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        546,
+                                        637,
+                                        571
+                                    ],
+                                    "score": 0.96,
+                                    "content": "uncontrolled IL-1production.Thisagrees witha previousstudy,which showed IL",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        637,
+                                        547,
+                                        658,
+                                        568
+                                    ],
+                                    "score": 0.36,
+                                    "content": "1 \\beta",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        658,
+                                        546,
+                                        818,
+                                        571
+                                    ],
+                                    "score": 0.942,
+                                    "content": "and TNFa treatment",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                565,
+                                802,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        565,
+                                        779,
+                                        592
+                                    ],
+                                    "score": 0.986,
+                                    "content": "downregulatedtheexpressionofmRNAIL-1RIinratintestinalepithelialcels(IEC-6)[28].Similarly,IL-",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        779,
+                                        568,
+                                        801,
+                                        590
+                                    ],
+                                    "score": 0.29,
+                                    "content": "\\boldsymbol { \\cdot } \\boldsymbol { \\mathsf { 1 } } \\boldsymbol { \\mathsf { \\mathsf { \\beta } } }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        801,
+                                        565,
+                                        802,
+                                        592
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                587,
+                                826,
+                                613
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        587,
+                                        826,
+                                        613
+                                    ],
+                                    "score": 0.986,
+                                    "content": "treatmentwasalsoshowntodownregulateIL-1RIprotein inretinalendothelialcels(TR-iBRB2)[29].Thisis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                608,
+                                872,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        608,
+                                        425,
+                                        632
+                                    ],
+                                    "score": 0.96,
+                                    "content": "contrary to previousstudy,inwhich an increase in IL-",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        425,
+                                        609,
+                                        447,
+                                        631
+                                    ],
+                                    "score": 0.51,
+                                    "content": "1 \\beta",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        447,
+                                        608,
+                                        872,
+                                        632
+                                    ],
+                                    "score": 0.999,
+                                    "content": "inducedchronicintestinalinflammationinmiceandan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                626,
+                                874,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        626,
+                                        874,
+                                        657
+                                    ],
+                                    "score": 0.976,
+                                    "content": "increaseinIL-17A-secretinginnatelymphoidcellswhichexpresshighlevelsofIL-1R130].Thesedifferencesmay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                649,
+                                869,
+                                674
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        649,
+                                        869,
+                                        674
+                                    ],
+                                    "score": 0.984,
+                                    "content": "bearesultofthediferentlevelsofinflammationseeninthesemodels.Here,increasedexpressionofI-15was",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                669,
+                                840,
+                                695
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        669,
+                                        840,
+                                        695
+                                    ],
+                                    "score": 0.947,
+                                    "content": "seeninIL-1rn-/-mice,thisisinagreementwithLiuetal(2o),whoshowedincreasedexpressionofI-15by",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                689,
+                                808,
+                                714
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        689,
+                                        808,
+                                        714
+                                    ],
+                                    "score": 0.991,
+                                    "content": "macrophagesintheinflamedileumofpatientswithCrohn'sdiseaseandthatIL-15increased localTcell",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                709,
+                                832,
+                                735
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        709,
+                                        832,
+                                        735
+                                    ],
+                                    "score": 0.993,
+                                    "content": "activationandinducedproinflammatorycytokineproductionbyTcelsandmacrophages.Thepresenceof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                729,
+                                879,
+                                754
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        729,
+                                        879,
+                                        754
+                                    ],
+                                    "score": 0.991,
+                                    "content": "polymorphonuclearcelsandmononuclearcelsplayanimportantroleintheaugmentationofinflammationand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                748,
+                                860,
+                                774
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        748,
+                                        860,
+                                        774
+                                    ],
+                                    "score": 0.989,
+                                    "content": "tissuedamageinIBD[31].IncreasedinfiltrationoftheseCD11bandCD68positivecelsintothelaminapropria",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                770,
+                                873,
+                                795
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        770,
+                                        873,
+                                        795
+                                    ],
+                                    "score": 0.993,
+                                    "content": "wereobservedinIL-1rn-/-micecomparedwithWTmice.Thesefindingsareinagreementwithpreviousfindings",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                789,
+                                824,
+                                811
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        789,
+                                        824,
+                                        811
+                                    ],
+                                    "score": 0.996,
+                                    "content": "whichshowedincreasednumbersofthesecelsintheinflamedmucosaofIBDpatients[32].Infiltrationof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                809,
+                                818,
+                                834
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        809,
+                                        818,
+                                        834
+                                    ],
+                                    "score": 0.968,
+                                    "content": "immunecelssuchasmacrophagesand lymphocytes inthe lamina propriaisanimportant aspectof IBD,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                830,
+                                850,
+                                852
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        830,
+                                        850,
+                                        852
+                                    ],
+                                    "score": 0.973,
+                                    "content": "especiallyCrohn'sdisease,eveninthelackofnoticeablemorphological,clinical,andendoscopicindicationof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                850,
+                                861,
+                                872
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        850,
+                                        861,
+                                        872
+                                    ],
+                                    "score": 0.999,
+                                    "content": "inflammation.Thisisthoughttobeduetoanincreaseddemandofmacrophageswithintheinflamedintestine",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                869,
+                                872,
+                                894
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        869,
+                                        872,
+                                        894
+                                    ],
+                                    "score": 0.996,
+                                    "content": "[33].Functionalassessmentofthisincreasedinflammatoryresponsesuchascalprotectinmeasurementinstool",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                891,
+                                865,
+                                912
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        891,
+                                        865,
+                                        912
+                                    ],
+                                    "score": 0.986,
+                                    "content": "sampleswould have beenausefulassessment,howeverunfortunatelythesesampleswerenotavailableinthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                909,
+                                805,
+                                934
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        909,
+                                        805,
+                                        934
+                                    ],
+                                    "score": 0.995,
+                                    "content": "study.MMPsandADAMTS1expressionwerenotsignificantlyalteredinIL-1rn-/-mice.MMPshavebeen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                930,
+                                825,
+                                955
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        930,
+                                        825,
+                                        955
+                                    ],
+                                    "score": 0.998,
+                                    "content": "demonstratedtobeinducedinseveralpathologicalconditionsofIBDandplayakeyroleinregulatingthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                949,
+                                864,
+                                974
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        949,
+                                        864,
+                                        974
+                                    ],
+                                    "score": 0.995,
+                                    "content": "pathophysiologyofIBD[34].ThemainactionofMMPsistodegradeextracellularmatrixproteins.ActiveMMP2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                969,
+                                857,
+                                994
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        969,
+                                        857,
+                                        994
+                                    ],
+                                    "score": 0.989,
+                                    "content": "andMMP9playanimportantroleincellmigrationandcytokinestimulation.Indeedneutrophilinfiltrationhas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                987,
+                                847,
+                                1014
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        987,
+                                        847,
+                                        1014
+                                    ],
+                                    "score": 0.991,
+                                    "content": "benshowntobeinducedbyupregulationofMMP9inmurineinflamedintestine[35].Furthermore,stromal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1009,
+                                850,
+                                1035
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1009,
+                                        850,
+                                        1035
+                                    ],
+                                    "score": 0.981,
+                                    "content": "cellsplayanimportantroleinintestinalinflammationandthepathogenesisof IBD.ThesecelssecreteMMP2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1024,
+                                842,
+                                1056
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1024,
+                                        842,
+                                        1056
+                                    ],
+                                    "score": 0.93,
+                                    "content": "andMMP9[36];andMMP9isproducedbyhumancolonicepitheliumduringIBD37].Inadditioninfiltrating",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1051,
+                                852,
+                                1072
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1051,
+                                        852,
+                                        1072
+                                    ],
+                                    "score": 0.966,
+                                    "content": "macrophagesandneutrophilsarethemainsourceofMMP9inhuman IBD[38].OverexpressionofMMP9 has",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1069,
+                                828,
+                                1094
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1069,
+                                        828,
+                                        1094
+                                    ],
+                                    "score": 0.995,
+                                    "content": "beenshowntocauseareductioninthediferentiationofprogenitorcellstogobletcelsandconsequently",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1089,
+                                869,
+                                1114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1089,
+                                        869,
+                                        1114
+                                    ],
+                                    "score": 0.971,
+                                    "content": "decreasedMUC2expression,whichleadstodecreasesintheprotectivemucinbarierincolonicepithelium[35].",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1107,
+                                847,
+                                1135
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1107,
+                                        847,
+                                        1135
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Themaintenanceofepithelialbarrerfunctionandcontrolofparacellularpermeabilityareregulatedbytight",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1129,
+                                827,
+                                1154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1129,
+                                        827,
+                                        1154
+                                    ],
+                                    "score": 0.994,
+                                    "content": "junctionproteins[39].Epithelialdisruptionanddecreaseintightjunctionsthatleadtoincreasedintestinal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1150,
+                                817,
+                                1175
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1150,
+                                        817,
+                                        1175
+                                    ],
+                                    "score": 0.985,
+                                    "content": "permeabilityarethecommonfeaturesofCrohn'sdisease[40].DecreasedexpressionofZO-1and lossof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1168,
+                                106,
+                                1194
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1168,
+                                        106,
+                                        1194
+                                    ],
+                                    "score": 0.996,
+                                    "content": "E-cadherin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        }
+                    ],
+                    "index": 25.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                1200
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        16,
+                        144,
+                        880,
+                        1194
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                141,
+                                855,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        141,
+                                        855,
+                                        166
+                                    ],
+                                    "score": 0.989,
+                                    "content": "regulatedbyepithelialbarrerintegrity[17].Diffusionoftheluminalmaterialsintolaminapropriapromotesa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                161,
+                                839,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        161,
+                                        839,
+                                        187
+                                    ],
+                                    "score": 0.992,
+                                    "content": "localinflammatoryresponsecausingreleaseofproinflammatorycytokines,releaseofMMPs,andepithelial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                181,
+                                872,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        181,
+                                        681,
+                                        206
+                                    ],
+                                    "score": 0.987,
+                                    "content": "degradationandinflammation[18].Expressionofpro-inflammatorycytokines:IL-1a,IL-",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        681,
+                                        182,
+                                        701,
+                                        203
+                                    ],
+                                    "score": 0.49,
+                                    "content": "1 \\beta",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        702,
+                                        181,
+                                        872,
+                                        206
+                                    ],
+                                    "score": 0.948,
+                                    "content": "TNFa,andIL-15were",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                200,
+                                858,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        200,
+                                        858,
+                                        226
+                                    ],
+                                    "score": 0.989,
+                                    "content": "increasedinIL-1rn-/-mice,andtheseresultsareinagreementwiththoseobtainedfrompatientswithCrohn's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                848,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        208,
+                                        246
+                                    ],
+                                    "score": 0.955,
+                                    "content": "disease[19].IL-1aandIL-",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        208,
+                                        223,
+                                        229,
+                                        244
+                                    ],
+                                    "score": 0.72,
+                                    "content": "\\cdot 1 \\beta",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        229,
+                                        221,
+                                        848,
+                                        246
+                                    ],
+                                    "score": 0.983,
+                                    "content": "arealsoexpressedinhumanintestinalepithelialcells[20].IL-1αisreleasedwhen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                243,
+                                862,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        243,
+                                        862,
+                                        268
+                                    ],
+                                    "score": 0.965,
+                                    "content": "thesehumanintestinalcelsaredamagedordestroyed,andIL-1awascommonlydetectedintheepitheliumof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                262,
+                                813,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        262,
+                                        813,
+                                        289
+                                    ],
+                                    "score": 0.994,
+                                    "content": "IBD,releasedfromnecroticintestinalepithelialcellsandplaysacrucialroleinintestinalinflammationby",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                284,
+                                822,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        285,
+                                        753,
+                                        306
+                                    ],
+                                    "score": 0.981,
+                                    "content": "inducing human intestinalfibroblaststoproduceIL-6andIL-8[21].ThehighconcentrationsofIL-",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        753,
+                                        284,
+                                        774,
+                                        305
+                                    ],
+                                    "score": 0.66,
+                                    "content": "\\boldsymbol { \\cdot } \\boldsymbol { 1 } \\beta",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        774,
+                                        285,
+                                        822,
+                                        306
+                                    ],
+                                    "score": 0.996,
+                                    "content": "inthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                305,
+                                863,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        305,
+                                        863,
+                                        327
+                                    ],
+                                    "score": 0.982,
+                                    "content": "intestineofpatientswithCrohn'sdiseasearemainlyattributedtolocalmononuclearcellinfiltration[22],which",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                324,
+                                861,
+                                349
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        324,
+                                        483,
+                                        349
+                                    ],
+                                    "score": 0.972,
+                                    "content": "werealsoobservedinthismodel.Increasedproductionof IL-",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        483,
+                                        325,
+                                        504,
+                                        347
+                                    ],
+                                    "score": 0.61,
+                                    "content": "1 \\beta",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        504,
+                                        324,
+                                        861,
+                                        349
+                                    ],
+                                    "score": 0.985,
+                                    "content": "andTNFaininflamedCrohn'sdiseasemucosa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                343,
+                                851,
+                                370
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        343,
+                                        851,
+                                        370
+                                    ],
+                                    "score": 0.996,
+                                    "content": "inducesthesynthesisofIL-8,whichisaneffectiveneutrophilchemoattractant[23].Thesefindingsagreewith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                365,
+                                873,
+                                389
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        365,
+                                        873,
+                                        389
+                                    ],
+                                    "score": 0.993,
+                                    "content": "previouswork,whichshowedincreasednumbersofTNFapositivecelsinthelaminapropriaandsubmucosaof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                385,
+                                858,
+                                410
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        385,
+                                        858,
+                                        410
+                                    ],
+                                    "score": 0.977,
+                                    "content": "patientswith Crohn'sdisease.Furthermore,TNFaproducedbysubepithelialmacrophages has beenshownto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                404,
+                                855,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        404,
+                                        855,
+                                        430
+                                    ],
+                                    "score": 0.995,
+                                    "content": "contributetodecreasedepithelialintegrity[24].TNFaactsasanimportantmediatorofinflammationthrough",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                425,
+                                837,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        425,
+                                        837,
+                                        450
+                                    ],
+                                    "score": 0.977,
+                                    "content": "MAPKandNF-KBactivation,increasingcellproliferationandalteringepithelialbarrierpermeability[25].The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                443,
+                                824,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        443,
+                                        824,
+                                        469
+                                    ],
+                                    "score": 0.988,
+                                    "content": "productionofTNFaisalsohigh inculturedmucosalmononuclearcellsfromCrohn'sdiseasepatients[26].",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                465,
+                                861,
+                                491
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        465,
+                                        861,
+                                        491
+                                    ],
+                                    "score": 0.992,
+                                    "content": "However,incontrastapreviousstudyobservednodiferencesinTNFamRNAexpressionbetweencontroland",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                485,
+                                835,
+                                510
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        485,
+                                        835,
+                                        510
+                                    ],
+                                    "score": 0.958,
+                                    "content": "IBDmucosalbiopsies[27].IL-1RIisexpressedonmanycelltypesincludingTcels,fibroblasts,andintestinal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                504,
+                                826,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        504,
+                                        826,
+                                        531
+                                    ],
+                                    "score": 0.982,
+                                    "content": "epithelialcels.Despitethe increasedexpressionofIL-1βintheIL-1rn-/-mice,theexpressionof IL-1R1was",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                527,
+                                809,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        527,
+                                        809,
+                                        548
+                                    ],
+                                    "score": 0.984,
+                                    "content": "reduced;thiscouldsuggestanegativefedbackloopdecreasingexpressionofIL-1RIinthepresenceof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                546,
+                                818,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        546,
+                                        637,
+                                        571
+                                    ],
+                                    "score": 0.96,
+                                    "content": "uncontrolled IL-1production.Thisagrees witha previousstudy,which showed IL",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        637,
+                                        547,
+                                        658,
+                                        568
+                                    ],
+                                    "score": 0.36,
+                                    "content": "1 \\beta",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        658,
+                                        546,
+                                        818,
+                                        571
+                                    ],
+                                    "score": 0.942,
+                                    "content": "and TNFa treatment",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                565,
+                                802,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        565,
+                                        779,
+                                        592
+                                    ],
+                                    "score": 0.986,
+                                    "content": "downregulatedtheexpressionofmRNAIL-1RIinratintestinalepithelialcels(IEC-6)[28].Similarly,IL-",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        779,
+                                        568,
+                                        801,
+                                        590
+                                    ],
+                                    "score": 0.29,
+                                    "content": "\\boldsymbol { \\cdot } \\boldsymbol { \\mathsf { 1 } } \\boldsymbol { \\mathsf { \\mathsf { \\beta } } }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        801,
+                                        565,
+                                        802,
+                                        592
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                587,
+                                826,
+                                613
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        587,
+                                        826,
+                                        613
+                                    ],
+                                    "score": 0.986,
+                                    "content": "treatmentwasalsoshowntodownregulateIL-1RIprotein inretinalendothelialcels(TR-iBRB2)[29].Thisis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                608,
+                                872,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        608,
+                                        425,
+                                        632
+                                    ],
+                                    "score": 0.96,
+                                    "content": "contrary to previousstudy,inwhich an increase in IL-",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        425,
+                                        609,
+                                        447,
+                                        631
+                                    ],
+                                    "score": 0.51,
+                                    "content": "1 \\beta",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        447,
+                                        608,
+                                        872,
+                                        632
+                                    ],
+                                    "score": 0.999,
+                                    "content": "inducedchronicintestinalinflammationinmiceandan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                626,
+                                874,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        626,
+                                        874,
+                                        657
+                                    ],
+                                    "score": 0.976,
+                                    "content": "increaseinIL-17A-secretinginnatelymphoidcellswhichexpresshighlevelsofIL-1R130].Thesedifferencesmay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                649,
+                                869,
+                                674
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        649,
+                                        869,
+                                        674
+                                    ],
+                                    "score": 0.984,
+                                    "content": "bearesultofthediferentlevelsofinflammationseeninthesemodels.Here,increasedexpressionofI-15was",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                669,
+                                840,
+                                695
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        669,
+                                        840,
+                                        695
+                                    ],
+                                    "score": 0.947,
+                                    "content": "seeninIL-1rn-/-mice,thisisinagreementwithLiuetal(2o),whoshowedincreasedexpressionofI-15by",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                689,
+                                808,
+                                714
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        689,
+                                        808,
+                                        714
+                                    ],
+                                    "score": 0.991,
+                                    "content": "macrophagesintheinflamedileumofpatientswithCrohn'sdiseaseandthatIL-15increased localTcell",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                709,
+                                832,
+                                735
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        709,
+                                        832,
+                                        735
+                                    ],
+                                    "score": 0.993,
+                                    "content": "activationandinducedproinflammatorycytokineproductionbyTcelsandmacrophages.Thepresenceof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                729,
+                                879,
+                                754
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        729,
+                                        879,
+                                        754
+                                    ],
+                                    "score": 0.991,
+                                    "content": "polymorphonuclearcelsandmononuclearcelsplayanimportantroleintheaugmentationofinflammationand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                748,
+                                860,
+                                774
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        748,
+                                        860,
+                                        774
+                                    ],
+                                    "score": 0.989,
+                                    "content": "tissuedamageinIBD[31].IncreasedinfiltrationoftheseCD11bandCD68positivecelsintothelaminapropria",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                770,
+                                873,
+                                795
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        770,
+                                        873,
+                                        795
+                                    ],
+                                    "score": 0.993,
+                                    "content": "wereobservedinIL-1rn-/-micecomparedwithWTmice.Thesefindingsareinagreementwithpreviousfindings",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                789,
+                                824,
+                                811
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        789,
+                                        824,
+                                        811
+                                    ],
+                                    "score": 0.996,
+                                    "content": "whichshowedincreasednumbersofthesecelsintheinflamedmucosaofIBDpatients[32].Infiltrationof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                809,
+                                818,
+                                834
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        809,
+                                        818,
+                                        834
+                                    ],
+                                    "score": 0.968,
+                                    "content": "immunecelssuchasmacrophagesand lymphocytes inthe lamina propriaisanimportant aspectof IBD,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                830,
+                                850,
+                                852
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        830,
+                                        850,
+                                        852
+                                    ],
+                                    "score": 0.973,
+                                    "content": "especiallyCrohn'sdisease,eveninthelackofnoticeablemorphological,clinical,andendoscopicindicationof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                850,
+                                861,
+                                872
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        850,
+                                        861,
+                                        872
+                                    ],
+                                    "score": 0.999,
+                                    "content": "inflammation.Thisisthoughttobeduetoanincreaseddemandofmacrophageswithintheinflamedintestine",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                869,
+                                872,
+                                894
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        869,
+                                        872,
+                                        894
+                                    ],
+                                    "score": 0.996,
+                                    "content": "[33].Functionalassessmentofthisincreasedinflammatoryresponsesuchascalprotectinmeasurementinstool",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                891,
+                                865,
+                                912
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        891,
+                                        865,
+                                        912
+                                    ],
+                                    "score": 0.986,
+                                    "content": "sampleswould have beenausefulassessment,howeverunfortunatelythesesampleswerenotavailableinthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                909,
+                                805,
+                                934
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        909,
+                                        805,
+                                        934
+                                    ],
+                                    "score": 0.995,
+                                    "content": "study.MMPsandADAMTS1expressionwerenotsignificantlyalteredinIL-1rn-/-mice.MMPshavebeen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                930,
+                                825,
+                                955
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        930,
+                                        825,
+                                        955
+                                    ],
+                                    "score": 0.998,
+                                    "content": "demonstratedtobeinducedinseveralpathologicalconditionsofIBDandplayakeyroleinregulatingthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                949,
+                                864,
+                                974
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        949,
+                                        864,
+                                        974
+                                    ],
+                                    "score": 0.995,
+                                    "content": "pathophysiologyofIBD[34].ThemainactionofMMPsistodegradeextracellularmatrixproteins.ActiveMMP2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                969,
+                                857,
+                                994
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        969,
+                                        857,
+                                        994
+                                    ],
+                                    "score": 0.989,
+                                    "content": "andMMP9playanimportantroleincellmigrationandcytokinestimulation.Indeedneutrophilinfiltrationhas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                987,
+                                847,
+                                1014
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        987,
+                                        847,
+                                        1014
+                                    ],
+                                    "score": 0.991,
+                                    "content": "benshowntobeinducedbyupregulationofMMP9inmurineinflamedintestine[35].Furthermore,stromal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1009,
+                                850,
+                                1035
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1009,
+                                        850,
+                                        1035
+                                    ],
+                                    "score": 0.981,
+                                    "content": "cellsplayanimportantroleinintestinalinflammationandthepathogenesisof IBD.ThesecelssecreteMMP2",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                12,
+                                1024,
+                                842,
+                                1056
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        12,
+                                        1024,
+                                        842,
+                                        1056
+                                    ],
+                                    "score": 0.93,
+                                    "content": "andMMP9[36];andMMP9isproducedbyhumancolonicepitheliumduringIBD37].Inadditioninfiltrating",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1051,
+                                852,
+                                1072
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1051,
+                                        852,
+                                        1072
+                                    ],
+                                    "score": 0.966,
+                                    "content": "macrophagesandneutrophilsarethemainsourceofMMP9inhuman IBD[38].OverexpressionofMMP9 has",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1069,
+                                828,
+                                1094
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1069,
+                                        828,
+                                        1094
+                                    ],
+                                    "score": 0.995,
+                                    "content": "beenshowntocauseareductioninthediferentiationofprogenitorcellstogobletcelsandconsequently",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1089,
+                                869,
+                                1114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1089,
+                                        869,
+                                        1114
+                                    ],
+                                    "score": 0.971,
+                                    "content": "decreasedMUC2expression,whichleadstodecreasesintheprotectivemucinbarierincolonicepithelium[35].",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1107,
+                                847,
+                                1135
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1107,
+                                        847,
+                                        1135
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Themaintenanceofepithelialbarrerfunctionandcontrolofparacellularpermeabilityareregulatedbytight",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                1129,
+                                827,
+                                1154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        1129,
+                                        827,
+                                        1154
+                                    ],
+                                    "score": 0.994,
+                                    "content": "junctionproteins[39].Epithelialdisruptionanddecreaseintightjunctionsthatleadtoincreasedintestinal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1150,
+                                817,
+                                1175
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1150,
+                                        817,
+                                        1175
+                                    ],
+                                    "score": 0.985,
+                                    "content": "permeabilityarethecommonfeaturesofCrohn'sdisease[40].DecreasedexpressionofZO-1and lossof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                1168,
+                                106,
+                                1194
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        1168,
+                                        106,
+                                        1194
+                                    ],
+                                    "score": 0.996,
+                                    "content": "E-cadherin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        }
+                    ],
+                    "index": 25.5,
+                    "bbox_fs": [
+                        12,
+                        141,
+                        879,
+                        1194
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

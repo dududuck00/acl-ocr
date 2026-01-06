@@ -1,0 +1,1852 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        57,
+                        879,
+                        858
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                60,
+                                777,
+                                81
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        60,
+                                        777,
+                                        81
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Walshwastra-versingBrazilinthe1820s,heconcludedthatmostslavescouldswim,dubbingthem",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                78,
+                                862,
+                                102
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        78,
+                                        862,
+                                        102
+                                    ],
+                                    "score": 0.973,
+                                    "content": "\"amphibious.\"FrancisFedric,whowasenslavedinVirginiaandKentuckyduringthemid-180os,contendedthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                99,
+                                841,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        99,
+                                        639,
+                                        123
+                                    ],
+                                    "score": 0.972,
+                                    "content": "mostbondpeoplecould swim,saying“unlikemostslaves,Inever learnedtoswim",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        639,
+                                        100,
+                                        666,
+                                        119
+                                    ],
+                                    "score": 0.27,
+                                    "content": "\\because 4 4",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        667,
+                                        99,
+                                        841,
+                                        123
+                                    ],
+                                    "score": 0.967,
+                                    "content": "In theAmerican South",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                119,
+                                849,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        119,
+                                        849,
+                                        143
+                                    ],
+                                    "score": 0.986,
+                                    "content": "standardsofmodestyprobablypreventedadultbondwomenfromswimming.CaribbeanandLatinAmerican",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                140,
+                                855,
+                                163
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        140,
+                                        855,
+                                        163
+                                    ],
+                                    "score": 0.992,
+                                    "content": "slavesmaintainedmanyWestAfricancustomsandmores,mostlivedinrelativeisolationfromwhites,andthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                160,
+                                837,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        160,
+                                        837,
+                                        184
+                                    ],
+                                    "score": 0.988,
+                                    "content": "year-roundheatkeptthemajorityfromwearingmuchclothing.Consequently,bondwomenthere,liketheir",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                179,
+                                862,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        179,
+                                        862,
+                                        203
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Africancounterparts,probablyfacedlitlestigmawhen theyswamnude.Stedmanpennedseveralaccountsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                199,
+                                873,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        199,
+                                        873,
+                                        223
+                                    ],
+                                    "score": 0.988,
+                                    "content": "maleandfemalebondpeopleswimmingtogethernudewith-outbeingthoughtimmodestorimmoral.Likewise,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                217,
+                                867,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        217,
+                                        867,
+                                        245
+                                    ],
+                                    "score": 0.988,
+                                    "content": "RichardLigondetailedtheswim-mingprowessofthenude Barbadian bondwomanwhocapturedaduck.Even",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                238,
+                                824,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        238,
+                                        824,
+                                        265
+                                    ],
+                                    "score": 0.991,
+                                    "content": "thoughslaveryplacedAmericanbondwomen,whoperformedmuchthesameworkasbondmenoutside",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                259,
+                                866,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        259,
+                                        866,
+                                        283
+                                    ],
+                                    "score": 0.99,
+                                    "content": "southerngenderconventions,whiteandblacksocietystillencouragedandforcedthemtoconformtomanyof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                278,
+                                824,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        278,
+                                        824,
+                                        302
+                                    ],
+                                    "score": 0.995,
+                                    "content": "thoseconventions.Femaleslavesthemselvesmayhaveinter-nalizedsouthernmores.Tus,whileenslaved",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                299,
+                                871,
+                                323
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        299,
+                                        871,
+                                        323
+                                    ],
+                                    "score": 0.981,
+                                    "content": "femalechildrenmayhavedisrobedtoswimorplayinthewater,onceafemaleslavereachedpubertyblackand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                316,
+                                843,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        316,
+                                        843,
+                                        345
+                                    ],
+                                    "score": 0.996,
+                                    "content": "whitesouthernerswouldhaveviewedsuchactionsasimmodest.Asbondwomenenteredadolescence,they",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                339,
+                                842,
+                                363
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        339,
+                                        842,
+                                        363
+                                    ],
+                                    "score": 0.989,
+                                    "content": "probablyfeltthatswimmingwasnolongeranacceptableactivity.45InBornin Bondage,thehistorianMarie",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                356,
+                                851,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        356,
+                                        851,
+                                        383
+                                    ],
+                                    "score": 0.984,
+                                    "content": "JenkinsSchwartzassertedthatslaveholdersdidnotencouragetheirslavesto learntoswimbecausetheyfelt",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                378,
+                                869,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        378,
+                                        869,
+                                        405
+                                    ],
+                                    "score": 0.972,
+                                    "content": "swimmingdidnotincreaseslaves'economicvalue,aidedtheminescaping,andmightleadtodrowningandthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                399,
+                                802,
+                                423
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        399,
+                                        802,
+                                        423
+                                    ],
+                                    "score": 0.983,
+                                    "content": "lossofvaluablehumanproperty.Indeed,manyslavesincorporatedswimmingintotheirrepertoiresof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                419,
+                                873,
+                                443
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        419,
+                                        873,
+                                        443
+                                    ],
+                                    "score": 0.978,
+                                    "content": "resistance.Butswimmingcouldincreaseabondman'susefulnessandmone-taryworth,andsomeslaveholders",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                439,
+                                838,
+                                463
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        439,
+                                        838,
+                                        463
+                                    ],
+                                    "score": 0.98,
+                                    "content": "encouragedit.4644Ligon,TrueandExactHistoryoftheIslandofBarbadoes,52;Stedman,NarrativeofFive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                459,
+                                869,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        459,
+                                        869,
+                                        483
+                                    ],
+                                    "score": 0.687,
+                                    "content": "Year'sExpediosevedroofriam7-8,5765457-58649214;otsh",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                476,
+                                871,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        476,
+                                        871,
+                                        505
+                                    ],
+                                    "score": 0.852,
+                                    "content": "NoticeofBra-ilin828and829(2vols.Boston831)，I281;FrancisFedric,laveLifeinVirginiaandKentucky",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                501,
+                                849,
+                                522
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        501,
+                                        849,
+                                        522
+                                    ],
+                                    "score": 0.797,
+                                    "content": "(London1863),-2.45wendolynidloHa,oialontrolinvetationoieties:Aomparisooft.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                519,
+                                801,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        519,
+                                        801,
+                                        543
+                                    ],
+                                    "score": 0.95,
+                                    "content": "DomingueandCuba(1971;BatonRouge,1996)，13-17,23-24,152-53;Stedman,NarrativeofFiveYear's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                539,
+                                857,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        539,
+                                        857,
+                                        563
+                                    ],
+                                    "score": 0.888,
+                                    "content": "ExpeditionAgainsttheRe-votedNegroesofSurinam,7,57214;Ligon,TrueandExactHistoryoftheIslandof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                559,
+                                853,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        559,
+                                        853,
+                                        583
+                                    ],
+                                    "score": 0.866,
+                                    "content": "Barbadoes,53;Dunn,ugarandlaves237-38,249,264,270,283-84,286;ElzabethFox-Genovese,Withinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                578,
+                                834,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        578,
+                                        834,
+                                        603
+                                    ],
+                                    "score": 0.836,
+                                    "content": "Plantationousehold:ackanditeomenoftheOdouth(apelHil988),470,96,16",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                598,
+                                873,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        598,
+                                        873,
+                                        622
+                                    ],
+                                    "score": 0.941,
+                                    "content": "222-23,294，296-97,298,440n45;BenjaminDrew，ed.,ANorth-SideViewofSlavery.TeRefugee;or，TeNarratives",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                618,
+                                879,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        618,
+                                        879,
+                                        645
+                                    ],
+                                    "score": 0.754,
+                                    "content": "ofFugitive(o)rteey",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                638,
+                                822,
+                                662
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        638,
+                                        822,
+                                        662
+                                    ],
+                                    "score": 0.949,
+                                    "content": "Daughter，37-38;NorbertElias,TeHistoryofManners:TeCivilizingProcess(NewYork,1978)，131-33,138，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                657,
+                                867,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        657,
+                                        867,
+                                        685
+                                    ],
+                                    "score": 0.781,
+                                    "content": "162-63,165,164esp.187;or-ganaboringWomen144-65;ichaelCratonearchingortheInvisiblean：",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                679,
+                                875,
+                                703
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        679,
+                                        875,
+                                        703
+                                    ],
+                                    "score": 0.947,
+                                    "content": "SlaveryandPlantationLifeinJa-maica(Cambridge,Mass.，1978)，142-43.46Schwartz,BorninBondage,101130.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                699,
+                                828,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        699,
+                                        828,
+                                        723
+                                    ],
+                                    "score": 0.922,
+                                    "content": "Onswimmingandresistance,seeHall\"MaritimeMaroons387-400;Chinea,“QuestforFreedom,\"51-87;",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                719,
+                                845,
+                                743
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        719,
+                                        845,
+                                        743
+                                    ],
+                                    "score": 0.908,
+                                    "content": "DouglasHal,ed.,InMiserablelavery:TomasTistlewoodinJamaica,1750-86(HongKong,1989),5455;John",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                739,
+                                874,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        739,
+                                        874,
+                                        763
+                                    ],
+                                    "score": 0.79,
+                                    "content": "AndrewJacksonTeEperienceofaveinoutharoina(odon862)，23-24;amesPenningtonAie",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                759,
+                                844,
+                                783
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        759,
+                                        844,
+                                        783
+                                    ],
+                                    "score": 0.951,
+                                    "content": "ofEventsoftheLifeofJ.H.Banks,anEscapedSlave,fromtheCottonState,Alabama(Liverpool,1861),37-41;",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                781,
+                                865,
+                                802
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        781,
+                                        865,
+                                        802
+                                    ],
+                                    "score": 0.915,
+                                    "content": "ClinkscalesOntheOldPlantation,16-19;SolomonBayley,ANarrativeofSomeRemarkableInidentsinteLife",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                801,
+                                792,
+                                821
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        801,
+                                        792,
+                                        821
+                                    ],
+                                    "score": 0.979,
+                                    "content": "ofSolomonBayleyFormerlyaSlaveintheStateofDelaware(London,1825),5-7;JamesLindsaySmith，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                820,
+                                828,
+                                843
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        820,
+                                        828,
+                                        843
+                                    ],
+                                    "score": 0.741,
+                                    "content": "AutobiograyomesLithudingsoemiisecesofveLife(orwich81)，;id",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                838,
+                                718,
+                                862
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        838,
+                                        718,
+                                        862
+                                    ],
+                                    "score": 0.965,
+                                    "content": "Turnbul,TravelsintheWestIndies.Cuba;withNoticesofPortoRico(London,1840),365;Al-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                873
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        57,
+                        879,
+                        858
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                60,
+                                777,
+                                81
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        60,
+                                        777,
+                                        81
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Walshwastra-versingBrazilinthe1820s,heconcludedthatmostslavescouldswim,dubbingthem",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                78,
+                                862,
+                                102
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        78,
+                                        862,
+                                        102
+                                    ],
+                                    "score": 0.973,
+                                    "content": "\"amphibious.\"FrancisFedric,whowasenslavedinVirginiaandKentuckyduringthemid-180os,contendedthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                99,
+                                841,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        99,
+                                        639,
+                                        123
+                                    ],
+                                    "score": 0.972,
+                                    "content": "mostbondpeoplecould swim,saying“unlikemostslaves,Inever learnedtoswim",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        639,
+                                        100,
+                                        666,
+                                        119
+                                    ],
+                                    "score": 0.27,
+                                    "content": "\\because 4 4",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        667,
+                                        99,
+                                        841,
+                                        123
+                                    ],
+                                    "score": 0.967,
+                                    "content": "In theAmerican South",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                119,
+                                849,
+                                143
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        119,
+                                        849,
+                                        143
+                                    ],
+                                    "score": 0.986,
+                                    "content": "standardsofmodestyprobablypreventedadultbondwomenfromswimming.CaribbeanandLatinAmerican",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                140,
+                                855,
+                                163
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        140,
+                                        855,
+                                        163
+                                    ],
+                                    "score": 0.992,
+                                    "content": "slavesmaintainedmanyWestAfricancustomsandmores,mostlivedinrelativeisolationfromwhites,andthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                160,
+                                837,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        160,
+                                        837,
+                                        184
+                                    ],
+                                    "score": 0.988,
+                                    "content": "year-roundheatkeptthemajorityfromwearingmuchclothing.Consequently,bondwomenthere,liketheir",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                179,
+                                862,
+                                203
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        179,
+                                        862,
+                                        203
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Africancounterparts,probablyfacedlitlestigmawhen theyswamnude.Stedmanpennedseveralaccountsof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                199,
+                                873,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        199,
+                                        873,
+                                        223
+                                    ],
+                                    "score": 0.988,
+                                    "content": "maleandfemalebondpeopleswimmingtogethernudewith-outbeingthoughtimmodestorimmoral.Likewise,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                217,
+                                867,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        217,
+                                        867,
+                                        245
+                                    ],
+                                    "score": 0.988,
+                                    "content": "RichardLigondetailedtheswim-mingprowessofthenude Barbadian bondwomanwhocapturedaduck.Even",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                238,
+                                824,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        238,
+                                        824,
+                                        265
+                                    ],
+                                    "score": 0.991,
+                                    "content": "thoughslaveryplacedAmericanbondwomen,whoperformedmuchthesameworkasbondmenoutside",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                259,
+                                866,
+                                283
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        259,
+                                        866,
+                                        283
+                                    ],
+                                    "score": 0.99,
+                                    "content": "southerngenderconventions,whiteandblacksocietystillencouragedandforcedthemtoconformtomanyof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                278,
+                                824,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        278,
+                                        824,
+                                        302
+                                    ],
+                                    "score": 0.995,
+                                    "content": "thoseconventions.Femaleslavesthemselvesmayhaveinter-nalizedsouthernmores.Tus,whileenslaved",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                299,
+                                871,
+                                323
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        299,
+                                        871,
+                                        323
+                                    ],
+                                    "score": 0.981,
+                                    "content": "femalechildrenmayhavedisrobedtoswimorplayinthewater,onceafemaleslavereachedpubertyblackand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                316,
+                                843,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        316,
+                                        843,
+                                        345
+                                    ],
+                                    "score": 0.996,
+                                    "content": "whitesouthernerswouldhaveviewedsuchactionsasimmodest.Asbondwomenenteredadolescence,they",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                339,
+                                842,
+                                363
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        339,
+                                        842,
+                                        363
+                                    ],
+                                    "score": 0.989,
+                                    "content": "probablyfeltthatswimmingwasnolongeranacceptableactivity.45InBornin Bondage,thehistorianMarie",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                356,
+                                851,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        356,
+                                        851,
+                                        383
+                                    ],
+                                    "score": 0.984,
+                                    "content": "JenkinsSchwartzassertedthatslaveholdersdidnotencouragetheirslavesto learntoswimbecausetheyfelt",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                378,
+                                869,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        378,
+                                        869,
+                                        405
+                                    ],
+                                    "score": 0.972,
+                                    "content": "swimmingdidnotincreaseslaves'economicvalue,aidedtheminescaping,andmightleadtodrowningandthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                399,
+                                802,
+                                423
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        399,
+                                        802,
+                                        423
+                                    ],
+                                    "score": 0.983,
+                                    "content": "lossofvaluablehumanproperty.Indeed,manyslavesincorporatedswimmingintotheirrepertoiresof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                419,
+                                873,
+                                443
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        419,
+                                        873,
+                                        443
+                                    ],
+                                    "score": 0.978,
+                                    "content": "resistance.Butswimmingcouldincreaseabondman'susefulnessandmone-taryworth,andsomeslaveholders",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                439,
+                                838,
+                                463
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        439,
+                                        838,
+                                        463
+                                    ],
+                                    "score": 0.98,
+                                    "content": "encouragedit.4644Ligon,TrueandExactHistoryoftheIslandofBarbadoes,52;Stedman,NarrativeofFive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                459,
+                                869,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        459,
+                                        869,
+                                        483
+                                    ],
+                                    "score": 0.687,
+                                    "content": "Year'sExpediosevedroofriam7-8,5765457-58649214;otsh",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                476,
+                                871,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        476,
+                                        871,
+                                        505
+                                    ],
+                                    "score": 0.852,
+                                    "content": "NoticeofBra-ilin828and829(2vols.Boston831)，I281;FrancisFedric,laveLifeinVirginiaandKentucky",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                501,
+                                849,
+                                522
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        501,
+                                        849,
+                                        522
+                                    ],
+                                    "score": 0.797,
+                                    "content": "(London1863),-2.45wendolynidloHa,oialontrolinvetationoieties:Aomparisooft.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                519,
+                                801,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        519,
+                                        801,
+                                        543
+                                    ],
+                                    "score": 0.95,
+                                    "content": "DomingueandCuba(1971;BatonRouge,1996)，13-17,23-24,152-53;Stedman,NarrativeofFiveYear's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                539,
+                                857,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        539,
+                                        857,
+                                        563
+                                    ],
+                                    "score": 0.888,
+                                    "content": "ExpeditionAgainsttheRe-votedNegroesofSurinam,7,57214;Ligon,TrueandExactHistoryoftheIslandof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                559,
+                                853,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        559,
+                                        853,
+                                        583
+                                    ],
+                                    "score": 0.866,
+                                    "content": "Barbadoes,53;Dunn,ugarandlaves237-38,249,264,270,283-84,286;ElzabethFox-Genovese,Withinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                578,
+                                834,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        578,
+                                        834,
+                                        603
+                                    ],
+                                    "score": 0.836,
+                                    "content": "Plantationousehold:ackanditeomenoftheOdouth(apelHil988),470,96,16",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                598,
+                                873,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        598,
+                                        873,
+                                        622
+                                    ],
+                                    "score": 0.941,
+                                    "content": "222-23,294，296-97,298,440n45;BenjaminDrew，ed.,ANorth-SideViewofSlavery.TeRefugee;or，TeNarratives",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                618,
+                                879,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        618,
+                                        879,
+                                        645
+                                    ],
+                                    "score": 0.754,
+                                    "content": "ofFugitive(o)rteey",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                638,
+                                822,
+                                662
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        638,
+                                        822,
+                                        662
+                                    ],
+                                    "score": 0.949,
+                                    "content": "Daughter，37-38;NorbertElias,TeHistoryofManners:TeCivilizingProcess(NewYork,1978)，131-33,138，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                657,
+                                867,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        657,
+                                        867,
+                                        685
+                                    ],
+                                    "score": 0.781,
+                                    "content": "162-63,165,164esp.187;or-ganaboringWomen144-65;ichaelCratonearchingortheInvisiblean：",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                679,
+                                875,
+                                703
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        679,
+                                        875,
+                                        703
+                                    ],
+                                    "score": 0.947,
+                                    "content": "SlaveryandPlantationLifeinJa-maica(Cambridge,Mass.，1978)，142-43.46Schwartz,BorninBondage,101130.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                699,
+                                828,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        699,
+                                        828,
+                                        723
+                                    ],
+                                    "score": 0.922,
+                                    "content": "Onswimmingandresistance,seeHall\"MaritimeMaroons387-400;Chinea,“QuestforFreedom,\"51-87;",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                719,
+                                845,
+                                743
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        719,
+                                        845,
+                                        743
+                                    ],
+                                    "score": 0.908,
+                                    "content": "DouglasHal,ed.,InMiserablelavery:TomasTistlewoodinJamaica,1750-86(HongKong,1989),5455;John",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                739,
+                                874,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        739,
+                                        874,
+                                        763
+                                    ],
+                                    "score": 0.79,
+                                    "content": "AndrewJacksonTeEperienceofaveinoutharoina(odon862)，23-24;amesPenningtonAie",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                759,
+                                844,
+                                783
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        759,
+                                        844,
+                                        783
+                                    ],
+                                    "score": 0.951,
+                                    "content": "ofEventsoftheLifeofJ.H.Banks,anEscapedSlave,fromtheCottonState,Alabama(Liverpool,1861),37-41;",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                781,
+                                865,
+                                802
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        781,
+                                        865,
+                                        802
+                                    ],
+                                    "score": 0.915,
+                                    "content": "ClinkscalesOntheOldPlantation,16-19;SolomonBayley,ANarrativeofSomeRemarkableInidentsinteLife",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                801,
+                                792,
+                                821
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        801,
+                                        792,
+                                        821
+                                    ],
+                                    "score": 0.979,
+                                    "content": "ofSolomonBayleyFormerlyaSlaveintheStateofDelaware(London,1825),5-7;JamesLindsaySmith，",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                820,
+                                828,
+                                843
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        820,
+                                        828,
+                                        843
+                                    ],
+                                    "score": 0.741,
+                                    "content": "AutobiograyomesLithudingsoemiisecesofveLife(orwich81)，;id",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                838,
+                                718,
+                                862
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        838,
+                                        718,
+                                        862
+                                    ],
+                                    "score": 0.965,
+                                    "content": "Turnbul,TravelsintheWestIndies.Cuba;withNoticesofPortoRico(London,1840),365;Al-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5,
+                    "bbox_fs": [
+                        13,
+                        60,
+                        879,
+                        862
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

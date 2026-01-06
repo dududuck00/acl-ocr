@@ -1,0 +1,1500 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        16,
+                        879,
+                        687
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                21,
+                                869,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        21,
+                                        869,
+                                        45
+                                    ],
+                                    "score": 0.993,
+                                    "content": "CorticalSpecificationandNeuronalMigration19howitrelatestotheneocorticalgrowthof highermammalian",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                870,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        870,
+                                        65
+                                    ],
+                                    "score": 0.989,
+                                    "content": "species.Severalstudies havenotedthatbrainsizeiscorrelatedwithanenlargementofbothsubdivisionsof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                60,
+                                874,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        60,
+                                        874,
+                                        86
+                                    ],
+                                    "score": 0.991,
+                                    "content": "SVZandwithincreasednumbersofIPCs.Inparticular,thegyrificationindexofawidearrayofspecieshasbeen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                83,
+                                876,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        83,
+                                        876,
+                                        103
+                                    ],
+                                    "score": 0.993,
+                                    "content": "linkedtothesizeofthebRGCpopulation(Fietzetal.2010;Hansenetal.2010).Whilespecieswithalissencephalic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                101,
+                                870,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        101,
+                                        870,
+                                        124
+                                    ],
+                                    "score": 0.984,
+                                    "content": "cortexcontainbRGCs,andsome(e.g.,marmoset)evendevelopadistinctoSVZcompartment(Garcia-Morenoet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                122,
+                                846,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        122,
+                                        846,
+                                        145
+                                    ],
+                                    "score": 0.987,
+                                    "content": "al.2012;Kelavaetal.2012),thenumbersofbRGCswithinthesebrainsarereducedrelativetogyrenceph-alic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                869,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        869,
+                                        167
+                                    ],
+                                    "score": 0.983,
+                                    "content": "species.Nonetheless,howbRGCscontributeonamacroscaletocorticalformationisstillatatheoreticalstage.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                816,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        816,
+                                        185
+                                    ],
+                                    "score": 0.997,
+                                    "content": "Forinstance,thehumanbrainhasex-pandedmoreinthelateraldimensionthanintheradialdimension",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                843,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        843,
+                                        205
+                                    ],
+                                    "score": 0.998,
+                                    "content": "(thickness)anditisunclearhowandwhetherbRGCsleadtoapreferentialincreasesurfacearearatherthan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                199,
+                                874,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        199,
+                                        874,
+                                        227
+                                    ],
+                                    "score": 0.997,
+                                    "content": "thickness.Becauseoftheseunansweredquestions,aprimarymechanismdrivingspecies-specificdiferencesin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                219,
+                                855,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        219,
+                                        855,
+                                        246
+                                    ],
+                                    "score": 0.994,
+                                    "content": "braingrowthremainstheexpansionofthefoundercellpopulationpriortotheonsetofneurogenesis(Figure",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                241,
+                                879,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        241,
+                                        879,
+                                        267
+                                    ],
+                                    "score": 0.965,
+                                    "content": "2.1).Takentogether，differencesinbrainsizeacrossthephylogenetictreearelikelyduetothesynergisticeffects",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                871,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        871,
+                                        285
+                                    ],
+                                    "score": 0.985,
+                                    "content": "ofalargerfoundercellpopulationandspecies-specificdiferencesinthecompositionoftheIPCpoolaswellas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                870,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        870,
+                                        307
+                                    ],
+                                    "score": 0.994,
+                                    "content": "changesinthetotalneuronaloutputperprecursortype.Asecondrolefortheprecursor heterogeneityinbrain",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                302,
+                                854,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        302,
+                                        854,
+                                        325
+                                    ],
+                                    "score": 0.998,
+                                    "content": "developmentmaybethatitcontributesdirectlytoneuronaldiversity.Theclassesofexcitatoryneuronswhich",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                322,
+                                841,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        322,
+                                        841,
+                                        345
+                                    ],
+                                    "score": 0.983,
+                                    "content": "comprisethesixlayersoftheneocortexhavebeencharacter-izedbytheir birthdate,molecularexpression,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                341,
+                                839,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        341,
+                                        839,
+                                        367
+                                    ],
+                                    "score": 0.989,
+                                    "content": "electrophysiologyandtarget-specificprojections.Clonalanalysisbygeneticfate-mappinghasshownthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                849,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        849,
+                                        387
+                                    ],
+                                    "score": 0.989,
+                                    "content": "individualaRGCscanproduceneuronsthatspanalloftheneocorticallay-ers,suggestingthataRGCsmaybe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                382,
+                                873,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        382,
+                                        873,
+                                        405
+                                    ],
+                                    "score": 0.994,
+                                    "content": "progressivelytunedoverdevelopmentaltimetogeneratedifferenttypesofexcitatoryneurons.Transplantation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                400,
+                                853,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        400,
+                                        853,
+                                        429
+                                    ],
+                                    "score": 0.989,
+                                    "content": "experi-mentsindicatethatisolatedaRGCsgenerateneurontypesappropriatefortheir birthdate,evenwhen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                421,
+                                842,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        421,
+                                        842,
+                                        446
+                                    ],
+                                    "score": 0.993,
+                                    "content": "placedinaheterochronicenvironment(McConnellandKaznowski1991),furthersupportingthenotionthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                813,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        813,
+                                        465
+                                    ],
+                                    "score": 0.984,
+                                    "content": "aRGCsundergo temporalfaterestriction.Anotherassumptioncontainedwithinthisprogressivefatere-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                822,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        822,
+                                        486
+                                    ],
+                                    "score": 0.988,
+                                    "content": "strictionmodelisthataRGCsofanygivendevelopmentalageareallidentical,butinvivoevidenceforthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                482,
+                                871,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        482,
+                                        871,
+                                        505
+                                    ],
+                                    "score": 0.985,
+                                    "content": "assumptionis thusfarunconvincing.Itisalsoimportanttonotethatthemolecularmechanismsunderlying this",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                840,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        840,
+                                        527
+                                    ],
+                                    "score": 0.994,
+                                    "content": "temporalfaterestrictionhavenotyetbeenidentified.Nevertheless,whilethismodelmayexplainaprimary",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                524,
+                                833,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        524,
+                                        833,
+                                        544
+                                    ],
+                                    "score": 0.988,
+                                    "content": "mechanismforproducing thediferentneuronalcelltypesacrossneocorticallayers,itdoesnotdescribea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                540,
+                                844,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        540,
+                                        844,
+                                        565
+                                    ],
+                                    "score": 0.992,
+                                    "content": "methodforgeneratingdiferenttypesofneuronswithineach layer.Morphologicalandelectrophysiological",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                560,
+                                873,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        560,
+                                        873,
+                                        588
+                                    ],
+                                    "score": 0.995,
+                                    "content": "studieshavedefineddistinctintra-laminarpopulationsofexcitatorycelsandshownthatintralaminardiversity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                815,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        815,
+                                        605
+                                    ],
+                                    "score": 0.988,
+                                    "content": "differsacrossareas.Atanygiventimeduringtheneurogenicinterval,neu-ronsarecontemporaneously",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                599,
+                                853,
+                                629
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        599,
+                                        853,
+                                        629
+                                    ],
+                                    "score": 0.989,
+                                    "content": "produceddirectlyfromaRGCsaswellasindi-rectlyfrommultipleclassesof IPCs.Asshownfrombirth-dating",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                801,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        801,
+                                        645
+                                    ],
+                                    "score": 0.986,
+                                    "content": "studies,theseneuronsaredestinedforthesameneocorticallayer,andmousestudieshaveFrom“The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                641,
+                                876,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        641,
+                                        876,
+                                        666
+                                    ],
+                                    "score": 0.934,
+                                    "content": "Neocortex\"editedbyW.inger,T.J.SejnowskiandP.Rakic.StrungmannForumReports,vol.27,J.R.Lupperies",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                662,
+                                462,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        662,
+                                        462,
+                                        685
+                                    ],
+                                    "score": 0.991,
+                                    "content": "editor.Cambridge,MA:MITPress.ISBN978-0-262-04324-3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                697
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        16,
+                        879,
+                        687
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                21,
+                                869,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        21,
+                                        869,
+                                        45
+                                    ],
+                                    "score": 0.993,
+                                    "content": "CorticalSpecificationandNeuronalMigration19howitrelatestotheneocorticalgrowthof highermammalian",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                870,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        870,
+                                        65
+                                    ],
+                                    "score": 0.989,
+                                    "content": "species.Severalstudies havenotedthatbrainsizeiscorrelatedwithanenlargementofbothsubdivisionsof the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                60,
+                                874,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        60,
+                                        874,
+                                        86
+                                    ],
+                                    "score": 0.991,
+                                    "content": "SVZandwithincreasednumbersofIPCs.Inparticular,thegyrificationindexofawidearrayofspecieshasbeen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                83,
+                                876,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        83,
+                                        876,
+                                        103
+                                    ],
+                                    "score": 0.993,
+                                    "content": "linkedtothesizeofthebRGCpopulation(Fietzetal.2010;Hansenetal.2010).Whilespecieswithalissencephalic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                101,
+                                870,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        101,
+                                        870,
+                                        124
+                                    ],
+                                    "score": 0.984,
+                                    "content": "cortexcontainbRGCs,andsome(e.g.,marmoset)evendevelopadistinctoSVZcompartment(Garcia-Morenoet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                122,
+                                846,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        122,
+                                        846,
+                                        145
+                                    ],
+                                    "score": 0.987,
+                                    "content": "al.2012;Kelavaetal.2012),thenumbersofbRGCswithinthesebrainsarereducedrelativetogyrenceph-alic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                869,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        869,
+                                        167
+                                    ],
+                                    "score": 0.983,
+                                    "content": "species.Nonetheless,howbRGCscontributeonamacroscaletocorticalformationisstillatatheoreticalstage.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                816,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        816,
+                                        185
+                                    ],
+                                    "score": 0.997,
+                                    "content": "Forinstance,thehumanbrainhasex-pandedmoreinthelateraldimensionthanintheradialdimension",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                843,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        843,
+                                        205
+                                    ],
+                                    "score": 0.998,
+                                    "content": "(thickness)anditisunclearhowandwhetherbRGCsleadtoapreferentialincreasesurfacearearatherthan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                199,
+                                874,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        199,
+                                        874,
+                                        227
+                                    ],
+                                    "score": 0.997,
+                                    "content": "thickness.Becauseoftheseunansweredquestions,aprimarymechanismdrivingspecies-specificdiferencesin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                219,
+                                855,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        219,
+                                        855,
+                                        246
+                                    ],
+                                    "score": 0.994,
+                                    "content": "braingrowthremainstheexpansionofthefoundercellpopulationpriortotheonsetofneurogenesis(Figure",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                241,
+                                879,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        241,
+                                        879,
+                                        267
+                                    ],
+                                    "score": 0.965,
+                                    "content": "2.1).Takentogether，differencesinbrainsizeacrossthephylogenetictreearelikelyduetothesynergisticeffects",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                871,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        871,
+                                        285
+                                    ],
+                                    "score": 0.985,
+                                    "content": "ofalargerfoundercellpopulationandspecies-specificdiferencesinthecompositionoftheIPCpoolaswellas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                870,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        870,
+                                        307
+                                    ],
+                                    "score": 0.994,
+                                    "content": "changesinthetotalneuronaloutputperprecursortype.Asecondrolefortheprecursor heterogeneityinbrain",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                302,
+                                854,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        302,
+                                        854,
+                                        325
+                                    ],
+                                    "score": 0.998,
+                                    "content": "developmentmaybethatitcontributesdirectlytoneuronaldiversity.Theclassesofexcitatoryneuronswhich",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                322,
+                                841,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        322,
+                                        841,
+                                        345
+                                    ],
+                                    "score": 0.983,
+                                    "content": "comprisethesixlayersoftheneocortexhavebeencharacter-izedbytheir birthdate,molecularexpression,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                341,
+                                839,
+                                367
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        341,
+                                        839,
+                                        367
+                                    ],
+                                    "score": 0.989,
+                                    "content": "electrophysiologyandtarget-specificprojections.Clonalanalysisbygeneticfate-mappinghasshownthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                849,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        849,
+                                        387
+                                    ],
+                                    "score": 0.989,
+                                    "content": "individualaRGCscanproduceneuronsthatspanalloftheneocorticallay-ers,suggestingthataRGCsmaybe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                382,
+                                873,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        382,
+                                        873,
+                                        405
+                                    ],
+                                    "score": 0.994,
+                                    "content": "progressivelytunedoverdevelopmentaltimetogeneratedifferenttypesofexcitatoryneurons.Transplantation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                400,
+                                853,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        400,
+                                        853,
+                                        429
+                                    ],
+                                    "score": 0.989,
+                                    "content": "experi-mentsindicatethatisolatedaRGCsgenerateneurontypesappropriatefortheir birthdate,evenwhen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                421,
+                                842,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        421,
+                                        842,
+                                        446
+                                    ],
+                                    "score": 0.993,
+                                    "content": "placedinaheterochronicenvironment(McConnellandKaznowski1991),furthersupportingthenotionthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                813,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        813,
+                                        465
+                                    ],
+                                    "score": 0.984,
+                                    "content": "aRGCsundergo temporalfaterestriction.Anotherassumptioncontainedwithinthisprogressivefatere-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                822,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        822,
+                                        486
+                                    ],
+                                    "score": 0.988,
+                                    "content": "strictionmodelisthataRGCsofanygivendevelopmentalageareallidentical,butinvivoevidenceforthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                482,
+                                871,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        482,
+                                        871,
+                                        505
+                                    ],
+                                    "score": 0.985,
+                                    "content": "assumptionis thusfarunconvincing.Itisalsoimportanttonotethatthemolecularmechanismsunderlying this",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                840,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        840,
+                                        527
+                                    ],
+                                    "score": 0.994,
+                                    "content": "temporalfaterestrictionhavenotyetbeenidentified.Nevertheless,whilethismodelmayexplainaprimary",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                524,
+                                833,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        524,
+                                        833,
+                                        544
+                                    ],
+                                    "score": 0.988,
+                                    "content": "mechanismforproducing thediferentneuronalcelltypesacrossneocorticallayers,itdoesnotdescribea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                540,
+                                844,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        540,
+                                        844,
+                                        565
+                                    ],
+                                    "score": 0.992,
+                                    "content": "methodforgeneratingdiferenttypesofneuronswithineach layer.Morphologicalandelectrophysiological",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                560,
+                                873,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        560,
+                                        873,
+                                        588
+                                    ],
+                                    "score": 0.995,
+                                    "content": "studieshavedefineddistinctintra-laminarpopulationsofexcitatorycelsandshownthatintralaminardiversity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                815,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        815,
+                                        605
+                                    ],
+                                    "score": 0.988,
+                                    "content": "differsacrossareas.Atanygiventimeduringtheneurogenicinterval,neu-ronsarecontemporaneously",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                599,
+                                853,
+                                629
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        599,
+                                        853,
+                                        629
+                                    ],
+                                    "score": 0.989,
+                                    "content": "produceddirectlyfromaRGCsaswellasindi-rectlyfrommultipleclassesof IPCs.Asshownfrombirth-dating",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                801,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        801,
+                                        645
+                                    ],
+                                    "score": 0.986,
+                                    "content": "studies,theseneuronsaredestinedforthesameneocorticallayer,andmousestudieshaveFrom“The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                641,
+                                876,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        641,
+                                        876,
+                                        666
+                                    ],
+                                    "score": 0.934,
+                                    "content": "Neocortex\"editedbyW.inger,T.J.SejnowskiandP.Rakic.StrungmannForumReports,vol.27,J.R.Lupperies",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                662,
+                                462,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        662,
+                                        462,
+                                        685
+                                    ],
+                                    "score": 0.991,
+                                    "content": "editor.Cambridge,MA:MITPress.ISBN978-0-262-04324-3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 16,
+                    "bbox_fs": [
+                        13,
+                        21,
+                        879,
+                        685
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

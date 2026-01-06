@@ -1,0 +1,1280 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        10,
+                        881,
+                        589
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                21,
+                                865,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        21,
+                                        865,
+                                        44
+                                    ],
+                                    "score": 0.985,
+                                    "content": "3RH:When BodhisattvaJofukyo4utteredtoeveryoneheencounteredhis24characterphrase,whichwerecite",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                857,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        857,
+                                        65
+                                    ],
+                                    "score": 0.97,
+                                    "content": "afterGongyo,5\"Irespectyoudeeply,Idonotdespiseyouorlookdownyouwithcontempt,becauseeveryone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                60,
+                                873,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        60,
+                                        873,
+                                        85
+                                    ],
+                                    "score": 0.982,
+                                    "content": "canbecomeaBuddha,iftheybelieveinNamumyohorengekyo6andpractice,\"peoplethoughthewasweirdand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                80,
+                                867,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        80,
+                                        867,
+                                        106
+                                    ],
+                                    "score": 0.95,
+                                    "content": "crazyandfeltuncomfortableinispresence.Sotheythrewstonesathimbeathimwithsticksandstavespit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                831,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        831,
+                                        125
+                                    ],
+                                    "score": 0.983,
+                                    "content": "athim,demeanedandhurledinsultsathim,andostracizedhim.Andyet,foryearsuponyearsBodhisata",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                871,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        871,
+                                        147
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Jofukyocontinuedtoputhispalmstogetherandpraiseeverypersonheencountered,despitetheirpersecution",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                878,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        878,
+                                        166
+                                    ],
+                                    "score": 0.982,
+                                    "content": "ofhim.Afterawhile,thepeoplegraduallybegantorealizethatthewaytheyweretreatingjofukyowasnotright.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                159,
+                                841,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        159,
+                                        841,
+                                        187
+                                    ],
+                                    "score": 0.974,
+                                    "content": "Whileontheotherhand,BodhisattvaJofukyorealizedthatinpastliveshehadbehavedthesamewayas the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                181,
+                                856,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        181,
+                                        856,
+                                        205
+                                    ],
+                                    "score": 0.995,
+                                    "content": "peoplewhowerenowpersecutinghim.Hethoughthatwhatwashappeningtohimwastheresultofactions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                876,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        876,
+                                        226
+                                    ],
+                                    "score": 0.989,
+                                    "content": "anddecisionshehadmadeinthepast.Thatiswhyhecontinuedtopraiseeveryperson hemet.Itisnotamatter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                222,
+                                876,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        222,
+                                        876,
+                                        245
+                                    ],
+                                    "score": 0.975,
+                                    "content": "ofapersonwhohasnosense,orwhoiscrazy，orwhodoesbadthings.Insomeway,everyoneactsthatway.For",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                242,
+                                855,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        242,
+                                        855,
+                                        266
+                                    ],
+                                    "score": 0.983,
+                                    "content": "instance,whenyousaysomethingordosomething thatyouthinkisgoodforanotherperson,itmaynotbea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                849,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        849,
+                                        287
+                                    ],
+                                    "score": 0.997,
+                                    "content": "goodthing.Itmaybeyourperceptionthatyouractionsoryourwordsaregood,buttheymaynotbe.Inthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                282,
+                                844,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        282,
+                                        844,
+                                        305
+                                    ],
+                                    "score": 0.993,
+                                    "content": "sense,whatyouthinkisgoodmaybebadfortheotherperson.Inthislife,justbecauseyouthinkyouyou've",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                879,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        879,
+                                        326
+                                    ],
+                                    "score": 0.993,
+                                    "content": "donefivegoodthingsandthreebadthings,andthattheeffectsofthebadthingswillbeerasedbecauseyoudid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                862,
+                                349
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        862,
+                                        349
+                                    ],
+                                    "score": 0.985,
+                                    "content": "moregoodthings,itdoesn'tworkthatway.Forthegoodthings,acceptthemastheresultofgooddeeds.And",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                862,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        862,
+                                        365
+                                    ],
+                                    "score": 0.986,
+                                    "content": "whenbadthingshappen,alsoacceptthem,fortherearereasonstheycameyourway.Insomecircumstances,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                360,
+                                864,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        360,
+                                        864,
+                                        386
+                                    ],
+                                    "score": 0.951,
+                                    "content": "peoplemightthink,\"Oh,Ivedonesomething wrong,soIcanjustapologizeandbedonewithit.\"Butitdoesn't",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                875,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        875,
+                                        407
+                                    ],
+                                    "score": 0.992,
+                                    "content": "workthatwayeither.Afteryoumaketheapology,youhavetolivewiththeawarenessthatyoudidsomethingin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                879,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        879,
+                                        426
+                                    ],
+                                    "score": 0.988,
+                                    "content": "thepasttobringthisabout.Youtakeresponsibilityforandaccepttheresultsofyourpastactions,andinthislife",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                421,
+                                838,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        421,
+                                        838,
+                                        446
+                                    ],
+                                    "score": 0.989,
+                                    "content": "youchangeyourbehavior.B1:Isthatwhatkarma7is?RH:Yes4BodhisattvaJofukyo-BodhisattvaFukyo-a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                774,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        774,
+                                        465
+                                    ],
+                                    "score": 0.984,
+                                    "content": "bodhisattvadescribedinthe2OthchapteroftheLotusSutrawhoreveredeveryonefortheir innate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                819,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        819,
+                                        485
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Buddha-nature,andwaspersecutedbecauseof hiscompassionatebehavior.5Gongyo--thepracticeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                479,
+                                879,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        479,
+                                        879,
+                                        506
+                                    ],
+                                    "score": 0.987,
+                                    "content": "NichirenShoshu Buddhismwhichentailsthemorningandeveningrecitationofthe2ndand16thchaptersofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                862,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        862,
+                                        527
+                                    ],
+                                    "score": 0.974,
+                                    "content": "LotusSutraandchantingNamumyohorengekyo.6Namumyohorengekyo-theMysticLawwhichenlightensall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                522,
+                                864,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        522,
+                                        864,
+                                        545
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Buddhas;theSupremeLawoflifeandtheuniverse;theBuddha-natureinallthings.7Karma-thoughts,words",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                541,
+                                843,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        541,
+                                        843,
+                                        564
+                                    ],
+                                    "score": 0.993,
+                                    "content": "anddeedswhichdetermineaperson'sreality.Pastthoughts,wordsanddeedsinfluencetheoutcomeinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                561,
+                                695,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        561,
+                                        695,
+                                        586
+                                    ],
+                                    "score": 0.962,
+                                    "content": "present,justas present thoughts,wordsand deeds influence the outcomein the future.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 13.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                596
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        10,
+                        881,
+                        589
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                21,
+                                865,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        21,
+                                        865,
+                                        44
+                                    ],
+                                    "score": 0.985,
+                                    "content": "3RH:When BodhisattvaJofukyo4utteredtoeveryoneheencounteredhis24characterphrase,whichwerecite",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                857,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        857,
+                                        65
+                                    ],
+                                    "score": 0.97,
+                                    "content": "afterGongyo,5\"Irespectyoudeeply,Idonotdespiseyouorlookdownyouwithcontempt,becauseeveryone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                60,
+                                873,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        60,
+                                        873,
+                                        85
+                                    ],
+                                    "score": 0.982,
+                                    "content": "canbecomeaBuddha,iftheybelieveinNamumyohorengekyo6andpractice,\"peoplethoughthewasweirdand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                80,
+                                867,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        80,
+                                        867,
+                                        106
+                                    ],
+                                    "score": 0.95,
+                                    "content": "crazyandfeltuncomfortableinispresence.Sotheythrewstonesathimbeathimwithsticksandstavespit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                831,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        831,
+                                        125
+                                    ],
+                                    "score": 0.983,
+                                    "content": "athim,demeanedandhurledinsultsathim,andostracizedhim.Andyet,foryearsuponyearsBodhisata",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                121,
+                                871,
+                                147
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        121,
+                                        871,
+                                        147
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Jofukyocontinuedtoputhispalmstogetherandpraiseeverypersonheencountered,despitetheirpersecution",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                878,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        878,
+                                        166
+                                    ],
+                                    "score": 0.982,
+                                    "content": "ofhim.Afterawhile,thepeoplegraduallybegantorealizethatthewaytheyweretreatingjofukyowasnotright.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                159,
+                                841,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        159,
+                                        841,
+                                        187
+                                    ],
+                                    "score": 0.974,
+                                    "content": "Whileontheotherhand,BodhisattvaJofukyorealizedthatinpastliveshehadbehavedthesamewayas the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                181,
+                                856,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        181,
+                                        856,
+                                        205
+                                    ],
+                                    "score": 0.995,
+                                    "content": "peoplewhowerenowpersecutinghim.Hethoughthatwhatwashappeningtohimwastheresultofactions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                201,
+                                876,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        201,
+                                        876,
+                                        226
+                                    ],
+                                    "score": 0.989,
+                                    "content": "anddecisionshehadmadeinthepast.Thatiswhyhecontinuedtopraiseeveryperson hemet.Itisnotamatter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                222,
+                                876,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        222,
+                                        876,
+                                        245
+                                    ],
+                                    "score": 0.975,
+                                    "content": "ofapersonwhohasnosense,orwhoiscrazy，orwhodoesbadthings.Insomeway,everyoneactsthatway.For",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                242,
+                                855,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        242,
+                                        855,
+                                        266
+                                    ],
+                                    "score": 0.983,
+                                    "content": "instance,whenyousaysomethingordosomething thatyouthinkisgoodforanotherperson,itmaynotbea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                849,
+                                287
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        849,
+                                        287
+                                    ],
+                                    "score": 0.997,
+                                    "content": "goodthing.Itmaybeyourperceptionthatyouractionsoryourwordsaregood,buttheymaynotbe.Inthat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                282,
+                                844,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        282,
+                                        844,
+                                        305
+                                    ],
+                                    "score": 0.993,
+                                    "content": "sense,whatyouthinkisgoodmaybebadfortheotherperson.Inthislife,justbecauseyouthinkyouyou've",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                879,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        879,
+                                        326
+                                    ],
+                                    "score": 0.993,
+                                    "content": "donefivegoodthingsandthreebadthings,andthattheeffectsofthebadthingswillbeerasedbecauseyoudid",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                862,
+                                349
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        862,
+                                        349
+                                    ],
+                                    "score": 0.985,
+                                    "content": "moregoodthings,itdoesn'tworkthatway.Forthegoodthings,acceptthemastheresultofgooddeeds.And",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                862,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        862,
+                                        365
+                                    ],
+                                    "score": 0.986,
+                                    "content": "whenbadthingshappen,alsoacceptthem,fortherearereasonstheycameyourway.Insomecircumstances,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                360,
+                                864,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        360,
+                                        864,
+                                        386
+                                    ],
+                                    "score": 0.951,
+                                    "content": "peoplemightthink,\"Oh,Ivedonesomething wrong,soIcanjustapologizeandbedonewithit.\"Butitdoesn't",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                381,
+                                875,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        381,
+                                        875,
+                                        407
+                                    ],
+                                    "score": 0.992,
+                                    "content": "workthatwayeither.Afteryoumaketheapology,youhavetolivewiththeawarenessthatyoudidsomethingin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                879,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        879,
+                                        426
+                                    ],
+                                    "score": 0.988,
+                                    "content": "thepasttobringthisabout.Youtakeresponsibilityforandaccepttheresultsofyourpastactions,andinthislife",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                421,
+                                838,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        421,
+                                        838,
+                                        446
+                                    ],
+                                    "score": 0.989,
+                                    "content": "youchangeyourbehavior.B1:Isthatwhatkarma7is?RH:Yes4BodhisattvaJofukyo-BodhisattvaFukyo-a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                441,
+                                774,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        441,
+                                        774,
+                                        465
+                                    ],
+                                    "score": 0.984,
+                                    "content": "bodhisattvadescribedinthe2OthchapteroftheLotusSutrawhoreveredeveryonefortheir innate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                462,
+                                819,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        462,
+                                        819,
+                                        485
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Buddha-nature,andwaspersecutedbecauseof hiscompassionatebehavior.5Gongyo--thepracticeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                479,
+                                879,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        479,
+                                        879,
+                                        506
+                                    ],
+                                    "score": 0.987,
+                                    "content": "NichirenShoshu Buddhismwhichentailsthemorningandeveningrecitationofthe2ndand16thchaptersofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                501,
+                                862,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        501,
+                                        862,
+                                        527
+                                    ],
+                                    "score": 0.974,
+                                    "content": "LotusSutraandchantingNamumyohorengekyo.6Namumyohorengekyo-theMysticLawwhichenlightensall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                522,
+                                864,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        522,
+                                        864,
+                                        545
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Buddhas;theSupremeLawoflifeandtheuniverse;theBuddha-natureinallthings.7Karma-thoughts,words",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                541,
+                                843,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        541,
+                                        843,
+                                        564
+                                    ],
+                                    "score": 0.993,
+                                    "content": "anddeedswhichdetermineaperson'sreality.Pastthoughts,wordsanddeedsinfluencetheoutcomeinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                561,
+                                695,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        561,
+                                        695,
+                                        586
+                                    ],
+                                    "score": 0.962,
+                                    "content": "present,justas present thoughts,wordsand deeds influence the outcomein the future.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 13.5,
+                    "bbox_fs": [
+                        13,
+                        21,
+                        879,
+                        586
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

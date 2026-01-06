@@ -1,0 +1,2644 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        96,
+                        871,
+                        902
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                100,
+                                860,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        100,
+                                        860,
+                                        124
+                                    ],
+                                    "score": 0.97,
+                                    "content": "andUnionTrustCo.，ofSanFrancisco,California.TheirStatementofConditiononJune30,1954wasasfollows:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                123,
+                                794,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        123,
+                                        794,
+                                        144
+                                    ],
+                                    "score": 0.981,
+                                    "content": "JStatementofConditionnotreproducedfromtheoriginal.Totalsonlyareprovidedhere:Total Assets:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                140,
+                                843,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        140,
+                                        266,
+                                        165
+                                    ],
+                                    "score": 0.89,
+                                    "content": "$515,724,038.74;TotalLiabilities：",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        266,
+                                        142,
+                                        303,
+                                        161
+                                    ],
+                                    "score": 0.28,
+                                    "content": "\\$ 481",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        303,
+                                        140,
+                                        533,
+                                        165
+                                    ],
+                                    "score": 0.921,
+                                    "content": ",413,566.65;UndividedProfits:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        534,
+                                        142,
+                                        648,
+                                        161
+                                    ],
+                                    "score": 0.37,
+                                    "content": "\\$ 24,853,408,24",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        649,
+                                        140,
+                                        843,
+                                        165
+                                    ],
+                                    "score": 0.977,
+                                    "content": "MemberFederal Reserve",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                158,
+                                837,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        158,
+                                        341,
+                                        182
+                                    ],
+                                    "score": 0.972,
+                                    "content": "System&Federal Deposit InsuranceCorp.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        341,
+                                        161,
+                                        464,
+                                        180
+                                    ],
+                                    "score": 0.58,
+                                    "content": "^ { \\star \\$ 48,311,8 8 6,9 4 }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        464,
+                                        158,
+                                        592,
+                                        182
+                                    ],
+                                    "score": 0.998,
+                                    "content": "insecuritiesand",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        593,
+                                        161,
+                                        685,
+                                        180
+                                    ],
+                                    "score": 0.78,
+                                    "content": "\\$ 500,000,00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        685,
+                                        158,
+                                        837,
+                                        182
+                                    ],
+                                    "score": 0.996,
+                                    "content": "ofotherassetsare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                177,
+                                876,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        177,
+                                        876,
+                                        205
+                                    ],
+                                    "score": 0.99,
+                                    "content": "pledgedtosecure Public&TrustDepositsandforotherpurposesasrequiredorpermittedbylaw.Ourobjective",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                201,
+                                843,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        201,
+                                        843,
+                                        222
+                                    ],
+                                    "score": 0.996,
+                                    "content": "willbetodividethisbankintotwoseparateanddistinctsections--aDepositSectionandaSavingsandLoan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                218,
+                                856,
+                                243
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        218,
+                                        856,
+                                        243
+                                    ],
+                                    "score": 0.983,
+                                    "content": "Section.Thefunctionofthe Deposit Sectionwillbethatofawarehouse,pureandsimple.Itwilloperateas the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                241,
+                                844,
+                                262
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        241,
+                                        844,
+                                        262
+                                    ],
+                                    "score": 0.998,
+                                    "content": "BankofAmsterdamoperatedbeforeitbecamecorrupt.Depositswillbeacceptedforsafekeeping.Thebank",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                260,
+                                864,
+                                284
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        260,
+                                        864,
+                                        284
+                                    ],
+                                    "score": 0.982,
+                                    "content": "wouldnotbeallowedtousethesedeposits,butwouldmerelyfacilitatethetransferofclaimstothesedeposits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                280,
+                                841,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        280,
+                                        774,
+                                        303
+                                    ],
+                                    "score": 0.989,
+                                    "content": "bymeansofcheckingaccounts.Allchecksdrawnagainstsuchdepositswould thereforebebacked",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        774,
+                                        280,
+                                        817,
+                                        299
+                                    ],
+                                    "score": 0.84,
+                                    "content": "100 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        817,
+                                        280,
+                                        841,
+                                        303
+                                    ],
+                                    "score": 0.997,
+                                    "content": "by",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                300,
+                                855,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        300,
+                                        855,
+                                        322
+                                    ],
+                                    "score": 0.979,
+                                    "content": "actualmoney.ThefunctionoftheSavingsand LoanSectionwillbetoobtainthesavingsof thecommunityfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                320,
+                                858,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        320,
+                                        858,
+                                        343
+                                    ],
+                                    "score": 0.994,
+                                    "content": "thepurposeofmakingloanstothecommunity.TheidealtowardwhichweshouldstriveisaSavingsand Loan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                338,
+                                833,
+                                362
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        338,
+                                        833,
+                                        362
+                                    ],
+                                    "score": 0.967,
+                                    "content": "Sectionthat obtains lendable funds byseling the bank's bonds.Inotherwords,theidealSavingsand Loan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                358,
+                                864,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        358,
+                                        864,
+                                        383
+                                    ],
+                                    "score": 0.982,
+                                    "content": "Sectionofabankshould haveabondedindebtednesstothepublicratherthandepositsthatarewithdrawable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                380,
+                                866,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        380,
+                                        866,
+                                        403
+                                    ],
+                                    "score": 0.99,
+                                    "content": "on30days'notice.Andofcourse,allthebank'sloansshouldmatureonorbeforeitsoutstanding bonds.When",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                399,
+                                835,
+                                423
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        399,
+                                        835,
+                                        423
+                                    ],
+                                    "score": 0.982,
+                                    "content": "operatingthisway,thebankisfreetolendallthesavingsofthecommunitythathavebeenplacedwithit--",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                419,
+                                820,
+                                442
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        419,
+                                        245,
+                                        442
+                                    ],
+                                    "score": 0.962,
+                                    "content": "rather than having toretaina",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        246,
+                                        420,
+                                        271,
+                                        439
+                                    ],
+                                    "score": 0.82,
+                                    "content": "5 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        272,
+                                        419,
+                                        293,
+                                        442
+                                    ],
+                                    "score": 0.985,
+                                    "content": "or",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        293,
+                                        420,
+                                        327,
+                                        439
+                                    ],
+                                    "score": 0.78,
+                                    "content": "1 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        328,
+                                        419,
+                                        820,
+                                        442
+                                    ],
+                                    "score": 0.966,
+                                    "content": "cashreserve to honor requests forwithdrawals.And theperson",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                437,
+                                873,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        437,
+                                        873,
+                                        464
+                                    ],
+                                    "score": 0.994,
+                                    "content": "holdingabankbondalwayshasaliquidassetthatcanbeexchangedformoneyintheeventofanemergency.It",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                460,
+                                863,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        460,
+                                        863,
+                                        483
+                                    ],
+                                    "score": 0.974,
+                                    "content": "isnotpossble,ofcourse,toattainthisidealovernight.Butasastart,theSavingsandLoanSectionofthebank",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                479,
+                                857,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        479,
+                                        857,
+                                        503
+                                    ],
+                                    "score": 0.992,
+                                    "content": "shouldbesetupmuchthesameasaSavingsandLoanAssociation.Itshouldhaveaminimumcashreserveof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                500,
+                                811,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        500,
+                                        43,
+                                        519
+                                    ],
+                                    "score": 0.8,
+                                    "content": "5 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        43,
+                                        500,
+                                        811,
+                                        523
+                                    ],
+                                    "score": 0.985,
+                                    "content": "tohonoroccasionalrequestsforwithdrawals.Then,asitsoutstanding loansarepaidback,itshould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                519,
+                                819,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        519,
+                                        819,
+                                        543
+                                    ],
+                                    "score": 0.997,
+                                    "content": "approachthesavingsdepositors-onebyone--andtellthemthattheirsavingscannolongerbeheldas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                540,
+                                827,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        540,
+                                        827,
+                                        563
+                                    ],
+                                    "score": 0.972,
+                                    "content": "depositsthatcan bewithdrawnwithin 30days.Each depositorwould havetodecide howlongaperiod he",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                560,
+                                830,
+                                581
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        560,
+                                        830,
+                                        581
+                                    ],
+                                    "score": 0.992,
+                                    "content": "wishedtomakehismoneyavailabletothebankandbuyabankbondforthatperiodoftime.Eventuallyall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                579,
+                                835,
+                                602
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        579,
+                                        835,
+                                        602
+                                    ],
+                                    "score": 0.982,
+                                    "content": "savingsdeposits heldbybanksatthetimeof conversiontodeposit bankswouldbeconvertedinto bonded",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                599,
+                                822,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        599,
+                                        822,
+                                        623
+                                    ],
+                                    "score": 0.988,
+                                    "content": "indebtednesstothepublic.Nowlet'sgetdowntothepracticaljobofdividingthisbankintotwoseparate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                619,
+                                830,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        619,
+                                        830,
+                                        640
+                                    ],
+                                    "score": 0.989,
+                                    "content": "sectionsasoutlinedabove.Thebankhastotaldemanddepositsof$332,395,486.71.Thesearethedeposits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                639,
+                                867,
+                                663
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        639,
+                                        867,
+                                        663
+                                    ],
+                                    "score": 0.994,
+                                    "content": "againstwhichchecksarebeingdrawnandwhichshouldthereforebeinthenewlyformedDeposit Sectionwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                659,
+                                828,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        659,
+                                        31,
+                                        683
+                                    ],
+                                    "score": 0.988,
+                                    "content": "a",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        32,
+                                        660,
+                                        74,
+                                        679
+                                    ],
+                                    "score": 0.82,
+                                    "content": "1 0 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        659,
+                                        533,
+                                        683
+                                    ],
+                                    "score": 0.984,
+                                    "content": "reservebehindthem.Thebankalready hascashreservesof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        534,
+                                        660,
+                                        657,
+                                        680
+                                    ],
+                                    "score": 0.47,
+                                    "content": "\\$ 129,940,071,76",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        658,
+                                        659,
+                                        828,
+                                        683
+                                    ],
+                                    "score": 0.954,
+                                    "content": "(Although thesecash",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                677,
+                                833,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        677,
+                                        833,
+                                        701
+                                    ],
+                                    "score": 0.997,
+                                    "content": "reservesincludedepositswithotherbanks,theentireamountcanbetreatedasactualcashifallbanksare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                699,
+                                818,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        699,
+                                        119,
+                                        723
+                                    ],
+                                    "score": 0.965,
+                                    "content": "converted to",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        119,
+                                        700,
+                                        162,
+                                        719
+                                    ],
+                                    "score": 0.85,
+                                    "content": "1 0 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        163,
+                                        699,
+                                        662,
+                                        723
+                                    ],
+                                    "score": 0.966,
+                                    "content": "reserves.)Tobring thecash reservesof the Deposit Sectionupto",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        662,
+                                        700,
+                                        705,
+                                        719
+                                    ],
+                                    "score": 0.86,
+                                    "content": "100 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        705,
+                                        699,
+                                        818,
+                                        723
+                                    ],
+                                    "score": 0.979,
+                                    "content": "of itsdeposits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                719,
+                                834,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        719,
+                                        834,
+                                        742
+                                    ],
+                                    "score": 0.979,
+                                    "content": "requiresanadditional$202,455,414.95.However,thenewlyformedSavingsandLoanSectionwillalsoneed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                739,
+                                846,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        740,
+                                        123,
+                                        760
+                                    ],
+                                    "score": 0.59,
+                                    "content": "\\$ 7,450,904.00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        123,
+                                        739,
+                                        205,
+                                        763
+                                    ],
+                                    "score": 0.912,
+                                    "content": "to giveit a",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        205,
+                                        740,
+                                        231,
+                                        759
+                                    ],
+                                    "score": 0.79,
+                                    "content": "5 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        232,
+                                        739,
+                                        533,
+                                        763
+                                    ],
+                                    "score": 0.987,
+                                    "content": "reservebehind itsdeposits(whichtotal",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        534,
+                                        740,
+                                        658,
+                                        759
+                                    ],
+                                    "score": 0.5,
+                                    "content": "\\$ 149,018,079,94",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        659,
+                                        739,
+                                        846,
+                                        763
+                                    ],
+                                    "score": 0.941,
+                                    "content": ".So thebankwill needa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                759,
+                                867,
+                                783
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        759,
+                                        77,
+                                        783
+                                    ],
+                                    "score": 0.998,
+                                    "content": "totalof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        77,
+                                        760,
+                                        200,
+                                        780
+                                    ],
+                                    "score": 0.46,
+                                    "content": "\\$ 209,906,318.95",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        200,
+                                        759,
+                                        570,
+                                        783
+                                    ],
+                                    "score": 0.994,
+                                    "content": "inordertosplititself intoaDepositSectionwith",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        570,
+                                        761,
+                                        613,
+                                        779
+                                    ],
+                                    "score": 0.84,
+                                    "content": "1 0 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        614,
+                                        759,
+                                        867,
+                                        783
+                                    ],
+                                    "score": 0.997,
+                                    "content": "reservesandaSavingsandLoan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                779,
+                                869,
+                                803
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        779,
+                                        127,
+                                        803
+                                    ],
+                                    "score": 0.968,
+                                    "content": "Sectionwith a",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        780,
+                                        153,
+                                        799
+                                    ],
+                                    "score": 0.8,
+                                    "content": "5 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        154,
+                                        779,
+                                        869,
+                                        803
+                                    ],
+                                    "score": 0.992,
+                                    "content": "reserve.Thegovernmentwillprinttherequiredamountofmoneyand lendittothebank.But",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                799,
+                                871,
+                                823
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        799,
+                                        362,
+                                        823
+                                    ],
+                                    "score": 0.998,
+                                    "content": "sincethegovernmentalreadyowesthebank",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        363,
+                                        800,
+                                        486,
+                                        820
+                                    ],
+                                    "score": 0.37,
+                                    "content": "\\$ 200,563,124,32",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        486,
+                                        799,
+                                        871,
+                                        823
+                                    ],
+                                    "score": 0.995,
+                                    "content": "(U.S.GovernmentSecuritiesheldbythebank),the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                818,
+                                855,
+                                844
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        818,
+                                        289,
+                                        844
+                                    ],
+                                    "score": 0.978,
+                                    "content": "government will advance theentire",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        290,
+                                        820,
+                                        412,
+                                        840
+                                    ],
+                                    "score": 0.57,
+                                    "content": "\\$ 209,906,318.95",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        413,
+                                        818,
+                                        855,
+                                        844
+                                    ],
+                                    "score": 0.97,
+                                    "content": "tothebank,cancel the governmentsecuritiesheld bythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                839,
+                                828,
+                                863
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        839,
+                                        828,
+                                        863
+                                    ],
+                                    "score": 0.986,
+                                    "content": "bank,andacceptthebank'sbondsintheamountof$9,343,194.63tocoverthedifference.Thebank'snew",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                859,
+                                841,
+                                883
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        859,
+                                        841,
+                                        883
+                                    ],
+                                    "score": 0.983,
+                                    "content": "statement[notproduced herefromtheoriginal]would thenappearasfolows:Onepoint needsto bemade",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                878,
+                                588,
+                                905
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        878,
+                                        588,
+                                        905
+                                    ],
+                                    "score": 0.998,
+                                    "content": "crystalclearbeforegoinganyfurther.Theprecedingplanforconvertinga",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                914
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        96,
+                        871,
+                        902
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                100,
+                                860,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        100,
+                                        860,
+                                        124
+                                    ],
+                                    "score": 0.97,
+                                    "content": "andUnionTrustCo.，ofSanFrancisco,California.TheirStatementofConditiononJune30,1954wasasfollows:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                123,
+                                794,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        123,
+                                        794,
+                                        144
+                                    ],
+                                    "score": 0.981,
+                                    "content": "JStatementofConditionnotreproducedfromtheoriginal.Totalsonlyareprovidedhere:Total Assets:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                140,
+                                843,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        140,
+                                        266,
+                                        165
+                                    ],
+                                    "score": 0.89,
+                                    "content": "$515,724,038.74;TotalLiabilities：",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        266,
+                                        142,
+                                        303,
+                                        161
+                                    ],
+                                    "score": 0.28,
+                                    "content": "\\$ 481",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        303,
+                                        140,
+                                        533,
+                                        165
+                                    ],
+                                    "score": 0.921,
+                                    "content": ",413,566.65;UndividedProfits:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        534,
+                                        142,
+                                        648,
+                                        161
+                                    ],
+                                    "score": 0.37,
+                                    "content": "\\$ 24,853,408,24",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        649,
+                                        140,
+                                        843,
+                                        165
+                                    ],
+                                    "score": 0.977,
+                                    "content": "MemberFederal Reserve",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                158,
+                                837,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        158,
+                                        341,
+                                        182
+                                    ],
+                                    "score": 0.972,
+                                    "content": "System&Federal Deposit InsuranceCorp.",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        341,
+                                        161,
+                                        464,
+                                        180
+                                    ],
+                                    "score": 0.58,
+                                    "content": "^ { \\star \\$ 48,311,8 8 6,9 4 }",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        464,
+                                        158,
+                                        592,
+                                        182
+                                    ],
+                                    "score": 0.998,
+                                    "content": "insecuritiesand",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        593,
+                                        161,
+                                        685,
+                                        180
+                                    ],
+                                    "score": 0.78,
+                                    "content": "\\$ 500,000,00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        685,
+                                        158,
+                                        837,
+                                        182
+                                    ],
+                                    "score": 0.996,
+                                    "content": "ofotherassetsare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                177,
+                                876,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        177,
+                                        876,
+                                        205
+                                    ],
+                                    "score": 0.99,
+                                    "content": "pledgedtosecure Public&TrustDepositsandforotherpurposesasrequiredorpermittedbylaw.Ourobjective",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                201,
+                                843,
+                                222
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        201,
+                                        843,
+                                        222
+                                    ],
+                                    "score": 0.996,
+                                    "content": "willbetodividethisbankintotwoseparateanddistinctsections--aDepositSectionandaSavingsandLoan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                218,
+                                856,
+                                243
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        218,
+                                        856,
+                                        243
+                                    ],
+                                    "score": 0.983,
+                                    "content": "Section.Thefunctionofthe Deposit Sectionwillbethatofawarehouse,pureandsimple.Itwilloperateas the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                241,
+                                844,
+                                262
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        241,
+                                        844,
+                                        262
+                                    ],
+                                    "score": 0.998,
+                                    "content": "BankofAmsterdamoperatedbeforeitbecamecorrupt.Depositswillbeacceptedforsafekeeping.Thebank",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                260,
+                                864,
+                                284
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        260,
+                                        864,
+                                        284
+                                    ],
+                                    "score": 0.982,
+                                    "content": "wouldnotbeallowedtousethesedeposits,butwouldmerelyfacilitatethetransferofclaimstothesedeposits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                280,
+                                841,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        280,
+                                        774,
+                                        303
+                                    ],
+                                    "score": 0.989,
+                                    "content": "bymeansofcheckingaccounts.Allchecksdrawnagainstsuchdepositswould thereforebebacked",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        774,
+                                        280,
+                                        817,
+                                        299
+                                    ],
+                                    "score": 0.84,
+                                    "content": "100 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        817,
+                                        280,
+                                        841,
+                                        303
+                                    ],
+                                    "score": 0.997,
+                                    "content": "by",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                300,
+                                855,
+                                322
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        300,
+                                        855,
+                                        322
+                                    ],
+                                    "score": 0.979,
+                                    "content": "actualmoney.ThefunctionoftheSavingsand LoanSectionwillbetoobtainthesavingsof thecommunityfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                320,
+                                858,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        320,
+                                        858,
+                                        343
+                                    ],
+                                    "score": 0.994,
+                                    "content": "thepurposeofmakingloanstothecommunity.TheidealtowardwhichweshouldstriveisaSavingsand Loan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                338,
+                                833,
+                                362
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        338,
+                                        833,
+                                        362
+                                    ],
+                                    "score": 0.967,
+                                    "content": "Sectionthat obtains lendable funds byseling the bank's bonds.Inotherwords,theidealSavingsand Loan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                358,
+                                864,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        358,
+                                        864,
+                                        383
+                                    ],
+                                    "score": 0.982,
+                                    "content": "Sectionofabankshould haveabondedindebtednesstothepublicratherthandepositsthatarewithdrawable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                380,
+                                866,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        380,
+                                        866,
+                                        403
+                                    ],
+                                    "score": 0.99,
+                                    "content": "on30days'notice.Andofcourse,allthebank'sloansshouldmatureonorbeforeitsoutstanding bonds.When",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                399,
+                                835,
+                                423
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        399,
+                                        835,
+                                        423
+                                    ],
+                                    "score": 0.982,
+                                    "content": "operatingthisway,thebankisfreetolendallthesavingsofthecommunitythathavebeenplacedwithit--",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                419,
+                                820,
+                                442
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        419,
+                                        245,
+                                        442
+                                    ],
+                                    "score": 0.962,
+                                    "content": "rather than having toretaina",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        246,
+                                        420,
+                                        271,
+                                        439
+                                    ],
+                                    "score": 0.82,
+                                    "content": "5 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        272,
+                                        419,
+                                        293,
+                                        442
+                                    ],
+                                    "score": 0.985,
+                                    "content": "or",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        293,
+                                        420,
+                                        327,
+                                        439
+                                    ],
+                                    "score": 0.78,
+                                    "content": "1 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        328,
+                                        419,
+                                        820,
+                                        442
+                                    ],
+                                    "score": 0.966,
+                                    "content": "cashreserve to honor requests forwithdrawals.And theperson",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                437,
+                                873,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        437,
+                                        873,
+                                        464
+                                    ],
+                                    "score": 0.994,
+                                    "content": "holdingabankbondalwayshasaliquidassetthatcanbeexchangedformoneyintheeventofanemergency.It",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                460,
+                                863,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        460,
+                                        863,
+                                        483
+                                    ],
+                                    "score": 0.974,
+                                    "content": "isnotpossble,ofcourse,toattainthisidealovernight.Butasastart,theSavingsandLoanSectionofthebank",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                479,
+                                857,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        479,
+                                        857,
+                                        503
+                                    ],
+                                    "score": 0.992,
+                                    "content": "shouldbesetupmuchthesameasaSavingsandLoanAssociation.Itshouldhaveaminimumcashreserveof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                500,
+                                811,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        500,
+                                        43,
+                                        519
+                                    ],
+                                    "score": 0.8,
+                                    "content": "5 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        43,
+                                        500,
+                                        811,
+                                        523
+                                    ],
+                                    "score": 0.985,
+                                    "content": "tohonoroccasionalrequestsforwithdrawals.Then,asitsoutstanding loansarepaidback,itshould",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                519,
+                                819,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        519,
+                                        819,
+                                        543
+                                    ],
+                                    "score": 0.997,
+                                    "content": "approachthesavingsdepositors-onebyone--andtellthemthattheirsavingscannolongerbeheldas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                540,
+                                827,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        540,
+                                        827,
+                                        563
+                                    ],
+                                    "score": 0.972,
+                                    "content": "depositsthatcan bewithdrawnwithin 30days.Each depositorwould havetodecide howlongaperiod he",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                560,
+                                830,
+                                581
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        560,
+                                        830,
+                                        581
+                                    ],
+                                    "score": 0.992,
+                                    "content": "wishedtomakehismoneyavailabletothebankandbuyabankbondforthatperiodoftime.Eventuallyall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                579,
+                                835,
+                                602
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        579,
+                                        835,
+                                        602
+                                    ],
+                                    "score": 0.982,
+                                    "content": "savingsdeposits heldbybanksatthetimeof conversiontodeposit bankswouldbeconvertedinto bonded",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                599,
+                                822,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        599,
+                                        822,
+                                        623
+                                    ],
+                                    "score": 0.988,
+                                    "content": "indebtednesstothepublic.Nowlet'sgetdowntothepracticaljobofdividingthisbankintotwoseparate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                619,
+                                830,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        619,
+                                        830,
+                                        640
+                                    ],
+                                    "score": 0.989,
+                                    "content": "sectionsasoutlinedabove.Thebankhastotaldemanddepositsof$332,395,486.71.Thesearethedeposits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                639,
+                                867,
+                                663
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        639,
+                                        867,
+                                        663
+                                    ],
+                                    "score": 0.994,
+                                    "content": "againstwhichchecksarebeingdrawnandwhichshouldthereforebeinthenewlyformedDeposit Sectionwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                659,
+                                828,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        659,
+                                        31,
+                                        683
+                                    ],
+                                    "score": 0.988,
+                                    "content": "a",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        32,
+                                        660,
+                                        74,
+                                        679
+                                    ],
+                                    "score": 0.82,
+                                    "content": "1 0 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        74,
+                                        659,
+                                        533,
+                                        683
+                                    ],
+                                    "score": 0.984,
+                                    "content": "reservebehindthem.Thebankalready hascashreservesof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        534,
+                                        660,
+                                        657,
+                                        680
+                                    ],
+                                    "score": 0.47,
+                                    "content": "\\$ 129,940,071,76",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        658,
+                                        659,
+                                        828,
+                                        683
+                                    ],
+                                    "score": 0.954,
+                                    "content": "(Although thesecash",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                677,
+                                833,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        677,
+                                        833,
+                                        701
+                                    ],
+                                    "score": 0.997,
+                                    "content": "reservesincludedepositswithotherbanks,theentireamountcanbetreatedasactualcashifallbanksare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                699,
+                                818,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        699,
+                                        119,
+                                        723
+                                    ],
+                                    "score": 0.965,
+                                    "content": "converted to",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        119,
+                                        700,
+                                        162,
+                                        719
+                                    ],
+                                    "score": 0.85,
+                                    "content": "1 0 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        163,
+                                        699,
+                                        662,
+                                        723
+                                    ],
+                                    "score": 0.966,
+                                    "content": "reserves.)Tobring thecash reservesof the Deposit Sectionupto",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        662,
+                                        700,
+                                        705,
+                                        719
+                                    ],
+                                    "score": 0.86,
+                                    "content": "100 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        705,
+                                        699,
+                                        818,
+                                        723
+                                    ],
+                                    "score": 0.979,
+                                    "content": "of itsdeposits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                719,
+                                834,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        719,
+                                        834,
+                                        742
+                                    ],
+                                    "score": 0.979,
+                                    "content": "requiresanadditional$202,455,414.95.However,thenewlyformedSavingsandLoanSectionwillalsoneed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                739,
+                                846,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        740,
+                                        123,
+                                        760
+                                    ],
+                                    "score": 0.59,
+                                    "content": "\\$ 7,450,904.00",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        123,
+                                        739,
+                                        205,
+                                        763
+                                    ],
+                                    "score": 0.912,
+                                    "content": "to giveit a",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        205,
+                                        740,
+                                        231,
+                                        759
+                                    ],
+                                    "score": 0.79,
+                                    "content": "5 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        232,
+                                        739,
+                                        533,
+                                        763
+                                    ],
+                                    "score": 0.987,
+                                    "content": "reservebehind itsdeposits(whichtotal",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        534,
+                                        740,
+                                        658,
+                                        759
+                                    ],
+                                    "score": 0.5,
+                                    "content": "\\$ 149,018,079,94",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        659,
+                                        739,
+                                        846,
+                                        763
+                                    ],
+                                    "score": 0.941,
+                                    "content": ".So thebankwill needa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                759,
+                                867,
+                                783
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        759,
+                                        77,
+                                        783
+                                    ],
+                                    "score": 0.998,
+                                    "content": "totalof",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        77,
+                                        760,
+                                        200,
+                                        780
+                                    ],
+                                    "score": 0.46,
+                                    "content": "\\$ 209,906,318.95",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        200,
+                                        759,
+                                        570,
+                                        783
+                                    ],
+                                    "score": 0.994,
+                                    "content": "inordertosplititself intoaDepositSectionwith",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        570,
+                                        761,
+                                        613,
+                                        779
+                                    ],
+                                    "score": 0.84,
+                                    "content": "1 0 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        614,
+                                        759,
+                                        867,
+                                        783
+                                    ],
+                                    "score": 0.997,
+                                    "content": "reservesandaSavingsandLoan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                779,
+                                869,
+                                803
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        779,
+                                        127,
+                                        803
+                                    ],
+                                    "score": 0.968,
+                                    "content": "Sectionwith a",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        128,
+                                        780,
+                                        153,
+                                        799
+                                    ],
+                                    "score": 0.8,
+                                    "content": "5 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        154,
+                                        779,
+                                        869,
+                                        803
+                                    ],
+                                    "score": 0.992,
+                                    "content": "reserve.Thegovernmentwillprinttherequiredamountofmoneyand lendittothebank.But",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                799,
+                                871,
+                                823
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        799,
+                                        362,
+                                        823
+                                    ],
+                                    "score": 0.998,
+                                    "content": "sincethegovernmentalreadyowesthebank",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        363,
+                                        800,
+                                        486,
+                                        820
+                                    ],
+                                    "score": 0.37,
+                                    "content": "\\$ 200,563,124,32",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        486,
+                                        799,
+                                        871,
+                                        823
+                                    ],
+                                    "score": 0.995,
+                                    "content": "(U.S.GovernmentSecuritiesheldbythebank),the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                818,
+                                855,
+                                844
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        818,
+                                        289,
+                                        844
+                                    ],
+                                    "score": 0.978,
+                                    "content": "government will advance theentire",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        290,
+                                        820,
+                                        412,
+                                        840
+                                    ],
+                                    "score": 0.57,
+                                    "content": "\\$ 209,906,318.95",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        413,
+                                        818,
+                                        855,
+                                        844
+                                    ],
+                                    "score": 0.97,
+                                    "content": "tothebank,cancel the governmentsecuritiesheld bythe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                839,
+                                828,
+                                863
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        839,
+                                        828,
+                                        863
+                                    ],
+                                    "score": 0.986,
+                                    "content": "bank,andacceptthebank'sbondsintheamountof$9,343,194.63tocoverthedifference.Thebank'snew",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                859,
+                                841,
+                                883
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        859,
+                                        841,
+                                        883
+                                    ],
+                                    "score": 0.983,
+                                    "content": "statement[notproduced herefromtheoriginal]would thenappearasfolows:Onepoint needsto bemade",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                878,
+                                588,
+                                905
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        878,
+                                        588,
+                                        905
+                                    ],
+                                    "score": 0.998,
+                                    "content": "crystalclearbeforegoinganyfurther.Theprecedingplanforconvertinga",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 19.5,
+                    "bbox_fs": [
+                        14,
+                        100,
+                        876,
+                        905
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

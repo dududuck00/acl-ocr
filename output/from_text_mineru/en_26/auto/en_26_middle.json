@@ -1,0 +1,1456 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        878,
+                        664
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                19,
+                                857,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        19,
+                                        857,
+                                        46
+                                    ],
+                                    "score": 0.95,
+                                    "content": "theRIKZ(Berevoetsetal.2003).Oldercounts,whichareavailablefrom1978onwards,havebeenanalyzedas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                851,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        851,
+                                        66
+                                    ],
+                                    "score": 0.976,
+                                    "content": "partof EVAIIaftercorrectingformissingcountsthroughimputing(Rappoldtetal.,2003b).Comparedtothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                59,
+                                848,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        59,
+                                        848,
+                                        86
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Deltaarea,thefrequencyofcountsintheWaddenSeacoveringtheentireareahasbeendecidedlylower,on",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                856,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        856,
+                                        106
+                                    ],
+                                    "score": 0.958,
+                                    "content": "averagethreetimesayear(Meltofteetal.,1994;vanRoomenetal.,20o3).Thelongestuninterruptedcounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                101,
+                                846,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        101,
+                                        846,
+                                        125
+                                    ],
+                                    "score": 0.991,
+                                    "content": "seriesfortheWaddenSea(from1973/1974onwards)isavailableforthemonthofJanuary.Alogicalchoiceis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                121,
+                                808,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        121,
+                                        808,
+                                        145
+                                    ],
+                                    "score": 0.979,
+                                    "content": "thereforetorestrictanalysesofbirdnumberstothismonth(Leopoldetal.,20o3b;Verhulstetal.,2004).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                878,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        878,
+                                        167
+                                    ],
+                                    "score": 0.99,
+                                    "content": "However,Januarycounts haveaproblemduetoicewinters.Whenthemudflatsbecomecoveredwithiceduring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                812,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        812,
+                                        185
+                                    ],
+                                    "score": 0.993,
+                                    "content": "asufficientlylongperiodoffrost,alargenumberofoystercatchersmayleavetheWadden Seatowinter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                180,
+                                812,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        180,
+                                        812,
+                                        207
+                                    ],
+                                    "score": 0.943,
+                                    "content": "elsewhere(Hulscher，1989;Hulscheretal.,1996;Camphuysenetal.，1996).Duringthepastcenturysuch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                861,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        861,
+                                        225
+                                    ],
+                                    "score": 0.975,
+                                    "content": "hard-weathermovementsfromtheDutchWaddenSea haveoccurredinatleast10of92years(Hulscheretal.,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                223,
+                                808,
+                                243
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        223,
+                                        808,
+                                        243
+                                    ],
+                                    "score": 0.999,
+                                    "content": "1996).Verylowcountsofoystercatchersinthewintersof1986/87and1996/97areduetohard-weather",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                241,
+                                857,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        241,
+                                        857,
+                                        265
+                                    ],
+                                    "score": 0.977,
+                                    "content": "movementandnottoachangeinthenumberofoystercatchersthatarrivedinautumn tospendthewinter in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                871,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        871,
+                                        285
+                                    ],
+                                    "score": 0.998,
+                                    "content": "thearea.Onesolutionistoincludeintegralcountsforothermonthsintheimputingexercise.Tothe29integral",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                869,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        869,
+                                        305
+                                    ],
+                                    "score": 0.991,
+                                    "content": "countsforJanuary,33countsduringothermonthsintheperiodAugust-Decembercanbeincluded(Leopoldet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                875,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        875,
+                                        327
+                                    ],
+                                    "score": 0.989,
+                                    "content": "al,2003b).Thisprovidesonlyapartialsolution.Forthewinterof1996/97therewereadditionalcountsinAugust",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                867,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        867,
+                                        345
+                                    ],
+                                    "score": 0.982,
+                                    "content": "andDecember,sothenewestimateisclearlyhigher.However,forthewinterof1986/87onlytheJanuarycount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                866,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        866,
+                                        365
+                                    ],
+                                    "score": 0.987,
+                                    "content": "isavailable,sotheproceduremakesnodiference.ApartfromintegralcountsofthewholeDutchWaddenSea,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                869,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        869,
+                                        385
+                                    ],
+                                    "score": 0.999,
+                                    "content": "therearemanysitesthroughouttheWaddenSeathatarecountedonamuchmoreregularbasis.Thesecounts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                382,
+                                848,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        382,
+                                        848,
+                                        405
+                                    ],
+                                    "score": 0.994,
+                                    "content": "canalsobeincludedintheimputingtoyieldanestimateofthenumberofoystercatchersineachsiteineach",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                399,
+                                865,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        399,
+                                        865,
+                                        427
+                                    ],
+                                    "score": 0.968,
+                                    "content": "month.Forthestudiesof Leopoldetal.(2003b)andRappoldtetal.(2003a)countingdataofindividualcounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                422,
+                                837,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        422,
+                                        837,
+                                        445
+                                    ],
+                                    "score": 0.997,
+                                    "content": "siteswerefirstclusteredintolargerareasandthenimputingwasdonefortheselargerclusterareas.More",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                869,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        869,
+                                        466
+                                    ],
+                                    "score": 0.976,
+                                    "content": "recently,SOvoNhasperformedimputingdirectlyontheindividualcountingsites,withoutfirstclustering these",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                462,
+                                843,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        462,
+                                        843,
+                                        486
+                                    ],
+                                    "score": 0.994,
+                                    "content": "sitesintolargerareas(vanRoomen&vanWinden,pers.comm.).Includingthecountsofsitescountedmore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                482,
+                                863,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        482,
+                                        863,
+                                        505
+                                    ],
+                                    "score": 0.991,
+                                    "content": "regularlyleadstoestimatednumbersthatvarysmoothlyovertheyears.Such gradualchangesinnumbersare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                835,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        835,
+                                        527
+                                    ],
+                                    "score": 0.997,
+                                    "content": "whatonewouldexpectforalong-livedspeciesliketheoystercatcher.Wethereforeconcludethatimputing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                520,
+                                849,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        520,
+                                        849,
+                                        546
+                                    ],
+                                    "score": 0.981,
+                                    "content": "usingallcountsoffersthebest estimateofthenumberofoystercatchersdecidingtospendthewinter in the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                539,
+                                851,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        539,
+                                        851,
+                                        566
+                                    ],
+                                    "score": 0.997,
+                                    "content": "DutchWaddenSea.Thepreciseestimateofthetotalnumberdependsonthedetailsoftheimputingandthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                561,
+                                871,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        561,
+                                        871,
+                                        587
+                                    ],
+                                    "score": 0.99,
+                                    "content": "requiresfurtherstudy.Adistinctionwasmadebetweenareasopenforfishing,areasclosedforshelfishfishing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                581,
+                                873,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        581,
+                                        873,
+                                        605
+                                    ],
+                                    "score": 0.987,
+                                    "content": "andareasthatcouldnotbeclasified(Figure7).Sincebirdcountstakeplaceduringhightide,theassignmentto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                599,
+                                870,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        599,
+                                        870,
+                                        626
+                                    ],
+                                    "score": 0.998,
+                                    "content": "thelowtidefeedingareashadtobebasedonexpertjudgementandisopentofurtherimprovement.Especially",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                619,
+                                848,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        619,
+                                        848,
+                                        647
+                                    ],
+                                    "score": 0.977,
+                                    "content": "forspeciesthattravellongdistancestoreachthefeedinggrounds,errorsarelikely.28Alterra-rapport1011;",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                640,
+                                402,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        640,
+                                        402,
+                                        667
+                                    ],
+                                    "score": 0.992,
+                                    "content": "RIVO-rapportC056/04;RIKZ-rapportRKZ/2004.031",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 15.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                676
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        11,
+                        878,
+                        664
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                15,
+                                19,
+                                857,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        19,
+                                        857,
+                                        46
+                                    ],
+                                    "score": 0.95,
+                                    "content": "theRIKZ(Berevoetsetal.2003).Oldercounts,whichareavailablefrom1978onwards,havebeenanalyzedas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                851,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        851,
+                                        66
+                                    ],
+                                    "score": 0.976,
+                                    "content": "partof EVAIIaftercorrectingformissingcountsthroughimputing(Rappoldtetal.,2003b).Comparedtothe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                59,
+                                848,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        59,
+                                        848,
+                                        86
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Deltaarea,thefrequencyofcountsintheWaddenSeacoveringtheentireareahasbeendecidedlylower,on",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                856,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        856,
+                                        106
+                                    ],
+                                    "score": 0.958,
+                                    "content": "averagethreetimesayear(Meltofteetal.,1994;vanRoomenetal.,20o3).Thelongestuninterruptedcounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                101,
+                                846,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        101,
+                                        846,
+                                        125
+                                    ],
+                                    "score": 0.991,
+                                    "content": "seriesfortheWaddenSea(from1973/1974onwards)isavailableforthemonthofJanuary.Alogicalchoiceis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                121,
+                                808,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        121,
+                                        808,
+                                        145
+                                    ],
+                                    "score": 0.979,
+                                    "content": "thereforetorestrictanalysesofbirdnumberstothismonth(Leopoldetal.,20o3b;Verhulstetal.,2004).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                140,
+                                878,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        140,
+                                        878,
+                                        167
+                                    ],
+                                    "score": 0.99,
+                                    "content": "However,Januarycounts haveaproblemduetoicewinters.Whenthemudflatsbecomecoveredwithiceduring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                162,
+                                812,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        162,
+                                        812,
+                                        185
+                                    ],
+                                    "score": 0.993,
+                                    "content": "asufficientlylongperiodoffrost,alargenumberofoystercatchersmayleavetheWadden Seatowinter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                180,
+                                812,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        180,
+                                        812,
+                                        207
+                                    ],
+                                    "score": 0.943,
+                                    "content": "elsewhere(Hulscher，1989;Hulscheretal.,1996;Camphuysenetal.，1996).Duringthepastcenturysuch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                861,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        861,
+                                        225
+                                    ],
+                                    "score": 0.975,
+                                    "content": "hard-weathermovementsfromtheDutchWaddenSea haveoccurredinatleast10of92years(Hulscheretal.,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                223,
+                                808,
+                                243
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        223,
+                                        808,
+                                        243
+                                    ],
+                                    "score": 0.999,
+                                    "content": "1996).Verylowcountsofoystercatchersinthewintersof1986/87and1996/97areduetohard-weather",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                241,
+                                857,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        241,
+                                        857,
+                                        265
+                                    ],
+                                    "score": 0.977,
+                                    "content": "movementandnottoachangeinthenumberofoystercatchersthatarrivedinautumn tospendthewinter in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                262,
+                                871,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        262,
+                                        871,
+                                        285
+                                    ],
+                                    "score": 0.998,
+                                    "content": "thearea.Onesolutionistoincludeintegralcountsforothermonthsintheimputingexercise.Tothe29integral",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                869,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        869,
+                                        305
+                                    ],
+                                    "score": 0.991,
+                                    "content": "countsforJanuary,33countsduringothermonthsintheperiodAugust-Decembercanbeincluded(Leopoldet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                875,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        875,
+                                        327
+                                    ],
+                                    "score": 0.989,
+                                    "content": "al,2003b).Thisprovidesonlyapartialsolution.Forthewinterof1996/97therewereadditionalcountsinAugust",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                322,
+                                867,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        322,
+                                        867,
+                                        345
+                                    ],
+                                    "score": 0.982,
+                                    "content": "andDecember,sothenewestimateisclearlyhigher.However,forthewinterof1986/87onlytheJanuarycount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                866,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        866,
+                                        365
+                                    ],
+                                    "score": 0.987,
+                                    "content": "isavailable,sotheproceduremakesnodiference.ApartfromintegralcountsofthewholeDutchWaddenSea,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                362,
+                                869,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        362,
+                                        869,
+                                        385
+                                    ],
+                                    "score": 0.999,
+                                    "content": "therearemanysitesthroughouttheWaddenSeathatarecountedonamuchmoreregularbasis.Thesecounts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                382,
+                                848,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        382,
+                                        848,
+                                        405
+                                    ],
+                                    "score": 0.994,
+                                    "content": "canalsobeincludedintheimputingtoyieldanestimateofthenumberofoystercatchersineachsiteineach",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                399,
+                                865,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        399,
+                                        865,
+                                        427
+                                    ],
+                                    "score": 0.968,
+                                    "content": "month.Forthestudiesof Leopoldetal.(2003b)andRappoldtetal.(2003a)countingdataofindividualcounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                422,
+                                837,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        422,
+                                        837,
+                                        445
+                                    ],
+                                    "score": 0.997,
+                                    "content": "siteswerefirstclusteredintolargerareasandthenimputingwasdonefortheselargerclusterareas.More",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                869,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        869,
+                                        466
+                                    ],
+                                    "score": 0.976,
+                                    "content": "recently,SOvoNhasperformedimputingdirectlyontheindividualcountingsites,withoutfirstclustering these",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                462,
+                                843,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        462,
+                                        843,
+                                        486
+                                    ],
+                                    "score": 0.994,
+                                    "content": "sitesintolargerareas(vanRoomen&vanWinden,pers.comm.).Includingthecountsofsitescountedmore",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                482,
+                                863,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        482,
+                                        863,
+                                        505
+                                    ],
+                                    "score": 0.991,
+                                    "content": "regularlyleadstoestimatednumbersthatvarysmoothlyovertheyears.Such gradualchangesinnumbersare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                835,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        835,
+                                        527
+                                    ],
+                                    "score": 0.997,
+                                    "content": "whatonewouldexpectforalong-livedspeciesliketheoystercatcher.Wethereforeconcludethatimputing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                520,
+                                849,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        520,
+                                        849,
+                                        546
+                                    ],
+                                    "score": 0.981,
+                                    "content": "usingallcountsoffersthebest estimateofthenumberofoystercatchersdecidingtospendthewinter in the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                539,
+                                851,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        539,
+                                        851,
+                                        566
+                                    ],
+                                    "score": 0.997,
+                                    "content": "DutchWaddenSea.Thepreciseestimateofthetotalnumberdependsonthedetailsoftheimputingandthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                561,
+                                871,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        561,
+                                        871,
+                                        587
+                                    ],
+                                    "score": 0.99,
+                                    "content": "requiresfurtherstudy.Adistinctionwasmadebetweenareasopenforfishing,areasclosedforshelfishfishing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                581,
+                                873,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        581,
+                                        873,
+                                        605
+                                    ],
+                                    "score": 0.987,
+                                    "content": "andareasthatcouldnotbeclasified(Figure7).Sincebirdcountstakeplaceduringhightide,theassignmentto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                599,
+                                870,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        599,
+                                        870,
+                                        626
+                                    ],
+                                    "score": 0.998,
+                                    "content": "thelowtidefeedingareashadtobebasedonexpertjudgementandisopentofurtherimprovement.Especially",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                619,
+                                848,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        619,
+                                        848,
+                                        647
+                                    ],
+                                    "score": 0.977,
+                                    "content": "forspeciesthattravellongdistancestoreachthefeedinggrounds,errorsarelikely.28Alterra-rapport1011;",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                640,
+                                402,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        640,
+                                        402,
+                                        667
+                                    ],
+                                    "score": 0.992,
+                                    "content": "RIVO-rapportC056/04;RIKZ-rapportRKZ/2004.031",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 15.5,
+                    "bbox_fs": [
+                        14,
+                        19,
+                        878,
+                        667
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

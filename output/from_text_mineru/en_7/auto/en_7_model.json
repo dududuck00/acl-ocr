@@ -1,0 +1,475 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    55,
+                    28,
+                    2442,
+                    28,
+                    2442,
+                    1743,
+                    55,
+                    1743
+                ],
+                "score": 0.932
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    57.0,
+                    2335.0,
+                    57.0,
+                    2335.0,
+                    123.0,
+                    47.0,
+                    123.0
+                ],
+                "score": 0.971,
+                "text": "FocusGoal(s)Goal Description:Thedescriptionprovided fora FocusGoalmustbespecific,measurable,and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    115.0,
+                    2348.0,
+                    115.0,
+                    2348.0,
+                    181.0,
+                    44.0,
+                    181.0
+                ],
+                "score": 0.993,
+                "text": "timebound.AnLEAdevelopsaFocusGoaltoaddressareasofneed thatmayrequireorbenefitfromamore"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    173.0,
+                    2426.0,
+                    173.0,
+                    2426.0,
+                    239.0,
+                    47.0,
+                    239.0
+                ],
+                "score": 0.994,
+                "text": "specificanddataintensiveapproach.TheFocusGoalcanexplicitlyreferencethemetric(s)bywhichachievement"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    228.0,
+                    2254.0,
+                    228.0,
+                    2254.0,
+                    294.0,
+                    44.0,
+                    294.0
+                ],
+                "score": 0.979,
+                "text": "ofthegoalwillbemeasuredandthe timeframeaccording towhichtheLEAexpectstoachieve thegoal."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    284.0,
+                    2358.0,
+                    284.0,
+                    2358.0,
+                    350.0,
+                    47.0,
+                    350.0
+                ],
+                "score": 0.984,
+                "text": "ExplanationofwhytheLEAhasdevelopedthisgoal:ExplainwhytheLEAhaschosentoprioritizethisgoal.An"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    334.0,
+                    2392.0,
+                    334.0,
+                    2392.0,
+                    405.0,
+                    41.0,
+                    405.0
+                ],
+                "score": 0.979,
+                "text": "explanationmustbebasedon Dashboarddataorotherlocallycolecteddata.LEAsmustdescribehowthe LEA"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    395.0,
+                    2184.0,
+                    395.0,
+                    2184.0,
+                    460.0,
+                    44.0,
+                    460.0
+                ],
+                "score": 0.997,
+                "text": "identifiedthisgoalforfocusedattention,includingrelevantconsultationwithstakeholders.LEAsare"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    450.0,
+                    2350.0,
+                    450.0,
+                    2350.0,
+                    516.0,
+                    44.0,
+                    516.0
+                ],
+                "score": 0.974,
+                "text": "encouraged to promote transparencyand understandingaroundthedecisionto pursueafocus goal.Broad"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    505.0,
+                    2322.0,
+                    505.0,
+                    2322.0,
+                    571.0,
+                    47.0,
+                    571.0
+                ],
+                "score": 0.997,
+                "text": "GoalGoalDescription:DescribewhattheLEAplanstoachievethroughtheactionsincludedinthegoal.The"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    558.0,
+                    2428.0,
+                    558.0,
+                    2428.0,
+                    632.0,
+                    44.0,
+                    632.0
+                ],
+                "score": 0.993,
+                "text": "descriptionofabroad goalwillbeclearlyalignedwiththeexpectedmeasurableoutcomesincludedforthegoal."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    613.0,
+                    2420.0,
+                    613.0,
+                    2420.0,
+                    687.0,
+                    44.0,
+                    687.0
+                ],
+                "score": 0.995,
+                "text": "Thegoaldescriptionorganizestheactionsandexpectedoutcomesinacohesiveandconsistentmanner.Agoal"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    671.0,
+                    2423.0,
+                    671.0,
+                    2423.0,
+                    737.0,
+                    47.0,
+                    737.0
+                ],
+                "score": 0.992,
+                "text": "descriptionisspecificenoughtobemeasurableineitherquantitativeorqualitativeterms.Abroadgoalisnot as"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    727.0,
+                    2282.0,
+                    727.0,
+                    2282.0,
+                    795.0,
+                    41.0,
+                    795.0
+                ],
+                "score": 0.995,
+                "text": "specificasafocusgoal.Whileitisspecificenoughtobemeasurable,therearemanydiferentmetricsfor"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    782.0,
+                    2379.0,
+                    782.0,
+                    2379.0,
+                    848.0,
+                    44.0,
+                    848.0
+                ],
+                "score": 0.988,
+                "text": "measuringprogresstowardthegoal.ExplanationofwhytheLEAhasdevelopedthisgoal: ExplainwhytheLEA"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    835.0,
+                    2405.0,
+                    835.0,
+                    2405.0,
+                    909.0,
+                    41.0,
+                    909.0
+                ],
+                "score": 0.995,
+                "text": "developedthisgoalandhowtheactionsandmetricsgroupedtogetherwillhelpachievethegoal.Maintenance"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    890.0,
+                    2340.0,
+                    890.0,
+                    2340.0,
+                    961.0,
+                    39.0,
+                    961.0
+                ],
+                "score": 0.981,
+                "text": "ofProgressGoalGoal Description:Describe howtheLEAintendstomaintaintheprogressmadein the LCFF"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    946.0,
+                    2423.0,
+                    946.0,
+                    2423.0,
+                    1014.0,
+                    41.0,
+                    1014.0
+                ],
+                "score": 0.986,
+                "text": "StatePrioritiesnotaddressedbytheothergoalsintheLCAP.Usethistypeofgoaltoaddressthestatepriorities"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1006.0,
+                    2379.0,
+                    1006.0,
+                    2379.0,
+                    1072.0,
+                    44.0,
+                    1072.0
+                ],
+                "score": 0.991,
+                "text": "andapplicablemetricsnotaddressedwithintheothergoals intheLCAP.Thestateprioritiesandmetricstobe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    1064.0,
+                    2314.0,
+                    1064.0,
+                    2314.0,
+                    1122.0,
+                    47.0,
+                    1122.0
+                ],
+                "score": 0.989,
+                "text": "addressedinthissectionarethoseforwhichtheLEA,inconsultationwithstakeholders,hasdeterminedto"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1109.0,
+                    2394.0,
+                    1109.0,
+                    2394.0,
+                    1183.0,
+                    41.0,
+                    1183.0
+                ],
+                "score": 0.996,
+                "text": "maintainactionsandmonitorprogresswhilefocusingimplementationeffortsontheactionscoveredbyother"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1167.0,
+                    2371.0,
+                    1167.0,
+                    2371.0,
+                    1236.0,
+                    44.0,
+                    1236.0
+                ],
+                "score": 0.989,
+                "text": "goalsintheLCAP.ExplanationofwhytheLEAhasdevelopedthisgoal:Explainhowtheactionswillsustainthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    1220.0,
+                    2402.0,
+                    1220.0,
+                    2402.0,
+                    1288.0,
+                    39.0,
+                    1288.0
+                ],
+                "score": 0.992,
+                "text": "progressexemplifiedbytherelatedmetrics.MeasuringandReportingResults:ForeachLCAPyear，identifythe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1275.0,
+                    2423.0,
+                    1275.0,
+                    2423.0,
+                    1349.0,
+                    41.0,
+                    1349.0
+                ],
+                "score": 0.997,
+                "text": "metric(s)thattheLEAwillusetotrackprogresstowardtheexpectedoutcomes.LEAsareencouragedtoidentify"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    39.0,
+                    1325.0,
+                    2405.0,
+                    1325.0,
+                    2405.0,
+                    1407.0,
+                    39.0,
+                    1407.0
+                ],
+                "score": 0.978,
+                "text": "metricsforspecificstudent groups,asappropriate,includingexpectedoutcomesthatwouldreflectnarrowing"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1386.0,
+                    2321.0,
+                    1386.0,
+                    2321.0,
+                    1454.0,
+                    41.0,
+                    1454.0
+                ],
+                "score": 0.976,
+                "text": "ofanyexistingperformance gaps.Includeinthe baselinecolumnthemostrecent dataassociated with this"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1444.0,
+                    2441.0,
+                    1444.0,
+                    2441.0,
+                    1510.0,
+                    44.0,
+                    1510.0
+                ],
+                "score": 0.999,
+                "text": "metricavailableatthetimeofadoptionoftheLCAPforthefirstyearofthethree-yearplan.LEAsmayusedataas"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1497.0,
+                    2277.0,
+                    1497.0,
+                    2277.0,
+                    1568.0,
+                    41.0,
+                    1568.0
+                ],
+                "score": 0.992,
+                "text": "reportedonthe2019Dashboardforthebaselineofametriconlyifthatdatarepresents themostrecent"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1557.0,
+                    2415.0,
+                    1557.0,
+                    2415.0,
+                    1623.0,
+                    44.0,
+                    1623.0
+                ],
+                "score": 0.991,
+                "text": "available(e.g.highschoolgraduationrate).Usingthemostrecentdataavailablemayinvolvereviewingdatathe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    47.0,
+                    1613.0,
+                    2428.0,
+                    1613.0,
+                    2428.0,
+                    1678.0,
+                    47.0,
+                    1678.0
+                ],
+                "score": 0.986,
+                "text": "LEAispreparingforsubmissiontotheCalifornia LongitudinalPupilAchievementDataSystem(CALPADS)ordata"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    44.0,
+                    1665.0,
+                    1973.0,
+                    1665.0,
+                    1973.0,
+                    1731.0,
+                    44.0,
+                    1731.0
+                ],
+                "score": 0.995,
+                "text": "thattheLEAhasrecentlysubmittedtoCALPADS.Becausefinal2019-20outcomesonsome"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 1762
+        }
+    }
+]

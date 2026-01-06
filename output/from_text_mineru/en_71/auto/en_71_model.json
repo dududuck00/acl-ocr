@@ -1,0 +1,700 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    44,
+                    313,
+                    2405,
+                    313,
+                    2405,
+                    2789,
+                    44,
+                    2789
+                ],
+                "score": 0.911
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    45.0,
+                    293.0,
+                    2401.0,
+                    293.0,
+                    2401.0,
+                    353.0,
+                    45.0,
+                    353.0
+                ],
+                "score": 0.345,
+                "text": "vyenivueeiuUerie"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    337.0,
+                    2390.0,
+                    337.0,
+                    2390.0,
+                    405.0,
+                    42.0,
+                    405.0
+                ],
+                "score": 0.987,
+                "text": "necessaryformodelingbehavior.Roboticmodelsareatypeofsimulationmodel,butdotheydoanythingthat"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    394.0,
+                    2345.0,
+                    394.0,
+                    2345.0,
+                    460.0,
+                    40.0,
+                    460.0
+                ],
+                "score": 0.998,
+                "text": "computersimulationmodelsdonotdo?Onereasonoftensitedisthatmanyphysicalvariablesinfluencethe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    449.0,
+                    2240.0,
+                    449.0,
+                    2240.0,
+                    517.0,
+                    45.0,
+                    517.0
+                ],
+                "score": 0.983,
+                "text": "behaviorofaphysicalsystemanditisdificultifnotpracticallyimpossibletorepresentallof thesewith"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    504.0,
+                    2417.0,
+                    504.0,
+                    2417.0,
+                    572.0,
+                    42.0,
+                    572.0
+                ],
+                "score": 0.99,
+                "text": "adequatelawsorrulesforphysicalinteractionsinacomputersimulation.Another,andperhapsmoreimportan"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    561.0,
+                    2189.0,
+                    561.0,
+                    2189.0,
+                    629.0,
+                    42.0,
+                    629.0
+                ],
+                "score": 0.98,
+                "text": "reason,isthattheprocessofdesigning,building,andtestingroboticmodelsleadstonewproblems,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    610.0,
+                    2417.0,
+                    610.0,
+                    2417.0,
+                    684.0,
+                    40.0,
+                    684.0
+                ],
+                "score": 0.984,
+                "text": "discoveries,andinterpretationspreciselybecauseoneisworkingwithaphysicalmodel.Toillustratethispoint,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    665.0,
+                    2417.0,
+                    665.0,
+                    2417.0,
+                    741.0,
+                    40.0,
+                    741.0
+                ],
+                "score": 0.982,
+                "text": "willdiscussexamplesandresultsofmodeling individualand groupsofratpupswithroboticmodels.TheCantol"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    719.0,
+                    2409.0,
+                    719.0,
+                    2409.0,
+                    799.0,
+                    40.0,
+                    799.0
+                ],
+                "score": 0.929,
+                "text": "DustofConflictMegSpohn,UniversityofDenver，Denver,COSCTPLSAnnualConferenceAugust,20o522From"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    782.0,
+                    2345.0,
+                    782.0,
+                    2345.0,
+                    848.0,
+                    45.0,
+                    848.0
+                ],
+                "score": 0.984,
+                "text": "theclassicCantor Dust,weunderstandthat noiseindatatransmissiontendstoscaleinaprecisepattern.As"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    834.0,
+                    2342.0,
+                    834.0,
+                    2342.0,
+                    905.0,
+                    42.0,
+                    905.0
+                ],
+                "score": 0.993,
+                "text": "describedbyGleickinhisclassicbook,acommonrepresentationoftheCantorDustisarepresentationofa"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    897.0,
+                    2312.0,
+                    897.0,
+                    2312.0,
+                    957.0,
+                    45.0,
+                    957.0
+                ],
+                "score": 0.964,
+                "text": "transmissionwithnoisein,forexample,itsmiddlethird,inascalediterationdowntothebits.imilarlythe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    952.0,
+                    2409.0,
+                    952.0,
+                    2409.0,
+                    1012.0,
+                    45.0,
+                    1012.0
+                ],
+                "score": 0.993,
+                "text": "intensityofhumanconflict,asmeasuredbybattledeathsovertimeseries,seemstofollowscalingpatternsnot"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1004.0,
+                    2412.0,
+                    1004.0,
+                    2412.0,
+                    1072.0,
+                    45.0,
+                    1072.0
+                ],
+                "score": 0.995,
+                "text": "unliketheCantorDust,withitsownpatternofteribleburstsandterriblesilence.Warisoftendescribedbythe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    37.0,
+                    1053.0,
+                    2420.0,
+                    1053.0,
+                    2420.0,
+                    1135.0,
+                    37.0,
+                    1135.0
+                ],
+                "score": 0.982,
+                "text": "soldierswhowerethereasbeingcomposedofshortperiodsofintenseviolentconflictinterspersedwith longel"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1113.0,
+                    2398.0,
+                    1113.0,
+                    2398.0,
+                    1187.0,
+                    40.0,
+                    1187.0
+                ],
+                "score": 0.99,
+                "text": "periodsofquiettensionortedium.Thisprojectexaminesthesepatterns,andconsiderssomeofthequestions"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    34.0,
+                    1159.0,
+                    2364.0,
+                    1159.0,
+                    2364.0,
+                    1250.0,
+                    34.0,
+                    1250.0
+                ],
+                "score": 0.984,
+                "text": "thatmustnecessarilyaccompanythem:Withadescriptivepattern,whataretherisksinherentinforecasting,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1228.0,
+                    2353.0,
+                    1228.0,
+                    2353.0,
+                    1296.0,
+                    45.0,
+                    1296.0
+                ],
+                "score": 0.851,
+                "text": "ethical,pilosopical,andotherwise?Whatarethemanandpolicymplicationsofpotentiallyngucha"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1283.0,
+                    2329.0,
+                    1283.0,
+                    2329.0,
+                    1351.0,
+                    45.0,
+                    1351.0
+                ],
+                "score": 0.988,
+                "text": "pattern,orofallowingittobeused?NonlinearHypothesesinEducationResearchMethodologiesDimitrios"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1334.0,
+                    2345.0,
+                    1334.0,
+                    2345.0,
+                    1411.0,
+                    42.0,
+                    1411.0
+                ],
+                "score": 0.882,
+                "text": "Stamovlasis,ducationResearchenter,inistryofducationthens,GreeceTherapidngeoftoday"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1395.0,
+                    2288.0,
+                    1395.0,
+                    2288.0,
+                    1463.0,
+                    42.0,
+                    1463.0
+                ],
+                "score": 0.997,
+                "text": "worldpresentnewchallengesonoureducationalsystem.Educationresearchdealingwithacomplexand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1447.0,
+                    2356.0,
+                    1447.0,
+                    2356.0,
+                    1523.0,
+                    42.0,
+                    1523.0
+                ],
+                "score": 0.99,
+                "text": "continuouslychanging systemmaynotbeabletoprovidethepropersupportbyimplementingconventional"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1507.0,
+                    2353.0,
+                    1507.0,
+                    2353.0,
+                    1575.0,
+                    45.0,
+                    1575.0
+                ],
+                "score": 0.986,
+                "text": "linear,qualitativeorquantitative,approaches.NDStheoryandthescienceofcomplexitymightprovidemore"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1561.0,
+                    2364.0,
+                    1561.0,
+                    2364.0,
+                    1630.0,
+                    42.0,
+                    1630.0
+                ],
+                "score": 0.997,
+                "text": "solidfoundationforunderstandinganddecision-making.Thepresentworkexplorestheapplicabilityandthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1616.0,
+                    2380.0,
+                    1616.0,
+                    2380.0,
+                    1684.0,
+                    45.0,
+                    1684.0
+                ],
+                "score": 0.995,
+                "text": "usefulnessofCatastropheTheoryfortestingnonlinearhypothesesineducationalresearch.Cuspcatastrophe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1671.0,
+                    2364.0,
+                    1671.0,
+                    2364.0,
+                    1739.0,
+                    42.0,
+                    1739.0
+                ],
+                "score": 0.984,
+                "text": "modelsareproposed,whichaccountsfordiscontinuitiesinstudents'performance.Thesemodelsimplement"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1725.0,
+                    2240.0,
+                    1725.0,
+                    2240.0,
+                    1796.0,
+                    40.0,
+                    1796.0
+                ],
+                "score": 0.994,
+                "text": "psychometricvariablesfromneo-Piagetiantheoriesorinformationprocessingmodels,ascontrolsand"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1774.0,
+                    2342.0,
+                    1774.0,
+                    2342.0,
+                    1857.0,
+                    40.0,
+                    1857.0
+                ],
+                "score": 0.986,
+                "text": "demonstratenonlinearinteractions between students'mentalresourcesandmentaltasks.Inaddition,cusp"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1835.0,
+                    2299.0,
+                    1835.0,
+                    2299.0,
+                    1906.0,
+                    40.0,
+                    1906.0
+                ],
+                "score": 0.998,
+                "text": "catastropheistestedinotherseducationresearchareasimplementingotherbehavioralvariablessuchas"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1892.0,
+                    2364.0,
+                    1892.0,
+                    2364.0,
+                    1960.0,
+                    45.0,
+                    1960.0
+                ],
+                "score": 0.982,
+                "text": "studentsatitudesandchoices,orteachersselection inworkforcerecruitment.Measurementsweretakenat"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1944.0,
+                    2280.0,
+                    1944.0,
+                    2280.0,
+                    2012.0,
+                    45.0,
+                    2012.0
+                ],
+                "score": 0.994,
+                "text": "twopointsintime,andthedataanalysisinvolveddynamicdifferenceequationsandstatisticalregression"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    2001.0,
+                    2234.0,
+                    2001.0,
+                    2234.0,
+                    2062.0,
+                    45.0,
+                    2062.0
+                ],
+                "score": 0.992,
+                "text": "techniques.Thenonlinearmodelsprovedtobesuperiortothelinearcounterparts,andthatshowsthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    2059.0,
+                    2232.0,
+                    2059.0,
+                    2232.0,
+                    2119.0,
+                    48.0,
+                    2119.0
+                ],
+                "score": 0.993,
+                "text": "limitationsofstatisticalmodelingusedsofarineducation.Utilizingnonlinearmethodsandmaking the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    2108.0,
+                    2232.0,
+                    2108.0,
+                    2232.0,
+                    2185.0,
+                    42.0,
+                    2185.0
+                ],
+                "score": 0.991,
+                "text": "paradigmshiftrealizedinbehavioralscience,seemspromisingforeducationandpedagogy.Thiswork"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    2165.0,
+                    2342.0,
+                    2165.0,
+                    2342.0,
+                    2234.0,
+                    45.0,
+                    2234.0
+                ],
+                "score": 0.97,
+                "text": "demonstratesthefeasibilityof providingempirical evidences fornonlinearprocesses ineducationresearch,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    37.0,
+                    2217.0,
+                    2347.0,
+                    2217.0,
+                    2347.0,
+                    2291.0,
+                    37.0,
+                    2291.0
+                ],
+                "score": 0.992,
+                "text": "whichwillbuildbridgesbetweenNDS-theoryconceptsandpedagogicaltheories.TheMultidimensionalityof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    2277.0,
+                    2356.0,
+                    2277.0,
+                    2356.0,
+                    2346.0,
+                    45.0,
+                    2346.0
+                ],
+                "score": 0.983,
+                "text": "Health:Tools,OnetoEstimatetheStatusofHealthandAnotherOnetoEvaluateTherapeuticGoalsKarlToifl,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    2332.0,
+                    2401.0,
+                    2332.0,
+                    2401.0,
+                    2400.0,
+                    45.0,
+                    2400.0
+                ],
+                "score": 0.986,
+                "text": "Neuropsychiatricclinic,MedicalUniversityofViennaBasedonadefinitiononillnessandhealth,Whichincludes"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    2381.0,
+                    2385.0,
+                    2381.0,
+                    2385.0,
+                    2461.0,
+                    40.0,
+                    2461.0
+                ],
+                "score": 0.987,
+                "text": "bothindividualbio-sycho-socialcomplexityanddynamicsofdevelopment,twotoolswillbepresented,which"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    2444.0,
+                    2372.0,
+                    2444.0,
+                    2372.0,
+                    2513.0,
+                    45.0,
+                    2513.0
+                ],
+                "score": 0.996,
+                "text": "aredevelopedtobeusedindailyclinicalpractice.Thefirstoneshouldmakeposibletoshowtherelationship"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    2502.0,
+                    2288.0,
+                    2502.0,
+                    2288.0,
+                    2562.0,
+                    48.0,
+                    2562.0
+                ],
+                "score": 0.987,
+                "text": "betweentheestimated levelsof theamountofdemandsapersonisconfrontedwith,theeffectivenessof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    2554.0,
+                    2339.0,
+                    2554.0,
+                    2339.0,
+                    2619.0,
+                    40.0,
+                    2619.0
+                ],
+                "score": 0.987,
+                "text": "strategiestodealwiththesedemandsandtheactualstatusof health.Thesecondtoolalowsindailyclinical"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    2611.0,
+                    2377.0,
+                    2611.0,
+                    2377.0,
+                    2679.0,
+                    45.0,
+                    2679.0
+                ],
+                "score": 0.984,
+                "text": "practiceononehandtodocumentthemultidimensionaldiagnosticandtherapeuticprocessand on theother"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    2666.0,
+                    2409.0,
+                    2666.0,
+                    2409.0,
+                    2734.0,
+                    42.0,
+                    2734.0
+                ],
+                "score": 0.995,
+                "text": "handtoevaluatethetherapeuticgoals.Thistoolsupportstheprocessofpermanentqualitativeimprovemento"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    2720.0,
+                    884.0,
+                    2720.0,
+                    884.0,
+                    2789.0,
+                    45.0,
+                    2789.0
+                ],
+                "score": 0.974,
+                "text": "diagnosisand therapy.SCTPLS200514"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 2817
+        }
+    }
+]

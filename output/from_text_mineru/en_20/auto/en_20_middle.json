@@ -1,0 +1,1676 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        0,
+                        879,
+                        766
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                23,
+                                864,
+                                43
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        23,
+                                        864,
+                                        43
+                                    ],
+                                    "score": 0.994,
+                                    "content": "HealthCareServiceCoordination:Asdescribedindetailabove,theSEAGOAAAissuesacompetitiveRequestfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                40,
+                                859,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        40,
+                                        859,
+                                        65
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Applications toselect thebest-qualifiedserviceprovidersandensurecompetitioninarrangingforservices for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                857,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        857,
+                                        87
+                                    ],
+                                    "score": 0.989,
+                                    "content": "elderlyindividualsandtheircaregivers.Intheirproposals,prospectiveserviceprovidersareaskedtodescribe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                829,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        829,
+                                        106
+                                    ],
+                                    "score": 0.988,
+                                    "content": "howtheywillcoordinatebenefitswithanyotherprogramsthatservetheelderlyordisabled,howtheywill",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                830,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        830,
+                                        124
+                                    ],
+                                    "score": 0.983,
+                                    "content": "coordinateactivitieswithcountylong-termcareprograms,MedicareandALTCS,andhowtheproviderwill",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                122,
+                                841,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        122,
+                                        841,
+                                        145
+                                    ],
+                                    "score": 0.992,
+                                    "content": "ensurethatthesefund sourcesaremaximizedtouseAAAfundingonlywhennoothersourceisavailable,in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                143,
+                                872,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        143,
+                                        872,
+                                        164
+                                    ],
+                                    "score": 0.987,
+                                    "content": "ordertoensurecoordinationofservicesandintegrationofmultiplefundingsources.CostShareisencouraged,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                161,
+                                876,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        161,
+                                        876,
+                                        185
+                                    ],
+                                    "score": 0.985,
+                                    "content": "andcasemanagers,serviceproviders,andAAAmonitorthesecontributions.TitleVIIEfforts:TheSEAGOAAAwill",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                180,
+                                866,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        180,
+                                        866,
+                                        205
+                                    ],
+                                    "score": 0.986,
+                                    "content": "continuetohosttheRegionVIConferenceofAging,whereinformationonLongTermCareOmbudsman,SHIP,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                852,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        852,
+                                        225
+                                    ],
+                                    "score": 0.992,
+                                    "content": "andSMPprogramsarefeatured.Whileitwasnotpossibletohosttheconferenceduring SFY21,ourintention",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                835,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        835,
+                                        246
+                                    ],
+                                    "score": 0.993,
+                                    "content": "standsoncewecandoitsafelyfromCovid.SEAGOwillcontinuetoholdworkshopsonMedicare,advanced",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                242,
+                                847,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        242,
+                                        847,
+                                        265
+                                    ],
+                                    "score": 0.962,
+                                    "content": "directives,andselectingLTCpolicies,aswellasscamjamsacrosstheregion.Besides,case-managedservices",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                818,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        818,
+                                        286
+                                    ],
+                                    "score": 0.994,
+                                    "content": "targetthosewholackasupportsystem,lowincome,andthosewhoaremostvulnerable,includingadult",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                865,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        865,
+                                        307
+                                    ],
+                                    "score": 0.98,
+                                    "content": "protectiveservicereferrals.Participationincommunitymeetings,training,healthandresourcefairs,andother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                300,
+                                858,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        300,
+                                        858,
+                                        327
+                                    ],
+                                    "score": 0.968,
+                                    "content": "eventswillofferopportunitiestogetthewordoutaboutLTCOmbudsman,SHIP,SMPprogramsandservices,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                318,
+                                869,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        318,
+                                        869,
+                                        348
+                                    ],
+                                    "score": 0.984,
+                                    "content": "andhowtoprevent,detect,andreportabuseneglect,andfinancialexploitationofolderadults.Asnewtraining",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                341,
+                                855,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        341,
+                                        855,
+                                        365
+                                    ],
+                                    "score": 0.991,
+                                    "content": "modulesareoutatthestatelevel,thesemoduleswillbeadopted,andoncecompleted,theLTCOwillmakean",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                361,
+                                852,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        361,
+                                        852,
+                                        385
+                                    ],
+                                    "score": 0.994,
+                                    "content": "efforttorecruitmorevolunteersinthearea.TheLongTermCareOmbudsmanprogramandtheStateHealth",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                379,
+                                864,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        379,
+                                        864,
+                                        406
+                                    ],
+                                    "score": 0.996,
+                                    "content": "InsuranceProgramarecollaboratinginbuildinganElderFraudandAbusetaskforceinCochisecounty.Wesee",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                871,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        871,
+                                        427
+                                    ],
+                                    "score": 0.969,
+                                    "content": "thatwiththemultiplechanges happening sinceCOVID,wemusteducateandinformourcommunities.Wehave",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                862,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        862,
+                                        446
+                                    ],
+                                    "score": 0.994,
+                                    "content": "organizationsthatworkwiththeelderlyaspartnersthatwillhelptheAreaAgencyonAgingaddresstheneeds",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                825,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        825,
+                                        465
+                                    ],
+                                    "score": 0.976,
+                                    "content": "of thoseaffectedorreducethenumberof cases throughout ourregion.Other:SEAGO-AAAManagement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                459,
+                                834,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        459,
+                                        834,
+                                        487
+                                    ],
+                                    "score": 0.988,
+                                    "content": "AnalystoverseestheCaseManagementprogram,andsinceherpartaking,weseeevenmoreimpactinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                481,
+                                874,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        481,
+                                        874,
+                                        506
+                                    ],
+                                    "score": 0.986,
+                                    "content": "program.Shecoordinatesservicesandfundingavailabilityamongstthecasemanagersandserviceproviders to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                859,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        859,
+                                        528
+                                    ],
+                                    "score": 0.986,
+                                    "content": "assistthedirectorinprojectingfuturespending.Sheprovidestrainingand guidancetoourcasemanagerson",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                521,
+                                862,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        521,
+                                        862,
+                                        546
+                                    ],
+                                    "score": 0.977,
+                                    "content": "changes happeningwithin theorganization.ThemodificationispreparingourManagement Analysisforwhen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                539,
+                                802,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        539,
+                                        802,
+                                        568
+                                    ],
+                                    "score": 0.994,
+                                    "content": "SEAGO-AAAbeginstobringthecasemanagementin-house.WithagrantobtainedthroughtheLegacy",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                560,
+                                825,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        560,
+                                        825,
+                                        587
+                                    ],
+                                    "score": 0.986,
+                                    "content": "FoundationofSoutheastArizonaandtheDavidandLura LovellFoundation,theAreaAgencyonAginghas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                821,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        821,
+                                        607
+                                    ],
+                                    "score": 0.994,
+                                    "content": "successfullyadoptedEndofLifeCareMatterssince2018.WiththededicationandsupportfromVeronica",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                599,
+                                838,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        599,
+                                        838,
+                                        627
+                                    ],
+                                    "score": 0.976,
+                                    "content": "\"Ronnie\"Squyres,wearesuccessullygoing intoourthirdyear.Thusfar,wehaveaccomplishedour goalto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                622,
+                                857,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        622,
+                                        857,
+                                        645
+                                    ],
+                                    "score": 0.998,
+                                    "content": "expandourservicesthroughoutthefour-countyregionbyhostingThoughtfulLifeConversationsworkshops.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                640,
+                                834,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        640,
+                                        834,
+                                        667
+                                    ],
+                                    "score": 0.983,
+                                    "content": "Ourgoalhas beentonormalizeandincreaseconversationsbyprovidingseveralvenuesfordiscusing and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                662,
+                                846,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        662,
+                                        846,
+                                        685
+                                    ],
+                                    "score": 0.99,
+                                    "content": "planningforend-of-lifeissuesandhealthcareplanning,includingadvancedirectives.Wehavedevelopedour",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                856,
+                                707
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        856,
+                                        707
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Workplace Initiative(WPI)toprovideeducationtoorganizationsthatprovidehealthcareandsocialservicesto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                702,
+                                838,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        702,
+                                        838,
+                                        725
+                                    ],
+                                    "score": 0.98,
+                                    "content": "patientsandclients.Wehavereachedover6O0participants,over40workshopsandpartneredwith19local",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                720,
+                                817,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        720,
+                                        817,
+                                        747
+                                    ],
+                                    "score": 0.981,
+                                    "content": "organizations.ThereisrepresentationfromtheAreaAgencyonAging intheAZ Health DirectiveRegistry",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                742,
+                                767,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        742,
+                                        767,
+                                        766
+                                    ],
+                                    "score": 0.99,
+                                    "content": "committeeforthetransition.Wecommitourselvestohelpmakethistransitionahugesuccess.27",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                776
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        0,
+                        879,
+                        766
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                23,
+                                864,
+                                43
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        23,
+                                        864,
+                                        43
+                                    ],
+                                    "score": 0.994,
+                                    "content": "HealthCareServiceCoordination:Asdescribedindetailabove,theSEAGOAAAissuesacompetitiveRequestfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                40,
+                                859,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        40,
+                                        859,
+                                        65
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Applications toselect thebest-qualifiedserviceprovidersandensurecompetitioninarrangingforservices for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                61,
+                                857,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        61,
+                                        857,
+                                        87
+                                    ],
+                                    "score": 0.989,
+                                    "content": "elderlyindividualsandtheircaregivers.Intheirproposals,prospectiveserviceprovidersareaskedtodescribe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                829,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        829,
+                                        106
+                                    ],
+                                    "score": 0.988,
+                                    "content": "howtheywillcoordinatebenefitswithanyotherprogramsthatservetheelderlyordisabled,howtheywill",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                101,
+                                830,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        101,
+                                        830,
+                                        124
+                                    ],
+                                    "score": 0.983,
+                                    "content": "coordinateactivitieswithcountylong-termcareprograms,MedicareandALTCS,andhowtheproviderwill",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                122,
+                                841,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        122,
+                                        841,
+                                        145
+                                    ],
+                                    "score": 0.992,
+                                    "content": "ensurethatthesefund sourcesaremaximizedtouseAAAfundingonlywhennoothersourceisavailable,in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                143,
+                                872,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        143,
+                                        872,
+                                        164
+                                    ],
+                                    "score": 0.987,
+                                    "content": "ordertoensurecoordinationofservicesandintegrationofmultiplefundingsources.CostShareisencouraged,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                161,
+                                876,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        161,
+                                        876,
+                                        185
+                                    ],
+                                    "score": 0.985,
+                                    "content": "andcasemanagers,serviceproviders,andAAAmonitorthesecontributions.TitleVIIEfforts:TheSEAGOAAAwill",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                180,
+                                866,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        180,
+                                        866,
+                                        205
+                                    ],
+                                    "score": 0.986,
+                                    "content": "continuetohosttheRegionVIConferenceofAging,whereinformationonLongTermCareOmbudsman,SHIP,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                852,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        852,
+                                        225
+                                    ],
+                                    "score": 0.992,
+                                    "content": "andSMPprogramsarefeatured.Whileitwasnotpossibletohosttheconferenceduring SFY21,ourintention",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                221,
+                                835,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        221,
+                                        835,
+                                        246
+                                    ],
+                                    "score": 0.993,
+                                    "content": "standsoncewecandoitsafelyfromCovid.SEAGOwillcontinuetoholdworkshopsonMedicare,advanced",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                242,
+                                847,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        242,
+                                        847,
+                                        265
+                                    ],
+                                    "score": 0.962,
+                                    "content": "directives,andselectingLTCpolicies,aswellasscamjamsacrosstheregion.Besides,case-managedservices",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                818,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        818,
+                                        286
+                                    ],
+                                    "score": 0.994,
+                                    "content": "targetthosewholackasupportsystem,lowincome,andthosewhoaremostvulnerable,includingadult",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                865,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        865,
+                                        307
+                                    ],
+                                    "score": 0.98,
+                                    "content": "protectiveservicereferrals.Participationincommunitymeetings,training,healthandresourcefairs,andother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                300,
+                                858,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        300,
+                                        858,
+                                        327
+                                    ],
+                                    "score": 0.968,
+                                    "content": "eventswillofferopportunitiestogetthewordoutaboutLTCOmbudsman,SHIP,SMPprogramsandservices,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                318,
+                                869,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        318,
+                                        869,
+                                        348
+                                    ],
+                                    "score": 0.984,
+                                    "content": "andhowtoprevent,detect,andreportabuseneglect,andfinancialexploitationofolderadults.Asnewtraining",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                341,
+                                855,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        341,
+                                        855,
+                                        365
+                                    ],
+                                    "score": 0.991,
+                                    "content": "modulesareoutatthestatelevel,thesemoduleswillbeadopted,andoncecompleted,theLTCOwillmakean",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                361,
+                                852,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        361,
+                                        852,
+                                        385
+                                    ],
+                                    "score": 0.994,
+                                    "content": "efforttorecruitmorevolunteersinthearea.TheLongTermCareOmbudsmanprogramandtheStateHealth",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                379,
+                                864,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        379,
+                                        864,
+                                        406
+                                    ],
+                                    "score": 0.996,
+                                    "content": "InsuranceProgramarecollaboratinginbuildinganElderFraudandAbusetaskforceinCochisecounty.Wesee",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                871,
+                                427
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        871,
+                                        427
+                                    ],
+                                    "score": 0.969,
+                                    "content": "thatwiththemultiplechanges happening sinceCOVID,wemusteducateandinformourcommunities.Wehave",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                862,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        862,
+                                        446
+                                    ],
+                                    "score": 0.994,
+                                    "content": "organizationsthatworkwiththeelderlyaspartnersthatwillhelptheAreaAgencyonAgingaddresstheneeds",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                825,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        825,
+                                        465
+                                    ],
+                                    "score": 0.976,
+                                    "content": "of thoseaffectedorreducethenumberof cases throughout ourregion.Other:SEAGO-AAAManagement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                459,
+                                834,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        459,
+                                        834,
+                                        487
+                                    ],
+                                    "score": 0.988,
+                                    "content": "AnalystoverseestheCaseManagementprogram,andsinceherpartaking,weseeevenmoreimpactinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                481,
+                                874,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        481,
+                                        874,
+                                        506
+                                    ],
+                                    "score": 0.986,
+                                    "content": "program.Shecoordinatesservicesandfundingavailabilityamongstthecasemanagersandserviceproviders to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                500,
+                                859,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        500,
+                                        859,
+                                        528
+                                    ],
+                                    "score": 0.986,
+                                    "content": "assistthedirectorinprojectingfuturespending.Sheprovidestrainingand guidancetoourcasemanagerson",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                521,
+                                862,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        521,
+                                        862,
+                                        546
+                                    ],
+                                    "score": 0.977,
+                                    "content": "changes happeningwithin theorganization.ThemodificationispreparingourManagement Analysisforwhen",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                539,
+                                802,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        539,
+                                        802,
+                                        568
+                                    ],
+                                    "score": 0.994,
+                                    "content": "SEAGO-AAAbeginstobringthecasemanagementin-house.WithagrantobtainedthroughtheLegacy",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                560,
+                                825,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        560,
+                                        825,
+                                        587
+                                    ],
+                                    "score": 0.986,
+                                    "content": "FoundationofSoutheastArizonaandtheDavidandLura LovellFoundation,theAreaAgencyonAginghas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                581,
+                                821,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        581,
+                                        821,
+                                        607
+                                    ],
+                                    "score": 0.994,
+                                    "content": "successfullyadoptedEndofLifeCareMatterssince2018.WiththededicationandsupportfromVeronica",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                599,
+                                838,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        599,
+                                        838,
+                                        627
+                                    ],
+                                    "score": 0.976,
+                                    "content": "\"Ronnie\"Squyres,wearesuccessullygoing intoourthirdyear.Thusfar,wehaveaccomplishedour goalto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                622,
+                                857,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        622,
+                                        857,
+                                        645
+                                    ],
+                                    "score": 0.998,
+                                    "content": "expandourservicesthroughoutthefour-countyregionbyhostingThoughtfulLifeConversationsworkshops.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                640,
+                                834,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        640,
+                                        834,
+                                        667
+                                    ],
+                                    "score": 0.983,
+                                    "content": "Ourgoalhas beentonormalizeandincreaseconversationsbyprovidingseveralvenuesfordiscusing and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                662,
+                                846,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        662,
+                                        846,
+                                        685
+                                    ],
+                                    "score": 0.99,
+                                    "content": "planningforend-of-lifeissuesandhealthcareplanning,includingadvancedirectives.Wehavedevelopedour",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                856,
+                                707
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        856,
+                                        707
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Workplace Initiative(WPI)toprovideeducationtoorganizationsthatprovidehealthcareandsocialservicesto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                702,
+                                838,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        702,
+                                        838,
+                                        725
+                                    ],
+                                    "score": 0.98,
+                                    "content": "patientsandclients.Wehavereachedover6O0participants,over40workshopsandpartneredwith19local",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                720,
+                                817,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        720,
+                                        817,
+                                        747
+                                    ],
+                                    "score": 0.981,
+                                    "content": "organizations.ThereisrepresentationfromtheAreaAgencyonAging intheAZ Health DirectiveRegistry",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                742,
+                                767,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        742,
+                                        767,
+                                        766
+                                    ],
+                                    "score": 0.99,
+                                    "content": "committeeforthetransition.Wecommitourselvestohelpmakethistransitionahugesuccess.27",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        }
+                    ],
+                    "index": 18,
+                    "bbox_fs": [
+                        13,
+                        23,
+                        876,
+                        766
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

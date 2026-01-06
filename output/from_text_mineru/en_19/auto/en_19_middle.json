@@ -1,0 +1,2688 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        0,
+                        877,
+                        763
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                20,
+                                847,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        20,
+                                        847,
+                                        45
+                                    ],
+                                    "score": 0.985,
+                                    "content": "RetailEmploymentAsofthesecondquarterof2015,therewere130,550retailjobsinSanFrancisco(Table6).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                41,
+                                852,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        41,
+                                        123,
+                                        65
+                                    ],
+                                    "score": 0.957,
+                                    "content": "About37,400",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        124,
+                                        43,
+                                        163,
+                                        61
+                                    ],
+                                    "score": 0.42,
+                                    "content": "( 2 9 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        41,
+                                        852,
+                                        65
+                                    ],
+                                    "score": 0.987,
+                                    "content": "ofthesejobsarefoundintheC-3District(Table7).Thisisroughlythesameshareofretail",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                857,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        857,
+                                        86
+                                    ],
+                                    "score": 0.987,
+                                    "content": "jobsreportedin2014.HotelEmploymentSanFrancisco'shoteljobsareheavilyconcentrateddowntown.Asof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                861,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        750,
+                                        106
+                                    ],
+                                    "score": 0.985,
+                                    "content": "thesecondquarterof2015,therewereapproximately16,700hoteljobsinthecity.About10,660",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        750,
+                                        82,
+                                        791,
+                                        102
+                                    ],
+                                    "score": 0.44,
+                                    "content": "( 6 4 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        792,
+                                        81,
+                                        861,
+                                        106
+                                    ],
+                                    "score": 0.938,
+                                    "content": "of these",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                99,
+                                796,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        99,
+                                        796,
+                                        127
+                                    ],
+                                    "score": 0.992,
+                                    "content": "jobswereintheC-3District.RevenueThissectionreportstaxrevenuesfrombusinesstaxes(including",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                840,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        840,
+                                        145
+                                    ],
+                                    "score": 0.982,
+                                    "content": "registrationandpayrol),propertytaxes (includingtransfertaxandannualtax),salesandusetaxes,andthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                139,
+                                880,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        139,
+                                        880,
+                                        166
+                                    ],
+                                    "score": 0.987,
+                                    "content": "hoteltaxforthe2015-2016fiscalyear(FY).7TheinformationreportedforFY15-16arerevenueprojectionsforthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                853,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        853,
+                                        185
+                                    ],
+                                    "score": 0.942,
+                                    "content": "fullfiscalyearandarebasedontheamountcollectedasofMarch312016.Ingeneral,theFY2015-16budget",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                869,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        869,
+                                        205
+                                    ],
+                                    "score": 0.993,
+                                    "content": "assumedincreasesintaxrevenuethankstocontinuedeconomicgrowth.8BusinessTaxesBusinesstaxrevenue",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                200,
+                                866,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        200,
+                                        311,
+                                        226
+                                    ],
+                                    "score": 0.99,
+                                    "content": "(Table8)inFY2015-16isesti-matedat",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        312,
+                                        202,
+                                        364,
+                                        222
+                                    ],
+                                    "score": 0.6,
+                                    "content": "\\$ 654.7",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        364,
+                                        200,
+                                        447,
+                                        226
+                                    ],
+                                    "score": 0.959,
+                                    "content": "million,up",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        448,
+                                        202,
+                                        473,
+                                        221
+                                    ],
+                                    "score": 0.8,
+                                    "content": "6 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        473,
+                                        200,
+                                        515,
+                                        226
+                                    ],
+                                    "score": 0.999,
+                                    "content": "from",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        515,
+                                        203,
+                                        555,
+                                        222
+                                    ],
+                                    "score": 0.78,
+                                    "content": "\\$ 616",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        556,
+                                        200,
+                                        866,
+                                        226
+                                    ],
+                                    "score": 0.969,
+                                    "content": "millioninFY2014-15.InNovember2012,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                219,
+                                863,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        219,
+                                        863,
+                                        246
+                                    ],
+                                    "score": 0.99,
+                                    "content": "SanFranciscovotersapprovedtheGrossReceiptsTaxand BusinessRegistra-tionFeesOrdinance(Proposition",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                239,
+                                833,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        239,
+                                        833,
+                                        267
+                                    ],
+                                    "score": 0.972,
+                                    "content": "E),whichintroducedmajorchangestothewaybusinessesaretaxedinthecity.OnJanuary1,2014,theCity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                260,
+                                867,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        260,
+                                        867,
+                                        286
+                                    ],
+                                    "score": 0.969,
+                                    "content": "startedcollectingaGrossReceiptstaxandphasingouttheexistingPayrolltax.Inthisfiscalyear,totalbusiness",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                853,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        853,
+                                        307
+                                    ],
+                                    "score": 0.942,
+                                    "content": "taxrevenueiscomprisedofbusinesspayrolltax,registrationtaxgrossreceiptstax,andadministrativeoffice",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                303,
+                                859,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        303,
+                                        859,
+                                        326
+                                    ],
+                                    "score": 0.991,
+                                    "content": "tax.BusinesspayrolltaxesassessthepayrollexpenseofpersonsandassociationsengaginginbusinessinSan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                320,
+                                857,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        320,
+                                        857,
+                                        345
+                                    ],
+                                    "score": 0.988,
+                                    "content": "Franciscoandcontinuetorepresentthevastmajorityofbusinesstaxescollcted.Thistaximposesafeeonall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                846,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        846,
+                                        369
+                                    ],
+                                    "score": 0.996,
+                                    "content": "businessesthatemployorcontractwithoneormoreemployeestoperformworkorrenderservices7Fiscal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                361,
+                                827,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        361,
+                                        827,
+                                        385
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Year2015beginsonJuly1,2015andendsonJune30,2016.8CityandCountyofSanFrancisco,Controller's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                871,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        871,
+                                        404
+                                    ],
+                                    "score": 0.971,
+                                    "content": "Office,FY2015-16Nine-MonthBudgetStatusReport,May19,2016.withinthecity.InFY2015-16,theControler's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                399,
+                                853,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        399,
+                                        279,
+                                        426
+                                    ],
+                                    "score": 0.952,
+                                    "content": "Officeestimatedthat itwill collect",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        279,
+                                        403,
+                                        331,
+                                        422
+                                    ],
+                                    "score": 0.87,
+                                    "content": "\\$ 464.2",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        399,
+                                        555,
+                                        426
+                                    ],
+                                    "score": 0.938,
+                                    "content": "million inpayrolltaxes,down",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        556,
+                                        402,
+                                        594,
+                                        421
+                                    ],
+                                    "score": 0.83,
+                                    "content": "8 . 3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        595,
+                                        399,
+                                        636,
+                                        426
+                                    ],
+                                    "score": 0.997,
+                                    "content": "from",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        637,
+                                        402,
+                                        689,
+                                        422
+                                    ],
+                                    "score": 0.85,
+                                    "content": "\\$ 506.4",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        689,
+                                        399,
+                                        853,
+                                        426
+                                    ],
+                                    "score": 0.978,
+                                    "content": "millioninFY2014-15.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                422,
+                                866,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        422,
+                                        866,
+                                        446
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Businessregistrationtaxisanannualfeeassessedforgeneralrevenuepurposesonallbusinessinthecity.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                835,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        835,
+                                        465
+                                    ],
+                                    "score": 0.994,
+                                    "content": "formulaforcalculatingthisfeewasamendedaspartofPropE,resultinginsignificantlyhighercol-lections",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                855,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        569,
+                                        487
+                                    ],
+                                    "score": 0.984,
+                                    "content": "startinginFY13-14.TheController'sOfficeestimatesthatapproximately",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        570,
+                                        462,
+                                        613,
+                                        482
+                                    ],
+                                    "score": 0.8,
+                                    "content": "\\$ 35.7",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        613,
+                                        460,
+                                        855,
+                                        487
+                                    ],
+                                    "score": 0.999,
+                                    "content": "millioninbusinessregistration",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                481,
+                                856,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        481,
+                                        307,
+                                        505
+                                    ],
+                                    "score": 0.974,
+                                    "content": "feeswillbecollected inFY2015-16,up",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        308,
+                                        482,
+                                        346,
+                                        502
+                                    ],
+                                    "score": 0.77,
+                                    "content": "5 . 3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        347,
+                                        481,
+                                        388,
+                                        505
+                                    ],
+                                    "score": 0.998,
+                                    "content": "from",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        389,
+                                        482,
+                                        432,
+                                        502
+                                    ],
+                                    "score": 0.84,
+                                    "content": "\\$ 33.9",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        432,
+                                        481,
+                                        856,
+                                        505
+                                    ],
+                                    "score": 0.995,
+                                    "content": "millioninFY2014-15.GrossreceiptsandAdministrative",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                500,
+                                836,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        500,
+                                        836,
+                                        527
+                                    ],
+                                    "score": 0.983,
+                                    "content": "oficetaxesarebasedonabusinesssgrossreceiptsfrombusinessdoneinSanFrancisco,ratherthanona",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                522,
+                                844,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        522,
+                                        844,
+                                        545
+                                    ],
+                                    "score": 0.986,
+                                    "content": "business'spayrollexpense.AstheGrossReceiptsTaxisphasedintoreplacethePayrollTax,collections have",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                540,
+                                866,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        540,
+                                        293,
+                                        566
+                                    ],
+                                    "score": 0.977,
+                                    "content": "grownsignificantly,toanestimated",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        294,
+                                        542,
+                                        345,
+                                        561
+                                    ],
+                                    "score": 0.83,
+                                    "content": "\\$ 123,1",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        345,
+                                        540,
+                                        521,
+                                        566
+                                    ],
+                                    "score": 0.954,
+                                    "content": "millioninFY2015-16,a",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        522,
+                                        542,
+                                        564,
+                                        561
+                                    ],
+                                    "score": 0.77,
+                                    "content": "1 4 1 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        565,
+                                        540,
+                                        866,
+                                        566
+                                    ],
+                                    "score": 0.985,
+                                    "content": "increaseoverFY14-15.TheController's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                559,
+                                872,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        559,
+                                        302,
+                                        587
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Officeesti-matesthat approximately",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        303,
+                                        563,
+                                        346,
+                                        582
+                                    ],
+                                    "score": 0.86,
+                                    "content": "\\$ 21.7",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        346,
+                                        559,
+                                        872,
+                                        587
+                                    ],
+                                    "score": 0.993,
+                                    "content": "inadministrativeofficetaxeswillbecollectedinFY2015-16.Property",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                582,
+                                835,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        582,
+                                        835,
+                                        605
+                                    ],
+                                    "score": 0.997,
+                                    "content": "TaxesRealpropertytaxes(Table9)arethelargestsinglesourceoftaxrevenuefortheCity.TheController's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                600,
+                                873,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        600,
+                                        687,
+                                        626
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Officeexpectspropertytaxesto increaseinfiscalyear2015-16.9Together,anestimated",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        687,
+                                        603,
+                                        731,
+                                        622
+                                    ],
+                                    "score": 0.87,
+                                    "content": "\\$ 1.63",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        731,
+                                        600,
+                                        873,
+                                        626
+                                    ],
+                                    "score": 0.995,
+                                    "content": "billioninproperty",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                867,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        374,
+                                        645
+                                    ],
+                                    "score": 0.987,
+                                    "content": "relatedtaxeswillbecollectedinFY2015-16,up",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        374,
+                                        623,
+                                        412,
+                                        641
+                                    ],
+                                    "score": 0.73,
+                                    "content": "2 . 7 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        412,
+                                        622,
+                                        454,
+                                        645
+                                    ],
+                                    "score": 0.998,
+                                    "content": "from",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        454,
+                                        623,
+                                        498,
+                                        642
+                                    ],
+                                    "score": 0.87,
+                                    "content": "\\$ 1.59",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        498,
+                                        622,
+                                        867,
+                                        645
+                                    ],
+                                    "score": 0.998,
+                                    "content": "billionlastyear.Realpropertytaxesallocatedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                640,
+                                838,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        640,
+                                        378,
+                                        667
+                                    ],
+                                    "score": 0.997,
+                                    "content": "thegeneralfundinFY2015-16areestimatedat",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        379,
+                                        643,
+                                        422,
+                                        662
+                                    ],
+                                    "score": 0.89,
+                                    "content": "\\$ 1.37",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        422,
+                                        640,
+                                        500,
+                                        667
+                                    ],
+                                    "score": 0.952,
+                                    "content": "billion, up",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        642,
+                                        526,
+                                        662
+                                    ],
+                                    "score": 0.8,
+                                    "content": "8 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        527,
+                                        640,
+                                        568,
+                                        667
+                                    ],
+                                    "score": 0.999,
+                                    "content": "from",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        568,
+                                        642,
+                                        612,
+                                        662
+                                    ],
+                                    "score": 0.88,
+                                    "content": "\\$ 1.27",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        612,
+                                        640,
+                                        838,
+                                        667
+                                    ],
+                                    "score": 0.976,
+                                    "content": "billion inFY2014-15(Table9).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                662,
+                                862,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        662,
+                                        424,
+                                        685
+                                    ],
+                                    "score": 0.998,
+                                    "content": "Propertytransfertaxesareestimatedtodecreaseby",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        424,
+                                        662,
+                                        470,
+                                        682
+                                    ],
+                                    "score": 0.83,
+                                    "content": "1 8 . 6 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        471,
+                                        662,
+                                        862,
+                                        685
+                                    ],
+                                    "score": 0.998,
+                                    "content": "duringthereportingperiod.Projectedcollec-tions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                857,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        329,
+                                        705
+                                    ],
+                                    "score": 0.998,
+                                    "content": "forFY2015-16areestimatedtobeabout",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        330,
+                                        682,
+                                        369,
+                                        702
+                                    ],
+                                    "score": 0.83,
+                                    "content": "\\$ 256",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        370,
+                                        681,
+                                        517,
+                                        705
+                                    ],
+                                    "score": 0.975,
+                                    "content": "million,downfrom",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        518,
+                                        682,
+                                        570,
+                                        702
+                                    ],
+                                    "score": 0.82,
+                                    "content": "\\$ 314.6",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        570,
+                                        681,
+                                        857,
+                                        705
+                                    ],
+                                    "score": 0.992,
+                                    "content": "millioninFY2014-15.(Table9).Unlike",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                700,
+                                838,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        700,
+                                        838,
+                                        725
+                                    ],
+                                    "score": 0.963,
+                                    "content": "realpropertytaxes,whicharecol-lectedannuallandbasedonpropertyvaluationassess-ments,property",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                721,
+                                855,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        721,
+                                        855,
+                                        744
+                                    ],
+                                    "score": 0.981,
+                                    "content": "transfertaxis highlyvolatilebecauseit iscollctedonlyatthetimeofsaleandisbasedonsalesprice.9Ibid.7",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                740,
+                                457,
+                                764
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        740,
+                                        457,
+                                        764
+                                    ],
+                                    "score": 0.995,
+                                    "content": "DOWNTOWNPLAN:ANNUALMONITORINGREPORT2015",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                771
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        0,
+                        877,
+                        763
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                20,
+                                847,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        20,
+                                        847,
+                                        45
+                                    ],
+                                    "score": 0.985,
+                                    "content": "RetailEmploymentAsofthesecondquarterof2015,therewere130,550retailjobsinSanFrancisco(Table6).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                41,
+                                852,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        41,
+                                        123,
+                                        65
+                                    ],
+                                    "score": 0.957,
+                                    "content": "About37,400",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        124,
+                                        43,
+                                        163,
+                                        61
+                                    ],
+                                    "score": 0.42,
+                                    "content": "( 2 9 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        41,
+                                        852,
+                                        65
+                                    ],
+                                    "score": 0.987,
+                                    "content": "ofthesejobsarefoundintheC-3District(Table7).Thisisroughlythesameshareofretail",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                61,
+                                857,
+                                86
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        61,
+                                        857,
+                                        86
+                                    ],
+                                    "score": 0.987,
+                                    "content": "jobsreportedin2014.HotelEmploymentSanFrancisco'shoteljobsareheavilyconcentrateddowntown.Asof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                861,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        750,
+                                        106
+                                    ],
+                                    "score": 0.985,
+                                    "content": "thesecondquarterof2015,therewereapproximately16,700hoteljobsinthecity.About10,660",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        750,
+                                        82,
+                                        791,
+                                        102
+                                    ],
+                                    "score": 0.44,
+                                    "content": "( 6 4 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        792,
+                                        81,
+                                        861,
+                                        106
+                                    ],
+                                    "score": 0.938,
+                                    "content": "of these",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                99,
+                                796,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        99,
+                                        796,
+                                        127
+                                    ],
+                                    "score": 0.992,
+                                    "content": "jobswereintheC-3District.RevenueThissectionreportstaxrevenuesfrombusinesstaxes(including",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                120,
+                                840,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        120,
+                                        840,
+                                        145
+                                    ],
+                                    "score": 0.982,
+                                    "content": "registrationandpayrol),propertytaxes (includingtransfertaxandannualtax),salesandusetaxes,andthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                139,
+                                880,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        139,
+                                        880,
+                                        166
+                                    ],
+                                    "score": 0.987,
+                                    "content": "hoteltaxforthe2015-2016fiscalyear(FY).7TheinformationreportedforFY15-16arerevenueprojectionsforthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                160,
+                                853,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        160,
+                                        853,
+                                        185
+                                    ],
+                                    "score": 0.942,
+                                    "content": "fullfiscalyearandarebasedontheamountcollectedasofMarch312016.Ingeneral,theFY2015-16budget",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                181,
+                                869,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        181,
+                                        869,
+                                        205
+                                    ],
+                                    "score": 0.993,
+                                    "content": "assumedincreasesintaxrevenuethankstocontinuedeconomicgrowth.8BusinessTaxesBusinesstaxrevenue",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                200,
+                                866,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        200,
+                                        311,
+                                        226
+                                    ],
+                                    "score": 0.99,
+                                    "content": "(Table8)inFY2015-16isesti-matedat",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        312,
+                                        202,
+                                        364,
+                                        222
+                                    ],
+                                    "score": 0.6,
+                                    "content": "\\$ 654.7",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        364,
+                                        200,
+                                        447,
+                                        226
+                                    ],
+                                    "score": 0.959,
+                                    "content": "million,up",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        448,
+                                        202,
+                                        473,
+                                        221
+                                    ],
+                                    "score": 0.8,
+                                    "content": "6 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        473,
+                                        200,
+                                        515,
+                                        226
+                                    ],
+                                    "score": 0.999,
+                                    "content": "from",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        515,
+                                        203,
+                                        555,
+                                        222
+                                    ],
+                                    "score": 0.78,
+                                    "content": "\\$ 616",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        556,
+                                        200,
+                                        866,
+                                        226
+                                    ],
+                                    "score": 0.969,
+                                    "content": "millioninFY2014-15.InNovember2012,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                219,
+                                863,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        219,
+                                        863,
+                                        246
+                                    ],
+                                    "score": 0.99,
+                                    "content": "SanFranciscovotersapprovedtheGrossReceiptsTaxand BusinessRegistra-tionFeesOrdinance(Proposition",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                239,
+                                833,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        239,
+                                        833,
+                                        267
+                                    ],
+                                    "score": 0.972,
+                                    "content": "E),whichintroducedmajorchangestothewaybusinessesaretaxedinthecity.OnJanuary1,2014,theCity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                260,
+                                867,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        260,
+                                        867,
+                                        286
+                                    ],
+                                    "score": 0.969,
+                                    "content": "startedcollectingaGrossReceiptstaxandphasingouttheexistingPayrolltax.Inthisfiscalyear,totalbusiness",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                853,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        853,
+                                        307
+                                    ],
+                                    "score": 0.942,
+                                    "content": "taxrevenueiscomprisedofbusinesspayrolltax,registrationtaxgrossreceiptstax,andadministrativeoffice",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                303,
+                                859,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        303,
+                                        859,
+                                        326
+                                    ],
+                                    "score": 0.991,
+                                    "content": "tax.BusinesspayrolltaxesassessthepayrollexpenseofpersonsandassociationsengaginginbusinessinSan",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                320,
+                                857,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        320,
+                                        857,
+                                        345
+                                    ],
+                                    "score": 0.988,
+                                    "content": "Franciscoandcontinuetorepresentthevastmajorityofbusinesstaxescollcted.Thistaximposesafeeonall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                846,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        846,
+                                        369
+                                    ],
+                                    "score": 0.996,
+                                    "content": "businessesthatemployorcontractwithoneormoreemployeestoperformworkorrenderservices7Fiscal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                361,
+                                827,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        361,
+                                        827,
+                                        385
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Year2015beginsonJuly1,2015andendsonJune30,2016.8CityandCountyofSanFrancisco,Controller's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                871,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        871,
+                                        404
+                                    ],
+                                    "score": 0.971,
+                                    "content": "Office,FY2015-16Nine-MonthBudgetStatusReport,May19,2016.withinthecity.InFY2015-16,theControler's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                399,
+                                853,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        399,
+                                        279,
+                                        426
+                                    ],
+                                    "score": 0.952,
+                                    "content": "Officeestimatedthat itwill collect",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        279,
+                                        403,
+                                        331,
+                                        422
+                                    ],
+                                    "score": 0.87,
+                                    "content": "\\$ 464.2",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        399,
+                                        555,
+                                        426
+                                    ],
+                                    "score": 0.938,
+                                    "content": "million inpayrolltaxes,down",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        556,
+                                        402,
+                                        594,
+                                        421
+                                    ],
+                                    "score": 0.83,
+                                    "content": "8 . 3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        595,
+                                        399,
+                                        636,
+                                        426
+                                    ],
+                                    "score": 0.997,
+                                    "content": "from",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        637,
+                                        402,
+                                        689,
+                                        422
+                                    ],
+                                    "score": 0.85,
+                                    "content": "\\$ 506.4",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        689,
+                                        399,
+                                        853,
+                                        426
+                                    ],
+                                    "score": 0.978,
+                                    "content": "millioninFY2014-15.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                422,
+                                866,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        422,
+                                        866,
+                                        446
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Businessregistrationtaxisanannualfeeassessedforgeneralrevenuepurposesonallbusinessinthecity.The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                835,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        835,
+                                        465
+                                    ],
+                                    "score": 0.994,
+                                    "content": "formulaforcalculatingthisfeewasamendedaspartofPropE,resultinginsignificantlyhighercol-lections",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                855,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        569,
+                                        487
+                                    ],
+                                    "score": 0.984,
+                                    "content": "startinginFY13-14.TheController'sOfficeestimatesthatapproximately",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        570,
+                                        462,
+                                        613,
+                                        482
+                                    ],
+                                    "score": 0.8,
+                                    "content": "\\$ 35.7",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        613,
+                                        460,
+                                        855,
+                                        487
+                                    ],
+                                    "score": 0.999,
+                                    "content": "millioninbusinessregistration",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                481,
+                                856,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        481,
+                                        307,
+                                        505
+                                    ],
+                                    "score": 0.974,
+                                    "content": "feeswillbecollected inFY2015-16,up",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        308,
+                                        482,
+                                        346,
+                                        502
+                                    ],
+                                    "score": 0.77,
+                                    "content": "5 . 3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        347,
+                                        481,
+                                        388,
+                                        505
+                                    ],
+                                    "score": 0.998,
+                                    "content": "from",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        389,
+                                        482,
+                                        432,
+                                        502
+                                    ],
+                                    "score": 0.84,
+                                    "content": "\\$ 33.9",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        432,
+                                        481,
+                                        856,
+                                        505
+                                    ],
+                                    "score": 0.995,
+                                    "content": "millioninFY2014-15.GrossreceiptsandAdministrative",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                500,
+                                836,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        500,
+                                        836,
+                                        527
+                                    ],
+                                    "score": 0.983,
+                                    "content": "oficetaxesarebasedonabusinesssgrossreceiptsfrombusinessdoneinSanFrancisco,ratherthanona",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                522,
+                                844,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        522,
+                                        844,
+                                        545
+                                    ],
+                                    "score": 0.986,
+                                    "content": "business'spayrollexpense.AstheGrossReceiptsTaxisphasedintoreplacethePayrollTax,collections have",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                540,
+                                866,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        540,
+                                        293,
+                                        566
+                                    ],
+                                    "score": 0.977,
+                                    "content": "grownsignificantly,toanestimated",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        294,
+                                        542,
+                                        345,
+                                        561
+                                    ],
+                                    "score": 0.83,
+                                    "content": "\\$ 123,1",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        345,
+                                        540,
+                                        521,
+                                        566
+                                    ],
+                                    "score": 0.954,
+                                    "content": "millioninFY2015-16,a",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        522,
+                                        542,
+                                        564,
+                                        561
+                                    ],
+                                    "score": 0.77,
+                                    "content": "1 4 1 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        565,
+                                        540,
+                                        866,
+                                        566
+                                    ],
+                                    "score": 0.985,
+                                    "content": "increaseoverFY14-15.TheController's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                559,
+                                872,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        559,
+                                        302,
+                                        587
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Officeesti-matesthat approximately",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        303,
+                                        563,
+                                        346,
+                                        582
+                                    ],
+                                    "score": 0.86,
+                                    "content": "\\$ 21.7",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        346,
+                                        559,
+                                        872,
+                                        587
+                                    ],
+                                    "score": 0.993,
+                                    "content": "inadministrativeofficetaxeswillbecollectedinFY2015-16.Property",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                582,
+                                835,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        582,
+                                        835,
+                                        605
+                                    ],
+                                    "score": 0.997,
+                                    "content": "TaxesRealpropertytaxes(Table9)arethelargestsinglesourceoftaxrevenuefortheCity.TheController's",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                600,
+                                873,
+                                626
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        600,
+                                        687,
+                                        626
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Officeexpectspropertytaxesto increaseinfiscalyear2015-16.9Together,anestimated",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        687,
+                                        603,
+                                        731,
+                                        622
+                                    ],
+                                    "score": 0.87,
+                                    "content": "\\$ 1.63",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        731,
+                                        600,
+                                        873,
+                                        626
+                                    ],
+                                    "score": 0.995,
+                                    "content": "billioninproperty",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                622,
+                                867,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        622,
+                                        374,
+                                        645
+                                    ],
+                                    "score": 0.987,
+                                    "content": "relatedtaxeswillbecollectedinFY2015-16,up",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        374,
+                                        623,
+                                        412,
+                                        641
+                                    ],
+                                    "score": 0.73,
+                                    "content": "2 . 7 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        412,
+                                        622,
+                                        454,
+                                        645
+                                    ],
+                                    "score": 0.998,
+                                    "content": "from",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        454,
+                                        623,
+                                        498,
+                                        642
+                                    ],
+                                    "score": 0.87,
+                                    "content": "\\$ 1.59",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        498,
+                                        622,
+                                        867,
+                                        645
+                                    ],
+                                    "score": 0.998,
+                                    "content": "billionlastyear.Realpropertytaxesallocatedto",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                640,
+                                838,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        640,
+                                        378,
+                                        667
+                                    ],
+                                    "score": 0.997,
+                                    "content": "thegeneralfundinFY2015-16areestimatedat",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        379,
+                                        643,
+                                        422,
+                                        662
+                                    ],
+                                    "score": 0.89,
+                                    "content": "\\$ 1.37",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        422,
+                                        640,
+                                        500,
+                                        667
+                                    ],
+                                    "score": 0.952,
+                                    "content": "billion, up",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        642,
+                                        526,
+                                        662
+                                    ],
+                                    "score": 0.8,
+                                    "content": "8 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        527,
+                                        640,
+                                        568,
+                                        667
+                                    ],
+                                    "score": 0.999,
+                                    "content": "from",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        568,
+                                        642,
+                                        612,
+                                        662
+                                    ],
+                                    "score": 0.88,
+                                    "content": "\\$ 1.27",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        612,
+                                        640,
+                                        838,
+                                        667
+                                    ],
+                                    "score": 0.976,
+                                    "content": "billion inFY2014-15(Table9).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                662,
+                                862,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        662,
+                                        424,
+                                        685
+                                    ],
+                                    "score": 0.998,
+                                    "content": "Propertytransfertaxesareestimatedtodecreaseby",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        424,
+                                        662,
+                                        470,
+                                        682
+                                    ],
+                                    "score": 0.83,
+                                    "content": "1 8 . 6 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        471,
+                                        662,
+                                        862,
+                                        685
+                                    ],
+                                    "score": 0.998,
+                                    "content": "duringthereportingperiod.Projectedcollec-tions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                681,
+                                857,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        681,
+                                        329,
+                                        705
+                                    ],
+                                    "score": 0.998,
+                                    "content": "forFY2015-16areestimatedtobeabout",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        330,
+                                        682,
+                                        369,
+                                        702
+                                    ],
+                                    "score": 0.83,
+                                    "content": "\\$ 256",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        370,
+                                        681,
+                                        517,
+                                        705
+                                    ],
+                                    "score": 0.975,
+                                    "content": "million,downfrom",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        518,
+                                        682,
+                                        570,
+                                        702
+                                    ],
+                                    "score": 0.82,
+                                    "content": "\\$ 314.6",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        570,
+                                        681,
+                                        857,
+                                        705
+                                    ],
+                                    "score": 0.992,
+                                    "content": "millioninFY2014-15.(Table9).Unlike",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                700,
+                                838,
+                                725
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        700,
+                                        838,
+                                        725
+                                    ],
+                                    "score": 0.963,
+                                    "content": "realpropertytaxes,whicharecol-lectedannuallandbasedonpropertyvaluationassess-ments,property",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                721,
+                                855,
+                                744
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        721,
+                                        855,
+                                        744
+                                    ],
+                                    "score": 0.981,
+                                    "content": "transfertaxis highlyvolatilebecauseit iscollctedonlyatthetimeofsaleandisbasedonsalesprice.9Ibid.7",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                740,
+                                457,
+                                764
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        740,
+                                        457,
+                                        764
+                                    ],
+                                    "score": 0.995,
+                                    "content": "DOWNTOWNPLAN:ANNUALMONITORINGREPORT2015",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        }
+                    ],
+                    "index": 18,
+                    "bbox_fs": [
+                        14,
+                        20,
+                        880,
+                        764
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

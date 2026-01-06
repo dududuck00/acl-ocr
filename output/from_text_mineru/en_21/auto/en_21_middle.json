@@ -1,0 +1,1500 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        16,
+                        880,
+                        680
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                19,
+                                870,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        19,
+                                        870,
+                                        46
+                                    ],
+                                    "score": 0.987,
+                                    "content": "3.8EfectsonbirdsAfirstindicationoftheeffectofcocklefisheriesonbirdswasobtainedthroughcomparison",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                871,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        871,
+                                        65
+                                    ],
+                                    "score": 0.987,
+                                    "content": "ofthedevelopmentoftheir usage(measuredasthenumberof birddaysperyear)ofareasopenandclosed for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                60,
+                                876,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        60,
+                                        876,
+                                        84
+                                    ],
+                                    "score": 0.972,
+                                    "content": "shelfishfishery(Leopoldetal.,2oo3b).ThesetrendsmustbestudiedwithinthetrendsobservedfortheWadden",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                83,
+                                878,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        83,
+                                        878,
+                                        103
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Seaasawhole.FormanybirdspeciesthatfeedontheintertidalflatsoftheWaddenSea,achangeintrendinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                100,
+                                856,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        100,
+                                        856,
+                                        127
+                                    ],
+                                    "score": 0.967,
+                                    "content": "annualusageoftheflatsoccurssomewhereattheendofthe1980s,beginingofthe1990s(Figure47,Figure",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                122,
+                                864,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        122,
+                                        864,
+                                        145
+                                    ],
+                                    "score": 0.958,
+                                    "content": "48,Figure49,igure50).iscorrespondstothedisappearanceoftheintertidalmusselbeds.Inthegraphswe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                860,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        860,
+                                        164
+                                    ],
+                                    "score": 0.974,
+                                    "content": "fitedatrendlineusingsplines(Hastie&Tibshirani，1990)fortheentireperiod,andfortheperiodsbeforeand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                871,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        871,
+                                        185
+                                    ],
+                                    "score": 0.987,
+                                    "content": "afterthedisappearanceof theintertidalmusselbeds.Wesubsequentlytestedwhetherthechangeintrendwas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                838,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        838,
+                                        205
+                                    ],
+                                    "score": 0.993,
+                                    "content": "statisticallysignificant.Changesfromanegativetrendtowardsapositivetrendoutnumberchangesfroma",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                861,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        861,
+                                        225
+                                    ],
+                                    "score": 0.994,
+                                    "content": "positivetrendtowardsanegativetrend.Forspeciesfeeding eitherprimarilyonwormsorshelfish,thegreater",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                220,
+                                874,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        220,
+                                        874,
+                                        245
+                                    ],
+                                    "score": 0.985,
+                                    "content": "thepercentageshelfishinthediet,thelargerthedeclineduringthelasttenyears(vanRoomenetal.,2004).The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                241,
+                                865,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        241,
+                                        865,
+                                        266
+                                    ],
+                                    "score": 0.984,
+                                    "content": "onlyspeciesnotfitingthetrendistheavocet,whichfeedsonworms,yetshowedadeclineinrecentyears.For",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                839,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        839,
+                                        285
+                                    ],
+                                    "score": 0.989,
+                                    "content": "speciesthatfeedprimarilyonpreyotherthanbivalvesorworms(Figure50),andforspecieswhosedietisa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                854,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        854,
+                                        305
+                                    ],
+                                    "score": 0.986,
+                                    "content": "mixtureofshelfish,wormsandotherprey(Figure49),nosimplepatternsemerge.Fourspeciesof birdswere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                299,
+                                875,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        299,
+                                        875,
+                                        325
+                                    ],
+                                    "score": 0.971,
+                                    "content": "identifiedasshelfisheaters:commoneider,oystercatcher,herringgullandknot.Allthesespecieshavedeclined",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                321,
+                                867,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        321,
+                                        867,
+                                        347
+                                    ],
+                                    "score": 0.994,
+                                    "content": "inrecentyears,althoughtheonsetofthedeclinevariesbetweenthespecies(Figure47).Ofthese,thecommon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                340,
+                                867,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        340,
+                                        867,
+                                        366
+                                    ],
+                                    "score": 0.983,
+                                    "content": "eiderandtheoystercatcherfeedonlargeshelfish,whereasknotandheringgullfeedonsmallshelfish.Since",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                874,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        874,
+                                        387
+                                    ],
+                                    "score": 0.983,
+                                    "content": "commoneidersdependprimarilyonthesubtidalareasfortheirfoodsupply,wedidnotinvestigatetheeffectof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                380,
+                                832,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        380,
+                                        832,
+                                        405
+                                    ],
+                                    "score": 0.995,
+                                    "content": "closingintertidalareas.Incontrasttowaders,severalcountsofeiderscoveringtheentireWaddenSeaare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                399,
+                                869,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        399,
+                                        869,
+                                        426
+                                    ],
+                                    "score": 0.991,
+                                    "content": "availablefortheperiodbefore1975.Wedidnotincludethesecountsin(Figure47)tofacilitatecomparisonwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                819,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        819,
+                                        446
+                                    ],
+                                    "score": 0.992,
+                                    "content": "theotherbirdspecies.However,includingthesecountsmakesclearthatthesuggestionthateidershave",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                830,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        830,
+                                        465
+                                    ],
+                                    "score": 0.99,
+                                    "content": "continualydecreasedfrom1975onwardsisanartefactofthisselectionofthedata.Eidershaveincreased",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                461,
+                                868,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        461,
+                                        868,
+                                        484
+                                    ],
+                                    "score": 0.986,
+                                    "content": "duringthe1960s,fluctuatedinnumbersduringthe1970sand1980s,anddeclinedduringthe1990s.Therecent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                481,
+                                873,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        481,
+                                        873,
+                                        507
+                                    ],
+                                    "score": 0.984,
+                                    "content": "declineintheWaddenSeawasaccompaniedbyanincreaseinthenumberof eidersusing theNorthSeacoastal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                501,
+                                852,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        501,
+                                        852,
+                                        524
+                                    ],
+                                    "score": 0.991,
+                                    "content": "zone(seeFigure72inchapter5),butthisincreasedidnotfullycompensateforthedeclineintheWaddenSea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                522,
+                                820,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        522,
+                                        820,
+                                        545
+                                    ],
+                                    "score": 0.979,
+                                    "content": "(Ens&Kats,2004).Theinterpretationofthesechangesisdiscussedinchapter5,wherethepolicyoffood",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                855,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        855,
+                                        564
+                                    ],
+                                    "score": 0.993,
+                                    "content": "reservationforcommoneidersisevaluated.Thenumbersofoystercatchersdeclinedafterabout1990(Figure",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                825,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        825,
+                                        584
+                                    ],
+                                    "score": 0.984,
+                                    "content": "47).Thedeclineinthenumberofoystercatchersstartedinthefirsthalfof the1990s.Sincethestrong and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                579,
+                                828,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        579,
+                                        828,
+                                        606
+                                    ],
+                                    "score": 0.98,
+                                    "content": "suddendeclineduetotheseverewinterof1996/1997,nofurtherdeclinehasoccurred,norhavenumbers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                879,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        879,
+                                        623
+                                    ],
+                                    "score": 0.981,
+                                    "content": "recovered.Thelowerednumbersarelargelyduetothedisappearanceoftheintertidalmusselbedsin1990(Smit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                619,
+                                820,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        619,
+                                        820,
+                                        642
+                                    ],
+                                    "score": 0.946,
+                                    "content": "etal.1998;Rappoldtetal.,2Oo3a),seealsochapter5.Thefactthatwedidnotseeasuddendeclineinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                638,
+                                842,
+                                663
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        638,
+                                        842,
+                                        663
+                                    ],
+                                    "score": 0.991,
+                                    "content": "numberofoystercatchersfolowingtherathersuddendisappearanceoftheintertidalAlterra-rapport1011;",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                660,
+                                424,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        660,
+                                        424,
+                                        684
+                                    ],
+                                    "score": 0.989,
+                                    "content": "RIVO-rapportC056/04;RIKZ-rapportRKZ/2004.03175",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                694
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        20,
+                        16,
+                        880,
+                        680
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                19,
+                                870,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        19,
+                                        870,
+                                        46
+                                    ],
+                                    "score": 0.987,
+                                    "content": "3.8EfectsonbirdsAfirstindicationoftheeffectofcocklefisheriesonbirdswasobtainedthroughcomparison",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                42,
+                                871,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        42,
+                                        871,
+                                        65
+                                    ],
+                                    "score": 0.987,
+                                    "content": "ofthedevelopmentoftheir usage(measuredasthenumberof birddaysperyear)ofareasopenandclosed for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                60,
+                                876,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        60,
+                                        876,
+                                        84
+                                    ],
+                                    "score": 0.972,
+                                    "content": "shelfishfishery(Leopoldetal.,2oo3b).ThesetrendsmustbestudiedwithinthetrendsobservedfortheWadden",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                83,
+                                878,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        83,
+                                        878,
+                                        103
+                                    ],
+                                    "score": 0.987,
+                                    "content": "Seaasawhole.FormanybirdspeciesthatfeedontheintertidalflatsoftheWaddenSea,achangeintrendinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                100,
+                                856,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        100,
+                                        856,
+                                        127
+                                    ],
+                                    "score": 0.967,
+                                    "content": "annualusageoftheflatsoccurssomewhereattheendofthe1980s,beginingofthe1990s(Figure47,Figure",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                122,
+                                864,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        122,
+                                        864,
+                                        145
+                                    ],
+                                    "score": 0.958,
+                                    "content": "48,Figure49,igure50).iscorrespondstothedisappearanceoftheintertidalmusselbeds.Inthegraphswe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                860,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        860,
+                                        164
+                                    ],
+                                    "score": 0.974,
+                                    "content": "fitedatrendlineusingsplines(Hastie&Tibshirani，1990)fortheentireperiod,andfortheperiodsbeforeand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                871,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        871,
+                                        185
+                                    ],
+                                    "score": 0.987,
+                                    "content": "afterthedisappearanceof theintertidalmusselbeds.Wesubsequentlytestedwhetherthechangeintrendwas",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                182,
+                                838,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        182,
+                                        838,
+                                        205
+                                    ],
+                                    "score": 0.993,
+                                    "content": "statisticallysignificant.Changesfromanegativetrendtowardsapositivetrendoutnumberchangesfroma",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                202,
+                                861,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        202,
+                                        861,
+                                        225
+                                    ],
+                                    "score": 0.994,
+                                    "content": "positivetrendtowardsanegativetrend.Forspeciesfeeding eitherprimarilyonwormsorshelfish,thegreater",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                220,
+                                874,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        220,
+                                        874,
+                                        245
+                                    ],
+                                    "score": 0.985,
+                                    "content": "thepercentageshelfishinthediet,thelargerthedeclineduringthelasttenyears(vanRoomenetal.,2004).The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                241,
+                                865,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        241,
+                                        865,
+                                        266
+                                    ],
+                                    "score": 0.984,
+                                    "content": "onlyspeciesnotfitingthetrendistheavocet,whichfeedsonworms,yetshowedadeclineinrecentyears.For",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                261,
+                                839,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        261,
+                                        839,
+                                        285
+                                    ],
+                                    "score": 0.989,
+                                    "content": "speciesthatfeedprimarilyonpreyotherthanbivalvesorworms(Figure50),andforspecieswhosedietisa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                854,
+                                305
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        854,
+                                        305
+                                    ],
+                                    "score": 0.986,
+                                    "content": "mixtureofshelfish,wormsandotherprey(Figure49),nosimplepatternsemerge.Fourspeciesof birdswere",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                299,
+                                875,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        299,
+                                        875,
+                                        325
+                                    ],
+                                    "score": 0.971,
+                                    "content": "identifiedasshelfisheaters:commoneider,oystercatcher,herringgullandknot.Allthesespecieshavedeclined",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                321,
+                                867,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        321,
+                                        867,
+                                        347
+                                    ],
+                                    "score": 0.994,
+                                    "content": "inrecentyears,althoughtheonsetofthedeclinevariesbetweenthespecies(Figure47).Ofthese,thecommon",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                340,
+                                867,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        340,
+                                        867,
+                                        366
+                                    ],
+                                    "score": 0.983,
+                                    "content": "eiderandtheoystercatcherfeedonlargeshelfish,whereasknotandheringgullfeedonsmallshelfish.Since",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                361,
+                                874,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        361,
+                                        874,
+                                        387
+                                    ],
+                                    "score": 0.983,
+                                    "content": "commoneidersdependprimarilyonthesubtidalareasfortheirfoodsupply,wedidnotinvestigatetheeffectof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                380,
+                                832,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        380,
+                                        832,
+                                        405
+                                    ],
+                                    "score": 0.995,
+                                    "content": "closingintertidalareas.Incontrasttowaders,severalcountsofeiderscoveringtheentireWaddenSeaare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                399,
+                                869,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        399,
+                                        869,
+                                        426
+                                    ],
+                                    "score": 0.991,
+                                    "content": "availablefortheperiodbefore1975.Wedidnotincludethesecountsin(Figure47)tofacilitatecomparisonwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                819,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        819,
+                                        446
+                                    ],
+                                    "score": 0.992,
+                                    "content": "theotherbirdspecies.However,includingthesecountsmakesclearthatthesuggestionthateidershave",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                442,
+                                830,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        442,
+                                        830,
+                                        465
+                                    ],
+                                    "score": 0.99,
+                                    "content": "continualydecreasedfrom1975onwardsisanartefactofthisselectionofthedata.Eidershaveincreased",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                461,
+                                868,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        461,
+                                        868,
+                                        484
+                                    ],
+                                    "score": 0.986,
+                                    "content": "duringthe1960s,fluctuatedinnumbersduringthe1970sand1980s,anddeclinedduringthe1990s.Therecent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                481,
+                                873,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        481,
+                                        873,
+                                        507
+                                    ],
+                                    "score": 0.984,
+                                    "content": "declineintheWaddenSeawasaccompaniedbyanincreaseinthenumberof eidersusing theNorthSeacoastal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                501,
+                                852,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        501,
+                                        852,
+                                        524
+                                    ],
+                                    "score": 0.991,
+                                    "content": "zone(seeFigure72inchapter5),butthisincreasedidnotfullycompensateforthedeclineintheWaddenSea",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                522,
+                                820,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        522,
+                                        820,
+                                        545
+                                    ],
+                                    "score": 0.979,
+                                    "content": "(Ens&Kats,2004).Theinterpretationofthesechangesisdiscussedinchapter5,wherethepolicyoffood",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                541,
+                                855,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        541,
+                                        855,
+                                        564
+                                    ],
+                                    "score": 0.993,
+                                    "content": "reservationforcommoneidersisevaluated.Thenumbersofoystercatchersdeclinedafterabout1990(Figure",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                825,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        825,
+                                        584
+                                    ],
+                                    "score": 0.984,
+                                    "content": "47).Thedeclineinthenumberofoystercatchersstartedinthefirsthalfof the1990s.Sincethestrong and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                579,
+                                828,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        579,
+                                        828,
+                                        606
+                                    ],
+                                    "score": 0.98,
+                                    "content": "suddendeclineduetotheseverewinterof1996/1997,nofurtherdeclinehasoccurred,norhavenumbers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                600,
+                                879,
+                                623
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        600,
+                                        879,
+                                        623
+                                    ],
+                                    "score": 0.981,
+                                    "content": "recovered.Thelowerednumbersarelargelyduetothedisappearanceoftheintertidalmusselbedsin1990(Smit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                619,
+                                820,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        619,
+                                        820,
+                                        642
+                                    ],
+                                    "score": 0.946,
+                                    "content": "etal.1998;Rappoldtetal.,2Oo3a),seealsochapter5.Thefactthatwedidnotseeasuddendeclineinthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                638,
+                                842,
+                                663
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        638,
+                                        842,
+                                        663
+                                    ],
+                                    "score": 0.991,
+                                    "content": "numberofoystercatchersfolowingtherathersuddendisappearanceoftheintertidalAlterra-rapport1011;",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                660,
+                                424,
+                                684
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        660,
+                                        424,
+                                        684
+                                    ],
+                                    "score": 0.989,
+                                    "content": "RIVO-rapportC056/04;RIKZ-rapportRKZ/2004.03175",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 16,
+                    "bbox_fs": [
+                        14,
+                        19,
+                        879,
+                        684
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

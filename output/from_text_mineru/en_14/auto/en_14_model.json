@@ -1,0 +1,460 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    57,
+                    29,
+                    2450,
+                    29,
+                    2450,
+                    1689,
+                    57,
+                    1689
+                ],
+                "score": 0.946
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    58.0,
+                    2363.0,
+                    58.0,
+                    2363.0,
+                    127.0,
+                    46.0,
+                    127.0
+                ],
+                "score": 0.941,
+                "text": "13paymentplan,ahealthFSA,oranHRA,butonlyifthecoverageoffereddoesnotconsistsolelyofexcepted"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    114.0,
+                    2368.0,
+                    114.0,
+                    2368.0,
+                    183.0,
+                    43.0,
+                    183.0
+                ],
+                "score": 0.975,
+                "text": "benefits.See26C.F.R.51.36B-2(c)(3)(vi).Ifanemployeeenrolls inanyemployer-sponsoredminimumessential"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    170.0,
+                    2355.0,
+                    170.0,
+                    2355.0,
+                    241.0,
+                    43.0,
+                    241.0
+                ],
+                "score": 0.984,
+                "text": "coverage,theemployeeisineligibleforindividualcoveragesubsidizedbytheCode536Bpremiumtaxcredit."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    226.0,
+                    2272.0,
+                    226.0,
+                    2272.0,
+                    297.0,
+                    46.0,
+                    297.0
+                ],
+                "score": 0.979,
+                "text": "Question12:Section125(f)(3)oftheCode,effectivefortaxableyearsbeginningafterDecember31,2013,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    282.0,
+                    2441.0,
+                    282.0,
+                    2441.0,
+                    351.0,
+                    41.0,
+                    351.0
+                ],
+                "score": 0.976,
+                "text": "providesthattheterm“qualifiedbenefit”doesnotincludeanyQHP(asdefinedinACA51301(a))offeredthrough"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    338.0,
+                    2334.0,
+                    338.0,
+                    2334.0,
+                    409.0,
+                    43.0,
+                    409.0
+                ],
+                "score": 0.994,
+                "text": "anExchange.11ThisprohibitsanemployerfromprovidingaQHPofferedthroughan Exchangeasabenefit"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    389.0,
+                    2409.0,
+                    389.0,
+                    2409.0,
+                    465.0,
+                    41.0,
+                    465.0
+                ],
+                "score": 0.989,
+                "text": "undertheemployer'sCode5125plan.SomestateshavealreadyestablishedExchangesandemployersinthose"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    445.0,
+                    2292.0,
+                    445.0,
+                    2292.0,
+                    519.0,
+                    41.0,
+                    519.0
+                ],
+                "score": 0.994,
+                "text": "statesmayhaveCode5125planprovisionsthatallowemployeestoenrollinhealthcoveragethroughthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    506.0,
+                    2394.0,
+                    506.0,
+                    2394.0,
+                    570.0,
+                    46.0,
+                    570.0
+                ],
+                "score": 0.978,
+                "text": "ExchangeasabenefitunderaCodeS125plan.Iftheemployer'sCode5125planoperatesonaplanyearother"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    559.0,
+                    2391.0,
+                    559.0,
+                    2391.0,
+                    631.0,
+                    43.0,
+                    631.0
+                ],
+                "score": 0.981,
+                "text": "thanacalendaryear,maytheemployercontinuetoprovidetheExchangecoveragethroughaCodeS125plan"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    610.0,
+                    2412.0,
+                    610.0,
+                    2412.0,
+                    687.0,
+                    41.0,
+                    687.0
+                ],
+                "score": 0.95,
+                "text": "afterDecember31,2013?Answer12:ForCode5125plansthatasofSeptember13,2013operateonaplanyear"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    669.0,
+                    2386.0,
+                    669.0,
+                    2386.0,
+                    740.0,
+                    43.0,
+                    740.0
+                ],
+                "score": 0.979,
+                "text": "otherthanacalendaryear,therestrictionunderCode5125(f)(3)willnotapplybeforethefirstplanyearof the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    725.0,
+                    2433.0,
+                    725.0,
+                    2433.0,
+                    796.0,
+                    43.0,
+                    796.0
+                ],
+                "score": 0.975,
+                "text": "Code5125planthatbeginsafterDecember31,2013.Thus,fortheremainderofaplanyearbeginningin2013,a"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    781.0,
+                    2389.0,
+                    781.0,
+                    2389.0,
+                    852.0,
+                    46.0,
+                    852.0
+                ],
+                "score": 0.986,
+                "text": "QHPprovidedthroughanExchangeasabenefitunderaCode5125planwillnotresult inallbenefitsprovided"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    839.0,
+                    2438.0,
+                    839.0,
+                    2438.0,
+                    903.0,
+                    46.0,
+                    903.0
+                ],
+                "score": 0.977,
+                "text": "undertheCode5125planbeingtaxable.However,individualsmaynotclaimaCode536Bpremiumtaxcreditfor"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    890.0,
+                    2350.0,
+                    890.0,
+                    2350.0,
+                    962.0,
+                    43.0,
+                    962.0
+                ],
+                "score": 0.979,
+                "text": "anymonthinwhichtheindividualwascoveredbyaQHPprovidedthroughan Exchangeasabenefitundera"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    944.0,
+                    2347.0,
+                    944.0,
+                    2347.0,
+                    1020.0,
+                    41.0,
+                    1020.0
+                ],
+                "score": 0.983,
+                "text": "CodeS125plan.IV.APPLICABILITYDATEANDRELIANCEPERIODThisTechnicalReleaseappliesforplanyears"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1007.0,
+                    2443.0,
+                    1007.0,
+                    2443.0,
+                    1071.0,
+                    46.0,
+                    1071.0
+                ],
+                "score": 0.982,
+                "text": "beginningonandafterJanuary1,2014,buttheguidanceprovidedinthisTechnicalReleasemaybeappliedforall"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1061.0,
+                    2446.0,
+                    1061.0,
+                    2446.0,
+                    1132.0,
+                    43.0,
+                    1132.0
+                ],
+                "score": 0.974,
+                "text": "priorperiods.IflegislativeactionbyanyState,local,orIndiantribalgovernmententityisnecessarytomodifythe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1117.0,
+                    2409.0,
+                    1117.0,
+                    2409.0,
+                    1188.0,
+                    43.0,
+                    1188.0
+                ],
+                "score": 0.984,
+                "text": "termsofapre-existingHRA,ahealthFSAthatdoesnotqualifyasexceptedbenefits,anemployerpaymentplan,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1170.0,
+                    2420.0,
+                    1170.0,
+                    2420.0,
+                    1244.0,
+                    41.0,
+                    1244.0
+                ],
+                "score": 0.917,
+                "text": "orothersimiararrangement,sponsoredbyanyState,local,orIndiantribalgovernmententityasanemployer,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1226.0,
+                    2428.0,
+                    1226.0,
+                    2428.0,
+                    1298.0,
+                    43.0,
+                    1298.0
+                ],
+                "score": 0.992,
+                "text": "toavoidafailuretocomplywiththemarketreforms(includingactiontoterminatesucharrangement)andsuch"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1282.0,
+                    2355.0,
+                    1282.0,
+                    2355.0,
+                    1354.0,
+                    43.0,
+                    1354.0
+                ],
+                "score": 0.971,
+                "text": "actionmayonlybetakenbyaState,local,orIndiantribalgovernmententitylegislativebody,theapplicability"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    41.0,
+                    1336.0,
+                    2355.0,
+                    1336.0,
+                    2355.0,
+                    1410.0,
+                    41.0,
+                    1410.0
+                ],
+                "score": 0.989,
+                "text": "dateof theportionsofthisTechnical Releaseunderwhichsucharrangementwouldotherwisefailtocomply"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1389.0,
+                    2363.0,
+                    1389.0,
+                    2363.0,
+                    1460.0,
+                    43.0,
+                    1460.0
+                ],
+                "score": 0.979,
+                "text": "withthemarketreformsisextendedtothelaterof(1)January1,2014,or(2)thefirstdayofthefirstplanyear"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1445.0,
+                    2334.0,
+                    1445.0,
+                    2334.0,
+                    1516.0,
+                    43.0,
+                    1516.0
+                ],
+                "score": 0.985,
+                "text": "following thefirstcloseofaregularlegislativesessionof theapplicablelegislativebodyafterSeptember13,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1504.0,
+                    2238.0,
+                    1504.0,
+                    2238.0,
+                    1575.0,
+                    43.0,
+                    1575.0
+                ],
+                "score": 0.985,
+                "text": "2013.11Thisruledoesnotapplywithrespecttoanyemployeeiftheemployee'semployerisaqualified"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    46.0,
+                    1557.0,
+                    2441.0,
+                    1557.0,
+                    2441.0,
+                    1636.0,
+                    46.0,
+                    1636.0
+                ],
+                "score": 0.977,
+                "text": "employer(asdefinedinACA51312(f)(2))offeringtheemployeetheopportunitytoenrollthroughanExchangein"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    43.0,
+                    1616.0,
+                    1427.0,
+                    1616.0,
+                    1427.0,
+                    1687.0,
+                    43.0,
+                    1687.0
+                ],
+                "score": 0.981,
+                "text": "aqualified healthplaninagroupmarket.SeeCode5125(f)(3)(B)."
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 1712
+        }
+    }
+]

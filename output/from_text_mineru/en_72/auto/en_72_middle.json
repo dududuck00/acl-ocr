@@ -1,0 +1,1896 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        81,
+                        881,
+                        905
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                865,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        865,
+                                        105
+                                    ],
+                                    "score": 0.993,
+                                    "content": "3UniversityofMarylandSchoolofMedicine,Baltimore,MDAbstractWiththegrowingnumberofmobilehealth",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                101,
+                                880,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        101,
+                                        880,
+                                        126
+                                    ],
+                                    "score": 0.994,
+                                    "content": "devices,adescriptionofthefactorsthatleadtoadoptionanduseofthesepersonalhealthdevicesisneeded.We",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                120,
+                                840,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        120,
+                                        840,
+                                        145
+                                    ],
+                                    "score": 0.986,
+                                    "content": "observedandrecorded11routinedeepbrain stimulation(DBS)program-mingappointments.Wefound an",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                853,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        853,
+                                        165
+                                    ],
+                                    "score": 0.986,
+                                    "content": "overallackofhealthliteracysurroundingDBSaswellasalackofdigitalliteracyinpatients'abilitytousetheir",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                160,
+                                803,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        160,
+                                        803,
+                                        185
+                                    ],
+                                    "score": 0.986,
+                                    "content": "DBSPatient Programmertomodifytheir DBSsettings.Thesetwofactorsledtopa-tient disuseof their",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                180,
+                                862,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        180,
+                                        862,
+                                        207
+                                    ],
+                                    "score": 0.99,
+                                    "content": "programmingdeviceoutsideoftheclinicalsetting.Thispaper'scontributionistopresentthisrelationshipand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                201,
+                                840,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        201,
+                                        840,
+                                        227
+                                    ],
+                                    "score": 0.984,
+                                    "content": "suggestwayswecanbetterfacilitatepatientsingainingbothhealthanddigitaliteracy.IntroductionAturn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                221,
+                                861,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        221,
+                                        861,
+                                        246
+                                    ],
+                                    "score": 0.998,
+                                    "content": "towardsapatient-centeredcaremodelhaspromptedaninterestinprovidingpatientswithdevicestomonitor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                241,
+                                874,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        241,
+                                        874,
+                                        266
+                                    ],
+                                    "score": 0.935,
+                                    "content": "theirhealthadjusttreatmentsaccordinglyndsarethisdatawiththeircicians.Inessence,putingpowerin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                261,
+                                871,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        261,
+                                        871,
+                                        286
+                                    ],
+                                    "score": 0.991,
+                                    "content": "thepatient'shandtogivethemagencyovertheirowncare.However,thecontextarounddeviceusagecouldbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                828,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        828,
+                                        306
+                                    ],
+                                    "score": 0.979,
+                                    "content": "asignif-icantfactorinevaluatingtheeffcacyofthesedevicesinactuallachievingpatientengagementor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                301,
+                                772,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        301,
+                                        772,
+                                        326
+                                    ],
+                                    "score": 0.994,
+                                    "content": "empowerment.Mostsignificantinthisregardistheimportanceof healthliteracyandnumeracyin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                320,
+                                873,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        320,
+                                        873,
+                                        347
+                                    ],
+                                    "score": 0.985,
+                                    "content": "understandingone'sdiseaseandtherelationshipbetweensymptomsandtreatments[1].Inaddition,asfurther",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                873,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        873,
+                                        366
+                                    ],
+                                    "score": 0.983,
+                                    "content": "technologicallyadvanceddevicesaredeveloped,apatient'sabitytounderstandandusethetechnologyplaysa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                839,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        839,
+                                        386
+                                    ],
+                                    "score": 0.994,
+                                    "content": "greaterroleinpatientengagement[2].Inthefollowingstudywedescribetheparticularcaseofdeepbrain",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                873,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        873,
+                                        406
+                                    ],
+                                    "score": 0.991,
+                                    "content": "stimulation(DBS)inParkinson'sdisease(PD)symptommanagement.Inthisinstance,patientsareprovidedwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                400,
+                                851,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        400,
+                                        851,
+                                        426
+                                    ],
+                                    "score": 0.981,
+                                    "content": "adevicetomodifythebrainstimulationparame-tersto betteraddressymptomsthroughouttheday.Aswe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                816,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        816,
+                                        446
+                                    ],
+                                    "score": 0.991,
+                                    "content": "showinourfindings,lowhealthliteracyanddigitalliter-acyoftenlimitandoccasionallyaltogetherdeter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                440,
+                                864,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        440,
+                                        864,
+                                        468
+                                    ],
+                                    "score": 0.997,
+                                    "content": "patientsfrommodifyingtheirstimulationdeviceparametersoutsideoftheclinicalseting.Thispresentsareal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                461,
+                                862,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        461,
+                                        862,
+                                        486
+                                    ],
+                                    "score": 0.989,
+                                    "content": "challengein(1)presentingpatientswithhealthdevicestomaintaincontrolovertheirownqualityoflifeand(2)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                480,
+                                854,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        480,
+                                        854,
+                                        506
+                                    ],
+                                    "score": 0.992,
+                                    "content": "engagingpatientsin guidingcliniciansinmakingfurthertreatmentchangesthatprovidetherapeuticbenefit.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                501,
+                                857,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        501,
+                                        857,
+                                        525
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Ourfindingsleadustomakedesignrecommendationsforthedevelopmentofvisu-alizationstoexplicatethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                521,
+                                849,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        521,
+                                        849,
+                                        546
+                                    ],
+                                    "score": 0.988,
+                                    "content": "relationshipbetween DBSadjustmentsandsymptomaticoutcomes inordertofacilitatepatientengagement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                540,
+                                847,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        540,
+                                        847,
+                                        566
+                                    ],
+                                    "score": 0.993,
+                                    "content": "throughincreasedhealthliteracyanddigitaliteracy.BackgroundTherehasbeenashiftfromthetraditional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                842,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        842,
+                                        586
+                                    ],
+                                    "score": 0.978,
+                                    "content": "clinicalcaremodel,wherecliniciansaresolelyinchargeofthecareofthepatient,toapatient-centeredcare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                582,
+                                876,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        582,
+                                        876,
+                                        606
+                                    ],
+                                    "score": 0.993,
+                                    "content": "modelthatismorefocusedonpatientsbeingengagedintheirownmedicaldeci-sion-makingandtreatment[3].",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                599,
+                                867,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        599,
+                                        867,
+                                        628
+                                    ],
+                                    "score": 0.997,
+                                    "content": "Patientengagementhasbeenassociatedwithadecreasednumberofannualvisitsforspecialtycareandfewer",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                623,
+                                826,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        623,
+                                        826,
+                                        644
+                                    ],
+                                    "score": 0.995,
+                                    "content": "hospitalizationsanddiagnostictests[4].Priorworkhasshownthathealthliteracyisimportantforpatient",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                640,
+                                836,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        640,
+                                        836,
+                                        665
+                                    ],
+                                    "score": 0.993,
+                                    "content": "engagementaspatientscanthenbettermanagetheir health,makemoreinformeddecisions,andincrease",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                660,
+                                861,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        660,
+                                        861,
+                                        686
+                                    ],
+                                    "score": 0.99,
+                                    "content": "communicationwiththeirdoctors[1].Healthliteracyal-lowschronicallyandprogressivelyillpatientstobetter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                680,
+                                865,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        680,
+                                        865,
+                                        706
+                                    ],
+                                    "score": 0.984,
+                                    "content": "\"obtain,process,andunderstand\"theirhealthconditionsandassiststheminmakingmoreinformeddecisions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                701,
+                                833,
+                                726
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        701,
+                                        833,
+                                        726
+                                    ],
+                                    "score": 0.983,
+                                    "content": "surroundingtheircare[5].Withlowhealthliteracy,patientsoftenlacktheskilstoeffectivelycommunicate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                721,
+                                855,
+                                746
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        721,
+                                        855,
+                                        746
+                                    ],
+                                    "score": 0.977,
+                                    "content": "importantinformation,suchassymptomsorotherhealthconcerns,totheirdoctors,andtheyfrequentlyfeel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                740,
+                                862,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        740,
+                                        862,
+                                        766
+                                    ],
+                                    "score": 0.991,
+                                    "content": "thattheirphysiciansfailtoexplainhealthrelatedinformationinamannerthattheycanunderstand[6].This,in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                762,
+                                861,
+                                784
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        762,
+                                        861,
+                                        784
+                                    ],
+                                    "score": 0.988,
+                                    "content": "turn,canleadtopoorcompliancewhenitcomestotakingmedicationsorfolowingatreatmentplan,andasa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                780,
+                                870,
+                                807
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        780,
+                                        870,
+                                        807
+                                    ],
+                                    "score": 0.941,
+                                    "content": "result,worsehealthoutcomes[6].Likewise,digitalliteracytheabilitytoappropriatelyusedigitaltoolstoaccess",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                801,
+                                826,
+                                828
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        801,
+                                        826,
+                                        828
+                                    ],
+                                    "score": 0.989,
+                                    "content": "andmanagedigitalresources[7],hasalsobeenshowntobeafundamentalfactorinpatientengagement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                820,
+                                874,
+                                846
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        820,
+                                        874,
+                                        846
+                                    ],
+                                    "score": 0.993,
+                                    "content": "primarilywithregardstosearchingforonlinehealthinformation[2].Forinstance,ina2013studyexaminingthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                843,
+                                847,
+                                864
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        843,
+                                        847,
+                                        864
+                                    ],
+                                    "score": 0.948,
+                                    "content": "relationshipbetweenfunctionalhealthliteracy,self-efficacy,socialsupport,andempowermentinindividuals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                859,
+                                853,
+                                888
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        859,
+                                        245,
+                                        888
+                                    ],
+                                    "score": 0.977,
+                                    "content": "livingwithParkinson's,nearly",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        246,
+                                        862,
+                                        280,
+                                        882
+                                    ],
+                                    "score": 0.83,
+                                    "content": "5 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        859,
+                                        853,
+                                        888
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ofpatientsindi-catedthattheInternetwasthemostcommonsource they",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                882,
+                                472,
+                                906
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        882,
+                                        472,
+                                        906
+                                    ],
+                                    "score": 0.968,
+                                    "content": "used tofind health informationrelating to theirdisease[8].",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        }
+                    ],
+                    "index": 20
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                916
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        18,
+                        81,
+                        881,
+                        905
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                865,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        865,
+                                        105
+                                    ],
+                                    "score": 0.993,
+                                    "content": "3UniversityofMarylandSchoolofMedicine,Baltimore,MDAbstractWiththegrowingnumberofmobilehealth",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                101,
+                                880,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        101,
+                                        880,
+                                        126
+                                    ],
+                                    "score": 0.994,
+                                    "content": "devices,adescriptionofthefactorsthatleadtoadoptionanduseofthesepersonalhealthdevicesisneeded.We",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                120,
+                                840,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        120,
+                                        840,
+                                        145
+                                    ],
+                                    "score": 0.986,
+                                    "content": "observedandrecorded11routinedeepbrain stimulation(DBS)program-mingappointments.Wefound an",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                141,
+                                853,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        141,
+                                        853,
+                                        165
+                                    ],
+                                    "score": 0.986,
+                                    "content": "overallackofhealthliteracysurroundingDBSaswellasalackofdigitalliteracyinpatients'abilitytousetheir",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                160,
+                                803,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        160,
+                                        803,
+                                        185
+                                    ],
+                                    "score": 0.986,
+                                    "content": "DBSPatient Programmertomodifytheir DBSsettings.Thesetwofactorsledtopa-tient disuseof their",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                180,
+                                862,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        180,
+                                        862,
+                                        207
+                                    ],
+                                    "score": 0.99,
+                                    "content": "programmingdeviceoutsideoftheclinicalsetting.Thispaper'scontributionistopresentthisrelationshipand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                201,
+                                840,
+                                227
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        201,
+                                        840,
+                                        227
+                                    ],
+                                    "score": 0.984,
+                                    "content": "suggestwayswecanbetterfacilitatepatientsingainingbothhealthanddigitaliteracy.IntroductionAturn",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                221,
+                                861,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        221,
+                                        861,
+                                        246
+                                    ],
+                                    "score": 0.998,
+                                    "content": "towardsapatient-centeredcaremodelhaspromptedaninterestinprovidingpatientswithdevicestomonitor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                241,
+                                874,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        241,
+                                        874,
+                                        266
+                                    ],
+                                    "score": 0.935,
+                                    "content": "theirhealthadjusttreatmentsaccordinglyndsarethisdatawiththeircicians.Inessence,putingpowerin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                261,
+                                871,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        261,
+                                        871,
+                                        286
+                                    ],
+                                    "score": 0.991,
+                                    "content": "thepatient'shandtogivethemagencyovertheirowncare.However,thecontextarounddeviceusagecouldbe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                282,
+                                828,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        282,
+                                        828,
+                                        306
+                                    ],
+                                    "score": 0.979,
+                                    "content": "asignif-icantfactorinevaluatingtheeffcacyofthesedevicesinactuallachievingpatientengagementor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                301,
+                                772,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        301,
+                                        772,
+                                        326
+                                    ],
+                                    "score": 0.994,
+                                    "content": "empowerment.Mostsignificantinthisregardistheimportanceof healthliteracyandnumeracyin",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                320,
+                                873,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        320,
+                                        873,
+                                        347
+                                    ],
+                                    "score": 0.985,
+                                    "content": "understandingone'sdiseaseandtherelationshipbetweensymptomsandtreatments[1].Inaddition,asfurther",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                342,
+                                873,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        342,
+                                        873,
+                                        366
+                                    ],
+                                    "score": 0.983,
+                                    "content": "technologicallyadvanceddevicesaredeveloped,apatient'sabitytounderstandandusethetechnologyplaysa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                360,
+                                839,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        360,
+                                        839,
+                                        386
+                                    ],
+                                    "score": 0.994,
+                                    "content": "greaterroleinpatientengagement[2].Inthefollowingstudywedescribetheparticularcaseofdeepbrain",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                873,
+                                406
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        873,
+                                        406
+                                    ],
+                                    "score": 0.991,
+                                    "content": "stimulation(DBS)inParkinson'sdisease(PD)symptommanagement.Inthisinstance,patientsareprovidedwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                400,
+                                851,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        400,
+                                        851,
+                                        426
+                                    ],
+                                    "score": 0.981,
+                                    "content": "adevicetomodifythebrainstimulationparame-tersto betteraddressymptomsthroughouttheday.Aswe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                421,
+                                816,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        421,
+                                        816,
+                                        446
+                                    ],
+                                    "score": 0.991,
+                                    "content": "showinourfindings,lowhealthliteracyanddigitalliter-acyoftenlimitandoccasionallyaltogetherdeter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                440,
+                                864,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        440,
+                                        864,
+                                        468
+                                    ],
+                                    "score": 0.997,
+                                    "content": "patientsfrommodifyingtheirstimulationdeviceparametersoutsideoftheclinicalseting.Thispresentsareal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                461,
+                                862,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        461,
+                                        862,
+                                        486
+                                    ],
+                                    "score": 0.989,
+                                    "content": "challengein(1)presentingpatientswithhealthdevicestomaintaincontrolovertheirownqualityoflifeand(2)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                480,
+                                854,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        480,
+                                        854,
+                                        506
+                                    ],
+                                    "score": 0.992,
+                                    "content": "engagingpatientsin guidingcliniciansinmakingfurthertreatmentchangesthatprovidetherapeuticbenefit.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                501,
+                                857,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        501,
+                                        857,
+                                        525
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Ourfindingsleadustomakedesignrecommendationsforthedevelopmentofvisu-alizationstoexplicatethe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                521,
+                                849,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        521,
+                                        849,
+                                        546
+                                    ],
+                                    "score": 0.988,
+                                    "content": "relationshipbetween DBSadjustmentsandsymptomaticoutcomes inordertofacilitatepatientengagement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                540,
+                                847,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        540,
+                                        847,
+                                        566
+                                    ],
+                                    "score": 0.993,
+                                    "content": "throughincreasedhealthliteracyanddigitaliteracy.BackgroundTherehasbeenashiftfromthetraditional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                561,
+                                842,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        561,
+                                        842,
+                                        586
+                                    ],
+                                    "score": 0.978,
+                                    "content": "clinicalcaremodel,wherecliniciansaresolelyinchargeofthecareofthepatient,toapatient-centeredcare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                582,
+                                876,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        582,
+                                        876,
+                                        606
+                                    ],
+                                    "score": 0.993,
+                                    "content": "modelthatismorefocusedonpatientsbeingengagedintheirownmedicaldeci-sion-makingandtreatment[3].",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                13,
+                                599,
+                                867,
+                                628
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        13,
+                                        599,
+                                        867,
+                                        628
+                                    ],
+                                    "score": 0.997,
+                                    "content": "Patientengagementhasbeenassociatedwithadecreasednumberofannualvisitsforspecialtycareandfewer",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                623,
+                                826,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        623,
+                                        826,
+                                        644
+                                    ],
+                                    "score": 0.995,
+                                    "content": "hospitalizationsanddiagnostictests[4].Priorworkhasshownthathealthliteracyisimportantforpatient",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                640,
+                                836,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        640,
+                                        836,
+                                        665
+                                    ],
+                                    "score": 0.993,
+                                    "content": "engagementaspatientscanthenbettermanagetheir health,makemoreinformeddecisions,andincrease",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                660,
+                                861,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        660,
+                                        861,
+                                        686
+                                    ],
+                                    "score": 0.99,
+                                    "content": "communicationwiththeirdoctors[1].Healthliteracyal-lowschronicallyandprogressivelyillpatientstobetter",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                680,
+                                865,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        680,
+                                        865,
+                                        706
+                                    ],
+                                    "score": 0.984,
+                                    "content": "\"obtain,process,andunderstand\"theirhealthconditionsandassiststheminmakingmoreinformeddecisions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                701,
+                                833,
+                                726
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        701,
+                                        833,
+                                        726
+                                    ],
+                                    "score": 0.983,
+                                    "content": "surroundingtheircare[5].Withlowhealthliteracy,patientsoftenlacktheskilstoeffectivelycommunicate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                721,
+                                855,
+                                746
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        721,
+                                        855,
+                                        746
+                                    ],
+                                    "score": 0.977,
+                                    "content": "importantinformation,suchassymptomsorotherhealthconcerns,totheirdoctors,andtheyfrequentlyfeel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                740,
+                                862,
+                                766
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        740,
+                                        862,
+                                        766
+                                    ],
+                                    "score": 0.991,
+                                    "content": "thattheirphysiciansfailtoexplainhealthrelatedinformationinamannerthattheycanunderstand[6].This,in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                762,
+                                861,
+                                784
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        762,
+                                        861,
+                                        784
+                                    ],
+                                    "score": 0.988,
+                                    "content": "turn,canleadtopoorcompliancewhenitcomestotakingmedicationsorfolowingatreatmentplan,andasa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                780,
+                                870,
+                                807
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        780,
+                                        870,
+                                        807
+                                    ],
+                                    "score": 0.941,
+                                    "content": "result,worsehealthoutcomes[6].Likewise,digitalliteracytheabilitytoappropriatelyusedigitaltoolstoaccess",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                801,
+                                826,
+                                828
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        801,
+                                        826,
+                                        828
+                                    ],
+                                    "score": 0.989,
+                                    "content": "andmanagedigitalresources[7],hasalsobeenshowntobeafundamentalfactorinpatientengagement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                820,
+                                874,
+                                846
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        820,
+                                        874,
+                                        846
+                                    ],
+                                    "score": 0.993,
+                                    "content": "primarilywithregardstosearchingforonlinehealthinformation[2].Forinstance,ina2013studyexaminingthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                843,
+                                847,
+                                864
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        843,
+                                        847,
+                                        864
+                                    ],
+                                    "score": 0.948,
+                                    "content": "relationshipbetweenfunctionalhealthliteracy,self-efficacy,socialsupport,andempowermentinindividuals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                859,
+                                853,
+                                888
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        859,
+                                        245,
+                                        888
+                                    ],
+                                    "score": 0.977,
+                                    "content": "livingwithParkinson's,nearly",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        246,
+                                        862,
+                                        280,
+                                        882
+                                    ],
+                                    "score": 0.83,
+                                    "content": "5 0 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        280,
+                                        859,
+                                        853,
+                                        888
+                                    ],
+                                    "score": 0.991,
+                                    "content": "ofpatientsindi-catedthattheInternetwasthemostcommonsource they",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                882,
+                                472,
+                                906
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        882,
+                                        472,
+                                        906
+                                    ],
+                                    "score": 0.968,
+                                    "content": "used tofind health informationrelating to theirdisease[8].",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        }
+                    ],
+                    "index": 20,
+                    "bbox_fs": [
+                        13,
+                        81,
+                        880,
+                        906
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

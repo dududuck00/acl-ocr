@@ -1,0 +1,1742 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        6,
+                        878,
+                        705
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                19,
+                                859,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        19,
+                                        859,
+                                        47
+                                    ],
+                                    "score": 0.98,
+                                    "content": "InNewHampshire,theMedicaidpopulationisenrolledinafe-for-serviceplanwithoutassignedprimarycare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                40,
+                                858,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        40,
+                                        858,
+                                        65
+                                    ],
+                                    "score": 0.985,
+                                    "content": "physicians(PCPs)authorizing referrals tofurthercare.ChildreninSCHIPareenrolledinaHealthMaintenance",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                60,
+                                874,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        60,
+                                        874,
+                                        84
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Organization(HMO)product,currentlyman-agedbyAnthem,thatincludestraditionalHMOelementslikePCPs.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                835,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        835,
+                                        106
+                                    ],
+                                    "score": 0.988,
+                                    "content": "Thepopulationrepre-sentedintheCHIScommercialdataisamixtureof PreferredProviderOrganizations",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                19,
+                                100,
+                                875,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        102,
+                                        61,
+                                        122
+                                    ],
+                                    "score": 0.78,
+                                    "content": "( 2 6 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        100,
+                                        111,
+                                        125
+                                    ],
+                                    "score": 0.974,
+                                    "content": "HMO",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        112,
+                                        102,
+                                        154,
+                                        122
+                                    ],
+                                    "score": 0.61,
+                                    "content": "( 5 2 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        154,
+                                        100,
+                                        285,
+                                        125
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Point-of-Service",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        285,
+                                        102,
+                                        327,
+                                        122
+                                    ],
+                                    "score": 0.73,
+                                    "content": "( 1 2 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        327,
+                                        100,
+                                        448,
+                                        125
+                                    ],
+                                    "score": 0.941,
+                                    "content": ",and Indemnity",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        448,
+                                        102,
+                                        489,
+                                        122
+                                    ],
+                                    "score": 0.75,
+                                    "content": "( 1 0 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        489,
+                                        100,
+                                        875,
+                                        125
+                                    ],
+                                    "score": 0.979,
+                                    "content": ".InterpretationofResultsand LimitationsThisisa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                120,
+                                852,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        120,
+                                        852,
+                                        146
+                                    ],
+                                    "score": 0.905,
+                                    "content": "studyofchidrencoveredbythreedifferenttypesofhealthplans(Medicaid,CHPandNHCHIScommercial)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                139,
+                                857,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        139,
+                                        857,
+                                        167
+                                    ],
+                                    "score": 0.993,
+                                    "content": "conductedinNewHampshire.Thelargenumberofcoveredmembersstudiedlendscredibilitytothefindings.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                875,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        875,
+                                        185
+                                    ],
+                                    "score": 0.993,
+                                    "content": "However,anumberofcautionsaboutthedatausedandresultsofthisstudyareprovided.Thisstudywasbased",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                180,
+                                876,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        180,
+                                        876,
+                                        207
+                                    ],
+                                    "score": 0.981,
+                                    "content": "onadministrativeeligibilityandclaimsdata.Differencesinproviderorinsurerclaimscoding,dataprocessing,or",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                201,
+                                831,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        201,
+                                        831,
+                                        223
+                                    ],
+                                    "score": 0.987,
+                                    "content": "reimbursementarrangementsmaycontributetothevariancesshowninthis report.Differencesin benefit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                221,
+                                862,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        221,
+                                        862,
+                                        246
+                                    ],
+                                    "score": 0.985,
+                                    "content": "packagesandcodingbyNHCHIScommercialinsurerproducts(PreferredProviderOrganizations(PPO),HMO,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                242,
+                                856,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        242,
+                                        856,
+                                        265
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Point-of-Service,IndemnityorThirdPartyAdministrator(TPA)mayalsocontributetovariancesshowninthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                262,
+                                856,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        262,
+                                        856,
+                                        285
+                                    ],
+                                    "score": 0.993,
+                                    "content": "report.Becauseofpotentialfornegativebias(reducedrates)intheNHCHIScommercialinsuranceestimates,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                855,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        366,
+                                        307
+                                    ],
+                                    "score": 0.968,
+                                    "content": "childrenenrolledin Indemnityand TPAplans(",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        366,
+                                        282,
+                                        400,
+                                        301
+                                    ],
+                                    "score": 0.8,
+                                    "content": "1 3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        401,
+                                        281,
+                                        855,
+                                        307
+                                    ],
+                                    "score": 0.996,
+                                    "content": "ofchildrenintheNHCHIScommercialdata)wereexcluded",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                300,
+                                861,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        300,
+                                        861,
+                                        325
+                                    ],
+                                    "score": 0.992,
+                                    "content": "fromtheclaims-based HEDISmeasuresreported.ChildrenenrolledinNHCHIScommercialIndemnityandTPA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                853,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        853,
+                                        346
+                                    ],
+                                    "score": 0.98,
+                                    "content": "planswereincludedinallnon-HEDIS sectionsof thereport.TheNew HampshireCHIScommercialpopulation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                850,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        850,
+                                        366
+                                    ],
+                                    "score": 0.988,
+                                    "content": "containsinformationonthoseresidentswhoseclaimsareincludedintheNHCHISdatabase,whichgenerally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                363,
+                                861,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        363,
+                                        861,
+                                        384
+                                    ],
+                                    "score": 0.974,
+                                    "content": "onlyincludesmem-berswhosepolicies werepurchasedinNew Hampshire.Areas closetothebordersof New",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                868,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        868,
+                                        405
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Hampshiremaybelesswellrepresentedthanareasintheinterior.Additionaly,compa-niesthatself-fundtheir",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                852,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        852,
+                                        426
+                                    ],
+                                    "score": 0.991,
+                                    "content": "healthcareanddonot useaTPAtopayclaimsarenotcapturedinthedataset.Becauseofthesetwofactors,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                801,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        801,
+                                        445
+                                    ],
+                                    "score": 0.996,
+                                    "content": "thisreportunderestimatesthenumberofchil-drencoveredbyNHCHIScommercialinsuranceinNew",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                440,
+                                869,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        440,
+                                        869,
+                                        466
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Hampshire.*WhileitmaybeofinteresttoevaluatechildrenwhomigratebetweentheMedicaid,SCHIP,andNH",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                821,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        821,
+                                        486
+                                    ],
+                                    "score": 0.991,
+                                    "content": "CHIScommercialinsuranceplantypes,therewerelimitationsintheabilitytotrackchildrenwhochanged",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                481,
+                                819,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        481,
+                                        819,
+                                        506
+                                    ],
+                                    "score": 0.977,
+                                    "content": "insuranceplansorinsuranceplantypesduring theyear.ANHCHISstudywascompletedin2oo9to track",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                501,
+                                792,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        501,
+                                        792,
+                                        526
+                                    ],
+                                    "score": 0.992,
+                                    "content": "migrationbetweenplantypesduringathreeyearperiod,especiallywithregardtodisenrollmentand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                522,
+                                839,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        522,
+                                        839,
+                                        545
+                                    ],
+                                    "score": 0.983,
+                                    "content": "reenrollmentinMedicaidandpro-vides insight intopatternsofenrollmentanddisenrollment.31Thisstudy",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                861,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        861,
+                                        563
+                                    ],
+                                    "score": 0.996,
+                                    "content": "comparedinsuredpopulationsthatwereverydifferentfromeachother.Previ-ousNHCHISannualreportson",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                562,
+                                875,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        562,
+                                        875,
+                                        585
+                                    ],
+                                    "score": 0.993,
+                                    "content": "childrenwerelimitedintheevaluationofhealthstatus.Thisreportprovidesamoredetailedevaluationof health",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                581,
+                                842,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        581,
+                                        842,
+                                        607
+                                    ],
+                                    "score": 0.998,
+                                    "content": "statusbyusingclinicalriskgrouping(CRG).Utilizationandpaymentratesinthisreportarestandardizedfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                600,
+                                853,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        600,
+                                        853,
+                                        625
+                                    ],
+                                    "score": 0.989,
+                                    "content": "popula-tiondifferencesinhealthstatusandagewereaddedforthisSFY2008versionoftheannualreporton",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                619,
+                                846,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        619,
+                                        846,
+                                        646
+                                    ],
+                                    "score": 0.985,
+                                    "content": "children'shealthinsuranceandhavebeenupdatedwithSFY2o09dataforthisreport.*Thestatuterequiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                642,
+                                878,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        642,
+                                        878,
+                                        665
+                                    ],
+                                    "score": 0.986,
+                                    "content": "submissionofdataislimitedtoareasregulatedbytheNHDepartmentofInsurance.Children's Health Insurance",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                660,
+                                843,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        660,
+                                        843,
+                                        685
+                                    ],
+                                    "score": 0.975,
+                                    "content": "ProgramsinNewHampshire,SFY20o9OfficeofMedicaidBusinessandPolicy，NHDepartmentofHealthand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                682,
+                                271,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        682,
+                                        271,
+                                        705
+                                    ],
+                                    "score": 0.986,
+                                    "content": "HumanServices,October20104",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                714
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        19,
+                        6,
+                        878,
+                        705
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                14,
+                                19,
+                                859,
+                                47
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        19,
+                                        859,
+                                        47
+                                    ],
+                                    "score": 0.98,
+                                    "content": "InNewHampshire,theMedicaidpopulationisenrolledinafe-for-serviceplanwithoutassignedprimarycare",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                40,
+                                858,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        40,
+                                        858,
+                                        65
+                                    ],
+                                    "score": 0.985,
+                                    "content": "physicians(PCPs)authorizing referrals tofurthercare.ChildreninSCHIPareenrolledinaHealthMaintenance",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                60,
+                                874,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        60,
+                                        874,
+                                        84
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Organization(HMO)product,currentlyman-agedbyAnthem,thatincludestraditionalHMOelementslikePCPs.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                81,
+                                835,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        81,
+                                        835,
+                                        106
+                                    ],
+                                    "score": 0.988,
+                                    "content": "Thepopulationrepre-sentedintheCHIScommercialdataisamixtureof PreferredProviderOrganizations",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                19,
+                                100,
+                                875,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        102,
+                                        61,
+                                        122
+                                    ],
+                                    "score": 0.78,
+                                    "content": "( 2 6 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        100,
+                                        111,
+                                        125
+                                    ],
+                                    "score": 0.974,
+                                    "content": "HMO",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        112,
+                                        102,
+                                        154,
+                                        122
+                                    ],
+                                    "score": 0.61,
+                                    "content": "( 5 2 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        154,
+                                        100,
+                                        285,
+                                        125
+                                    ],
+                                    "score": 0.995,
+                                    "content": "Point-of-Service",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        285,
+                                        102,
+                                        327,
+                                        122
+                                    ],
+                                    "score": 0.73,
+                                    "content": "( 1 2 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        327,
+                                        100,
+                                        448,
+                                        125
+                                    ],
+                                    "score": 0.941,
+                                    "content": ",and Indemnity",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        448,
+                                        102,
+                                        489,
+                                        122
+                                    ],
+                                    "score": 0.75,
+                                    "content": "( 1 0 \\% )",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        489,
+                                        100,
+                                        875,
+                                        125
+                                    ],
+                                    "score": 0.979,
+                                    "content": ".InterpretationofResultsand LimitationsThisisa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                120,
+                                852,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        120,
+                                        852,
+                                        146
+                                    ],
+                                    "score": 0.905,
+                                    "content": "studyofchidrencoveredbythreedifferenttypesofhealthplans(Medicaid,CHPandNHCHIScommercial)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                139,
+                                857,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        139,
+                                        857,
+                                        167
+                                    ],
+                                    "score": 0.993,
+                                    "content": "conductedinNewHampshire.Thelargenumberofcoveredmembersstudiedlendscredibilitytothefindings.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                162,
+                                875,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        162,
+                                        875,
+                                        185
+                                    ],
+                                    "score": 0.993,
+                                    "content": "However,anumberofcautionsaboutthedatausedandresultsofthisstudyareprovided.Thisstudywasbased",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                180,
+                                876,
+                                207
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        180,
+                                        876,
+                                        207
+                                    ],
+                                    "score": 0.981,
+                                    "content": "onadministrativeeligibilityandclaimsdata.Differencesinproviderorinsurerclaimscoding,dataprocessing,or",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                201,
+                                831,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        201,
+                                        831,
+                                        223
+                                    ],
+                                    "score": 0.987,
+                                    "content": "reimbursementarrangementsmaycontributetothevariancesshowninthis report.Differencesin benefit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                221,
+                                862,
+                                246
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        221,
+                                        862,
+                                        246
+                                    ],
+                                    "score": 0.985,
+                                    "content": "packagesandcodingbyNHCHIScommercialinsurerproducts(PreferredProviderOrganizations(PPO),HMO,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                242,
+                                856,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        242,
+                                        856,
+                                        265
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Point-of-Service,IndemnityorThirdPartyAdministrator(TPA)mayalsocontributetovariancesshowninthis",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                262,
+                                856,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        262,
+                                        856,
+                                        285
+                                    ],
+                                    "score": 0.993,
+                                    "content": "report.Becauseofpotentialfornegativebias(reducedrates)intheNHCHIScommercialinsuranceestimates,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                281,
+                                855,
+                                307
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        281,
+                                        366,
+                                        307
+                                    ],
+                                    "score": 0.968,
+                                    "content": "childrenenrolledin Indemnityand TPAplans(",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        366,
+                                        282,
+                                        400,
+                                        301
+                                    ],
+                                    "score": 0.8,
+                                    "content": "1 3 \\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        401,
+                                        281,
+                                        855,
+                                        307
+                                    ],
+                                    "score": 0.996,
+                                    "content": "ofchildrenintheNHCHIScommercialdata)wereexcluded",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                300,
+                                861,
+                                325
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        300,
+                                        861,
+                                        325
+                                    ],
+                                    "score": 0.992,
+                                    "content": "fromtheclaims-based HEDISmeasuresreported.ChildrenenrolledinNHCHIScommercialIndemnityandTPA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                320,
+                                853,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        320,
+                                        853,
+                                        346
+                                    ],
+                                    "score": 0.98,
+                                    "content": "planswereincludedinallnon-HEDIS sectionsof thereport.TheNew HampshireCHIScommercialpopulation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                340,
+                                850,
+                                366
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        340,
+                                        850,
+                                        366
+                                    ],
+                                    "score": 0.988,
+                                    "content": "containsinformationonthoseresidentswhoseclaimsareincludedintheNHCHISdatabase,whichgenerally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                363,
+                                861,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        363,
+                                        861,
+                                        384
+                                    ],
+                                    "score": 0.974,
+                                    "content": "onlyincludesmem-berswhosepolicies werepurchasedinNew Hampshire.Areas closetothebordersof New",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                382,
+                                868,
+                                405
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        382,
+                                        868,
+                                        405
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Hampshiremaybelesswellrepresentedthanareasintheinterior.Additionaly,compa-niesthatself-fundtheir",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                401,
+                                852,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        401,
+                                        852,
+                                        426
+                                    ],
+                                    "score": 0.991,
+                                    "content": "healthcareanddonot useaTPAtopayclaimsarenotcapturedinthedataset.Becauseofthesetwofactors,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                422,
+                                801,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        422,
+                                        801,
+                                        445
+                                    ],
+                                    "score": 0.996,
+                                    "content": "thisreportunderestimatesthenumberofchil-drencoveredbyNHCHIScommercialinsuranceinNew",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                440,
+                                869,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        440,
+                                        869,
+                                        466
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Hampshire.*WhileitmaybeofinteresttoevaluatechildrenwhomigratebetweentheMedicaid,SCHIP,andNH",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                460,
+                                821,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        460,
+                                        821,
+                                        486
+                                    ],
+                                    "score": 0.991,
+                                    "content": "CHIScommercialinsuranceplantypes,therewerelimitationsintheabilitytotrackchildrenwhochanged",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                481,
+                                819,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        481,
+                                        819,
+                                        506
+                                    ],
+                                    "score": 0.977,
+                                    "content": "insuranceplansorinsuranceplantypesduring theyear.ANHCHISstudywascompletedin2oo9to track",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                501,
+                                792,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        501,
+                                        792,
+                                        526
+                                    ],
+                                    "score": 0.992,
+                                    "content": "migrationbetweenplantypesduringathreeyearperiod,especiallywithregardtodisenrollmentand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                522,
+                                839,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        522,
+                                        839,
+                                        545
+                                    ],
+                                    "score": 0.983,
+                                    "content": "reenrollmentinMedicaidandpro-vides insight intopatternsofenrollmentanddisenrollment.31Thisstudy",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                542,
+                                861,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        542,
+                                        861,
+                                        563
+                                    ],
+                                    "score": 0.996,
+                                    "content": "comparedinsuredpopulationsthatwereverydifferentfromeachother.Previ-ousNHCHISannualreportson",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                562,
+                                875,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        562,
+                                        875,
+                                        585
+                                    ],
+                                    "score": 0.993,
+                                    "content": "childrenwerelimitedintheevaluationofhealthstatus.Thisreportprovidesamoredetailedevaluationof health",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                581,
+                                842,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        581,
+                                        842,
+                                        607
+                                    ],
+                                    "score": 0.998,
+                                    "content": "statusbyusingclinicalriskgrouping(CRG).Utilizationandpaymentratesinthisreportarestandardizedfor",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                600,
+                                853,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        600,
+                                        853,
+                                        625
+                                    ],
+                                    "score": 0.989,
+                                    "content": "popula-tiondifferencesinhealthstatusandagewereaddedforthisSFY2008versionoftheannualreporton",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                14,
+                                619,
+                                846,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        14,
+                                        619,
+                                        846,
+                                        646
+                                    ],
+                                    "score": 0.985,
+                                    "content": "children'shealthinsuranceandhavebeenupdatedwithSFY2o09dataforthisreport.*Thestatuterequiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                642,
+                                878,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        642,
+                                        878,
+                                        665
+                                    ],
+                                    "score": 0.986,
+                                    "content": "submissionofdataislimitedtoareasregulatedbytheNHDepartmentofInsurance.Children's Health Insurance",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                660,
+                                843,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        660,
+                                        843,
+                                        685
+                                    ],
+                                    "score": 0.975,
+                                    "content": "ProgramsinNewHampshire,SFY20o9OfficeofMedicaidBusinessandPolicy，NHDepartmentofHealthand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                682,
+                                271,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        682,
+                                        271,
+                                        705
+                                    ],
+                                    "score": 0.986,
+                                    "content": "HumanServices,October20104",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 16.5,
+                    "bbox_fs": [
+                        14,
+                        19,
+                        878,
+                        705
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

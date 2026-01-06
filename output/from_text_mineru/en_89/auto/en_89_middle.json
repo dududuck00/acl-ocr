@@ -1,0 +1,1310 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        22,
+                        19,
+                        879,
+                        425
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                23,
+                                858,
+                                43
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        23,
+                                        858,
+                                        43
+                                    ],
+                                    "score": 0.985,
+                                    "content": "DecisionNoticeforLU17-273482ADPage4StaffindscriterionC.1.aismet.b.Thesignwillnotcreateatrafic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                42,
+                                861,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        42,
+                                        861,
+                                        66
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Drsafetyhazard;andFindings:Thesignsarenotlocatedinastreetright-of-wayorareathatcouldblockvisual",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                63,
+                                821,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        63,
+                                        821,
+                                        84
+                                    ],
+                                    "score": 0.982,
+                                    "content": "clearanceforvehiclesandcreateahazard.Thesignswillbeafixedtoabuildingandwillbeattachedwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                853,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        853,
+                                        105
+                                    ],
+                                    "score": 0.983,
+                                    "content": "multiplebolts thatmeetbuildingcodetoreduceanyriskoffalingontopedestrians.Thesignsdonotcontain",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                101,
+                                876,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        101,
+                                        876,
+                                        125
+                                    ],
+                                    "score": 0.991,
+                                    "content": "anydirectionalinstructionsandwillnotbemistakenfortraficsigns.Forthesereasons,stafffindsthatthesigns",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                120,
+                                842,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        120,
+                                        842,
+                                        146
+                                    ],
+                                    "score": 0.979,
+                                    "content": "posenotraficorsafetyhazardsandthat criterionC.1.bismet.c.Theadjustmentwillallowauniquesignof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                141,
+                                870,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        141,
+                                        870,
+                                        165
+                                    ],
+                                    "score": 0.99,
+                                    "content": "exceptionaldesignorstylethatwillenhancetheareaorthatwillbeavisiblelandmark;ord.Theadjustmentwill",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                162,
+                                853,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        162,
+                                        853,
+                                        186
+                                    ],
+                                    "score": 0.997,
+                                    "content": "allowasignthatismoreconsistentwiththearchitectureanddevelopmentofthesite.Findings:Theapplicant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                182,
+                                834,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        182,
+                                        834,
+                                        206
+                                    ],
+                                    "score": 0.991,
+                                    "content": "canchoosetomeetcordabove.Theapplicantchosetoaddressd.Theproposed signswillbeonbuildings",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                201,
+                                862,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        201,
+                                        862,
+                                        225
+                                    ],
+                                    "score": 0.997,
+                                    "content": "includedinthenewlydesignatedfoodandretailserviceslocationona3.4-acresiteneartheairport.Twoother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                220,
+                                866,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        220,
+                                        866,
+                                        247
+                                    ],
+                                    "score": 0.987,
+                                    "content": "retailbuildingsareproposedforthesiteandone,the7-11gasstationandstore,hasalreadyreceivedapproval",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                241,
+                                822,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        241,
+                                        822,
+                                        265
+                                    ],
+                                    "score": 0.985,
+                                    "content": "forfasciasignssimilarinsizeandmaterialsas theproposedsigns.Without anAdjustment allowing these",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                261,
+                                878,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        261,
+                                        878,
+                                        285
+                                    ],
+                                    "score": 0.995,
+                                    "content": "additionalsigns,someviewsofthenewstorewouldnothaveidentifyingsignagethatisexpectedforthistypeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                282,
+                                862,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        282,
+                                        862,
+                                        306
+                                    ],
+                                    "score": 0.99,
+                                    "content": "developmentandhelpswithcustomersnavigatingthearea.Novantagepointwillhaveviewsofallof thesigns",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                856,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        856,
+                                        326
+                                    ],
+                                    "score": 0.971,
+                                    "content": "simultaneouslyandasdiscussedpreviously,noneoftheproposedsignswillappearunusuallylargeoroutof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                853,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        853,
+                                        347
+                                    ],
+                                    "score": 0.994,
+                                    "content": "proportionwiththestructuresonthissite.Thefasciasignswilbethefirstsignsatachedtothenewbuilding",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                340,
+                                879,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        340,
+                                        879,
+                                        365
+                                    ],
+                                    "score": 0.993,
+                                    "content": "housingtheDutch Bros.tenantspace.Sincethetenantspaceislocatedinthemiddleofthemulti-tenantsiteand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                360,
+                                849,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        360,
+                                        849,
+                                        387
+                                    ],
+                                    "score": 0.986,
+                                    "content": "thepurposeofthesignsaretoincreasethevisibilityof thelocationfor Dutch Bros.fromstreetsandparking",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                824,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        824,
+                                        403
+                                    ],
+                                    "score": 0.996,
+                                    "content": "areasinmultipledirections,theadditionofthesignswillenhancethefunctionalityofthesiteandandwill",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                402,
+                                761,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        402,
+                                        761,
+                                        426
+                                    ],
+                                    "score": 0.982,
+                                    "content": "remainconsistentarchitecturallywiththesignsof other tenants.Staffindscriterion C.1.dismet.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 9.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        23,
+                        422,
+                        876,
+                        583
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                419,
+                                867,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        419,
+                                        867,
+                                        446
+                                    ],
+                                    "score": 0.966,
+                                    "content": "DEVELOPMENTSTANDARDSUnlessspecificallrequiredintheapprovalcriterialistedabove,thisproposaldoes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                440,
+                                838,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        440,
+                                        838,
+                                        466
+                                    ],
+                                    "score": 0.951,
+                                    "content": "nothavetomeet thedevelopmentstandardsinordertobeapprovedduring thisreviewprocess.Theplans",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                461,
+                                875,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        461,
+                                        875,
+                                        486
+                                    ],
+                                    "score": 0.995,
+                                    "content": "submittedforabuildingorsignpermitmustdemonstratethatalldevelopmentstandardsofTitle32andTitle33",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                482,
+                                832,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        482,
+                                        832,
+                                        505
+                                    ],
+                                    "score": 0.983,
+                                    "content": "canbemet,orhavereceivedanAdjustmentorModificationviaalandusereviewpriortotheapprovalofa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                500,
+                                821,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        500,
+                                        821,
+                                        526
+                                    ],
+                                    "score": 0.964,
+                                    "content": "buildingorsignpermit.CONCLUSIONSTheproposedsignswillnotcausestreetlevelsignclutter,willnot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                19,
+                                522,
+                                840,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        522,
+                                        840,
+                                        545
+                                    ],
+                                    "score": 0.992,
+                                    "content": "adverselydominatethevisualimageofthearea,andwillnotcausetrafficorsafetyimpacts.Approvalofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                540,
+                                875,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        540,
+                                        875,
+                                        565
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Adjustmentwillalowsignagethatisconsistentwiththedevelopmentanduseonthesite.Becausetheapplicant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                19,
+                                561,
+                                746,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        561,
+                                        746,
+                                        587
+                                    ],
+                                    "score": 0.983,
+                                    "content": "nasdemonstrated thattheapproval criteria havebeenmet,theAdjustmentmustbeapproved.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 23.5
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                900,
+                596
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        22,
+                        19,
+                        879,
+                        425
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                23,
+                                858,
+                                43
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        23,
+                                        858,
+                                        43
+                                    ],
+                                    "score": 0.985,
+                                    "content": "DecisionNoticeforLU17-273482ADPage4StaffindscriterionC.1.aismet.b.Thesignwillnotcreateatrafic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                42,
+                                861,
+                                66
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        42,
+                                        861,
+                                        66
+                                    ],
+                                    "score": 0.993,
+                                    "content": "Drsafetyhazard;andFindings:Thesignsarenotlocatedinastreetright-of-wayorareathatcouldblockvisual",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                63,
+                                821,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        63,
+                                        821,
+                                        84
+                                    ],
+                                    "score": 0.982,
+                                    "content": "clearanceforvehiclesandcreateahazard.Thesignswillbeafixedtoabuildingandwillbeattachedwith",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                81,
+                                853,
+                                105
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        81,
+                                        853,
+                                        105
+                                    ],
+                                    "score": 0.983,
+                                    "content": "multiplebolts thatmeetbuildingcodetoreduceanyriskoffalingontopedestrians.Thesignsdonotcontain",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                101,
+                                876,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        101,
+                                        876,
+                                        125
+                                    ],
+                                    "score": 0.991,
+                                    "content": "anydirectionalinstructionsandwillnotbemistakenfortraficsigns.Forthesereasons,stafffindsthatthesigns",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                120,
+                                842,
+                                146
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        120,
+                                        842,
+                                        146
+                                    ],
+                                    "score": 0.979,
+                                    "content": "posenotraficorsafetyhazardsandthat criterionC.1.bismet.c.Theadjustmentwillallowauniquesignof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                141,
+                                870,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        141,
+                                        870,
+                                        165
+                                    ],
+                                    "score": 0.99,
+                                    "content": "exceptionaldesignorstylethatwillenhancetheareaorthatwillbeavisiblelandmark;ord.Theadjustmentwill",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                162,
+                                853,
+                                186
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        162,
+                                        853,
+                                        186
+                                    ],
+                                    "score": 0.997,
+                                    "content": "allowasignthatismoreconsistentwiththearchitectureanddevelopmentofthesite.Findings:Theapplicant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                182,
+                                834,
+                                206
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        182,
+                                        834,
+                                        206
+                                    ],
+                                    "score": 0.991,
+                                    "content": "canchoosetomeetcordabove.Theapplicantchosetoaddressd.Theproposed signswillbeonbuildings",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                201,
+                                862,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        201,
+                                        862,
+                                        225
+                                    ],
+                                    "score": 0.997,
+                                    "content": "includedinthenewlydesignatedfoodandretailserviceslocationona3.4-acresiteneartheairport.Twoother",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                220,
+                                866,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        220,
+                                        866,
+                                        247
+                                    ],
+                                    "score": 0.987,
+                                    "content": "retailbuildingsareproposedforthesiteandone,the7-11gasstationandstore,hasalreadyreceivedapproval",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                241,
+                                822,
+                                265
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        241,
+                                        822,
+                                        265
+                                    ],
+                                    "score": 0.985,
+                                    "content": "forfasciasignssimilarinsizeandmaterialsas theproposedsigns.Without anAdjustment allowing these",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                261,
+                                878,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        261,
+                                        878,
+                                        285
+                                    ],
+                                    "score": 0.995,
+                                    "content": "additionalsigns,someviewsofthenewstorewouldnothaveidentifyingsignagethatisexpectedforthistypeof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                282,
+                                862,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        282,
+                                        862,
+                                        306
+                                    ],
+                                    "score": 0.99,
+                                    "content": "developmentandhelpswithcustomersnavigatingthearea.Novantagepointwillhaveviewsofallof thesigns",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                300,
+                                856,
+                                326
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        300,
+                                        856,
+                                        326
+                                    ],
+                                    "score": 0.971,
+                                    "content": "simultaneouslyandasdiscussedpreviously,noneoftheproposedsignswillappearunusuallylargeoroutof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                15,
+                                321,
+                                853,
+                                347
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        15,
+                                        321,
+                                        853,
+                                        347
+                                    ],
+                                    "score": 0.994,
+                                    "content": "proportionwiththestructuresonthissite.Thefasciasignswilbethefirstsignsatachedtothenewbuilding",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                340,
+                                879,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        340,
+                                        879,
+                                        365
+                                    ],
+                                    "score": 0.993,
+                                    "content": "housingtheDutch Bros.tenantspace.Sincethetenantspaceislocatedinthemiddleofthemulti-tenantsiteand",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                360,
+                                849,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        360,
+                                        849,
+                                        387
+                                    ],
+                                    "score": 0.986,
+                                    "content": "thepurposeofthesignsaretoincreasethevisibilityof thelocationfor Dutch Bros.fromstreetsandparking",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                16,
+                                381,
+                                824,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        16,
+                                        381,
+                                        824,
+                                        403
+                                    ],
+                                    "score": 0.996,
+                                    "content": "areasinmultipledirections,theadditionofthesignswillenhancethefunctionalityofthesiteandandwill",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                17,
+                                402,
+                                761,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        402,
+                                        761,
+                                        426
+                                    ],
+                                    "score": 0.982,
+                                    "content": "remainconsistentarchitecturallywiththesignsof other tenants.Staffindscriterion C.1.dismet.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 9.5,
+                    "bbox_fs": [
+                        15,
+                        23,
+                        879,
+                        426
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        23,
+                        422,
+                        876,
+                        583
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                419,
+                                867,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        419,
+                                        867,
+                                        446
+                                    ],
+                                    "score": 0.966,
+                                    "content": "DEVELOPMENTSTANDARDSUnlessspecificallrequiredintheapprovalcriterialistedabove,thisproposaldoes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                440,
+                                838,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        440,
+                                        838,
+                                        466
+                                    ],
+                                    "score": 0.951,
+                                    "content": "nothavetomeet thedevelopmentstandardsinordertobeapprovedduring thisreviewprocess.Theplans",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                461,
+                                875,
+                                486
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        461,
+                                        875,
+                                        486
+                                    ],
+                                    "score": 0.995,
+                                    "content": "submittedforabuildingorsignpermitmustdemonstratethatalldevelopmentstandardsofTitle32andTitle33",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                482,
+                                832,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        482,
+                                        832,
+                                        505
+                                    ],
+                                    "score": 0.983,
+                                    "content": "canbemet,orhavereceivedanAdjustmentorModificationviaalandusereviewpriortotheapprovalofa",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                500,
+                                821,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        500,
+                                        821,
+                                        526
+                                    ],
+                                    "score": 0.964,
+                                    "content": "buildingorsignpermit.CONCLUSIONSTheproposedsignswillnotcausestreetlevelsignclutter,willnot",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                19,
+                                522,
+                                840,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        522,
+                                        840,
+                                        545
+                                    ],
+                                    "score": 0.992,
+                                    "content": "adverselydominatethevisualimageofthearea,andwillnotcausetrafficorsafetyimpacts.Approvalofthe",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                18,
+                                540,
+                                875,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        540,
+                                        875,
+                                        565
+                                    ],
+                                    "score": 0.99,
+                                    "content": "Adjustmentwillalowsignagethatisconsistentwiththedevelopmentanduseonthesite.Becausetheapplicant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                19,
+                                561,
+                                746,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        19,
+                                        561,
+                                        746,
+                                        587
+                                    ],
+                                    "score": 0.983,
+                                    "content": "nasdemonstrated thattheapproval criteria havebeenmet,theAdjustmentmustbeapproved.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 23.5,
+                    "bbox_fs": [
+                        18,
+                        419,
+                        875,
+                        587
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.6.6"
+}

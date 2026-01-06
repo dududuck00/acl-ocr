@@ -1,0 +1,759 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 1,
+                "poly": [
+                    56,
+                    212,
+                    2440,
+                    212,
+                    2440,
+                    2302,
+                    56,
+                    2302
+                ],
+                "score": 0.906
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    74,
+                    59,
+                    2417,
+                    59,
+                    2417,
+                    680,
+                    74,
+                    680
+                ],
+                "score": 0.24
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    224.0,
+                    2343.0,
+                    224.0,
+                    2343.0,
+                    292.0,
+                    45.0,
+                    292.0
+                ],
+                "score": 0.992,
+                "text": "fiber.Wealsoworkwith primaryconnectivityconstraintsthatrequirethatprimarylinksbeconnectedtothe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    279.0,
+                    2385.0,
+                    279.0,
+                    2385.0,
+                    357.0,
+                    40.0,
+                    357.0
+                ],
+                "score": 0.992,
+                "text": "originnodebyapathconsistingofprimarylinksonly.Thereasonforusingsuchconstraintsisthatamessage"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    336.0,
+                    2156.0,
+                    336.0,
+                    2156.0,
+                    408.0,
+                    42.0,
+                    408.0
+                ],
+                "score": 0.992,
+                "text": "whichflowsfromonetechnologylink toanothertechnologylinkhastoundergosomekindofdata"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    395.0,
+                    2276.0,
+                    395.0,
+                    2276.0,
+                    460.0,
+                    45.0,
+                    460.0
+                ],
+                "score": 0.994,
+                "text": "transformationwhichimpliesthataswitchingdevicehastobeinstaledateverynodewhereachangeof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    450.0,
+                    2359.0,
+                    450.0,
+                    2359.0,
+                    512.0,
+                    42.0,
+                    512.0
+                ],
+                "score": 0.98,
+                "text": "technologytakes place.Inour problem,theprimaryconnectivityconstraints ensurethatthenumberof such"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    507.0,
+                    2403.0,
+                    507.0,
+                    2403.0,
+                    572.0,
+                    45.0,
+                    572.0
+                ],
+                "score": 0.996,
+                "text": "deviceswillbesmallandthecostofinstallingthesedevicesisnotconsidered.Anotherreasonforrequiringthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    559.0,
+                    2349.0,
+                    559.0,
+                    2349.0,
+                    623.0,
+                    45.0,
+                    623.0
+                ],
+                "score": 0.991,
+                "text": "primaryconnectivityconstraintsisthattheyimplythatmorepathscanbenefitfromthehigherqualityof the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    618.0,
+                    2226.0,
+                    618.0,
+                    2226.0,
+                    683.0,
+                    45.0,
+                    683.0
+                ],
+                "score": 0.998,
+                "text": "primarylinks.TherearemanypossiblevariationsoftheLAND-2Tproblemthatresultinnewproblems."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    673.0,
+                    2268.0,
+                    673.0,
+                    2268.0,
+                    738.0,
+                    48.0,
+                    738.0
+                ],
+                "score": 0.991,
+                "text": "Balakrishnanetal.[BMM94a]haveworkedwithaproblemsimilartotheLAND-2Twhereaminimumcost"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    730.0,
+                    2333.0,
+                    730.0,
+                    2333.0,
+                    795.0,
+                    45.0,
+                    795.0
+                ],
+                "score": 0.99,
+                "text": "spanningtreethatcontainsanembeddedprimarysubtreeconnectingalltheprimarynodes(andoptionally"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    784.0,
+                    2294.0,
+                    784.0,
+                    2294.0,
+                    849.0,
+                    45.0,
+                    849.0
+                ],
+                "score": 0.994,
+                "text": "includ-ingsecondarynodes)hastobefound.AsintheLAND-2T,onecaninstalloneoftwoavailablecable"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    833.0,
+                    2432.0,
+                    833.0,
+                    2432.0,
+                    911.0,
+                    40.0,
+                    911.0
+                ],
+                "score": 0.992,
+                "text": "technologiesforeacharc.Notethattheydividethesetof nodesintoprimaryandsecondarynodes.Theprimary"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    893.0,
+                    2427.0,
+                    893.0,
+                    2427.0,
+                    966.0,
+                    42.0,
+                    966.0
+                ],
+                "score": 0.999,
+                "text": "nodeshavetobeconnectedtotheoriginnodebyprimaryarcs.Thesecondarynodescanbelinkedtotheorigin"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    948.0,
+                    2260.0,
+                    948.0,
+                    2260.0,
+                    1018.0,
+                    40.0,
+                    1018.0
+                ],
+                "score": 0.992,
+                "text": "nodebyprimaryorsecondaryarcs.Theyhaveproposedadual-ascentalgorithmtofindanapproximate"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1002.0,
+                    2335.0,
+                    1002.0,
+                    2335.0,
+                    1069.0,
+                    40.0,
+                    1069.0
+                ],
+                "score": 0.982,
+                "text": "solution.GouveiaandJanssen[GJ98]haveworkedwithasimilar problemthatisanextensionoftheminimal"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1059.0,
+                    2385.0,
+                    1059.0,
+                    2385.0,
+                    1129.0,
+                    40.0,
+                    1129.0
+                ],
+                "score": 0.987,
+                "text": "spanningtreeproblem,butwithtwocabletechnologiestoo.Themodelthattheyexplorehasgeneralizedhop"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1116.0,
+                    2395.0,
+                    1116.0,
+                    2395.0,
+                    1181.0,
+                    42.0,
+                    1181.0
+                ],
+                "score": 0.991,
+                "text": "constraintsand primaryconnectivityconstraints.Hopconstraintslimitthenumberoflinks(hops)betweenthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1168.0,
+                    2258.0,
+                    1168.0,
+                    2258.0,
+                    1243.0,
+                    40.0,
+                    1243.0
+                ],
+                "score": 0.997,
+                "text": "rootnodeandanyterminalandmeasureinacertainwaythereliabilityofthetreenetwork.Theprimary"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1228.0,
+                    2268.0,
+                    1228.0,
+                    2268.0,
+                    1292.0,
+                    45.0,
+                    1292.0
+                ],
+                "score": 0.981,
+                "text": "connectivityconstraintsarethesame thatwedescribed above.TheproblemisshowntobeNP-hard and"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1285.0,
+                    2252.0,
+                    1285.0,
+                    2252.0,
+                    1349.0,
+                    45.0,
+                    1349.0
+                ],
+                "score": 0.997,
+                "text": "procedurestoobtainlowerandupperboundsarepresented.Theyformulatetheproblemasadirected"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1336.0,
+                    2229.0,
+                    1336.0,
+                    2229.0,
+                    1409.0,
+                    42.0,
+                    1409.0
+                ],
+                "score": 0.993,
+                "text": "multicommodityflowmodel.Toderivelowerbounds theyuseLagrangeanrelaxationwithsubgradient"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1391.0,
+                    2445.0,
+                    1391.0,
+                    2445.0,
+                    1461.0,
+                    40.0,
+                    1461.0
+                ],
+                "score": 0.985,
+                "text": "optimization.ALagrangeanheuristicisdevelopedtoconstructfeasiblesolutions.Moreover,theydiscusseveral"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    1451.0,
+                    2328.0,
+                    1451.0,
+                    2328.0,
+                    1515.0,
+                    48.0,
+                    1515.0
+                ],
+                "score": 0.986,
+                "text": "diferentwaysofmodeling theprimaryconnectivityconstraints.Oneoutcomeof theirdiscussionisthatan"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1508.0,
+                    2440.0,
+                    1508.0,
+                    2440.0,
+                    1572.0,
+                    45.0,
+                    1572.0
+                ],
+                "score": 0.992,
+                "text": "extendedandcompactrepresentationoftheconvexhullofdirectedrootedsubtreeswhentheunderlyinggraph"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1562.0,
+                    2442.0,
+                    1562.0,
+                    2442.0,
+                    1627.0,
+                    45.0,
+                    1627.0
+                ],
+                "score": 0.993,
+                "text": "isseries-parallelcanbederived.DeJonghetal.[dJGL99]havealsoworkedwithacloselyrelatedprobleminwhich"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1614.0,
+                    2424.0,
+                    1614.0,
+                    2424.0,
+                    1686.0,
+                    42.0,
+                    1686.0
+                ],
+                "score": 0.997,
+                "text": "apairofnodeshastobelinkedbytwonodedisjointpathswithminimumtotalcostandtwocabletechnologies."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    50.0,
+                    1676.0,
+                    2375.0,
+                    1676.0,
+                    2375.0,
+                    1733.0,
+                    50.0,
+                    1733.0
+                ],
+                "score": 0.988,
+                "text": "ThisproblemisalitledifferentfromtheLAND-2Tsinceforeacharcofthenetworkthereisonlyoneavailable"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    1725.0,
+                    2349.0,
+                    1725.0,
+                    2349.0,
+                    1798.0,
+                    42.0,
+                    1798.0
+                ],
+                "score": 0.987,
+                "text": "technology,thatis,eacharchasaspecifiedtechnologyandtherearearcsoftype1andarcsoftype2.Inthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    1782.0,
+                    2375.0,
+                    1782.0,
+                    2375.0,
+                    1847.0,
+                    48.0,
+                    1847.0
+                ],
+                "score": 0.996,
+                "text": "LAND-2Tproblem,foreacharcwehavetwoavailabletechnologies.Theyalsoconsideratransitioncostthatis"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1839.0,
+                    2406.0,
+                    1839.0,
+                    2406.0,
+                    1904.0,
+                    45.0,
+                    1904.0
+                ],
+                "score": 0.986,
+                "text": "associatedwitheachnode.Thiscostisincurredonlywhenaflowentersandleavesthecorresponding nodeon"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    1896.0,
+                    2338.0,
+                    1896.0,
+                    2338.0,
+                    1961.0,
+                    45.0,
+                    1961.0
+                ],
+                "score": 0.984,
+                "text": "arcsofdiferenttypes.Two heuristicswereproposedin[dJGL99]andalowerbounding procedurebasedon"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    40.0,
+                    1948.0,
+                    2333.0,
+                    1948.0,
+                    2333.0,
+                    2018.0,
+                    40.0,
+                    2018.0
+                ],
+                "score": 0.991,
+                "text": "Lagrangeanrelaxationisprovided.Theseproceduresareusedinabranch-and-boundstrategytosolvethe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    2003.0,
+                    2393.0,
+                    2003.0,
+                    2393.0,
+                    2075.0,
+                    42.0,
+                    2075.0
+                ],
+                "score": 0.971,
+                "text": "problem.Inapreviouspaper,weworkedwiththelocalaccessnetworkdesignproblem[RM98].Inthisarticle,"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    42.0,
+                    2062.0,
+                    2239.0,
+                    2062.0,
+                    2239.0,
+                    2127.0,
+                    42.0,
+                    2127.0
+                ],
+                "score": 0.997,
+                "text": "westudiedtwoformulationsoftheproblem:singlecommodityflowformulation;multicommodityflow"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    45.0,
+                    2114.0,
+                    2323.0,
+                    2114.0,
+                    2323.0,
+                    2179.0,
+                    45.0,
+                    2179.0
+                ],
+                "score": 0.994,
+                "text": "formulation.TheproblemwassolvedexactlybyCPLEX(withthetwoformulations),byabranch-and-bound"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    48.0,
+                    2174.0,
+                    2362.0,
+                    2174.0,
+                    2362.0,
+                    2239.0,
+                    48.0,
+                    2239.0
+                ],
+                "score": 0.993,
+                "text": "algorithm,byabranch-and-cutalgorithmandbyaBendersdecomposition.ThesuccessobtainedbyBenders"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    50.0,
+                    2228.0,
+                    2042.0,
+                    2228.0,
+                    2042.0,
+                    2293.0,
+                    50.0,
+                    2293.0
+                ],
+                "score": 0.973,
+                "text": "decomposition tosolve thisproblem has inducedus toextend thealgorithmdeveloped tothe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    63.0,
+                    60.0,
+                    2424.0,
+                    60.0,
+                    2424.0,
+                    126.0,
+                    63.0,
+                    126.0
+                ],
+                "score": 0.977,
+                "text": "36C.D.RandazzoandH.P.L.LunaandP.Maheywilfollowthenotationgivenin[BMM94b]andwilldenotethe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    60.0,
+                    116.0,
+                    2380.0,
+                    116.0,
+                    2380.0,
+                    182.0,
+                    60.0,
+                    182.0
+                ],
+                "score": 0.982,
+                "text": "wokindsoflinksby\"primarylinks\"(opticalfiber)and\"secondarylinks\"(copper).Thecoppercablehasafixed"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    60.0,
+                    172.0,
+                    2330.0,
+                    172.0,
+                    2330.0,
+                    238.0,
+                    60.0,
+                    238.0
+                ],
+                "score": 0.991,
+                "text": "ostsmalerthanthatoftheopticalfiber,butitsvariablecostisgreaterthanthevariablecostoftheoptical"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    60.0,
+                    228.0,
+                    2346.0,
+                    228.0,
+                    2346.0,
+                    294.0,
+                    60.0,
+                    294.0
+                ],
+                "score": 0.995,
+                "text": "iber.Wealsoworkwithprimaryconnectivityconstraintsthatrequirethatprimarylinksbeconnectedtothe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    55.0,
+                    278.0,
+                    2385.0,
+                    278.0,
+                    2385.0,
+                    356.0,
+                    55.0,
+                    356.0
+                ],
+                "score": 0.989,
+                "text": "riginnodebyapathconsistingofprimarylinksonly.Thereasonforusingsuchconstraintsisthatamessage"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    60.0,
+                    334.0,
+                    2153.0,
+                    334.0,
+                    2153.0,
+                    406.0,
+                    60.0,
+                    406.0
+                ],
+                "score": 0.993,
+                "text": "vhichflowsfromonetechnologylinktoanothertechnologylink hastoundergosomekindofdata"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    60.0,
+                    393.0,
+                    2276.0,
+                    393.0,
+                    2276.0,
+                    460.0,
+                    60.0,
+                    460.0
+                ],
+                "score": 0.99,
+                "text": "ransformationwhichimpliesthataswitchingdevicehastobeinstalledateverynodewhereachangeof"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    58.0,
+                    444.0,
+                    2359.0,
+                    444.0,
+                    2359.0,
+                    518.0,
+                    58.0,
+                    518.0
+                ],
+                "score": 0.992,
+                "text": "echnologytakesplace.Inourproblem,theprimaryconnectivityconstraintsensurethatthenumberof such"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    60.0,
+                    505.0,
+                    2406.0,
+                    505.0,
+                    2406.0,
+                    572.0,
+                    60.0,
+                    572.0
+                ],
+                "score": 0.992,
+                "text": "leviceswillbesmallandthecostofinstalingthesedevicesisnotconsidered.Anotherreasonforrequiringthe"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    58.0,
+                    558.0,
+                    2354.0,
+                    558.0,
+                    2354.0,
+                    633.0,
+                    58.0,
+                    633.0
+                ],
+                "score": 0.981,
+                "text": "srimaryconnectivityconstraintsisthattheyimplythatmorepathscanbenefitfromthehigherqualityof the"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    63.0,
+                    617.0,
+                    2224.0,
+                    617.0,
+                    2224.0,
+                    684.0,
+                    63.0,
+                    684.0
+                ],
+                "score": 0.988,
+                "text": ")rimarylinks.TherearemanypossiblevariationsoftheLAND-2Tproblemthatresultinnewproblems."
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 2500,
+            "height": 2323
+        }
+    }
+]
