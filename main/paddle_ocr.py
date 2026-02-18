@@ -3,6 +3,9 @@ import os
 import json
 from tqdm import tqdm
 
+
+# PaddleOCR-V5
+
 def ocr_image(ocr_model, image_path):
     result = ocr_model.predict(input=image_path,)
     
