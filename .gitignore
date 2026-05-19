@@ -23,7 +23,8 @@ ENV/
 Thumbs.db
 
 # Model
-.model/
+model/
+DeepSeek-OCR-master/
 
 # 长文本图片超过github限制，不上传，可以使用脚本生成
 fox_data/story_images/
