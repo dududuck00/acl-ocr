@@ -11,6 +11,11 @@ from functools import partial
 import multiprocessing
 from tqdm import tqdm
 
+try:
+    from text_error_rates import calculate_error_rates
+except ModuleNotFoundError:
+    from eval.text_error_rates import calculate_error_rates
+
 # ✅ 在主进程启动时预加载 WordNet，避免多线程竞争
 # from nltk.corpus import wordnet
 # _ = wordnet.ensure_loaded()  # 强制加载
@@ -57,10 +62,17 @@ def cal_per_metrics(image, pred, gt):
     metrics["precision"] = precision(reference, hypothesis) or 0.0
     metrics["recall"] = recall(reference, hypothesis) or 0.0
     metrics["f_measure"] = f_measure(reference, hypothesis) or 0.0
+
+    # Order-sensitive, case-sensitive OCR fidelity metrics. The shared helper
+    # applies symmetric NFC + whitespace normalization and uses GT length as the
+    # denominator, so insertion-heavy predictions may exceed 1.0.
+    error_rates = calculate_error_rates(gt, pred)
+    metrics["cer"] = error_rates["cer"]
+    metrics["wer"] = error_rates["wer"]
     
     return metrics
 
-def eval(predicts, max_workers=8, predict_file=""):
+def eval(predicts, max_workers=8, predict_file="", reference_field=None):
     """
     对预测结果文件进行评估，计算整体的评估指标
     批量评估OCR预测结果并计算平均指标
@@ -79,16 +91,25 @@ def eval(predicts, max_workers=8, predict_file=""):
     
     with ProcessPoolExecutor(max_workers=max_workers) as executor:
         # 提交所有任务，并保存 future 到 image 的映射
-        if "distort" in predict_file or "replace" in predict_file:
-            future_to_pred = {
-                executor.submit(cal_per_metrics, pred["image"], pred["ocr_text"], pred["distorted_text"]): pred
-                for pred in predicts
-            }
-        else:
-            future_to_pred = {
-                executor.submit(cal_per_metrics, pred["image"], pred["ocr_text"], pred["gt_text"]): pred
-                for pred in predicts
-            }
+        # Explicit selection avoids silently evaluating against the wrong text
+        # when a filename and its dataset disagree. Keep filename inference only
+        # for backward-compatible calls to the legacy CLI.
+        if reference_field is None:
+            reference_field = (
+                "distorted_text"
+                if "distort" in predict_file or "replace" in predict_file
+                else "gt_text"
+            )
+        future_to_pred = {
+            executor.submit(
+                cal_per_metrics,
+                pred["image"],
+                pred.get("ocr_text") or "",
+                pred[reference_field],
+            ): pred
+            for pred in predicts
+            if "overall_metrics" not in pred
+        }
 
         # 使用 as_completed 配合 tqdm 显示进度
         for future in tqdm(as_completed(future_to_pred), total=len(predicts), desc="评估进度", unit="样本"):
@@ -145,9 +166,16 @@ def main(args):
     # TODO debug only
     # predict_data = predict_data[:8] # 测试代码, 运行时删除此行
         
-    results, mean_dict = eval(predict_data, max_workers=args.max_workers, predict_file=args.predict_file)
+    results, mean_dict = eval(
+        predict_data,
+        max_workers=args.max_workers,
+        predict_file=args.predict_file,
+        reference_field=args.reference_field,
+    )
     # 将image相同的评估结果保存到原始预测结果中
     for item in predict_data:
+        if "image" not in item:
+            continue
         image = item["image"]
         for res in results:
             if res["image"] == image:
@@ -166,6 +194,12 @@ if __name__ == "__main__":
     parser.add_argument("--predict_file", type=str, required=True, help="Path to the OCR predictions JSON file")
     parser.add_argument("--output_file", type=str, required=False, help="Path to save the evaluation results JSON file")
     parser.add_argument("--max_workers", type=int, default=64, help="Number of parallel workers for evaluation")
+    parser.add_argument(
+        "--reference-field",
+        "--gt-field",
+        dest="reference_field",
+        help="Explicit reference field (recommended: gt_text or distorted_text)",
+    )
     
     args = parser.parse_args()
     if args.output_file is None:

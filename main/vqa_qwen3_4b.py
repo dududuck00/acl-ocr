@@ -6,18 +6,17 @@ import json
 import torch
 import base64
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from transformers import Qwen2_5_VLForConditionalGeneration, AutoTokenizer, AutoProcessor
 from qwen_vl_utils import process_vision_info
 
-# def load_model():
-#     model = Qwen3VLForConditionalGeneration.from_pretrained(
-#     "Qwen/Qwen3-VL-4B-Instruct",
-#     dtype=torch.bfloat16,
-#     attn_implementation="flash_attention_2",
-#     device_map="auto",
-#     )
-#     processor = AutoProcessor.from_pretrained("Qwen/Qwen3-VL-4B-Instruct")
-#     return model, processor
+def load_model():
+    model = Qwen3VLForConditionalGeneration.from_pretrained(
+        "Qwen/Qwen3-VL-4B-Instruct",
+        dtype=torch.bfloat16,
+        attn_implementation="flash_attention_2",
+        device_map="auto",
+    )
+    processor = AutoProcessor.from_pretrained("Qwen/Qwen3-VL-4B-Instruct")
+    return model, processor
  
 
 def infer(model, processor, image_path, question, options):

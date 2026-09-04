@@ -1,32 +1,98 @@
-# Python
+# Secrets and machine-local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials*.json
+secrets*.json
+
+# Python bytecode, caches, test output, and build artifacts
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments and local runtime caches
 .venv/
 .vllm/
 .docling/
+.cache/
 env/
 venv/
 ENV/
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# Jupyter
+.ipynb_checkpoints/
 
-# IDE
+# IDE, OS, and editor files
 .vscode/
 .idea/
-
-# OS
 .DS_Store
 Thumbs.db
+*.swp
+*.swo
+*~
 
-# Model
+# Local AI-agent state and scratch directories
+.agents/
+.claude/
+.codex/
+.codex_tmp/
+codex_tmp/
+.tmp/
+.dpsk-ocr/
+AGENTS.md
+CLAUDE.md
+/${PWD}/
+/-*.png
+/ncdu.out
+
+# Model checkpoints and downloaded weights
 model/
+models/
+checkpoints/
+weights/
 DeepSeek-OCR-master/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.gguf
 
-# 长文本图片超过github限制，不上传，可以使用脚本生成
-fox_data/story_images/
+# Generated inference output and experiment results
+# Source code and generation/evaluation scripts remain tracked.
+/output/
+/results/
+/artifacts/
 
+# Generated datasets and image caches (reproducible from scripts)
+/fox_data/deepseek_mode_images/
+/fox_data/low_prior_stress/
+/fox_data/mask_ablation_images/
+/fox_data/story_font_density_sweep/
+/fox_data/story_images/
+/fox_data/story_multipage/
+
+# Private submission/rebuttal material and local rendered draft
+/submission_and_rebuttal/
+/COLING2027_submission_draft.pdf
+
+# Archives
 *.zip
+*.tar
+*.tar.gz
+*.tgz
+*.tar.xz
+*.7z

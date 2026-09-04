@@ -6,12 +6,6 @@ import base64
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
-# model_name = "qwen2.5-vl:72b"
-# base_url = "https://uni-api.cstcloud.cn/v1"
-# api_key = "08d76ea0a6322a2ab7c49fc2a9cacb75c4457e67b5db4e1499fe3db963e86ac8"
-
-
-# model_name = "Pro/Qwen/Qwen2.5-VL-7B-Instruct"
 model_name = "Qwen/Qwen3-VL-8B-Instruct"
 base_url = "https://api.siliconflow.cn/v1"
 api_key = "sk-dclewehmwoihlaisrxlzdsfdnsiohcpdopqfmswpzomndpat"
@@ -95,7 +89,6 @@ if __name__ == "__main__":
     results = sorted(results, key=lambda x: int(x["image"].split("_")[-1].split(".")[0]))
     
     # 保存结果
-    # save_path = "../results/vqa/qwen2.5_vl_vqa_results.json"
     save_path = "../results/vqa/qwen3_vl_8B_vqa_results.json"
     
     

@@ -1,4 +1,6 @@
-from transformers import Qwen2_5_VLForConditionalGeneration, AutoTokenizer, AutoProcessor
+"""Legacy filename retained for compatibility; this runner now uses Qwen3-VL-4B."""
+
+from transformers import Qwen3VLForConditionalGeneration, AutoProcessor
 from qwen_vl_utils import process_vision_info
 import torch
 from tqdm import tqdm
@@ -6,13 +8,13 @@ import json
 import os
 
 def load_model():
-    model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
-    "Qwen/Qwen2.5-VL-3B-Instruct",
+    model = Qwen3VLForConditionalGeneration.from_pretrained(
+    "Qwen/Qwen3-VL-4B-Instruct",
     torch_dtype=torch.bfloat16,
     attn_implementation="flash_attention_2",
     device_map="auto",
     )
-    processor = AutoProcessor.from_pretrained("Qwen/Qwen2.5-VL-3B-Instruct")
+    processor = AutoProcessor.from_pretrained("Qwen/Qwen3-VL-4B-Instruct")
     return model, processor
 
 def infer(model, processor, image_path, question, options):
@@ -93,7 +95,7 @@ if __name__ == "__main__":
             results.append(result)
     
     # 保存结果
-    save_path = "/data/home/yunhao/code/ocr/results/vqa/qwen2.5_vl_3B_vqa_results.json"
+    save_path = "/data/home/yunhao/code/ocr/results/vqa/qwen3_vl_4B_vqa_results.json"
     
     with open(save_path, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=4)

@@ -11,6 +11,11 @@ from functools import partial
 import multiprocessing
 from tqdm import tqdm
 
+try:
+    from text_error_rates import calculate_error_rates
+except ModuleNotFoundError:
+    from eval.text_error_rates import calculate_error_rates
+
 # ✅ 在主进程启动时预加载 WordNet，避免多线程竞争
 # from nltk.corpus import wordnet
 # _ = wordnet.ensure_loaded()  # 强制加载
@@ -52,11 +57,14 @@ def cal_per_metrics(image, pred, gt):
 
     reference = set(reference)
     hypothesis = set(hypothesis)
-    metrics["f_measure"] = f_measure(reference, hypothesis)
+    metrics["f_measure"] = f_measure(reference, hypothesis) or 0.0
 
-    metrics["precision"] = precision(reference, hypothesis)
-    metrics["recall"] = recall(reference, hypothesis)
+    metrics["precision"] = precision(reference, hypothesis) or 0.0
+    metrics["recall"] = recall(reference, hypothesis) or 0.0
     metrics["edit_dist"] = nltk.edit_distance(pred, gt) / max(len(pred), len(gt))
+    error_rates = calculate_error_rates(gt, pred)
+    metrics["cer"] = error_rates["cer"]
+    metrics["wer"] = error_rates["wer"]
     
     # print(f"Image: {image}, BLEU: {metrics['bleu']:.4f}, METEOR: {metrics['meteor']:.4f}, F-measure: {metrics['f_measure']:.4f}, Precision: {metrics['precision']:.4f}, Recall: {metrics['recall']:.4f}, Edit Distance: {metrics['edit_dist']:.4f}")
     

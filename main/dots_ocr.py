@@ -1,7 +1,9 @@
 import argparse
+import base64
 import json
 import os
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 try:
@@ -12,16 +14,14 @@ except ImportError:
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_MODES = ["tiny", "small", "base"]
+DEFAULT_MODES = ["tiny", "base", "small"]
 DEFAULT_DATA_BASE = REPO_ROOT / "fox_data" / "deepseek_mode_images"
-DEFAULT_DATA_ROOT = DEFAULT_DATA_BASE / "from_text"
+DEFAULT_DATA_ROOT = REPO_ROOT / "fox_data" / "deepseek_mode_images" / "from_text"
+DEFAULT_OUTPUT_DIR = REPO_ROOT / "results" / "other" / "dots_ocr_from_text_deepseek_modes"
 DEFAULT_RESULTS_BASE = REPO_ROOT / "results" / "other"
-DEFAULT_MODEL_LABEL = "paddle_ocr"
-PADDLE_OCR_VERSION = "PP-OCRv6"
-PADDLE_DETECTION_MODEL = "PP-OCRv6_medium_det"
-PADDLE_RECOGNITION_MODEL = "PP-OCRv6_medium_rec"
-DEFAULT_OUTPUT_DIR = DEFAULT_RESULTS_BASE / f"{DEFAULT_MODEL_LABEL}_from_text_deepseek_modes"
-DEFAULT_OUTPUT_PREFIX = f"{DEFAULT_MODEL_LABEL}_from_text"
+DEFAULT_MODEL_LABEL = "dots_ocr"
+DEFAULT_PROMPT = "Extract the text content from this image."
+DOTS_IMAGE_PREFIX = "<|img|><|imgpad|><|endofimg|>"
 PAPER_EXPERIMENT_DATASETS = [
     "distort",
     "replace_swap_5",
@@ -44,16 +44,6 @@ def resolve_path(path):
     return REPO_ROOT / path
 
 
-def prepare_runtime_env(cuda_visible_devices):
-    tmp_dir = REPO_ROOT / ".codex" / "tmp"
-    tmp_dir.mkdir(parents=True, exist_ok=True)
-    os.environ.setdefault("TMPDIR", str(tmp_dir))
-    os.environ.setdefault("TMP", str(tmp_dir))
-    os.environ.setdefault("TEMP", str(tmp_dir))
-    if cuda_visible_devices:
-        os.environ["CUDA_VISIBLE_DEVICES"] = cuda_visible_devices
-
-
 def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -65,45 +55,49 @@ def save_json(data, path):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 
-def load_model(args):
+def encode_image_data_url(image_path):
+    suffix = image_path.suffix.lower()
+    if suffix in {".jpg", ".jpeg"}:
+        mime = "image/jpeg"
+    elif suffix == ".webp":
+        mime = "image/webp"
+    else:
+        mime = "image/png"
+
+    with open(image_path, "rb") as f:
+        image = base64.b64encode(f.read()).decode("utf-8")
+    return f"data:{mime};base64,{image}"
+
+
+def create_openai_client(api_key, base_url):
     try:
-        from paddleocr import PaddleOCR
+        from openai import OpenAI
     except ImportError as exc:
         raise ImportError(
-            "The paddleocr package is required for PP-OCRv6 inference. "
-            "Activate the paddleocr environment before running this script."
+            "The openai package is required for dots.ocr vLLM API inference. "
+            "Install it in the environment you use to run this script."
         ) from exc
+    return OpenAI(api_key=api_key, base_url=base_url)
 
-    return PaddleOCR(
-        ocr_version=PADDLE_OCR_VERSION,
-        text_detection_model_name=PADDLE_DETECTION_MODEL,
-        text_recognition_model_name=PADDLE_RECOGNITION_MODEL,
-        use_doc_orientation_classify=args.use_doc_orientation_classify,
-        use_doc_unwarping=args.use_doc_unwarping,
-        use_textline_orientation=args.use_textline_orientation,
-        device=args.device,
-        use_tensorrt=args.use_tensorrt,
-        cpu_threads=args.cpu_threads,
-        rec_batch_num=args.rec_batch_num,
+
+def chat(image_path, client, args):
+    image = encode_image_data_url(image_path)
+    response = client.chat.completions.create(
+        model=args.model_name,
+        messages=[
+            {
+                "role": "user",
+                "content": [
+                    {"type": "image_url", "image_url": {"url": image}},
+                    {"type": "text", "text": f"{DOTS_IMAGE_PREFIX}{args.prompt}"},
+                ],
+            }
+        ],
+        temperature=args.temperature,
+        top_p=args.top_p,
+        max_completion_tokens=args.max_completion_tokens,
     )
-
-
-def ocr_image(ocr_model, image_path):
-    result = ocr_model.predict(input=str(image_path))
-    if not result:
-        return ""
-
-    text_parts = []
-    for page in result:
-        if isinstance(page, dict):
-            rec_texts = page.get("rec_texts") or []
-            text_parts.extend(str(text) for text in rec_texts if text)
-        elif hasattr(page, "json"):
-            content = getattr(page, "json")
-            if isinstance(content, dict):
-                rec_texts = content.get("rec_texts") or []
-                text_parts.extend(str(text) for text in rec_texts if text)
-    return "\n".join(text_parts).strip()
+    return response.choices[0].message.content or ""
 
 
 def output_item_for_eval(item, ocr_text, keep_processed_image_name):
@@ -118,7 +112,7 @@ def output_item_for_eval(item, ocr_text, keep_processed_image_name):
     return output_item
 
 
-def process_single_image(item, image_dir, ocr_model, args):
+def process_single_image(item, image_dir, client, args):
     image_name = item["image"]
     image_path = image_dir / image_name
     if not image_path.exists():
@@ -128,11 +122,12 @@ def process_single_image(item, image_dir, ocr_model, args):
     last_error = None
     for attempt in range(args.retries + 1):
         try:
-            ocr_text = ocr_image(ocr_model, image_path)
-            output_item = output_item_for_eval(item, ocr_text, args.keep_processed_image_name)
-            output_item["model_name"] = f"{PADDLE_DETECTION_MODEL}+{PADDLE_RECOGNITION_MODEL}"
-            output_item["model_version"] = PADDLE_OCR_VERSION
-            return output_item
+            ocr_text = chat(image_path, client, args)
+            return output_item_for_eval(
+                item,
+                ocr_text,
+                keep_processed_image_name=args.keep_processed_image_name,
+            )
         except Exception as exc:
             last_error = exc
             if attempt < args.retries:
@@ -170,18 +165,12 @@ def merge_results(data, existing, results, resume):
     return merged
 
 
-def run_mode(args, mode, ocr_model):
+def run_mode(args, mode, client):
     mode_dir = resolve_path(args.data_root) / mode
     data_path = mode_dir / "data.json"
     image_dir = mode_dir / "images"
-    output_path = resolve_path(args.output_dir) / f"{args.output_prefix}_{mode}.json"
-
-    if not data_path.exists():
-        message = f"[paddle_ocr][{mode}] missing data file: {data_path}"
-        if args.skip_missing:
-            print(f"{message}; skipped.")
-            return
-        raise FileNotFoundError(message)
+    output_prefix = args.output_prefix or f"{args.model_label}_from_text"
+    output_path = resolve_path(args.output_dir) / f"{output_prefix}_{mode}.json"
 
     data = load_json(data_path)
     if args.limit is not None:
@@ -190,40 +179,48 @@ def run_mode(args, mode, ocr_model):
     completed, existing = existing_completed_images(output_path) if args.resume else (set(), [])
     todo = [item for item in data if item["image"] not in completed]
 
-    print(f"[paddle_ocr][{mode}] data: {data_path}")
-    print(f"[paddle_ocr][{mode}] images: {image_dir}")
-    print(f"[paddle_ocr][{mode}] output: {output_path}")
-    print(f"[paddle_ocr][{mode}] total={len(data)} completed={len(completed)} todo={len(todo)}")
+    print(f"[dots_ocr][{mode}] model: {args.model_name}")
+    print(f"[dots_ocr][{mode}] base_url: {args.base_url}")
+    print(f"[dots_ocr][{mode}] data: {data_path}")
+    print(f"[dots_ocr][{mode}] images: {image_dir}")
+    print(f"[dots_ocr][{mode}] output: {output_path}")
+    print(f"[dots_ocr][{mode}] total={len(data)} completed={len(completed)} todo={len(todo)}")
 
     if not todo:
-        print(f"[paddle_ocr][{mode}] nothing to do.")
+        print(f"[dots_ocr][{mode}] nothing to do.")
         return
 
     results = []
-    for item in tqdm(todo, desc=f"PP-OCRv6-medium {mode}", unit="image"):
-        result = process_single_image(item, image_dir, ocr_model, args)
-        if result is not None:
-            results.append(result)
+    with ThreadPoolExecutor(max_workers=args.max_workers) as executor:
+        futures = [
+            executor.submit(process_single_image, item, image_dir, client, args)
+            for item in todo
+        ]
+
+        for future in tqdm(as_completed(futures), total=len(futures), desc=f"dots.ocr {mode}", unit="image"):
+            result = future.result()
+            if result is not None:
+                results.append(result)
 
     if not results and not existing:
-        print(f"[paddle_ocr][{mode}] no predictions were produced; output was not written.")
+        print(f"[dots_ocr][{mode}] no predictions were produced; output was not written.")
         return
 
     merged = merge_results(data, existing, results, args.resume)
     save_json(merged, output_path)
-    print(f"[paddle_ocr][{mode}] saved {len(merged)} predictions to {output_path}")
+    print(f"[dots_ocr][{mode}] saved {len(merged)} predictions to {output_path}")
 
 
-def run_dataset(args, dataset, ocr_model):
+def run_dataset(args, dataset, client):
     dataset_args = argparse.Namespace(**vars(args))
     dataset_args.data_root = str(resolve_path(args.data_base) / dataset)
     dataset_args.output_dir = str(resolve_path(args.results_base) / f"{args.model_label}_{dataset}_deepseek_modes")
     dataset_args.output_prefix = f"{args.model_label}_{dataset}"
 
-    print(f"[paddle_ocr][{dataset}] start")
+    print(f"[dots_ocr][{dataset}] start")
     for mode in dataset_args.modes:
-        run_mode(dataset_args, mode, ocr_model)
-    print(f"[paddle_ocr][{dataset}] done")
+        run_mode(dataset_args, mode, client)
+    print(f"[dots_ocr][{dataset}] done")
 
 
 def selected_datasets(args):
@@ -232,25 +229,14 @@ def selected_datasets(args):
     return DATASET_PRESETS[args.dataset_preset]
 
 
-def str_to_bool(value):
-    if isinstance(value, bool):
-        return value
-    lowered = value.lower()
-    if lowered in {"1", "true", "yes", "y", "on"}:
-        return True
-    if lowered in {"0", "false", "no", "n", "off"}:
-        return False
-    raise argparse.ArgumentTypeError(f"invalid boolean value: {value}")
-
-
 def build_parser():
     parser = argparse.ArgumentParser(
-        description="Run PP-OCRv6-medium on DeepSeek-mode preprocessed rendered text images."
+        description="Run dots.ocr vLLM API on DeepSeek-mode preprocessed rendered text images."
     )
     parser.add_argument("--data-root", default=str(DEFAULT_DATA_ROOT))
     parser.add_argument("--data-base", default=str(DEFAULT_DATA_BASE))
     parser.add_argument("--output-dir", default=str(DEFAULT_OUTPUT_DIR))
-    parser.add_argument("--output-prefix", default=DEFAULT_OUTPUT_PREFIX)
+    parser.add_argument("--output-prefix", default=None)
     parser.add_argument("--results-base", default=str(DEFAULT_RESULTS_BASE))
     parser.add_argument("--model-label", default=DEFAULT_MODEL_LABEL)
     parser.add_argument("--dataset-preset", default="single", choices=sorted(DATASET_PRESETS))
@@ -260,20 +246,19 @@ def build_parser():
         default=None,
         help="Dataset directory names under --data-base, e.g. from_text distort random.",
     )
-    parser.add_argument("--modes", nargs="+", default=DEFAULT_MODES, choices=["tiny", "small", "base", "large"])
-    parser.add_argument("--cuda-visible-devices", default=None)
-    parser.add_argument("--device", default="gpu:0")
-    parser.add_argument("--use-doc-orientation-classify", type=str_to_bool, default=False)
-    parser.add_argument("--use-doc-unwarping", type=str_to_bool, default=False)
-    parser.add_argument("--use-textline-orientation", type=str_to_bool, default=False)
-    parser.add_argument("--use-tensorrt", type=str_to_bool, default=False)
-    parser.add_argument("--cpu-threads", type=int, default=64)
-    parser.add_argument("--rec-batch-num", type=int, default=32)
-    parser.add_argument("--retries", type=int, default=1)
+    parser.add_argument("--modes", nargs="+", default=DEFAULT_MODES, choices=DEFAULT_MODES)
+    parser.add_argument("--base-url", default=os.environ.get("OPENAI_BASE_URL", "http://localhost:8000/v1"))
+    parser.add_argument("--api-key", default=os.environ.get("OPENAI_API_KEY", "0"))
+    parser.add_argument("--model-name", default="model")
+    parser.add_argument("--prompt", default=DEFAULT_PROMPT)
+    parser.add_argument("--temperature", type=float, default=0.0)
+    parser.add_argument("--top-p", type=float, default=1.0)
+    parser.add_argument("--max-completion-tokens", type=int, default=16384)
+    parser.add_argument("--max-workers", type=int, default=4)
+    parser.add_argument("--retries", type=int, default=3)
     parser.add_argument("--retry-sleep", type=float, default=2.0)
     parser.add_argument("--limit", type=int, default=None, help="Only run the first N samples per mode for debugging.")
     parser.add_argument("--resume", action="store_true", help="Skip samples that already have ocr_text in output JSON.")
-    parser.add_argument("--skip-missing", action="store_true", help="Skip missing dataset/mode data.json files.")
     parser.add_argument(
         "--keep-processed-image-name",
         action="store_true",
@@ -284,16 +269,14 @@ def build_parser():
 
 def main():
     args = build_parser().parse_args()
-    prepare_runtime_env(args.cuda_visible_devices)
-    ocr_model = load_model(args)
+    client = create_openai_client(api_key=args.api_key, base_url=args.base_url)
     datasets = selected_datasets(args)
-
     if datasets:
         for dataset in datasets:
-            run_dataset(args, dataset, ocr_model)
+            run_dataset(args, dataset, client)
     else:
         for mode in args.modes:
-            run_mode(args, mode, ocr_model)
+            run_mode(args, mode, client)
 
 
 if __name__ == "__main__":
